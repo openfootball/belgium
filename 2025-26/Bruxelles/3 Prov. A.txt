@@ -1,0 +1,333 @@
+= 3 Prov. A
+
+# Date       Sat Sep/06 2025 - Sun Apr/12 2026 (219d)
+# Teams      13
+# Matches    156
+
+
+» 1. Round
+  Sat Sep/06 2025
+    19.00  Anneessens 25 Brussels       v FC.Dawn Anderlecht            3-2
+    20.00  A.S.A. Molenbeek B           v Berchem Brussels FC B         3-3
+
+» 2. Round
+  Sun Sep/07 2025
+    15.00  FC.Amicii Bxl Jette B        v Olympique Club Forestois B    1-3
+    15.00  BX.Brussels B                v Ol. Anderlecht B              4-4
+    15.00  Ren.Sp.Forestoise            v FC.Suryoyés Bruxellois B      4-1
+    15.00  Generation FEFA Anderlecht   v Aca.Jeun.Molenbeek B          3-4
+
+» 3. Round
+  Sat Sep/13 2025
+    19.45  Ol. Anderlecht B             v U.Africa FC.Bruxelles         1-2
+    20.00  Olympique Club Forestois B   v A.S.A. Molenbeek B            5-4
+    20.00  Aca.Jeun.Molenbeek B         v Ren.Sp.Forestoise             4-3
+    20.00  Berchem Brussels FC B        v BX.Brussels B                 2-0
+
+» 4. Round
+  Sun Sep/14 2025
+    15.00  FC.Dawn Anderlecht           v Generation FEFA Anderlecht    4-1
+    15.00  FC.Suryoyés Bruxellois B     v FC.Amicii Bxl Jette B         5-3
+
+» 5. Round
+  Wed Sep/17 2025
+    20.00  FC.Amicii Bxl Jette B        v Aca.Jeun.Molenbeek B          1-3
+
+» 6. Round
+  Fri Sep/19 2025
+    20.00  Anneessens 25 Brussels       v Ol. Anderlecht B              1-5
+
+» 7. Round
+  Sat Sep/20 2025
+    20.00  Olympique Club Forestois B   v FC.Suryoyés Bruxellois B      0-5
+    20.00  A.S.A. Molenbeek B           v BX.Brussels B                 5-3
+
+» 8. Round
+  Sat Sep/27 2025
+    19.45  Ol. Anderlecht B             v Generation FEFA Anderlecht    2-1
+    20.00  Aca.Jeun.Molenbeek B         v Olympique Club Forestois B    2-3
+
+» 9. Round
+  Sun Sep/28 2025
+    15.00  FC.Suryoyés Bruxellois B     v A.S.A. Molenbeek B            5-2
+    15.00  FC.Dawn Anderlecht           v FC.Amicii Bxl Jette B         1-2
+    15.00  BX.Brussels B                v U.Africa FC.Bruxelles         5-3
+    18.00  Berchem Brussels FC B        v Anneessens 25 Brussels        5-1
+
+» 10. Round
+  Sat Oct/04 2025
+    19.00  Anneessens 25 Brussels       v BX.Brussels B                 1-6
+    20.00  Olympique Club Forestois B   v FC.Dawn Anderlecht            3-0
+
+» 11. Round
+  Sun Oct/05 2025
+    15.00  Ren.Sp.Forestoise            v Ol. Anderlecht B              5-1
+    15.00  FC.Suryoyés Bruxellois B     v Aca.Jeun.Molenbeek B          3-1
+    15.00  Generation FEFA Anderlecht   v Berchem Brussels FC B         2-3
+
+» 12. Round
+  Sat Oct/11 2025
+    19.45  Ol. Anderlecht B             v FC.Amicii Bxl Jette B         2-5
+    20.00  Aca.Jeun.Molenbeek B         v A.S.A. Molenbeek B            3-3
+    20.00  Berchem Brussels FC B        v Ren.Sp.Forestoise             3-3
+
+» 13. Round
+  Sun Oct/12 2025
+    15.00  FC.Dawn Anderlecht           v FC.Suryoyés Bruxellois B      4-4
+    15.00  BX.Brussels B                v Generation FEFA Anderlecht    4-3
+    18.00  U.Africa FC.Bruxelles        v Anneessens 25 Brussels        8-1
+
+» 14. Round
+  Wed Oct/15 2025
+    20.00  U.Africa FC.Bruxelles        v Berchem Brussels FC B         2-2
+
+» 15. Round
+  Thu Oct/16 2025
+    20.00  Ren.Sp.Forestoise            v FC.Dawn Anderlecht            4-1
+
+» 16. Round
+  Sat Oct/18 2025
+    20.00  Olympique Club Forestois B   v Ol. Anderlecht B              3-2
+    20.00  Aca.Jeun.Molenbeek B         v FC.Dawn Anderlecht            1-6
+
+» 17. Round
+  Sun Oct/19 2025
+    15.00  FC.Amicii Bxl Jette B        v Berchem Brussels FC B         5-4
+    15.00  Ren.Sp.Forestoise            v BX.Brussels B                 4-0
+    15.00  Generation FEFA Anderlecht   v U.Africa FC.Bruxelles         1-1
+
+» 18. Round
+  Sat Oct/25 2025
+    19.00  Anneessens 25 Brussels       v Generation FEFA Anderlecht    3-9
+    19.45  Ol. Anderlecht B             v FC.Suryoyés Bruxellois B      0-2
+
+» 19. Round
+  Sun Oct/26 2025
+    15.00  FC.Dawn Anderlecht           v A.S.A. Molenbeek B            3-4
+    15.00  BX.Brussels B                v FC.Amicii Bxl Jette B         0-5
+    18.00  Berchem Brussels FC B        v Olympique Club Forestois B    3-2
+    18.00  U.Africa FC.Bruxelles        v Ren.Sp.Forestoise             1-10
+
+» 20. Round
+  Sat Nov/01 2025
+    20.00  A.S.A. Molenbeek B           v Generation FEFA Anderlecht    6-2
+    20.00  Olympique Club Forestois B   v BX.Brussels B                 2-3
+    20.00  Aca.Jeun.Molenbeek B         v Ol. Anderlecht B              1-3
+
+» 21. Round
+  Sun Nov/02 2025
+    15.00  Ren.Sp.Forestoise            v Anneessens 25 Brussels        17-0
+    15.00  FC.Suryoyés Bruxellois B     v Berchem Brussels FC B         3-3
+    15.00  FC.Amicii Bxl Jette B        v U.Africa FC.Bruxelles         3-2
+
+» 22. Round
+  Thu Nov/06 2025
+    20.00  A.S.A. Molenbeek B           v Anneessens 25 Brussels        
+
+» 23. Round
+  Fri Nov/07 2025
+    20.00  Berchem Brussels FC B        v Aca.Jeun.Molenbeek B          1-2
+
+» 24. Round
+  Sat Nov/08 2025
+    19.00  Anneessens 25 Brussels       v FC.Amicii Bxl Jette B         1-5
+    19.45  Ol. Anderlecht B             v FC.Dawn Anderlecht            1-1
+
+» 25. Round
+  Sun Nov/09 2025
+    14.30  BX.Brussels B                v FC.Suryoyés Bruxellois B      2-1
+    15.00  Generation FEFA Anderlecht   v Ren.Sp.Forestoise             1-4
+    18.00  U.Africa FC.Bruxelles        v Olympique Club Forestois B    6-5
+
+» 26. Round
+  Tue Nov/11 2025
+    14.30  A.S.A. Molenbeek B           v U.Africa FC.Bruxelles         5-1
+
+» 27. Round
+  Sat Nov/15 2025
+    20.00  Olympique Club Forestois B   v Anneessens 25 Brussels        5-7
+    20.00  Aca.Jeun.Molenbeek B         v BX.Brussels B                 5-0
+
+» 28. Round
+  Sun Nov/16 2025
+    14.30  FC.Dawn Anderlecht           v Berchem Brussels FC B         2-1
+    15.00  Ren.Sp.Forestoise            v A.S.A. Molenbeek B            5-0
+    15.00  FC.Suryoyés Bruxellois B     v U.Africa FC.Bruxelles         1-2
+    15.00  FC.Amicii Bxl Jette B        v Generation FEFA Anderlecht    4-3
+
+» 29. Round
+  Sat Nov/22 2025
+    18.00  A.S.A. Molenbeek B           v Ol. Anderlecht B              0-5
+    19.00  Anneessens 25 Brussels       v FC.Suryoyés Bruxellois B      2-3
+
+» 30. Round
+  Sun Nov/23 2025
+    14.30  BX.Brussels B                v FC.Dawn Anderlecht            3-3
+    15.00  Ren.Sp.Forestoise            v FC.Amicii Bxl Jette B         3-3
+    15.00  Generation FEFA Anderlecht   v Olympique Club Forestois B    1-3
+    18.00  U.Africa FC.Bruxelles        v Aca.Jeun.Molenbeek B          1-2
+
+» 31. Round
+  Sat Nov/29 2025
+    19.45  Ol. Anderlecht B             v Berchem Brussels FC B         2-2
+    20.00  Olympique Club Forestois B   v Ren.Sp.Forestoise             1-5
+    20.00  Aca.Jeun.Molenbeek B         v Anneessens 25 Brussels        5-0
+
+» 32. Round
+  Sun Nov/30 2025
+    14.30  FC.Dawn Anderlecht           v U.Africa FC.Bruxelles         2-4
+    15.00  FC.Amicii Bxl Jette B        v A.S.A. Molenbeek B            4-5
+    15.00  FC.Suryoyés Bruxellois B     v Generation FEFA Anderlecht    3-3
+
+» 33. Round
+  Sat Dec/06 2025
+    19.45  Ol. Anderlecht B             v A.S.A. Molenbeek B            0-1
+    20.00  Aca.Jeun.Molenbeek B         v U.Africa FC.Bruxelles         4-2
+    20.00  Olympique Club Forestois B   v Generation FEFA Anderlecht    1-3
+
+» 34. Round
+  Sun Dec/07 2025
+    15.00  FC.Suryoyés Bruxellois B     v Anneessens 25 Brussels        4-2
+    15.00  FC.Amicii Bxl Jette B        v Ren.Sp.Forestoise             1-2
+
+» 35. Round
+  Sat Dec/13 2025
+    19.00  Anneessens 25 Brussels       v Aca.Jeun.Molenbeek B          
+    20.00  Berchem Brussels FC B        v Ol. Anderlecht B              
+    20.00  A.S.A. Molenbeek B           v FC.Amicii Bxl Jette B         
+
+» 36. Round
+  Sun Dec/14 2025
+    15.00  Ren.Sp.Forestoise            v Olympique Club Forestois B    
+    15.00  Generation FEFA Anderlecht   v FC.Suryoyés Bruxellois B      
+    18.00  U.Africa FC.Bruxelles        v FC.Dawn Anderlecht            
+
+» 37. Round
+  Sat Dec/20 2025
+    19.45  Ol. Anderlecht B             v BX.Brussels B                 
+    20.00  Berchem Brussels FC B        v A.S.A. Molenbeek B            
+    20.00  Olympique Club Forestois B   v FC.Amicii Bxl Jette B         
+    20.00  Aca.Jeun.Molenbeek B         v Generation FEFA Anderlecht    
+
+» 38. Round
+  Sun Dec/21 2025
+    14.30  FC.Dawn Anderlecht           v Anneessens 25 Brussels        
+    15.00  FC.Suryoyés Bruxellois B     v Ren.Sp.Forestoise             
+
+» 39. Round
+  Sun Jan/11 2026
+    14.30  FC.Dawn Anderlecht           v BX.Brussels B                 
+
+» 40. Round
+  Sat Jan/17 2026
+    20.00  A.S.A. Molenbeek B           v Olympique Club Forestois B    
+
+» 41. Round
+  Sun Jan/18 2026
+    14.30  BX.Brussels B                v Berchem Brussels FC B         
+    15.00  Generation FEFA Anderlecht   v FC.Dawn Anderlecht            
+    15.00  FC.Amicii Bxl Jette B        v FC.Suryoyés Bruxellois B      
+    15.00  Ren.Sp.Forestoise            v Aca.Jeun.Molenbeek B          
+    18.00  U.Africa FC.Bruxelles        v Ol. Anderlecht B              
+
+» 42. Round
+  Sat Jan/24 2026
+    19.45  Ol. Anderlecht B             v Anneessens 25 Brussels        
+    20.00  Aca.Jeun.Molenbeek B         v FC.Amicii Bxl Jette B         
+
+» 43. Round
+  Sun Jan/25 2026
+    14.30  FC.Dawn Anderlecht           v Ren.Sp.Forestoise             
+    14.30  BX.Brussels B                v A.S.A. Molenbeek B            
+    15.00  FC.Suryoyés Bruxellois B     v Olympique Club Forestois B    
+    18.00  Berchem Brussels FC B        v U.Africa FC.Bruxelles         
+
+» 44. Round
+  Sat Jan/31 2026
+    19.00  Anneessens 25 Brussels       v Berchem Brussels FC B         
+    20.00  A.S.A. Molenbeek B           v FC.Suryoyés Bruxellois B      
+    20.00  Olympique Club Forestois B   v Aca.Jeun.Molenbeek B          
+
+» 45. Round
+  Sun Feb/01 2026
+    15.00  Generation FEFA Anderlecht   v Ol. Anderlecht B              
+    15.00  FC.Amicii Bxl Jette B        v FC.Dawn Anderlecht            
+    18.00  U.Africa FC.Bruxelles        v BX.Brussels B                 
+
+» 46. Round
+  Sat Feb/07 2026
+    19.45  Ol. Anderlecht B             v Ren.Sp.Forestoise             
+    20.00  Aca.Jeun.Molenbeek B         v FC.Suryoyés Bruxellois B      
+
+» 47. Round
+  Sun Feb/08 2026
+    15.00  FC.Dawn Anderlecht           v Olympique Club Forestois B    
+    17.00  BX.Brussels B                v Anneessens 25 Brussels        
+    18.00  Berchem Brussels FC B        v Generation FEFA Anderlecht    
+    18.00  U.Africa FC.Bruxelles        v A.S.A. Molenbeek B            
+
+» 48. Round
+  Sat Feb/21 2026
+    19.00  Anneessens 25 Brussels       v U.Africa FC.Bruxelles         
+    20.00  A.S.A. Molenbeek B           v Aca.Jeun.Molenbeek B          
+
+» 49. Round
+  Sun Feb/22 2026
+    15.00  Ren.Sp.Forestoise            v Berchem Brussels FC B         
+    15.00  FC.Suryoyés Bruxellois B     v FC.Dawn Anderlecht            
+    15.00  Generation FEFA Anderlecht   v BX.Brussels B                 
+    15.00  FC.Amicii Bxl Jette B        v Ol. Anderlecht B              
+
+» 50. Round
+  Sat Feb/28 2026
+    19.00  Anneessens 25 Brussels       v A.S.A. Molenbeek B            
+    19.45  Ol. Anderlecht B             v Olympique Club Forestois B    
+
+» 51. Round
+  Sun Mar/01 2026
+    15.00  BX.Brussels B                v Ren.Sp.Forestoise             
+    15.00  FC.Dawn Anderlecht           v Aca.Jeun.Molenbeek B          
+    18.00  U.Africa FC.Bruxelles        v Generation FEFA Anderlecht    
+    18.00  Berchem Brussels FC B        v FC.Amicii Bxl Jette B         
+
+» 52. Round
+  Sat Mar/07 2026
+    20.00  A.S.A. Molenbeek B           v FC.Dawn Anderlecht            
+    20.00  Olympique Club Forestois B   v Berchem Brussels FC B         
+
+» 53. Round
+  Sun Mar/08 2026
+    15.00  FC.Amicii Bxl Jette B        v BX.Brussels B                 
+    15.00  Ren.Sp.Forestoise            v U.Africa FC.Bruxelles         
+    15.00  Generation FEFA Anderlecht   v Anneessens 25 Brussels        
+    15.00  FC.Suryoyés Bruxellois B     v Ol. Anderlecht B              
+
+» 54. Round
+  Sat Mar/21 2026
+    19.00  Anneessens 25 Brussels       v Ren.Sp.Forestoise             
+    19.45  Ol. Anderlecht B             v Aca.Jeun.Molenbeek B          
+
+» 55. Round
+  Sun Mar/22 2026
+    15.00  Generation FEFA Anderlecht   v A.S.A. Molenbeek B            
+    17.00  BX.Brussels B                v Olympique Club Forestois B    
+    18.00  U.Africa FC.Bruxelles        v FC.Amicii Bxl Jette B         
+    18.00  Berchem Brussels FC B        v FC.Suryoyés Bruxellois B      
+
+» 56. Round
+  Sun Mar/29 2026
+    15.00  Olympique Club Forestois B   v U.Africa FC.Bruxelles         
+    15.00  Aca.Jeun.Molenbeek B         v Berchem Brussels FC B         
+    15.00  FC.Dawn Anderlecht           v Ol. Anderlecht B              
+    15.00  FC.Amicii Bxl Jette B        v Anneessens 25 Brussels        
+    15.00  Ren.Sp.Forestoise            v Generation FEFA Anderlecht    
+    15.00  FC.Suryoyés Bruxellois B     v BX.Brussels B                 
+
+» 57. Round
+  Sun Apr/12 2026
+    15.00  A.S.A. Molenbeek B           v Ren.Sp.Forestoise             
+    15.00  Berchem Brussels FC B        v FC.Dawn Anderlecht            
+    15.00  BX.Brussels B                v Aca.Jeun.Molenbeek B          
+    15.00  Anneessens 25 Brussels       v Olympique Club Forestois B    
+    15.00  U.Africa FC.Bruxelles        v FC.Suryoyés Bruxellois B      
+    15.00  Generation FEFA Anderlecht   v FC.Amicii Bxl Jette B         

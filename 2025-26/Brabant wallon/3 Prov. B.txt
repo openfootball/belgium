@@ -1,0 +1,338 @@
+= 3 Prov. B
+
+# Date       Sat Sep/06 2025 - Sun Apr/12 2026 (219d)
+# Teams      14
+# Matches    182
+
+
+» 1. Round
+  Sat Sep/06 2025
+    19.45  Ol. Anderlecht A             v AS.Brussels City B            4-2
+    20.30  RSC.Ixelles B                v FC.Porto Brussels             0-1
+
+» 2. Round
+  Sun Sep/07 2025
+    15.00  R.Léopold FC. B              v FC.M.Uccle B                  1-4
+    15.00  RRC.Etterbeek B              v RRC.Boitsfort B               7-4
+    15.00  Black Star NOH FC            v Racing White Woluwe B         1-7
+    15.00  ROFC.Stockel B               v FC.Anderlecht-Milan           16-2
+    17.30  FC.Polonia Bruxelles         v Olympic Wolves Brussels       2-2
+
+» 3. Round
+  Sat Sep/13 2025
+    19.30  FC.Porto Brussels            v ROFC.Stockel B                7-2
+
+» 4. Round
+  Sun Sep/14 2025
+    15.00  Racing White Woluwe B        v R.Léopold FC. B               3-1
+    15.00  RRC.Boitsfort B              v Ol. Anderlecht A              3-3
+    15.00  FC.Anderlecht-Milan          v Black Star NOH FC             3-0
+    18.00  AS.Brussels City B           v FC.Polonia Bruxelles          0-1
+    18.00  Olympic Wolves Brussels      v RSC.Ixelles B                 6-2
+    18.00  FC.M.Uccle B                 v RRC.Etterbeek B               2-3
+
+» 5. Round
+  Sat Sep/20 2025
+    19.45  Ol. Anderlecht A             v FC.M.Uccle B                  4-1
+    20.30  RSC.Ixelles B                v ROFC.Stockel B                2-2
+
+» 6. Round
+  Sat Sep/27 2025
+    19.30  FC.Porto Brussels            v R.Léopold FC. B               2-0
+    20.00  ROFC.Stockel B               v Black Star NOH FC             7-2
+
+» 7. Round
+  Sun Sep/28 2025
+    15.00  RRC.Boitsfort B              v Olympic Wolves Brussels       10-3
+    15.00  FC.Anderlecht-Milan          v RRC.Etterbeek B               2-8
+    15.00  Racing White Woluwe B        v Ol. Anderlecht A              0-5
+    18.00  AS.Brussels City B           v RSC.Ixelles B                 1-2
+    18.00  FC.M.Uccle B                 v FC.Polonia Bruxelles          3-3
+
+» 8. Round
+  Sat Oct/04 2025
+    19.45  Ol. Anderlecht A             v FC.Anderlecht-Milan           3-0
+    20.30  RSC.Ixelles B                v Black Star NOH FC             2-1
+
+» 9. Round
+  Sun Oct/05 2025
+    15.00  R.Léopold FC. B              v ROFC.Stockel B                3-0
+    15.00  RRC.Etterbeek B              v FC.Porto Brussels             1-0
+    15.00  Olympic Wolves Brussels      v FC.M.Uccle B                  3-5
+    17.30  FC.Polonia Bruxelles         v Racing White Woluwe B         2-3
+    18.00  AS.Brussels City B           v RRC.Boitsfort B               4-2
+
+» 10. Round
+  Sat Oct/11 2025
+    19.30  FC.Porto Brussels            v Ol. Anderlecht A              4-3
+    20.00  ROFC.Stockel B               v RRC.Etterbeek B               0-2
+
+» 11. Round
+  Sun Oct/12 2025
+    15.00  Black Star NOH FC            v R.Léopold FC. B               0-14
+    15.00  Racing White Woluwe B        v Olympic Wolves Brussels       8-0
+    15.00  RRC.Boitsfort B              v RSC.Ixelles B                 1-2
+    15.00  FC.Anderlecht-Milan          v FC.Polonia Bruxelles          2-1
+    18.00  FC.M.Uccle B                 v AS.Brussels City B            4-3
+
+» 12. Round
+  Wed Oct/15 2025
+    20.00  Black Star NOH FC            v FC.Porto Brussels             1-11
+    20.00  FC.Polonia Bruxelles         v RRC.Boitsfort B               2-2
+    20.00  Olympic Wolves Brussels      v AS.Brussels City B            0-5
+    20.00  RRC.Etterbeek B              v Racing White Woluwe B         4-0
+
+» 13. Round
+  Sat Oct/18 2025
+    19.45  Ol. Anderlecht A             v ROFC.Stockel B                0-2
+    20.30  RSC.Ixelles B                v R.Léopold FC. B               1-2
+
+» 14. Round
+  Sun Oct/19 2025
+    15.00  RRC.Boitsfort B              v FC.M.Uccle B                  4-7
+    15.00  Olympic Wolves Brussels      v FC.Anderlecht-Milan           3-2
+    15.00  RRC.Etterbeek B              v Black Star NOH FC             3-2
+    17.30  FC.Polonia Bruxelles         v FC.Porto Brussels             0-3
+
+» 15. Round
+  Sat Oct/25 2025
+    19.30  FC.Porto Brussels            v Olympic Wolves Brussels       
+    20.00  ROFC.Stockel B               v FC.Polonia Bruxelles          2-0
+
+» 16. Round
+  Sun Oct/26 2025
+    15.00  R.Léopold FC. B              v RRC.Etterbeek B               1-5
+    15.00  Black Star NOH FC            v Ol. Anderlecht A              0-2
+    15.00  Racing White Woluwe B        v RRC.Boitsfort B               4-4
+    15.00  FC.Anderlecht-Milan          v AS.Brussels City B            2-4
+    18.00  FC.M.Uccle B                 v RSC.Ixelles B                 0-3
+
+» 17. Round
+  Sat Nov/01 2025
+    19.45  Ol. Anderlecht A             v R.Léopold FC. B               1-1
+    20.30  RSC.Ixelles B                v RRC.Etterbeek B               1-1
+
+» 18. Round
+  Sun Nov/02 2025
+    15.00  RRC.Boitsfort B              v FC.Anderlecht-Milan           4-2
+    15.00  Olympic Wolves Brussels      v ROFC.Stockel B                0-1
+    17.30  FC.Polonia Bruxelles         v Black Star NOH FC             6-0
+    18.00  AS.Brussels City B           v FC.Porto Brussels             0-3
+    18.00  FC.M.Uccle B                 v Racing White Woluwe B         3-2
+
+» 19. Round
+  Sat Nov/08 2025
+    19.30  FC.Porto Brussels            v RRC.Boitsfort B               5-0
+    20.00  ROFC.Stockel B               v AS.Brussels City B            4-2
+
+» 20. Round
+  Sun Nov/09 2025
+    15.00  R.Léopold FC. B              v FC.Polonia Bruxelles          4-2
+    15.00  RRC.Etterbeek B              v Ol. Anderlecht A              3-2
+    15.00  FC.Anderlecht-Milan          v FC.M.Uccle B                  0-1
+    15.00  Racing White Woluwe B        v RSC.Ixelles B                 2-0
+    15.00  Black Star NOH FC            v Olympic Wolves Brussels       0-5
+
+» 21. Round
+  Tue Nov/11 2025
+    20.00  R.Léopold FC. B              v FC.Anderlecht-Milan           1-1
+
+» 22. Round
+  Sat Nov/15 2025
+    19.45  Ol. Anderlecht A             v RSC.Ixelles B                 2-1
+
+» 23. Round
+  Sun Nov/16 2025
+    15.00  Olympic Wolves Brussels      v R.Léopold FC. B               0-7
+    15.00  FC.M.Uccle B                 v FC.Porto Brussels             0-5
+    15.00  Racing White Woluwe B        v FC.Anderlecht-Milan           7-3
+    15.00  RRC.Boitsfort B              v ROFC.Stockel B                1-8
+    17.30  FC.Polonia Bruxelles         v RRC.Etterbeek B               1-8
+    18.00  AS.Brussels City B           v Black Star NOH FC             6-2
+
+» 24. Round
+  Wed Nov/19 2025
+    20.00  AS.Brussels City B           v Racing White Woluwe B         1-5
+
+» 25. Round
+  Sat Nov/22 2025
+    19.30  FC.Porto Brussels            v Racing White Woluwe B         4-0
+    19.45  Ol. Anderlecht A             v FC.Polonia Bruxelles          2-2
+    20.00  ROFC.Stockel B               v FC.M.Uccle B                  5-1
+    20.30  RSC.Ixelles B                v FC.Anderlecht-Milan           3-0
+
+» 26. Round
+  Sun Nov/23 2025
+    15.00  RRC.Etterbeek B              v Olympic Wolves Brussels       5-0
+    15.00  R.Léopold FC. B              v AS.Brussels City B            14-1
+    15.00  Black Star NOH FC            v RRC.Boitsfort B               4-4
+
+» 27. Round
+  Sun Nov/30 2025
+    15.00  Racing White Woluwe B        v ROFC.Stockel B                2-3
+    15.00  FC.Anderlecht-Milan          v FC.Porto Brussels             2-8
+    15.00  RRC.Boitsfort B              v R.Léopold FC. B               6-4
+    17.30  FC.Polonia Bruxelles         v RSC.Ixelles B                 2-3
+    18.00  AS.Brussels City B           v RRC.Etterbeek B               3-6
+    18.00  FC.M.Uccle B                 v Black Star NOH FC             12-0
+    18.00  Olympic Wolves Brussels      v Ol. Anderlecht A              2-4
+
+» 28. Round
+  Sun Dec/07 2025
+    15.00  Racing White Woluwe B        v FC.Porto Brussels             2-2
+    15.00  RRC.Boitsfort B              v Black Star NOH FC             8-2
+    15.00  FC.Anderlecht-Milan          v RSC.Ixelles B                 2-3
+    17.30  FC.Polonia Bruxelles         v Ol. Anderlecht A              0-1
+    18.00  FC.M.Uccle B                 v ROFC.Stockel B                2-2
+    18.00  Olympic Wolves Brussels      v RRC.Etterbeek B               0-4
+    18.00  AS.Brussels City B           v R.Léopold FC. B               1-1
+
+» 29. Round
+  Sat Dec/13 2025
+    19.30  FC.Porto Brussels            v FC.Anderlecht-Milan           
+    19.45  Ol. Anderlecht A             v Olympic Wolves Brussels       
+    20.00  ROFC.Stockel B               v Racing White Woluwe B         
+    20.30  RSC.Ixelles B                v FC.Polonia Bruxelles          
+
+» 30. Round
+  Sun Dec/14 2025
+    15.00  RRC.Etterbeek B              v AS.Brussels City B            
+    15.00  Black Star NOH FC            v FC.M.Uccle B                  
+    15.00  R.Léopold FC. B              v RRC.Boitsfort B               
+
+» 31. Round
+  Sat Dec/20 2025
+    19.30  FC.Porto Brussels            v RSC.Ixelles B                 
+
+» 32. Round
+  Sun Dec/21 2025
+    15.00  RRC.Boitsfort B              v RRC.Etterbeek B               
+    15.00  FC.Anderlecht-Milan          v ROFC.Stockel B                
+    15.00  Racing White Woluwe B        v Black Star NOH FC             
+    18.00  Olympic Wolves Brussels      v FC.Polonia Bruxelles          
+    18.00  AS.Brussels City B           v Ol. Anderlecht A              
+    18.00  FC.M.Uccle B                 v R.Léopold FC. B               
+
+» 33. Round
+  Sat Jan/17 2026
+    19.45  Ol. Anderlecht A             v RRC.Boitsfort B               
+    20.00  ROFC.Stockel B               v FC.Porto Brussels             
+    20.30  RSC.Ixelles B                v Olympic Wolves Brussels       
+
+» 34. Round
+  Sun Jan/18 2026
+    15.00  Black Star NOH FC            v FC.Anderlecht-Milan           
+    15.00  R.Léopold FC. B              v Racing White Woluwe B         
+    15.00  RRC.Etterbeek B              v FC.M.Uccle B                  
+    17.30  FC.Polonia Bruxelles         v AS.Brussels City B            
+
+» 35. Round
+  Sat Jan/24 2026
+    19.30  FC.Porto Brussels            v Black Star NOH FC             
+    20.00  ROFC.Stockel B               v RSC.Ixelles B                 
+
+» 36. Round
+  Sun Jan/25 2026
+    15.00  FC.Anderlecht-Milan          v R.Léopold FC. B               
+    15.00  RRC.Boitsfort B              v FC.Polonia Bruxelles          
+    15.00  Racing White Woluwe B        v RRC.Etterbeek B               
+    18.00  AS.Brussels City B           v Olympic Wolves Brussels       
+    18.00  FC.M.Uccle B                 v Ol. Anderlecht A              
+
+» 37. Round
+  Sat Jan/31 2026
+    19.45  Ol. Anderlecht A             v Racing White Woluwe B         
+    20.30  RSC.Ixelles B                v AS.Brussels City B            
+
+» 38. Round
+  Sun Feb/01 2026
+    15.00  RRC.Etterbeek B              v FC.Anderlecht-Milan           
+    15.00  Olympic Wolves Brussels      v RRC.Boitsfort B               
+    15.00  R.Léopold FC. B              v FC.Porto Brussels             
+    15.00  Black Star NOH FC            v ROFC.Stockel B                
+    17.30  FC.Polonia Bruxelles         v FC.M.Uccle B                  
+
+» 39. Round
+  Sat Feb/07 2026
+    19.30  FC.Porto Brussels            v RRC.Etterbeek B               
+    20.00  ROFC.Stockel B               v R.Léopold FC. B               
+
+» 40. Round
+  Sun Feb/08 2026
+    15.00  Racing White Woluwe B        v FC.Polonia Bruxelles          
+    15.00  Black Star NOH FC            v RSC.Ixelles B                 
+    15.00  FC.Anderlecht-Milan          v Ol. Anderlecht A              
+    15.00  RRC.Boitsfort B              v AS.Brussels City B            
+    18.00  FC.M.Uccle B                 v Olympic Wolves Brussels       
+
+» 41. Round
+  Sat Feb/21 2026
+    19.45  Ol. Anderlecht A             v FC.Porto Brussels             
+    20.30  RSC.Ixelles B                v RRC.Boitsfort B               
+
+» 42. Round
+  Sun Feb/22 2026
+    15.00  RRC.Etterbeek B              v ROFC.Stockel B                
+    15.00  R.Léopold FC. B              v Black Star NOH FC             
+    15.00  Olympic Wolves Brussels      v Racing White Woluwe B         
+    17.30  FC.Polonia Bruxelles         v FC.Anderlecht-Milan           
+    18.00  AS.Brussels City B           v FC.M.Uccle B                  
+
+» 43. Round
+  Sat Feb/28 2026
+    19.30  FC.Porto Brussels            v FC.Polonia Bruxelles          
+    20.00  ROFC.Stockel B               v Ol. Anderlecht A              
+
+» 44. Round
+  Sun Mar/01 2026
+    15.00  Black Star NOH FC            v RRC.Etterbeek B               
+    15.00  FC.Anderlecht-Milan          v Olympic Wolves Brussels       
+    15.00  R.Léopold FC. B              v RSC.Ixelles B                 
+    15.00  Racing White Woluwe B        v AS.Brussels City B            
+    18.00  FC.M.Uccle B                 v RRC.Boitsfort B               
+
+» 45. Round
+  Sat Mar/07 2026
+    19.45  Ol. Anderlecht A             v Black Star NOH FC             
+    20.30  RSC.Ixelles B                v FC.M.Uccle B                  
+
+» 46. Round
+  Sun Mar/08 2026
+    15.00  Olympic Wolves Brussels      v FC.Porto Brussels             
+    15.00  RRC.Etterbeek B              v R.Léopold FC. B               
+    15.00  RRC.Boitsfort B              v Racing White Woluwe B         
+    17.30  FC.Polonia Bruxelles         v ROFC.Stockel B                
+    18.00  AS.Brussels City B           v FC.Anderlecht-Milan           
+
+» 47. Round
+  Sat Mar/21 2026
+    19.30  FC.Porto Brussels            v AS.Brussels City B            
+    20.00  ROFC.Stockel B               v Olympic Wolves Brussels       
+
+» 48. Round
+  Sun Mar/22 2026
+    15.00  FC.Anderlecht-Milan          v RRC.Boitsfort B               
+    15.00  Black Star NOH FC            v FC.Polonia Bruxelles          
+    15.00  RRC.Etterbeek B              v RSC.Ixelles B                 
+    15.00  Racing White Woluwe B        v FC.M.Uccle B                  
+    15.00  R.Léopold FC. B              v Ol. Anderlecht A              
+
+» 49. Round
+  Sun Mar/29 2026
+    15.00  Olympic Wolves Brussels      v Black Star NOH FC             
+    15.00  RSC.Ixelles B                v Racing White Woluwe B         
+    15.00  Ol. Anderlecht A             v RRC.Etterbeek B               
+    15.00  RRC.Boitsfort B              v FC.Porto Brussels             
+    15.00  FC.M.Uccle B                 v FC.Anderlecht-Milan           
+    15.00  FC.Polonia Bruxelles         v R.Léopold FC. B               
+    15.00  AS.Brussels City B           v ROFC.Stockel B                
+
+» 50. Round
+  Sun Apr/12 2026
+    15.00  RRC.Etterbeek B              v FC.Polonia Bruxelles          
+    15.00  R.Léopold FC. B              v Olympic Wolves Brussels       
+    15.00  Black Star NOH FC            v AS.Brussels City B            
+    15.00  FC.Porto Brussels            v FC.M.Uccle B                  
+    15.00  RSC.Ixelles B                v Ol. Anderlecht A              
+    15.00  ROFC.Stockel B               v RRC.Boitsfort B               
+    15.00  FC.Anderlecht-Milan          v Racing White Woluwe B         

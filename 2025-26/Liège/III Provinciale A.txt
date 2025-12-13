@@ -1,0 +1,420 @@
+= III Provinciale A
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  R. Marchin Sport A           v R. Couthuin SP A              5-1
+    20.00  Entente Amay A               v Patro Lensois A               2-1
+
+» 2. Round
+  Sun Aug/24 2025
+    14.00  E.S.FC. du Geer B            v R.All. Clavinoise A           2-1
+    16.00  R. Oreye Union               v Huccorgne SP                  1-3
+    16.00  J. Oleyennes Réunies A       v Entente Sportive Donceel A    2-0
+    16.00  R.F.C. Ouffet Warzée         v FC. Entité Wasseiges          2-1
+    16.00  ET. Faimes B                 v R.U.S. Strée                  2-1
+    16.00  R.E.S. Templiers Nandrin B   v R. Fraiture SP A              3-0
+
+» 3. Round
+  Sat Aug/30 2025
+    19.30  Patro Lensois A              v R. Marchin Sport A            2-1
+    20.00  FC. Entité Wasseiges         v R. Oreye Union                3-1
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  Huccorgne SP                 v R.E.S. Templiers Nandrin B    2-2
+    16.00  R. Couthuin SP A             v R.F.C. Ouffet Warzée          0-2
+    16.00  Entente Sportive Donceel A   v ET. Faimes B                  0-1
+    16.00  R. Fraiture SP A             v J. Oleyennes Réunies A        1-3
+    16.00  R.All. Clavinoise A          v Entente Amay A                1-3
+    16.00  R.U.S. Strée                 v E.S.FC. du Geer B             1-2
+
+» 5. Round
+  Sat Sep/06 2025
+    20.00  Entente Amay A               v R.U.S. Strée                  3-2
+    20.00  R. Marchin Sport A           v R.F.C. Ouffet Warzée          4-2
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  E.S.FC. du Geer B            v Entente Sportive Donceel A    1-2
+    15.00  ET. Faimes B                 v R. Fraiture SP A              2-3
+    15.00  R.E.S. Templiers Nandrin B   v FC. Entité Wasseiges          0-3
+    15.00  R. Oreye Union               v R. Couthuin SP A              1-1
+    15.00  J. Oleyennes Réunies A       v Huccorgne SP                  3-1
+    15.00  Patro Lensois A              v R.All. Clavinoise A           1-2
+
+» 7. Round
+  Sat Sep/13 2025
+    20.00  FC. Entité Wasseiges         v J. Oleyennes Réunies A        2-1
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  R. Fraiture SP A             v E.S.FC. du Geer B             4-1
+    15.00  R.All. Clavinoise A          v R. Marchin Sport A            2-2
+    15.00  R.F.C. Ouffet Warzée         v R. Oreye Union                2-1
+    15.00  R.U.S. Strée                 v Patro Lensois A               2-1
+    15.00  Huccorgne SP                 v ET. Faimes B                  3-2
+    15.00  Entente Sportive Donceel A   v Entente Amay A                3-2
+    15.00  R. Couthuin SP A             v R.E.S. Templiers Nandrin B    1-2
+
+» 9. Round
+  Sat Sep/20 2025
+    20.00  R. Marchin Sport A           v R. Oreye Union                2-2
+    20.00  Entente Amay A               v R. Fraiture SP A              3-2
+
+» 10. Round
+  Sun Sep/21 2025
+    15.00  R.E.S. Templiers Nandrin B   v R.F.C. Ouffet Warzée          0-3
+    15.00  E.S.FC. du Geer B            v Huccorgne SP                  0-4
+    15.00  R.All. Clavinoise A          v R.U.S. Strée                  0-1
+    15.00  ET. Faimes B                 v FC. Entité Wasseiges          1-3
+    15.00  J. Oleyennes Réunies A       v R. Couthuin SP A              4-0
+    15.00  Patro Lensois A              v Entente Sportive Donceel A    2-2
+
+» 11. Round
+  Sat Sep/27 2025
+    20.00  FC. Entité Wasseiges         v E.S.FC. du Geer B             4-1
+
+» 12. Round
+  Sun Sep/28 2025
+    15.00  R. Couthuin SP A             v ET. Faimes B                  3-2
+    15.00  Huccorgne SP                 v Entente Amay A                1-0
+    15.00  R.F.C. Ouffet Warzée         v J. Oleyennes Réunies A        2-3
+    15.00  Entente Sportive Donceel A   v R.All. Clavinoise A           3-2
+    15.00  R. Fraiture SP A             v Patro Lensois A               1-1
+    15.00  R. Oreye Union               v R.E.S. Templiers Nandrin B    1-4
+
+» 13. Round
+  Sat Oct/04 2025
+    20.00  Entente Amay A               v FC. Entité Wasseiges          2-0
+    20.00  R. Marchin Sport A           v R.E.S. Templiers Nandrin B    4-1
+
+» 14. Round
+  Sun Oct/05 2025
+    15.00  Patro Lensois A              v Huccorgne SP                  3-2
+    15.00  R.All. Clavinoise A          v R. Fraiture SP A              0-2
+    15.00  R.U.S. Strée                 v Entente Sportive Donceel A    2-2
+    15.00  J. Oleyennes Réunies A       v R. Oreye Union                7-1
+    15.00  E.S.FC. du Geer B            v R. Couthuin SP A              2-0
+    15.00  ET. Faimes B                 v R.F.C. Ouffet Warzée          2-1
+
+» 15. Round
+  Sat Oct/11 2025
+    20.00  FC. Entité Wasseiges         v Patro Lensois A               4-5
+
+» 16. Round
+  Sun Oct/12 2025
+    15.00  R. Couthuin SP A             v Entente Amay A                0-2
+    15.00  R.F.C. Ouffet Warzée         v E.S.FC. du Geer B             2-1
+    15.00  R.E.S. Templiers Nandrin B   v J. Oleyennes Réunies A        3-4
+    15.00  Entente Sportive Donceel A   v R. Marchin Sport A            1-2
+    15.00  R. Fraiture SP A             v R.U.S. Strée                  2-2
+    15.00  R. Oreye Union               v ET. Faimes B                  0-2
+    15.00  Huccorgne SP                 v R.All. Clavinoise A           1-1
+
+» 17. Round
+  Thu Oct/16 2025
+    20.00  R.U.S. Strée                 v R. Marchin Sport A            1-2
+
+» 18. Round
+  Sat Oct/18 2025
+    20.00  R. Marchin Sport A           v J. Oleyennes Réunies A        1-2
+    20.00  Entente Amay A               v R.F.C. Ouffet Warzée          3-2
+
+» 19. Round
+  Sun Oct/19 2025
+    15.00  Entente Sportive Donceel A   v R. Fraiture SP A              1-3
+    15.00  Patro Lensois A              v R. Couthuin SP A              2-0
+    15.00  R.U.S. Strée                 v Huccorgne SP                  1-6
+    15.00  ET. Faimes B                 v R.E.S. Templiers Nandrin B    3-1
+    15.00  E.S.FC. du Geer B            v R. Oreye Union                1-1
+    15.00  R.All. Clavinoise A          v FC. Entité Wasseiges          0-6
+
+» 20. Round
+  Sun Oct/26 2025
+    14.30  FC. Entité Wasseiges         v R.U.S. Strée                  2-2
+    14.30  R.F.C. Ouffet Warzée         v Patro Lensois A               1-5
+    14.30  R.E.S. Templiers Nandrin B   v E.S.FC. du Geer B             0-1
+    14.30  R. Couthuin SP A             v R.All. Clavinoise A           2-3
+    14.30  J. Oleyennes Réunies A       v ET. Faimes B                  0-0
+    14.30  Huccorgne SP                 v Entente Sportive Donceel A    4-0
+    14.30  R. Fraiture SP A             v R. Marchin Sport A            2-3
+    14.30  R. Oreye Union               v Entente Amay A                0-3
+
+» 21. Round
+  Sat Nov/01 2025
+    20.00  R. Marchin Sport A           v ET. Faimes B                  1-0
+
+» 22. Round
+  Sun Nov/02 2025
+    14.30  R.All. Clavinoise A          v R.F.C. Ouffet Warzée          2-5
+    14.30  R.U.S. Strée                 v R. Couthuin SP A              1-0
+    14.30  Entente Sportive Donceel A   v FC. Entité Wasseiges          1-3
+    14.30  Patro Lensois A              v R. Oreye Union                4-3
+    14.30  R. Fraiture SP A             v Huccorgne SP                  1-2
+    14.30  E.S.FC. du Geer B            v J. Oleyennes Réunies A        1-1
+
+» 23. Round
+  Sat Nov/08 2025
+    20.00  FC. Entité Wasseiges         v R. Fraiture SP A              1-1
+
+» 24. Round
+  Sun Nov/09 2025
+    14.30  R. Oreye Union               v R.All. Clavinoise A           4-2
+    14.30  Huccorgne SP                 v R. Marchin Sport A            2-1
+    14.30  R. Couthuin SP A             v Entente Sportive Donceel A    1-1
+    14.30  R.E.S. Templiers Nandrin B   v Patro Lensois A               3-6
+    14.30  ET. Faimes B                 v E.S.FC. du Geer B             3-0
+    14.30  R.F.C. Ouffet Warzée         v R.U.S. Strée                  2-1
+    14.30  J. Oleyennes Réunies A       v Entente Amay A                
+
+» 25. Round
+  Sat Nov/15 2025
+    20.00  Entente Amay A               v ET. Faimes B                  1-1
+    20.00  R. Marchin Sport A           v E.S.FC. du Geer B             1-3
+
+» 26. Round
+  Sun Nov/16 2025
+    14.30  Patro Lensois A              v J. Oleyennes Réunies A        2-2
+    14.30  Entente Sportive Donceel A   v R.F.C. Ouffet Warzée          2-4
+    14.30  R.U.S. Strée                 v R. Oreye Union                5-4
+    14.30  R.All. Clavinoise A          v R.E.S. Templiers Nandrin B    3-1
+    14.30  R. Fraiture SP A             v R. Couthuin SP A              5-0
+    14.30  Huccorgne SP                 v FC. Entité Wasseiges          3-2
+
+» 27. Round
+  Sun Nov/23 2025
+    14.30  R. Couthuin SP A             v Huccorgne SP                  3-3
+    14.30  J. Oleyennes Réunies A       v R.All. Clavinoise A           3-4
+    14.30  R.E.S. Templiers Nandrin B   v R.U.S. Strée                  3-1
+    14.30  R.F.C. Ouffet Warzée         v R. Fraiture SP A              0-0
+    14.30  E.S.FC. du Geer B            v Entente Amay A                1-0
+    14.30  ET. Faimes B                 v Patro Lensois A               1-4
+    14.30  R. Oreye Union               v Entente Sportive Donceel A    2-0
+
+» 28. Round
+  Sat Nov/29 2025
+    20.00  FC. Entité Wasseiges         v R. Couthuin SP A              2-1
+    20.00  Entente Amay A               v R. Marchin Sport A            1-2
+
+» 29. Round
+  Sun Nov/30 2025
+    14.30  Entente Sportive Donceel A   v R.E.S. Templiers Nandrin B    2-1
+    14.30  R.All. Clavinoise A          v ET. Faimes B                  1-4
+    14.30  Patro Lensois A              v E.S.FC. du Geer B             4-0
+    14.30  Huccorgne SP                 v R.F.C. Ouffet Warzée          1-0
+    14.30  R.U.S. Strée                 v J. Oleyennes Réunies A        3-2
+    14.30  R. Fraiture SP A             v R. Oreye Union                3-2
+
+» 30. Round
+  Thu Dec/04 2025
+    20.00  R. Marchin Sport A           v FC. Entité Wasseiges          2-1
+
+» 31. Round
+  Sat Dec/06 2025
+    20.00  FC. Entité Wasseiges         v R.F.C. Ouffet Warzée          1-1
+    20.00  R.All. Clavinoise A          v E.S.FC. du Geer B             4-0
+
+» 32. Round
+  Sun Dec/07 2025
+    14.30  R.U.S. Strée                 v ET. Faimes B                  2-1
+    14.30  R. Fraiture SP A             v R.E.S. Templiers Nandrin B    4-1
+    14.30  R. Couthuin SP A             v R. Marchin Sport A            0-1
+    14.30  Entente Sportive Donceel A   v J. Oleyennes Réunies A        1-6
+    14.30  Patro Lensois A              v Entente Amay A                4-3
+    14.30  Huccorgne SP                 v R. Oreye Union                2-1
+
+» 33. Round
+  Sat Dec/13 2025
+    20.00  Entente Amay A               v R.All. Clavinoise A           
+    20.00  R. Marchin Sport A           v Patro Lensois A               
+
+» 34. Round
+  Sun Dec/14 2025
+    14.30  R.E.S. Templiers Nandrin B   v Huccorgne SP                  
+    14.30  J. Oleyennes Réunies A       v R. Fraiture SP A              
+    14.30  E.S.FC. du Geer B            v R.U.S. Strée                  
+    14.30  R.F.C. Ouffet Warzée         v R. Couthuin SP A              
+    14.30  R. Oreye Union               v FC. Entité Wasseiges          
+    14.30  ET. Faimes B                 v Entente Sportive Donceel A    
+
+» 35. Round
+  Thu Dec/18 2025
+    20.00  Entente Amay A               v R.E.S. Templiers Nandrin B    2-1
+
+» 36. Round
+  Sat Dec/20 2025
+    20.00  FC. Entité Wasseiges         v R.E.S. Templiers Nandrin B    
+    20.00  R.All. Clavinoise A          v Patro Lensois A               
+
+» 37. Round
+  Sun Dec/21 2025
+    14.30  R. Fraiture SP A             v ET. Faimes B                  
+    14.30  Entente Sportive Donceel A   v E.S.FC. du Geer B             
+    14.30  R. Couthuin SP A             v R. Oreye Union                
+    14.30  Huccorgne SP                 v J. Oleyennes Réunies A        
+    14.30  R.U.S. Strée                 v Entente Amay A                
+    14.30  R.F.C. Ouffet Warzée         v R. Marchin Sport A            
+
+» 38. Round
+  Sat Jan/17 2026
+    20.00  R. Marchin Sport A           v R.All. Clavinoise A           
+    20.00  Entente Amay A               v Entente Sportive Donceel A    
+
+» 39. Round
+  Sun Jan/18 2026
+    14.30  R. Oreye Union               v R.F.C. Ouffet Warzée          
+    14.30  R.E.S. Templiers Nandrin B   v R. Couthuin SP A              
+    14.30  Patro Lensois A              v R.U.S. Strée                  
+    14.30  J. Oleyennes Réunies A       v FC. Entité Wasseiges          
+    14.30  E.S.FC. du Geer B            v R. Fraiture SP A              
+    14.30  ET. Faimes B                 v Huccorgne SP                  
+
+» 40. Round
+  Sun Jan/25 2026
+    14.30  R. Couthuin SP A             v J. Oleyennes Réunies A        
+    14.30  R.F.C. Ouffet Warzée         v R.E.S. Templiers Nandrin B    
+    14.30  R.U.S. Strée                 v R.All. Clavinoise A           
+    14.30  R. Oreye Union               v R. Marchin Sport A            
+    14.30  Entente Sportive Donceel A   v Patro Lensois A               
+    14.30  Huccorgne SP                 v E.S.FC. du Geer B             
+    14.30  R. Fraiture SP A             v Entente Amay A                
+    14.30  FC. Entité Wasseiges         v ET. Faimes B                  
+
+» 41. Round
+  Sat Jan/31 2026
+    20.00  R. Marchin Sport A           v R.U.S. Strée                  
+    20.00  Entente Amay A               v Huccorgne SP                  
+
+» 42. Round
+  Sun Feb/01 2026
+    15.00  ET. Faimes B                 v R. Couthuin SP A              
+    15.00  Patro Lensois A              v R. Fraiture SP A              
+    15.00  J. Oleyennes Réunies A       v R.F.C. Ouffet Warzée          
+    15.00  R.All. Clavinoise A          v Entente Sportive Donceel A    
+    15.00  E.S.FC. du Geer B            v FC. Entité Wasseiges          
+    15.00  R.E.S. Templiers Nandrin B   v R. Oreye Union                
+
+» 43. Round
+  Sat Feb/07 2026
+    20.00  FC. Entité Wasseiges         v Entente Amay A                
+
+» 44. Round
+  Sun Feb/08 2026
+    15.00  R.E.S. Templiers Nandrin B   v R. Marchin Sport A            
+    15.00  R.F.C. Ouffet Warzée         v ET. Faimes B                  
+    15.00  R. Fraiture SP A             v R.All. Clavinoise A           
+    15.00  R. Couthuin SP A             v E.S.FC. du Geer B             
+    15.00  Entente Sportive Donceel A   v R.U.S. Strée                  
+    15.00  Huccorgne SP                 v Patro Lensois A               
+    15.00  R. Oreye Union               v J. Oleyennes Réunies A        
+
+» 45. Round
+  Sat Feb/21 2026
+    20.00  R. Marchin Sport A           v Entente Sportive Donceel A    
+    20.00  Entente Amay A               v R. Couthuin SP A              
+
+» 46. Round
+  Sun Feb/22 2026
+    15.00  R.All. Clavinoise A          v Huccorgne SP                  
+    15.00  J. Oleyennes Réunies A       v R.E.S. Templiers Nandrin B    
+    15.00  R.U.S. Strée                 v R. Fraiture SP A              
+    15.00  E.S.FC. du Geer B            v R.F.C. Ouffet Warzée          
+    15.00  Patro Lensois A              v FC. Entité Wasseiges          
+    15.00  ET. Faimes B                 v R. Oreye Union                
+
+» 47. Round
+  Sat Feb/28 2026
+    20.00  FC. Entité Wasseiges         v R.All. Clavinoise A           
+
+» 48. Round
+  Sun Mar/01 2026
+    15.00  R.F.C. Ouffet Warzée         v Entente Amay A                
+    15.00  R. Couthuin SP A             v Patro Lensois A               
+    15.00  R. Oreye Union               v E.S.FC. du Geer B             
+    15.00  Huccorgne SP                 v R.U.S. Strée                  
+    15.00  R.E.S. Templiers Nandrin B   v ET. Faimes B                  
+    15.00  R. Fraiture SP A             v Entente Sportive Donceel A    
+    15.00  J. Oleyennes Réunies A       v R. Marchin Sport A            
+
+» 49. Round
+  Sat Mar/07 2026
+    20.00  Entente Amay A               v R. Oreye Union                
+    20.00  R. Marchin Sport A           v R. Fraiture SP A              
+
+» 50. Round
+  Sun Mar/08 2026
+    15.00  Entente Sportive Donceel A   v Huccorgne SP                  
+    15.00  Patro Lensois A              v R.F.C. Ouffet Warzée          
+    15.00  R.U.S. Strée                 v FC. Entité Wasseiges          
+    15.00  ET. Faimes B                 v J. Oleyennes Réunies A        
+    15.00  E.S.FC. du Geer B            v R.E.S. Templiers Nandrin B    
+    15.00  R.All. Clavinoise A          v R. Couthuin SP A              
+
+» 51. Round
+  Sat Mar/21 2026
+    20.00  FC. Entité Wasseiges         v Entente Sportive Donceel A    
+
+» 52. Round
+  Sun Mar/22 2026
+    15.00  R.F.C. Ouffet Warzée         v R.All. Clavinoise A           
+    15.00  R. Couthuin SP A             v R.U.S. Strée                  
+    15.00  Huccorgne SP                 v R. Fraiture SP A              
+    15.00  R. Oreye Union               v Patro Lensois A               
+    15.00  J. Oleyennes Réunies A       v E.S.FC. du Geer B             
+    15.00  R.E.S. Templiers Nandrin B   v Entente Amay A                
+    15.00  ET. Faimes B                 v R. Marchin Sport A            
+
+» 53. Round
+  Sat Mar/28 2026
+    20.00  R. Marchin Sport A           v Huccorgne SP                  
+    20.00  Entente Amay A               v J. Oleyennes Réunies A        
+
+» 54. Round
+  Sun Mar/29 2026
+    15.00  R.All. Clavinoise A          v R. Oreye Union                
+    15.00  Patro Lensois A              v R.E.S. Templiers Nandrin B    
+    15.00  Entente Sportive Donceel A   v R. Couthuin SP A              
+    15.00  R.U.S. Strée                 v R.F.C. Ouffet Warzée          
+    15.00  E.S.FC. du Geer B            v ET. Faimes B                  
+    15.00  R. Fraiture SP A             v FC. Entité Wasseiges          
+
+» 55. Round
+  Sat Apr/11 2026
+    20.00  FC. Entité Wasseiges         v Huccorgne SP                  
+
+» 56. Round
+  Sun Apr/12 2026
+    15.00  R.F.C. Ouffet Warzée         v Entente Sportive Donceel A    
+    15.00  J. Oleyennes Réunies A       v Patro Lensois A               
+    15.00  R. Couthuin SP A             v R. Fraiture SP A              
+    15.00  R.E.S. Templiers Nandrin B   v R.All. Clavinoise A           
+    15.00  R. Oreye Union               v R.U.S. Strée                  
+    15.00  E.S.FC. du Geer B            v R. Marchin Sport A            
+    15.00  ET. Faimes B                 v Entente Amay A                
+
+» 57. Round
+  Sun Apr/19 2026
+    15.00  FC. Entité Wasseiges         v R. Marchin Sport A            
+    15.00  Entente Amay A               v E.S.FC. du Geer B             
+    15.00  R.U.S. Strée                 v R.E.S. Templiers Nandrin B    
+    15.00  Huccorgne SP                 v R. Couthuin SP A              
+    15.00  R.All. Clavinoise A          v J. Oleyennes Réunies A        
+    15.00  Patro Lensois A              v ET. Faimes B                  
+    15.00  R. Fraiture SP A             v R.F.C. Ouffet Warzée          
+    15.00  Entente Sportive Donceel A   v R. Oreye Union                
+
+» 58. Round
+  Sun Apr/26 2026
+    15.00  R.F.C. Ouffet Warzée         v Huccorgne SP                  
+    15.00  R. Marchin Sport A           v Entente Amay A                
+    15.00  ET. Faimes B                 v R.All. Clavinoise A           
+    15.00  E.S.FC. du Geer B            v Patro Lensois A               
+    15.00  R. Oreye Union               v R. Fraiture SP A              
+    15.00  R.E.S. Templiers Nandrin B   v Entente Sportive Donceel A    
+    15.00  J. Oleyennes Réunies A       v R.U.S. Strée                  
+    15.00  R. Couthuin SP A             v FC. Entité Wasseiges          

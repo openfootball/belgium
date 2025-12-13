@@ -1,0 +1,348 @@
+= 3 Prov.B
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  F.C. Flénu B                 v E.S. Elouges Dour             9-1
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  R.F.C. Thulin                v U.St-Ghisl. Tertre-Hautr. B   3-2
+    15.00  A.S. Pommeroeul-Ville A      v R.F.C. Chièvres 69            1-1
+    15.00  C.D.F. Espanola A            v R. Exc. Bievene               4-2
+    15.00  F.C. Vacresse A              v R.A.S. Ghlinoise A            1-1
+    15.00  R.U.S. Hensies B             v R.F.C. Wiersien B             0-1
+    15.00  A.S. Vaudignies A            v U.S. Thumaide A               0-3
+    15.00  Peruwelz FC B                v J.S. Isièroise A              2-0
+
+» 3. Round
+  Sun Aug/31 2025
+    14.00  E.S. Elouges Dour            v R.U.S. Hensies B              3-2
+    15.00  R. Exc. Bievene              v A.S. Vaudignies A             1-1
+    15.00  U.S. Thumaide A              v Peruwelz FC B                 1-3
+    15.00  R.F.C. Chièvres 69           v C.D.F. Espanola A             3-5
+    15.00  R.A.S. Ghlinoise A           v R.F.C. Thulin                 1-4
+    15.00  R.F.C. Wiersien B            v A.S. Pommeroeul-Ville A       0-1
+    15.00  J.S. Isièroise A             v F.C. Vacresse A               2-1
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v F.C. Flénu B                  0-2
+
+» 4. Round
+  Sun Sep/07 2025
+    15.00  C.D.F. Espanola A            v R.F.C. Wiersien B             0-5
+    15.00  R.A.S. Ghlinoise A           v J.S. Isièroise A              0-2
+    15.00  Peruwelz FC B                v R. Exc. Bievene               3-2
+    15.00  R.U.S. Hensies B             v U.St-Ghisl. Tertre-Hautr. B   2-7
+    15.00  A.S. Vaudignies A            v R.F.C. Chièvres 69            4-1
+    15.00  A.S. Pommeroeul-Ville A      v E.S. Elouges Dour             2-3
+    15.00  R.F.C. Thulin                v F.C. Flénu B                  
+    15.00  F.C. Vacresse A              v U.S. Thumaide A               2-2
+
+» 5. Round
+  Sun Sep/14 2025
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v A.S. Pommeroeul-Ville A       3-1
+    15.00  R.F.C. Wiersien B            v A.S. Vaudignies A             2-2
+    15.00  R. Exc. Bievene              v F.C. Vacresse A               2-0
+    15.00  F.C. Flénu B                 v R.U.S. Hensies B              2-0
+    15.00  U.S. Thumaide A              v R.A.S. Ghlinoise A            1-1
+    15.00  R.F.C. Chièvres 69           v Peruwelz FC B                 2-2
+    15.00  E.S. Elouges Dour            v C.D.F. Espanola A             3-0
+    15.00  J.S. Isièroise A             v R.F.C. Thulin                 4-3
+
+» 6. Round
+  Sun Sep/21 2025
+    15.00  F.C. Vacresse A              v R.F.C. Chièvres 69            3-2
+    15.00  A.S. Pommeroeul-Ville A      v F.C. Flénu B                  0-4
+    15.00  Peruwelz FC B                v R.F.C. Wiersien B             3-1
+    15.00  R.A.S. Ghlinoise A           v R. Exc. Bievene               4-0
+    15.00  R.F.C. Thulin                v R.U.S. Hensies B              1-1
+    15.00  C.D.F. Espanola A            v U.St-Ghisl. Tertre-Hautr. B   1-2
+    15.00  A.S. Vaudignies A            v E.S. Elouges Dour             7-1
+    15.00  J.S. Isièroise A             v U.S. Thumaide A               3-1
+
+» 7. Round
+  Sun Sep/28 2025
+    15.00  U.S. Thumaide A              v R.F.C. Thulin                 1-2
+    15.00  R. Exc. Bievene              v J.S. Isièroise A              2-4
+    15.00  E.S. Elouges Dour            v Peruwelz FC B                 3-1
+    15.00  R.U.S. Hensies B             v A.S. Pommeroeul-Ville A       3-3
+    15.00  R.F.C. Wiersien B            v F.C. Vacresse A               1-1
+    15.00  F.C. Flénu B                 v C.D.F. Espanola A             12-0
+    15.00  R.F.C. Chièvres 69           v R.A.S. Ghlinoise A            0-0
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v A.S. Vaudignies A             1-1
+
+» 8. Round
+  Sun Oct/05 2025
+    15.00  C.D.F. Espanola A            v R.U.S. Hensies B              0-2
+    15.00  J.S. Isièroise A             v R.F.C. Chièvres 69            7-1
+    15.00  F.C. Vacresse A              v E.S. Elouges Dour             5-0
+    15.00  R.A.S. Ghlinoise A           v R.F.C. Wiersien B             0-0
+    15.00  R.F.C. Thulin                v A.S. Pommeroeul-Ville A       1-0
+    15.00  U.S. Thumaide A              v R. Exc. Bievene               1-0
+    15.00  Peruwelz FC B                v U.St-Ghisl. Tertre-Hautr. B   2-2
+    15.00  A.S. Vaudignies A            v F.C. Flénu B                  0-0
+
+» 9. Round
+  Sun Oct/12 2025
+    15.00  R.F.C. Wiersien B            v J.S. Isièroise A              0-4
+    15.00  A.S. Pommeroeul-Ville A      v C.D.F. Espanola A             3-0
+    15.00  E.S. Elouges Dour            v R.A.S. Ghlinoise A            0-0
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v F.C. Vacresse A               2-2
+    15.00  R.F.C. Chièvres 69           v U.S. Thumaide A               1-4
+    15.00  F.C. Flénu B                 v Peruwelz FC B                 2-1
+    15.00  R. Exc. Bievene              v R.F.C. Thulin                 2-4
+    15.00  R.U.S. Hensies B             v A.S. Vaudignies A             5-3
+
+» 10. Round
+  Sun Oct/19 2025
+    15.00  R. Exc. Bievene              v R.F.C. Chièvres 69            0-3
+    15.00  R.A.S. Ghlinoise A           v U.St-Ghisl. Tertre-Hautr. B   2-3
+    15.00  F.C. Vacresse A              v F.C. Flénu B                  2-1
+    15.00  U.S. Thumaide A              v R.F.C. Wiersien B             1-4
+    15.00  J.S. Isièroise A             v E.S. Elouges Dour             3-0
+    15.00  A.S. Vaudignies A            v A.S. Pommeroeul-Ville A       1-0
+    15.00  R.F.C. Thulin                v C.D.F. Espanola A             2-1
+    15.00  Peruwelz FC B                v R.U.S. Hensies B              2-2
+
+» 11. Round
+  Sat Oct/25 2025
+    20.00  F.C. Flénu B                 v R.A.S. Ghlinoise A            2-3
+
+» 12. Round
+  Sun Oct/26 2025
+    15.00  E.S. Elouges Dour            v U.S. Thumaide A               2-2
+    15.00  R.U.S. Hensies B             v F.C. Vacresse A               0-3
+    15.00  R.F.C. Chièvres 69           v R.F.C. Thulin                 1-0
+    15.00  C.D.F. Espanola A            v A.S. Vaudignies A             1-1
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v J.S. Isièroise A              2-3
+    15.00  R.F.C. Wiersien B            v R. Exc. Bievene               2-2
+    15.00  A.S. Pommeroeul-Ville A      v Peruwelz FC B                 1-2
+
+» 13. Round
+  Sun Nov/02 2025
+    14.30  R.F.C. Chièvres 69           v R.F.C. Wiersien B             3-1
+    14.30  R.A.S. Ghlinoise A           v R.U.S. Hensies B              0-2
+    14.30  U.S. Thumaide A              v U.St-Ghisl. Tertre-Hautr. B   3-2
+    14.30  Peruwelz FC B                v C.D.F. Espanola A             0-0
+    14.30  J.S. Isièroise A             v F.C. Flénu B                  1-3
+    14.30  R. Exc. Bievene              v E.S. Elouges Dour             3-1
+    14.30  R.F.C. Thulin                v A.S. Vaudignies A             2-1
+    15.00  F.C. Vacresse A              v A.S. Pommeroeul-Ville A       2-1
+
+» 14. Round
+  Sun Nov/09 2025
+    14.30  A.S. Pommeroeul-Ville A      v R.A.S. Ghlinoise A            1-1
+    14.30  A.S. Vaudignies A            v Peruwelz FC B                 3-1
+    14.30  R.F.C. Wiersien B            v R.F.C. Thulin                 1-2
+    14.30  E.S. Elouges Dour            v R.F.C. Chièvres 69            2-2
+    14.30  R.U.S. Hensies B             v J.S. Isièroise A              3-4
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v R. Exc. Bievene               3-2
+    15.00  F.C. Flénu B                 v U.S. Thumaide A               2-3
+    15.00  C.D.F. Espanola A            v F.C. Vacresse A               1-0
+
+» 15. Round
+  Sun Nov/16 2025
+    14.30  R. Exc. Bievene              v F.C. Flénu B                  0-3
+    14.30  J.S. Isièroise A             v A.S. Pommeroeul-Ville A       6-0
+    14.30  R.F.C. Thulin                v Peruwelz FC B                 2-4
+    14.30  R.F.C. Chièvres 69           v U.St-Ghisl. Tertre-Hautr. B   1-1
+    14.30  R.A.S. Ghlinoise A           v C.D.F. Espanola A             1-1
+    14.30  R.F.C. Wiersien B            v E.S. Elouges Dour             7-0
+    14.30  U.S. Thumaide A              v R.U.S. Hensies B              4-1
+    15.00  F.C. Vacresse A              v A.S. Vaudignies A             1-0
+
+» 16. Round
+  Sun Nov/23 2025
+    14.30  Peruwelz FC B                v F.C. Vacresse A               1-1
+    14.30  R.F.C. Thulin                v E.S. Elouges Dour             8-1
+    14.30  A.S. Vaudignies A            v R.A.S. Ghlinoise A            4-0
+    14.30  A.S. Pommeroeul-Ville A      v U.S. Thumaide A               2-1
+    14.30  R.U.S. Hensies B             v R. Exc. Bievene               0-4
+    15.00  C.D.F. Espanola A            v J.S. Isièroise A              0-4
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v R.F.C. Wiersien B             2-2
+    15.00  F.C. Flénu B                 v R.F.C. Chièvres 69            3-2
+
+» 17. Round
+  Sun Nov/30 2025
+    14.30  J.S. Isièroise A             v A.S. Vaudignies A             5-1
+    14.30  R. Exc. Bievene              v A.S. Pommeroeul-Ville A       4-1
+    14.30  R.F.C. Chièvres 69           v R.U.S. Hensies B              2-0
+    14.30  R.F.C. Wiersien B            v F.C. Flénu B                  0-1
+    14.30  U.S. Thumaide A              v C.D.F. Espanola A             1-0
+    14.30  R.A.S. Ghlinoise A           v Peruwelz FC B                 3-0
+    14.30  E.S. Elouges Dour            v U.St-Ghisl. Tertre-Hautr. B   2-2
+    16.00  F.C. Vacresse A              v R.F.C. Thulin                 0-0
+
+» 18. Round
+  Sun Dec/07 2025
+    14.30  R.F.C. Chièvres 69           v A.S. Pommeroeul-Ville A       0-3
+    14.30  E.S. Elouges Dour            v F.C. Flénu B                  0-10
+    14.30  J.S. Isièroise A             v Peruwelz FC B                 4-2
+    14.30  R.F.C. Wiersien B            v R.U.S. Hensies B              5-0
+    14.30  R. Exc. Bievene              v C.D.F. Espanola A             2-0
+    14.30  U.S. Thumaide A              v A.S. Vaudignies A             3-0
+    14.30  R.A.S. Ghlinoise A           v F.C. Vacresse A               1-2
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v R.F.C. Thulin                 1-2
+
+» 19. Round
+  Sat Dec/13 2025
+    20.00  F.C. Flénu B                 v U.St-Ghisl. Tertre-Hautr. B   
+
+» 20. Round
+  Sun Dec/14 2025
+    14.30  R.U.S. Hensies B             v E.S. Elouges Dour             
+    14.30  A.S. Pommeroeul-Ville A      v R.F.C. Wiersien B             
+    14.30  A.S. Vaudignies A            v R. Exc. Bievene               
+    14.30  Peruwelz FC B                v U.S. Thumaide A               
+    14.30  R.F.C. Thulin                v R.A.S. Ghlinoise A            
+    15.00  F.C. Vacresse A              v J.S. Isièroise A              
+    15.00  C.D.F. Espanola A            v R.F.C. Chièvres 69            
+
+» 21. Round
+  Sat Dec/20 2025
+    20.00  F.C. Flénu B                 v R.F.C. Thulin                 
+
+» 22. Round
+  Sun Dec/21 2025
+    14.30  R.F.C. Chièvres 69           v A.S. Vaudignies A             
+    14.30  R. Exc. Bievene              v Peruwelz FC B                 
+    14.30  U.S. Thumaide A              v F.C. Vacresse A               
+    14.30  E.S. Elouges Dour            v A.S. Pommeroeul-Ville A       
+    14.30  R.F.C. Wiersien B            v C.D.F. Espanola A             
+    14.30  J.S. Isièroise A             v R.A.S. Ghlinoise A            
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v R.U.S. Hensies B              
+
+» 23. Round
+  Sun Jan/18 2026
+    15.00  Peruwelz FC B                v R.F.C. Chièvres 69            
+    15.00  R.U.S. Hensies B             v F.C. Flénu B                  
+    15.00  A.S. Vaudignies A            v R.F.C. Wiersien B             
+    15.00  R.F.C. Thulin                v J.S. Isièroise A              
+    15.00  F.C. Vacresse A              v R. Exc. Bievene               
+    15.00  C.D.F. Espanola A            v E.S. Elouges Dour             
+    15.00  A.S. Pommeroeul-Ville A      v U.St-Ghisl. Tertre-Hautr. B   
+    15.00  R.A.S. Ghlinoise A           v U.S. Thumaide A               
+
+» 24. Round
+  Sun Jan/25 2026
+    15.00  F.C. Flénu B                 v A.S. Pommeroeul-Ville A       
+    15.00  R.U.S. Hensies B             v R.F.C. Thulin                 
+    15.00  R.F.C. Wiersien B            v Peruwelz FC B                 
+    15.00  R. Exc. Bievene              v R.A.S. Ghlinoise A            
+    15.00  U.S. Thumaide A              v J.S. Isièroise A              
+    15.00  E.S. Elouges Dour            v A.S. Vaudignies A             
+    15.00  R.F.C. Chièvres 69           v F.C. Vacresse A               
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v C.D.F. Espanola A             
+
+» 25. Round
+  Sun Feb/01 2026
+    15.00  C.D.F. Espanola A            v F.C. Flénu B                  
+    15.00  A.S. Vaudignies A            v U.St-Ghisl. Tertre-Hautr. B   
+    15.00  F.C. Vacresse A              v R.F.C. Wiersien B             
+    15.00  J.S. Isièroise A             v R. Exc. Bievene               
+    15.00  Peruwelz FC B                v E.S. Elouges Dour             
+    15.00  A.S. Pommeroeul-Ville A      v R.U.S. Hensies B              
+    15.00  R.A.S. Ghlinoise A           v R.F.C. Chièvres 69            
+    15.00  R.F.C. Thulin                v U.S. Thumaide A               
+
+» 26. Round
+  Sun Feb/08 2026
+    15.00  R.F.C. Wiersien B            v R.A.S. Ghlinoise A            
+    15.00  A.S. Pommeroeul-Ville A      v R.F.C. Thulin                 
+    15.00  E.S. Elouges Dour            v F.C. Vacresse A               
+    15.00  R. Exc. Bievene              v U.S. Thumaide A               
+    15.00  R.F.C. Chièvres 69           v J.S. Isièroise A              
+    15.00  F.C. Flénu B                 v A.S. Vaudignies A             
+    15.00  R.U.S. Hensies B             v C.D.F. Espanola A             
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v Peruwelz FC B                 
+
+» 27. Round
+  Sun Feb/22 2026
+    15.00  R.A.S. Ghlinoise A           v E.S. Elouges Dour             
+    15.00  Peruwelz FC B                v F.C. Flénu B                  
+    15.00  J.S. Isièroise A             v R.F.C. Wiersien B             
+    15.00  A.S. Vaudignies A            v R.U.S. Hensies B              
+    15.00  F.C. Vacresse A              v U.St-Ghisl. Tertre-Hautr. B   
+    15.00  R.F.C. Thulin                v R. Exc. Bievene               
+    15.00  C.D.F. Espanola A            v A.S. Pommeroeul-Ville A       
+    15.00  U.S. Thumaide A              v R.F.C. Chièvres 69            
+
+» 28. Round
+  Sun Mar/01 2026
+    15.00  R.F.C. Chièvres 69           v R. Exc. Bievene               
+    15.00  E.S. Elouges Dour            v J.S. Isièroise A              
+    15.00  C.D.F. Espanola A            v R.F.C. Thulin                 
+    15.00  R.F.C. Wiersien B            v U.S. Thumaide A               
+    15.00  F.C. Flénu B                 v F.C. Vacresse A               
+    15.00  A.S. Pommeroeul-Ville A      v A.S. Vaudignies A             
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v R.A.S. Ghlinoise A            
+    15.00  R.U.S. Hensies B             v Peruwelz FC B                 
+
+» 29. Round
+  Sun Mar/08 2026
+    15.00  R.A.S. Ghlinoise A           v F.C. Flénu B                  
+    15.00  R. Exc. Bievene              v R.F.C. Wiersien B             
+    15.00  R.F.C. Thulin                v R.F.C. Chièvres 69            
+    15.00  U.S. Thumaide A              v E.S. Elouges Dour             
+    15.00  F.C. Vacresse A              v R.U.S. Hensies B              
+    15.00  A.S. Vaudignies A            v C.D.F. Espanola A             
+    15.00  Peruwelz FC B                v A.S. Pommeroeul-Ville A       
+    15.00  J.S. Isièroise A             v U.St-Ghisl. Tertre-Hautr. B   
+
+» 30. Round
+  Sun Mar/22 2026
+    15.00  A.S. Vaudignies A            v R.F.C. Thulin                 
+    15.00  C.D.F. Espanola A            v Peruwelz FC B                 
+    15.00  R.F.C. Wiersien B            v R.F.C. Chièvres 69            
+    15.00  R.U.S. Hensies B             v R.A.S. Ghlinoise A            
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v U.S. Thumaide A               
+    15.00  E.S. Elouges Dour            v R. Exc. Bievene               
+    15.00  A.S. Pommeroeul-Ville A      v F.C. Vacresse A               
+    15.00  F.C. Flénu B                 v J.S. Isièroise A              
+
+» 31. Round
+  Sun Mar/29 2026
+    15.00  R.F.C. Chièvres 69           v E.S. Elouges Dour             
+    15.00  R.A.S. Ghlinoise A           v A.S. Pommeroeul-Ville A       
+    15.00  R. Exc. Bievene              v U.St-Ghisl. Tertre-Hautr. B   
+    15.00  J.S. Isièroise A             v R.U.S. Hensies B              
+    15.00  F.C. Vacresse A              v C.D.F. Espanola A             
+    15.00  U.S. Thumaide A              v F.C. Flénu B                  
+    15.00  R.F.C. Thulin                v R.F.C. Wiersien B             
+    15.00  Peruwelz FC B                v A.S. Vaudignies A             
+
+» 32. Round
+  Sun Apr/12 2026
+    15.00  A.S. Pommeroeul-Ville A      v J.S. Isièroise A              
+    15.00  R.U.S. Hensies B             v U.S. Thumaide A               
+    15.00  A.S. Vaudignies A            v F.C. Vacresse A               
+    15.00  F.C. Flénu B                 v R. Exc. Bievene               
+    15.00  Peruwelz FC B                v R.F.C. Thulin                 
+    15.00  C.D.F. Espanola A            v R.A.S. Ghlinoise A            
+    15.00  E.S. Elouges Dour            v R.F.C. Wiersien B             
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v R.F.C. Chièvres 69            
+
+» 33. Round
+  Sun Apr/19 2026
+    15.00  R.A.S. Ghlinoise A           v A.S. Vaudignies A             
+    15.00  R.F.C. Wiersien B            v U.St-Ghisl. Tertre-Hautr. B   
+    15.00  R. Exc. Bievene              v R.U.S. Hensies B              
+    15.00  F.C. Vacresse A              v Peruwelz FC B                 
+    15.00  U.S. Thumaide A              v A.S. Pommeroeul-Ville A       
+    15.00  R.F.C. Chièvres 69           v F.C. Flénu B                  
+    15.00  J.S. Isièroise A             v C.D.F. Espanola A             
+    15.00  E.S. Elouges Dour            v R.F.C. Thulin                 
+
+» 34. Round
+  Sun Apr/26 2026
+    15.00  Peruwelz FC B                v R.A.S. Ghlinoise A            
+    15.00  U.St-Ghisl. Tertre-Hautr. B  v E.S. Elouges Dour             
+    15.00  R.U.S. Hensies B             v R.F.C. Chièvres 69            
+    15.00  C.D.F. Espanola A            v U.S. Thumaide A               
+    15.00  A.S. Vaudignies A            v J.S. Isièroise A              
+    15.00  A.S. Pommeroeul-Ville A      v R. Exc. Bievene               
+    15.00  F.C. Flénu B                 v R.F.C. Wiersien B             
+    15.00  R.F.C. Thulin                v F.C. Vacresse A               

@@ -1,0 +1,369 @@
+= IV Provinciale D
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  A.S. Houtain B               v UN. Roclenge Wonck B          1-1
+
+» 2. Round
+  Sun Aug/24 2025
+    16.00  R.J. Haccourtoise            v JS. du Thier à Liège B        9-0
+    16.00  MS Herstal Milmort           v R.FC. Barchon                 3-0
+    16.00  R.U.S. Glontoise B           v Royal Sporting Club de Wandr  1-2
+    16.00  R.J. Magnétoise A            v F.C. Herstal B                5-3
+    16.00  FC Jeunesse Houssoise        v JSN Alleur                    5-1
+    16.00  A.S. Hermalle B              v R. Elan Dalhem                1-4
+    16.00  All. Fexhe et Slins Fragnée  v R. Oupeye FC B                3-0
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  JSN Alleur                   v All. Fexhe et Slins Fragnée   2-6
+    16.00  R.FC. Barchon                v R.J. Magnétoise A             5-4
+    16.00  UN. Roclenge Wonck B         v FC Jeunesse Houssoise         1-2
+    16.00  Royal Sporting Club de Wandr v A.S. Hermalle B               2-1
+    16.00  JS. du Thier à Liège B       v R.U.S. Glontoise B            2-2
+    16.00  R. Elan Dalhem               v MS Herstal Milmort            0-2
+    16.00  F.C. Herstal B               v A.S. Houtain B                3-0
+    16.00  R. Oupeye FC B               v R.J. Haccourtoise             1-7
+
+» 4. Round
+  Sun Sep/07 2025
+    15.00  FC Jeunesse Houssoise        v F.C. Herstal B                8-3
+    15.00  All. Fexhe et Slins Fragnée  v UN. Roclenge Wonck B          5-2
+    15.00  A.S. Hermalle B              v JS. du Thier à Liège B        2-4
+    15.00  R.J. Magnétoise A            v A.S. Houtain B                2-9
+    15.00  R.U.S. Glontoise B           v R. Oupeye FC B                1-3
+    15.00  R.FC. Barchon                v R. Elan Dalhem                1-2
+    15.00  R.J. Haccourtoise            v JSN Alleur                    5-0
+    15.00  MS Herstal Milmort           v Royal Sporting Club de Wandr  3-1
+
+» 5. Round
+  Sat Sep/13 2025
+    20.00  A.S. Houtain B               v FC Jeunesse Houssoise         2-5
+
+» 6. Round
+  Sun Sep/14 2025
+    15.00  JSN Alleur                   v R.U.S. Glontoise B            2-5
+    15.00  R. Elan Dalhem               v R.J. Magnétoise A             4-3
+    15.00  JS. du Thier à Liège B       v MS Herstal Milmort            1-6
+    15.00  UN. Roclenge Wonck B         v R.J. Haccourtoise             0-4
+    15.00  R. Oupeye FC B               v A.S. Hermalle B               3-1
+    15.00  Royal Sporting Club de Wandr v R.FC. Barchon                 0-2
+    15.00  F.C. Herstal B               v All. Fexhe et Slins Fragnée   2-2
+
+» 7. Round
+  Sun Sep/21 2025
+    15.00  R. Elan Dalhem               v Royal Sporting Club de Wandr  5-1
+    15.00  R.J. Magnétoise A            v FC Jeunesse Houssoise         1-7
+    15.00  A.S. Hermalle B              v JSN Alleur                    2-5
+    15.00  R.FC. Barchon                v JS. du Thier à Liège B        5-1
+    15.00  MS Herstal Milmort           v R. Oupeye FC B                4-0
+    15.00  All. Fexhe et Slins Fragnée  v A.S. Houtain B                2-0
+    15.00  R.U.S. Glontoise B           v UN. Roclenge Wonck B          4-0
+    15.00  R.J. Haccourtoise            v F.C. Herstal B                3-0
+
+» 8. Round
+  Sat Sep/27 2025
+    20.00  A.S. Houtain B               v R.J. Haccourtoise             0-6
+
+» 9. Round
+  Sun Sep/28 2025
+    15.00  FC Jeunesse Houssoise        v All. Fexhe et Slins Fragnée   2-0
+    15.00  F.C. Herstal B               v R.U.S. Glontoise B            9-0
+    15.00  JSN Alleur                   v MS Herstal Milmort            5-0
+    15.00  Royal Sporting Club de Wandr v R.J. Magnétoise A             1-0
+    15.00  R. Oupeye FC B               v R.FC. Barchon                 0-3
+    15.00  UN. Roclenge Wonck B         v A.S. Hermalle B               4-0
+    15.00  JS. du Thier à Liège B       v R. Elan Dalhem                1-3
+
+» 10. Round
+  Sat Oct/04 2025
+    20.00  R.U.S. Glontoise B           v A.S. Houtain B                2-5
+
+» 11. Round
+  Sun Oct/05 2025
+    13.30  R.J. Haccourtoise            v FC Jeunesse Houssoise         4-2
+    15.00  MS Herstal Milmort           v UN. Roclenge Wonck B          3-1
+    15.00  R.FC. Barchon                v JSN Alleur                    6-1
+    15.00  R.J. Magnétoise A            v All. Fexhe et Slins Fragnée   2-2
+    15.00  A.S. Hermalle B              v F.C. Herstal B                1-11
+    15.00  R. Elan Dalhem               v R. Oupeye FC B                0-3
+    15.00  Royal Sporting Club de Wandr v JS. du Thier à Liège B        3-1
+
+» 12. Round
+  Sun Oct/12 2025
+    15.00  JSN Alleur                   v R. Elan Dalhem                2-3
+    15.00  UN. Roclenge Wonck B         v R.FC. Barchon                 2-1
+    15.00  F.C. Herstal B               v MS Herstal Milmort            1-2
+    15.00  JS. du Thier à Liège B       v R.J. Magnétoise A             1-2
+    15.00  A.S. Houtain B               v A.S. Hermalle B               8-0
+    15.00  All. Fexhe et Slins Fragnée  v R.J. Haccourtoise             4-1
+    15.00  R. Oupeye FC B               v Royal Sporting Club de Wandr  1-3
+    15.00  FC Jeunesse Houssoise        v R.U.S. Glontoise B            5-3
+
+» 13. Round
+  Sun Oct/19 2025
+    15.00  MS Herstal Milmort           v A.S. Houtain B                2-2
+    15.00  R.J. Magnétoise A            v R.J. Haccourtoise             2-3
+    15.00  R.U.S. Glontoise B           v All. Fexhe et Slins Fragnée   2-2
+    15.00  JS. du Thier à Liège B       v R. Oupeye FC B                0-5
+    15.00  R. Elan Dalhem               v UN. Roclenge Wonck B          4-1
+    15.00  A.S. Hermalle B              v FC Jeunesse Houssoise         0-7
+    15.00  R.FC. Barchon                v F.C. Herstal B                4-0
+    15.00  Royal Sporting Club de Wandr v JSN Alleur                    4-2
+
+» 14. Round
+  Sun Oct/26 2025
+    14.30  JSN Alleur                   v JS. du Thier à Liège B        
+    14.30  A.S. Houtain B               v R.FC. Barchon                 0-1
+    14.30  All. Fexhe et Slins Fragnée  v A.S. Hermalle B               7-0
+    14.30  R. Oupeye FC B               v R.J. Magnétoise A             2-4
+    14.30  FC Jeunesse Houssoise        v MS Herstal Milmort            6-3
+    14.30  F.C. Herstal B               v R. Elan Dalhem                2-1
+    14.30  R.J. Haccourtoise            v R.U.S. Glontoise B            7-1
+    14.30  UN. Roclenge Wonck B         v Royal Sporting Club de Wandr  0-5
+
+» 15. Round
+  Sun Nov/02 2025
+    14.30  A.S. Hermalle B              v R.J. Haccourtoise             0-8
+    14.30  R.FC. Barchon                v FC Jeunesse Houssoise         1-3
+    14.30  R. Oupeye FC B               v JSN Alleur                    3-0
+    14.30  MS Herstal Milmort           v All. Fexhe et Slins Fragnée   2-3
+    14.30  JS. du Thier à Liège B       v UN. Roclenge Wonck B          2-4
+    14.30  R. Elan Dalhem               v A.S. Houtain B                3-2
+    14.30  Royal Sporting Club de Wandr v F.C. Herstal B                2-6
+    14.30  R.J. Magnétoise A            v R.U.S. Glontoise B            5-0
+
+» 16. Round
+  Sun Nov/09 2025
+    13.30  R.J. Haccourtoise            v MS Herstal Milmort            3-1
+    14.30  UN. Roclenge Wonck B         v R. Oupeye FC B                1-1
+    14.30  All. Fexhe et Slins Fragnée  v R.FC. Barchon                 2-1
+    14.30  A.S. Houtain B               v Royal Sporting Club de Wandr  2-2
+    14.30  F.C. Herstal B               v JS. du Thier à Liège B        6-0
+    14.30  JSN Alleur                   v R.J. Magnétoise A             3-1
+    14.30  FC Jeunesse Houssoise        v R. Elan Dalhem                1-4
+    14.30  R.U.S. Glontoise B           v A.S. Hermalle B               11-1
+
+» 17. Round
+  Sun Nov/16 2025
+    14.30  MS Herstal Milmort           v R.U.S. Glontoise B            6-0
+    14.30  R.FC. Barchon                v R.J. Haccourtoise             1-2
+    14.30  R.J. Magnétoise A            v A.S. Hermalle B               5-0
+    14.30  R. Oupeye FC B               v F.C. Herstal B                
+    14.30  JS. du Thier à Liège B       v A.S. Houtain B                1-1
+    14.30  R. Elan Dalhem               v All. Fexhe et Slins Fragnée   3-1
+    14.30  Royal Sporting Club de Wandr v FC Jeunesse Houssoise         1-5
+    14.30  JSN Alleur                   v UN. Roclenge Wonck B          2-3
+
+» 18. Round
+  Sat Nov/22 2025
+    20.00  A.S. Houtain B               v R. Oupeye FC B                5-0
+
+» 19. Round
+  Sun Nov/23 2025
+    14.30  F.C. Herstal B               v JSN Alleur                    9-0
+    14.30  R.J. Haccourtoise            v R. Elan Dalhem                2-1
+    14.30  FC Jeunesse Houssoise        v JS. du Thier à Liège B        3-0
+    14.30  A.S. Hermalle B              v MS Herstal Milmort            2-6
+    14.30  All. Fexhe et Slins Fragnée  v Royal Sporting Club de Wandr  6-0
+    14.30  R.U.S. Glontoise B           v R.FC. Barchon                 1-5
+
+» 20. Round
+  Sun Nov/30 2025
+    14.30  JSN Alleur                   v A.S. Houtain B                0-6
+    14.30  Royal Sporting Club de Wandr v R.J. Haccourtoise             1-2
+    14.30  JS. du Thier à Liège B       v All. Fexhe et Slins Fragnée   2-5
+    14.30  R. Elan Dalhem               v R.U.S. Glontoise B            5-0
+    14.30  UN. Roclenge Wonck B         v F.C. Herstal B                3-4
+    14.30  R. Oupeye FC B               v FC Jeunesse Houssoise         1-3
+    14.30  R.FC. Barchon                v A.S. Hermalle B               5-0
+    14.30  MS Herstal Milmort           v R.J. Magnétoise A             3-0
+
+» 21. Round
+  Wed Dec/03 2025
+    20.00  R.J. Magnétoise A            v UN. Roclenge Wonck B          4-3
+
+» 22. Round
+  Sun Dec/07 2025
+    14.30  JSN Alleur                   v FC Jeunesse Houssoise         0-5
+    14.30  R.FC. Barchon                v MS Herstal Milmort            3-0
+    14.30  UN. Roclenge Wonck B         v A.S. Houtain B                3-1
+    14.30  Royal Sporting Club de Wandr v R.U.S. Glontoise B            5-0
+    14.30  R. Elan Dalhem               v A.S. Hermalle B               5-1
+    14.30  F.C. Herstal B               v R.J. Magnétoise A             6-2
+    14.30  JS. du Thier à Liège B       v R.J. Haccourtoise             2-11
+    14.30  R. Oupeye FC B               v All. Fexhe et Slins Fragnée   0-11
+
+» 23. Round
+  Sat Dec/13 2025
+    20.00  A.S. Houtain B               v F.C. Herstal B                
+
+» 24. Round
+  Sun Dec/14 2025
+    14.30  A.S. Hermalle B              v Royal Sporting Club de Wandr  
+    14.30  R.J. Haccourtoise            v R. Oupeye FC B                
+    14.30  R.U.S. Glontoise B           v JS. du Thier à Liège B        0-5
+    14.30  MS Herstal Milmort           v R. Elan Dalhem                
+    14.30  FC Jeunesse Houssoise        v UN. Roclenge Wonck B          
+    14.30  R.J. Magnétoise A            v R.FC. Barchon                 
+    14.30  All. Fexhe et Slins Fragnée  v JSN Alleur                    
+
+» 25. Round
+  Sat Dec/20 2025
+    20.00  A.S. Houtain B               v R.J. Magnétoise A             
+
+» 26. Round
+  Sun Dec/21 2025
+    14.30  Royal Sporting Club de Wandr v MS Herstal Milmort            
+    14.30  R. Elan Dalhem               v R.FC. Barchon                 
+    14.30  JS. du Thier à Liège B       v A.S. Hermalle B               
+    14.30  JSN Alleur                   v R.J. Haccourtoise             
+    14.30  UN. Roclenge Wonck B         v All. Fexhe et Slins Fragnée   
+    14.30  R. Oupeye FC B               v R.U.S. Glontoise B            
+    14.30  F.C. Herstal B               v FC Jeunesse Houssoise         
+
+» 27. Round
+  Sun Jan/18 2026
+    14.30  A.S. Hermalle B              v R. Oupeye FC B                
+    14.30  R.U.S. Glontoise B           v JSN Alleur                    
+    14.30  All. Fexhe et Slins Fragnée  v F.C. Herstal B                
+    14.30  R.J. Magnétoise A            v R. Elan Dalhem                
+    14.30  R.FC. Barchon                v Royal Sporting Club de Wandr  
+    14.30  MS Herstal Milmort           v JS. du Thier à Liège B        
+    14.30  FC Jeunesse Houssoise        v A.S. Houtain B                
+    14.30  R.J. Haccourtoise            v UN. Roclenge Wonck B          
+
+» 28. Round
+  Sun Jan/25 2026
+    14.30  F.C. Herstal B               v R.J. Haccourtoise             
+    14.30  R. Oupeye FC B               v MS Herstal Milmort            
+    14.30  UN. Roclenge Wonck B         v R.U.S. Glontoise B            
+    14.30  FC Jeunesse Houssoise        v R.J. Magnétoise A             
+    14.30  A.S. Houtain B               v All. Fexhe et Slins Fragnée   
+    14.30  JS. du Thier à Liège B       v R.FC. Barchon                 
+    14.30  Royal Sporting Club de Wandr v R. Elan Dalhem                
+    14.30  JSN Alleur                   v A.S. Hermalle B               
+
+» 29. Round
+  Sun Feb/01 2026
+    15.00  R.J. Magnétoise A            v Royal Sporting Club de Wandr  
+    15.00  A.S. Hermalle B              v UN. Roclenge Wonck B          
+    15.00  R.U.S. Glontoise B           v F.C. Herstal B                
+    15.00  R.FC. Barchon                v R. Oupeye FC B                
+    15.00  All. Fexhe et Slins Fragnée  v FC Jeunesse Houssoise         
+    15.00  R.J. Haccourtoise            v A.S. Houtain B                
+    15.00  R. Elan Dalhem               v JS. du Thier à Liège B        
+    15.00  MS Herstal Milmort           v JSN Alleur                    
+
+» 30. Round
+  Sun Feb/08 2026
+    12.30  A.S. Houtain B               v R.U.S. Glontoise B            
+    15.00  FC Jeunesse Houssoise        v R.J. Haccourtoise             
+    15.00  UN. Roclenge Wonck B         v MS Herstal Milmort            
+    15.00  F.C. Herstal B               v A.S. Hermalle B               
+    15.00  JS. du Thier à Liège B       v Royal Sporting Club de Wandr  
+    15.00  R. Oupeye FC B               v R. Elan Dalhem                
+    15.00  JSN Alleur                   v R.FC. Barchon                 
+    15.00  All. Fexhe et Slins Fragnée  v R.J. Magnétoise A             
+
+» 31. Round
+  Sun Feb/22 2026
+    15.00  R.J. Haccourtoise            v All. Fexhe et Slins Fragnée   
+    15.00  Royal Sporting Club de Wandr v R. Oupeye FC B                
+    15.00  A.S. Hermalle B              v A.S. Houtain B                
+    15.00  MS Herstal Milmort           v F.C. Herstal B                
+    15.00  R.J. Magnétoise A            v JS. du Thier à Liège B        
+    15.00  R. Elan Dalhem               v JSN Alleur                    
+    15.00  R.FC. Barchon                v UN. Roclenge Wonck B          
+    15.00  R.U.S. Glontoise B           v FC Jeunesse Houssoise         
+
+» 32. Round
+  Sat Feb/28 2026
+    20.00  A.S. Houtain B               v MS Herstal Milmort            
+
+» 33. Round
+  Sun Mar/01 2026
+    15.00  FC Jeunesse Houssoise        v A.S. Hermalle B               
+    15.00  R.J. Haccourtoise            v R.J. Magnétoise A             
+    15.00  F.C. Herstal B               v R.FC. Barchon                 
+    15.00  R. Oupeye FC B               v JS. du Thier à Liège B        
+    15.00  JSN Alleur                   v Royal Sporting Club de Wandr  
+    15.00  UN. Roclenge Wonck B         v R. Elan Dalhem                
+    15.00  All. Fexhe et Slins Fragnée  v R.U.S. Glontoise B            
+
+» 34. Round
+  Sun Mar/08 2026
+    15.00  Royal Sporting Club de Wandr v UN. Roclenge Wonck B          
+    15.00  R.J. Magnétoise A            v R. Oupeye FC B                
+    15.00  R.U.S. Glontoise B           v R.J. Haccourtoise             
+    15.00  MS Herstal Milmort           v FC Jeunesse Houssoise         
+    15.00  A.S. Hermalle B              v All. Fexhe et Slins Fragnée   
+    15.00  R. Elan Dalhem               v F.C. Herstal B                
+    15.00  R.FC. Barchon                v A.S. Houtain B                
+    15.00  JS. du Thier à Liège B       v JSN Alleur                    
+
+» 35. Round
+  Sat Mar/21 2026
+    20.00  A.S. Houtain B               v R. Elan Dalhem                
+
+» 36. Round
+  Sun Mar/22 2026
+    15.00  UN. Roclenge Wonck B         v JS. du Thier à Liège B        
+    15.00  FC Jeunesse Houssoise        v R.FC. Barchon                 
+    15.00  JSN Alleur                   v R. Oupeye FC B                
+    15.00  R.J. Haccourtoise            v A.S. Hermalle B               
+    15.00  F.C. Herstal B               v Royal Sporting Club de Wandr  
+    15.00  All. Fexhe et Slins Fragnée  v MS Herstal Milmort            
+    15.00  R.U.S. Glontoise B           v R.J. Magnétoise A             
+
+» 37. Round
+  Sun Mar/29 2026
+    15.00  A.S. Hermalle B              v R.U.S. Glontoise B            
+    15.00  R.FC. Barchon                v All. Fexhe et Slins Fragnée   
+    15.00  JS. du Thier à Liège B       v F.C. Herstal B                
+    15.00  R.J. Magnétoise A            v JSN Alleur                    
+    15.00  R. Oupeye FC B               v UN. Roclenge Wonck B          
+    15.00  R. Elan Dalhem               v FC Jeunesse Houssoise         
+    15.00  MS Herstal Milmort           v R.J. Haccourtoise             
+    15.00  Royal Sporting Club de Wandr v A.S. Houtain B                
+
+» 38. Round
+  Sat Apr/11 2026
+    20.00  A.S. Houtain B               v JS. du Thier à Liège B        
+
+» 39. Round
+  Sun Apr/12 2026
+    15.00  F.C. Herstal B               v R. Oupeye FC B                
+    15.00  All. Fexhe et Slins Fragnée  v R. Elan Dalhem                
+    15.00  A.S. Hermalle B              v R.J. Magnétoise A             
+    15.00  UN. Roclenge Wonck B         v JSN Alleur                    
+    15.00  FC Jeunesse Houssoise        v Royal Sporting Club de Wandr  
+    15.00  R.J. Haccourtoise            v R.FC. Barchon                 
+    15.00  R.U.S. Glontoise B           v MS Herstal Milmort            
+
+» 40. Round
+  Sun Apr/19 2026
+    15.00  MS Herstal Milmort           v A.S. Hermalle B               
+    15.00  R. Elan Dalhem               v R.J. Haccourtoise             
+    15.00  UN. Roclenge Wonck B         v R.J. Magnétoise A             
+    15.00  JS. du Thier à Liège B       v FC Jeunesse Houssoise         
+    15.00  Royal Sporting Club de Wandr v All. Fexhe et Slins Fragnée   
+    15.00  JSN Alleur                   v F.C. Herstal B                
+    15.00  R. Oupeye FC B               v A.S. Houtain B                
+    15.00  R.FC. Barchon                v R.U.S. Glontoise B            
+
+» 41. Round
+  Sun Apr/26 2026
+    15.00  R.J. Magnétoise A            v MS Herstal Milmort            
+    15.00  F.C. Herstal B               v UN. Roclenge Wonck B          
+    15.00  R.U.S. Glontoise B           v R. Elan Dalhem                
+    15.00  FC Jeunesse Houssoise        v R. Oupeye FC B                
+    15.00  A.S. Houtain B               v JSN Alleur                    
+    15.00  All. Fexhe et Slins Fragnée  v JS. du Thier à Liège B        
+    15.00  R.J. Haccourtoise            v Royal Sporting Club de Wandr  
+    15.00  A.S. Hermalle B              v R.FC. Barchon                 

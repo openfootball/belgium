@@ -1,0 +1,309 @@
+= 4 Prov.H
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      13
+# Matches    156
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  E.S. Mominoise B             v Jeunesse Sportive Erpion A    0-1
+    20.00  R.R.C. de Rance              v ASS.SP. Chimay-Virelles       0-8
+    20.00  J.S. Froidchapelloise B      v U.S Solrezienne B             2-3
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  R.F.C. La Buissière B        v Sivry Sports                  1-0
+    15.00  Renaissance US Grand-Reng B  v F.C. Boussu-Lez-Walcourt      5-2
+    15.00  U.S. Merbesars B             v C.S. Forges B                 3-1
+
+» 3. Round
+  Sat Aug/30 2025
+    18.30  Sivry Sports                 v E.S. Mominoise B              2-3
+    20.00  Jeunesse Sportive Erpion A   v J.S. Froidchapelloise B       4-1
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  ASS.SP. Chimay-Virelles      v Renaissance US Grand-Reng B   1-3
+    15.00  F.C. Boussu-Lez-Walcourt     v U.S. Merbesars B              1-3
+    15.00  F.C. Marbaisien              v R.F.C. La Buissière B         2-6
+    15.00  U.S Solrezienne B            v R.R.C. de Rance               2-0
+
+» 5. Round
+  Sat Sep/06 2025
+    20.00  E.S. Mominoise B             v J.S. Froidchapelloise B       12-2
+    20.00  R.R.C. de Rance              v Jeunesse Sportive Erpion A    0-5
+    20.00  Sivry Sports                 v F.C. Marbaisien               2-1
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  U.S. Merbesars B             v ASS.SP. Chimay-Virelles       5-2
+    15.00  Renaissance US Grand-Reng B  v U.S Solrezienne B             1-1
+    15.00  R.F.C. La Buissière B        v C.S. Forges B                 6-1
+
+» 7. Round
+  Fri Sep/12 2025
+    20.00  J.S. Froidchapelloise B      v R.R.C. de Rance               2-2
+
+» 8. Round
+  Sat Sep/13 2025
+    20.00  Jeunesse Sportive Erpion A   v Renaissance US Grand-Reng B   2-0
+
+» 9. Round
+  Sun Sep/14 2025
+    15.00  U.S Solrezienne B            v U.S. Merbesars B              1-1
+    15.00  C.S. Forges B                v Sivry Sports                  3-2
+    15.00  F.C. Boussu-Lez-Walcourt     v R.F.C. La Buissière B         3-1
+    15.00  F.C. Marbaisien              v E.S. Mominoise B              0-6
+
+» 10. Round
+  Sat Sep/20 2025
+    20.00  E.S. Mominoise B             v R.R.C. de Rance               10-0
+    20.00  Sivry Sports                 v F.C. Boussu-Lez-Walcourt      2-4
+
+» 11. Round
+  Sun Sep/21 2025
+    15.00  Renaissance US Grand-Reng B  v J.S. Froidchapelloise B       6-0
+    15.00  R.F.C. La Buissière B        v ASS.SP. Chimay-Virelles       1-0
+    15.00  U.S. Merbesars B             v Jeunesse Sportive Erpion A    2-2
+    15.00  F.C. Marbaisien              v C.S. Forges B                 1-2
+
+» 12. Round
+  Sat Sep/27 2025
+    20.00  R.R.C. de Rance              v Renaissance US Grand-Reng B   1-8
+    20.00  J.S. Froidchapelloise B      v U.S. Merbesars B              3-6
+
+» 13. Round
+  Sun Sep/28 2025
+    15.00  U.S Solrezienne B            v R.F.C. La Buissière B         3-1
+    15.00  ASS.SP. Chimay-Virelles      v Sivry Sports                  1-2
+    15.00  C.S. Forges B                v E.S. Mominoise B              1-10
+    15.00  F.C. Boussu-Lez-Walcourt     v F.C. Marbaisien               5-0
+
+» 14. Round
+  Sat Oct/04 2025
+    20.00  E.S. Mominoise B             v Renaissance US Grand-Reng B   2-3
+    20.00  Sivry Sports                 v U.S Solrezienne B             3-0
+
+» 15. Round
+  Sun Oct/05 2025
+    15.00  U.S. Merbesars B             v R.R.C. de Rance               5-0
+    15.00  F.C. Marbaisien              v ASS.SP. Chimay-Virelles       0-2
+    15.00  R.F.C. La Buissière B        v Jeunesse Sportive Erpion A    1-2
+    15.00  C.S. Forges B                v F.C. Boussu-Lez-Walcourt      2-4
+
+» 16. Round
+  Sun Oct/12 2025
+    15.00  U.S Solrezienne B            v F.C. Marbaisien               0-1
+    15.00  J.S. Froidchapelloise B      v R.F.C. La Buissière B         2-1
+    15.00  ASS.SP. Chimay-Virelles      v C.S. Forges B                 1-5
+    15.00  Jeunesse Sportive Erpion A   v Sivry Sports                  7-1
+    15.00  F.C. Boussu-Lez-Walcourt     v E.S. Mominoise B              0-3
+    15.00  Renaissance US Grand-Reng B  v U.S. Merbesars B              1-4
+
+» 17. Round
+  Sat Oct/18 2025
+    20.00  E.S. Mominoise B             v U.S. Merbesars B              5-2
+    20.00  Sivry Sports                 v J.S. Froidchapelloise B       4-2
+
+» 18. Round
+  Sun Oct/19 2025
+    15.00  F.C. Boussu-Lez-Walcourt     v ASS.SP. Chimay-Virelles       3-1
+    15.00  R.F.C. La Buissière B        v R.R.C. de Rance               3-2
+    15.00  C.S. Forges B                v U.S Solrezienne B             2-0
+    15.00  F.C. Marbaisien              v Jeunesse Sportive Erpion A    1-3
+
+» 19. Round
+  Sat Oct/25 2025
+    20.00  Jeunesse Sportive Erpion A   v C.S. Forges B                 8-0
+    20.00  J.S. Froidchapelloise B      v F.C. Marbaisien               3-0
+    20.00  R.R.C. de Rance              v Sivry Sports                  1-0
+
+» 20. Round
+  Sun Oct/26 2025
+    15.00  U.S Solrezienne B            v F.C. Boussu-Lez-Walcourt      0-5
+    15.00  ASS.SP. Chimay-Virelles      v E.S. Mominoise B              0-2
+    15.00  Renaissance US Grand-Reng B  v R.F.C. La Buissière B         3-1
+
+» 21. Round
+  Sat Nov/01 2025
+    20.00  Sivry Sports                 v Renaissance US Grand-Reng B   1-3
+
+» 22. Round
+  Sun Nov/02 2025
+    14.30  ASS.SP. Chimay-Virelles      v U.S Solrezienne B             1-2
+    14.30  F.C. Boussu-Lez-Walcourt     v Jeunesse Sportive Erpion A    2-3
+    14.30  F.C. Marbaisien              v R.R.C. de Rance               5-1
+    14.30  R.F.C. La Buissière B        v U.S. Merbesars B              0-4
+    14.30  C.S. Forges B                v J.S. Froidchapelloise B       2-6
+
+» 23. Round
+  Sun Nov/16 2025
+    14.30  F.C. Boussu-Lez-Walcourt     v R.R.C. de Rance               8-1
+    14.30  ASS.SP. Chimay-Virelles      v J.S. Froidchapelloise B       0-1
+    14.30  F.C. Marbaisien              v U.S. Merbesars B              0-6
+    14.30  U.S Solrezienne B            v Jeunesse Sportive Erpion A    1-4
+    14.30  R.F.C. La Buissière B        v E.S. Mominoise B              2-4
+    14.30  C.S. Forges B                v Renaissance US Grand-Reng B   0-2
+
+» 24. Round
+  Sat Nov/22 2025
+    20.00  Jeunesse Sportive Erpion A   v ASS.SP. Chimay-Virelles       2-0
+
+» 25. Round
+  Sun Nov/23 2025
+    14.30  U.S. Merbesars B             v Sivry Sports                  7-0
+    14.30  J.S. Froidchapelloise B      v F.C. Boussu-Lez-Walcourt      0-1
+    14.30  Renaissance US Grand-Reng B  v F.C. Marbaisien               6-1
+
+» 26. Round
+  Thu Nov/27 2025
+    19.30  E.S. Mominoise B             v U.S Solrezienne B             8-0
+
+» 27. Round
+  Sat Nov/29 2025
+    20.00  Sivry Sports                 v R.F.C. La Buissière B         5-0
+    20.00  R.R.C. de Rance              v C.S. Forges B                 2-6
+
+» 28. Round
+  Sun Dec/07 2025
+    14.30  U.S Solrezienne B            v J.S. Froidchapelloise B       1-0
+    14.30  C.S. Forges B                v U.S. Merbesars B              1-9
+    14.30  F.C. Boussu-Lez-Walcourt     v Renaissance US Grand-Reng B   1-1
+    14.30  ASS.SP. Chimay-Virelles      v R.R.C. de Rance               4-1
+    14.30  Jeunesse Sportive Erpion A   v E.S. Mominoise B              5-2
+
+» 29. Round
+  Sat Dec/13 2025
+    20.00  J.S. Froidchapelloise B      v Jeunesse Sportive Erpion A    
+    20.00  E.S. Mominoise B             v Sivry Sports                  
+
+» 30. Round
+  Sun Dec/14 2025
+    14.30  U.S. Merbesars B             v F.C. Boussu-Lez-Walcourt      
+    14.30  R.R.C. de Rance              v U.S Solrezienne B             
+    14.30  R.F.C. La Buissière B        v F.C. Marbaisien               
+    14.30  Renaissance US Grand-Reng B  v ASS.SP. Chimay-Virelles       
+
+» 31. Round
+  Sun Dec/21 2025
+    14.30  Jeunesse Sportive Erpion A   v R.R.C. de Rance               
+    14.30  ASS.SP. Chimay-Virelles      v U.S. Merbesars B              
+    14.30  C.S. Forges B                v R.F.C. La Buissière B         
+    14.30  F.C. Marbaisien              v Sivry Sports                  
+    14.30  J.S. Froidchapelloise B      v E.S. Mominoise B              
+    14.30  U.S Solrezienne B            v Renaissance US Grand-Reng B   
+
+» 32. Round
+  Sat Jan/17 2026
+    20.00  E.S. Mominoise B             v F.C. Marbaisien               
+    20.00  Sivry Sports                 v C.S. Forges B                 
+    20.00  R.R.C. de Rance              v J.S. Froidchapelloise B       
+
+» 33. Round
+  Sun Jan/18 2026
+    15.00  Renaissance US Grand-Reng B  v Jeunesse Sportive Erpion A    
+    15.00  U.S. Merbesars B             v U.S Solrezienne B             
+    15.00  R.F.C. La Buissière B        v F.C. Boussu-Lez-Walcourt      
+
+» 34. Round
+  Sat Jan/24 2026
+    20.00  Jeunesse Sportive Erpion A   v U.S. Merbesars B              
+    20.00  J.S. Froidchapelloise B      v Renaissance US Grand-Reng B   
+    20.00  R.R.C. de Rance              v E.S. Mominoise B              
+
+» 35. Round
+  Sun Jan/25 2026
+    15.00  F.C. Boussu-Lez-Walcourt     v Sivry Sports                  
+    15.00  ASS.SP. Chimay-Virelles      v R.F.C. La Buissière B         
+    15.00  C.S. Forges B                v F.C. Marbaisien               
+
+» 36. Round
+  Sat Jan/31 2026
+    20.00  E.S. Mominoise B             v C.S. Forges B                 
+    20.00  Sivry Sports                 v ASS.SP. Chimay-Virelles       
+
+» 37. Round
+  Sun Feb/01 2026
+    15.00  F.C. Marbaisien              v F.C. Boussu-Lez-Walcourt      
+    15.00  R.F.C. La Buissière B        v U.S Solrezienne B             
+    15.00  Renaissance US Grand-Reng B  v R.R.C. de Rance               
+    15.00  U.S. Merbesars B             v J.S. Froidchapelloise B       
+
+» 38. Round
+  Sat Feb/07 2026
+    20.00  Jeunesse Sportive Erpion A   v R.F.C. La Buissière B         
+    20.00  R.R.C. de Rance              v U.S. Merbesars B              
+
+» 39. Round
+  Sun Feb/08 2026
+    15.00  Renaissance US Grand-Reng B  v E.S. Mominoise B              
+    15.00  ASS.SP. Chimay-Virelles      v F.C. Marbaisien               
+    15.00  F.C. Boussu-Lez-Walcourt     v C.S. Forges B                 
+    15.00  U.S Solrezienne B            v Sivry Sports                  
+
+» 40. Round
+  Sat Feb/21 2026
+    20.00  E.S. Mominoise B             v F.C. Boussu-Lez-Walcourt      
+    20.00  Sivry Sports                 v Jeunesse Sportive Erpion A    
+
+» 41. Round
+  Sun Feb/22 2026
+    15.00  U.S. Merbesars B             v Renaissance US Grand-Reng B   
+    15.00  F.C. Marbaisien              v U.S Solrezienne B             
+    15.00  C.S. Forges B                v ASS.SP. Chimay-Virelles       
+    15.00  R.F.C. La Buissière B        v J.S. Froidchapelloise B       
+
+» 42. Round
+  Sat Feb/28 2026
+    20.00  R.R.C. de Rance              v R.F.C. La Buissière B         
+    20.00  Jeunesse Sportive Erpion A   v F.C. Marbaisien               
+    20.00  J.S. Froidchapelloise B      v Sivry Sports                  
+
+» 43. Round
+  Sun Mar/01 2026
+    15.00  ASS.SP. Chimay-Virelles      v F.C. Boussu-Lez-Walcourt      
+    15.00  U.S. Merbesars B             v E.S. Mominoise B              
+    15.00  U.S Solrezienne B            v C.S. Forges B                 
+
+» 44. Round
+  Sat Mar/07 2026
+    20.00  Sivry Sports                 v R.R.C. de Rance               
+    20.00  E.S. Mominoise B             v ASS.SP. Chimay-Virelles       
+
+» 45. Round
+  Sun Mar/08 2026
+    15.00  F.C. Boussu-Lez-Walcourt     v U.S Solrezienne B             
+    15.00  C.S. Forges B                v Jeunesse Sportive Erpion A    
+    15.00  R.F.C. La Buissière B        v Renaissance US Grand-Reng B   
+    15.00  F.C. Marbaisien              v J.S. Froidchapelloise B       
+
+» 46. Round
+  Sat Mar/21 2026
+    20.00  R.R.C. de Rance              v F.C. Marbaisien               
+    20.00  Jeunesse Sportive Erpion A   v F.C. Boussu-Lez-Walcourt      
+    20.00  J.S. Froidchapelloise B      v C.S. Forges B                 
+
+» 47. Round
+  Sun Mar/22 2026
+    15.00  U.S Solrezienne B            v ASS.SP. Chimay-Virelles       
+    15.00  U.S. Merbesars B             v R.F.C. La Buissière B         
+    15.00  Renaissance US Grand-Reng B  v Sivry Sports                  
+
+» 48. Round
+  Sun Apr/19 2026
+    15.00  F.C. Boussu-Lez-Walcourt     v J.S. Froidchapelloise B       
+    15.00  ASS.SP. Chimay-Virelles      v Jeunesse Sportive Erpion A    
+    15.00  C.S. Forges B                v R.R.C. de Rance               
+    15.00  Sivry Sports                 v U.S. Merbesars B              
+    15.00  U.S Solrezienne B            v E.S. Mominoise B              
+    15.00  F.C. Marbaisien              v Renaissance US Grand-Reng B   
+
+» 49. Round
+  Sun Apr/26 2026
+    15.00  J.S. Froidchapelloise B      v ASS.SP. Chimay-Virelles       
+    15.00  U.S. Merbesars B             v F.C. Marbaisien               
+    15.00  Jeunesse Sportive Erpion A   v U.S Solrezienne B             
+    15.00  R.R.C. de Rance              v F.C. Boussu-Lez-Walcourt      
+    15.00  Renaissance US Grand-Reng B  v C.S. Forges B                 
+    15.00  E.S. Mominoise B             v R.F.C. La Buissière B         

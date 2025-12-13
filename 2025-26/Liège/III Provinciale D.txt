@@ -1,0 +1,417 @@
+= III Provinciale D
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    19.30  R.FC. Sart-Lez-Spa B         v R.F.C. Malmundaria 1904 B     2-1
+
+» 2. Round
+  Sun Aug/24 2025
+    16.00  R. Baelen F.C.               v R.FC. Butgenbach              0-2
+    16.00  FC Bullingen                 v R.U.S. 1947 Emmels            2-2
+    16.00  R.R.C. Trois Ponts           v S.G.R. Oudler                 2-2
+    16.00  US.FC Elsenborn              v F.C. Trois-Frontières         2-1
+    16.00  R.C.S. Bellevaux-Ligneuville v K.FC Eupen 1963 B             1-1
+    16.00  R.S. Club Lontzen            v All. Hautes Fagnes            3-0
+    16.00  R.C.S. Jalhaytois A          v R.U. Limbourg                 0-1
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  K.FC Eupen 1963 B            v R. Baelen F.C.                8-1
+    20.00  R.U.S. 1947 Emmels           v US.FC Elsenborn               0-4
+    20.00  S.G.R. Oudler                v FC Bullingen                  3-1
+
+» 4. Round
+  Sun Aug/31 2025
+    16.00  R.F.C. Malmundaria 1904 B    v R.S. Club Lontzen             1-2
+    16.00  R.FC. Butgenbach             v R.FC. Sart-Lez-Spa B          4-0
+    16.00  All. Hautes Fagnes           v R.R.C. Trois Ponts            1-2
+    16.00  R.U. Limbourg                v R.C.S. Bellevaux-Ligneuville  3-1
+    16.00  F.C. Trois-Frontières        v R.C.S. Jalhaytois A           1-3
+
+» 5. Round
+  Sat Sep/06 2025
+    19.30  R.FC. Sart-Lez-Spa B         v K.FC Eupen 1963 B             6-1
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  R.U. Limbourg                v F.C. Trois-Frontières         4-1
+    15.00  R.R.C. Trois Ponts           v R.F.C. Malmundaria 1904 B     2-0
+    15.00  US.FC Elsenborn              v S.G.R. Oudler                 4-2
+    15.00  R.C.S. Bellevaux-Ligneuville v R. Baelen F.C.                4-1
+    15.00  FC Bullingen                 v All. Hautes Fagnes            0-3
+    15.00  R.S. Club Lontzen            v R.FC. Butgenbach              2-1
+    15.00  R.C.S. Jalhaytois A          v R.U.S. 1947 Emmels            1-0
+
+» 7. Round
+  Sat Sep/13 2025
+    20.00  S.G.R. Oudler                v R.C.S. Jalhaytois A           7-2
+    20.00  K.FC Eupen 1963 B            v R.S. Club Lontzen             1-3
+    20.00  R.U.S. 1947 Emmels           v R.U. Limbourg                 1-1
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  R.F.C. Malmundaria 1904 B    v FC Bullingen                  1-4
+    15.00  F.C. Trois-Frontières        v R.C.S. Bellevaux-Ligneuville  0-3
+    15.00  R. Baelen F.C.               v R.FC. Sart-Lez-Spa B          0-4
+    15.00  All. Hautes Fagnes           v US.FC Elsenborn               1-1
+    15.00  R.FC. Butgenbach             v R.R.C. Trois Ponts            1-2
+
+» 9. Round
+  Fri Sep/19 2025
+    20.00  F.C. Trois-Frontières        v R.U.S. 1947 Emmels            5-0
+
+» 10. Round
+  Sun Sep/21 2025
+    15.00  R.S. Club Lontzen            v R. Baelen F.C.                2-1
+    15.00  R.R.C. Trois Ponts           v K.FC Eupen 1963 B             2-1
+    15.00  R.C.S. Bellevaux-Ligneuville v R.FC. Sart-Lez-Spa B          3-1
+    15.00  R.C.S. Jalhaytois A          v All. Hautes Fagnes            4-2
+    15.00  R.U. Limbourg                v S.G.R. Oudler                 1-4
+    15.00  US.FC Elsenborn              v R.F.C. Malmundaria 1904 B     2-0
+    17.00  FC Bullingen                 v R.FC. Butgenbach              3-1
+
+» 11. Round
+  Sat Sep/27 2025
+    19.30  R.FC. Sart-Lez-Spa B         v R.S. Club Lontzen             0-3
+    20.00  R.U.S. 1947 Emmels           v R.C.S. Bellevaux-Ligneuville  2-3
+    20.00  K.FC Eupen 1963 B            v FC Bullingen                  3-3
+    20.00  S.G.R. Oudler                v F.C. Trois-Frontières         5-0
+
+» 12. Round
+  Sun Sep/28 2025
+    15.00  All. Hautes Fagnes           v R.U. Limbourg                 1-1
+    15.00  R. Baelen F.C.               v R.R.C. Trois Ponts            1-5
+    15.00  R.F.C. Malmundaria 1904 B    v R.C.S. Jalhaytois A           3-2
+    15.00  R.FC. Butgenbach             v US.FC Elsenborn               0-1
+
+» 13. Round
+  Fri Oct/03 2025
+    20.00  R.U.S. 1947 Emmels           v S.G.R. Oudler                 0-3
+
+» 14. Round
+  Sun Oct/05 2025
+    15.00  R.C.S. Bellevaux-Ligneuville v R.S. Club Lontzen             0-4
+    15.00  US.FC Elsenborn              v K.FC Eupen 1963 B             5-1
+    15.00  R.C.S. Jalhaytois A          v R.FC. Butgenbach              1-2
+    15.00  FC Bullingen                 v R. Baelen F.C.                5-4
+    15.00  R.U. Limbourg                v R.F.C. Malmundaria 1904 B     4-2
+    15.00  R.R.C. Trois Ponts           v R.FC. Sart-Lez-Spa B          3-0
+    15.00  F.C. Trois-Frontières        v All. Hautes Fagnes            0-0
+
+» 15. Round
+  Sat Oct/11 2025
+    19.30  R.FC. Sart-Lez-Spa B         v FC Bullingen                  1-1
+    19.30  R.F.C. Malmundaria 1904 B    v F.C. Trois-Frontières         7-3
+    20.00  K.FC Eupen 1963 B            v R.C.S. Jalhaytois A           5-2
+    20.00  S.G.R. Oudler                v R.C.S. Bellevaux-Ligneuville  1-1
+
+» 16. Round
+  Sun Oct/12 2025
+    15.00  All. Hautes Fagnes           v R.U.S. 1947 Emmels            2-3
+    15.00  R.S. Club Lontzen            v R.R.C. Trois Ponts            0-0
+    15.00  R. Baelen F.C.               v US.FC Elsenborn               1-1
+    16.00  R.FC. Butgenbach             v R.U. Limbourg                 2-0
+
+» 17. Round
+  Sat Oct/18 2025
+    20.00  R.U.S. 1947 Emmels           v R.F.C. Malmundaria 1904 B     0-3
+    20.00  S.G.R. Oudler                v All. Hautes Fagnes            2-0
+
+» 18. Round
+  Sun Oct/19 2025
+    15.00  F.C. Trois-Frontières        v R.FC. Butgenbach              0-2
+    15.00  US.FC Elsenborn              v R.FC. Sart-Lez-Spa B          2-1
+    15.00  R.C.S. Jalhaytois A          v R. Baelen F.C.                4-3
+    15.00  R.C.S. Bellevaux-Ligneuville v R.R.C. Trois Ponts            1-0
+    15.00  R.U. Limbourg                v K.FC Eupen 1963 B             2-1
+    15.00  FC Bullingen                 v R.S. Club Lontzen             1-1
+
+» 19. Round
+  Sun Oct/26 2025
+    14.30  R.R.C. Trois Ponts           v FC Bullingen                  1-0
+    14.30  K.FC Eupen 1963 B            v F.C. Trois-Frontières         3-2
+    14.30  R.FC. Butgenbach             v R.U.S. 1947 Emmels            4-0
+    14.30  R.F.C. Malmundaria 1904 B    v S.G.R. Oudler                 1-4
+    14.30  All. Hautes Fagnes           v R.C.S. Bellevaux-Ligneuville  2-2
+    14.30  R.S. Club Lontzen            v US.FC Elsenborn               0-1
+    14.30  R. Baelen F.C.               v R.U. Limbourg                 2-4
+    14.30  R.FC. Sart-Lez-Spa B         v R.C.S. Jalhaytois A           2-1
+
+» 20. Round
+  Sat Nov/01 2025
+    20.00  S.G.R. Oudler                v R.FC. Butgenbach              3-2
+    20.00  R.U.S. 1947 Emmels           v K.FC Eupen 1963 B             1-1
+
+» 21. Round
+  Sun Nov/02 2025
+    14.30  F.C. Trois-Frontières        v R. Baelen F.C.                7-3
+    14.30  US.FC Elsenborn              v R.R.C. Trois Ponts            2-2
+    14.30  All. Hautes Fagnes           v R.F.C. Malmundaria 1904 B     0-1
+    14.30  R.C.S. Bellevaux-Ligneuville v FC Bullingen                  4-2
+    14.30  R.C.S. Jalhaytois A          v R.S. Club Lontzen             2-4
+    14.30  R.U. Limbourg                v R.FC. Sart-Lez-Spa B          0-1
+
+» 22. Round
+  Sat Nov/08 2025
+    19.30  R.F.C. Malmundaria 1904 B    v R.C.S. Bellevaux-Ligneuville  1-3
+    19.30  R.FC. Sart-Lez-Spa B         v F.C. Trois-Frontières         4-2
+    20.00  K.FC Eupen 1963 B            v S.G.R. Oudler                 1-2
+
+» 23. Round
+  Sun Nov/09 2025
+    14.30  R. Baelen F.C.               v R.U.S. 1947 Emmels            3-1
+    14.30  R.S. Club Lontzen            v R.U. Limbourg                 4-4
+    14.30  R.FC. Butgenbach             v All. Hautes Fagnes            2-1
+    14.30  R.R.C. Trois Ponts           v R.C.S. Jalhaytois A           4-3
+    14.30  FC Bullingen                 v US.FC Elsenborn               1-3
+
+» 24. Round
+  Sat Nov/15 2025
+    20.00  R.U.S. 1947 Emmels           v R.FC. Sart-Lez-Spa B          0-2
+    20.00  S.G.R. Oudler                v R. Baelen F.C.                4-2
+
+» 25. Round
+  Sun Nov/16 2025
+    14.30  F.C. Trois-Frontières        v R.S. Club Lontzen             0-3
+    14.30  All. Hautes Fagnes           v K.FC Eupen 1963 B             4-3
+    14.30  R.F.C. Malmundaria 1904 B    v R.FC. Butgenbach              1-3
+    14.30  R.C.S. Bellevaux-Ligneuville v US.FC Elsenborn               2-1
+    14.30  R.C.S. Jalhaytois A          v FC Bullingen                  3-4
+    14.30  R.U. Limbourg                v R.R.C. Trois Ponts            0-5
+
+» 26. Round
+  Sat Nov/22 2025
+    19.30  R.FC. Sart-Lez-Spa B         v S.G.R. Oudler                 1-2
+    20.00  K.FC Eupen 1963 B            v R.F.C. Malmundaria 1904 B     3-2
+
+» 27. Round
+  Sun Nov/23 2025
+    14.30  FC Bullingen                 v R.U. Limbourg                 2-2
+    14.30  R.S. Club Lontzen            v R.U.S. 1947 Emmels            4-0
+    14.30  R.C.S. Bellevaux-Ligneuville v R.FC. Butgenbach              1-4
+    14.30  R. Baelen F.C.               v All. Hautes Fagnes            2-3
+    14.30  R.R.C. Trois Ponts           v F.C. Trois-Frontières         3-1
+
+» 28. Round
+  Sat Nov/29 2025
+    19.30  S.G.R. Oudler                v R.S. Club Lontzen             2-2
+    20.00  R.U.S. 1947 Emmels           v R.R.C. Trois Ponts            0-4
+
+» 29. Round
+  Sun Nov/30 2025
+    14.30  F.C. Trois-Frontières        v FC Bullingen                  2-1
+    14.30  R.C.S. Jalhaytois A          v R.C.S. Bellevaux-Ligneuville  4-0
+    14.30  All. Hautes Fagnes           v R.FC. Sart-Lez-Spa B          2-1
+    14.30  R.U. Limbourg                v US.FC Elsenborn               3-0
+    14.30  R.FC. Butgenbach             v K.FC Eupen 1963 B             3-2
+    14.30  R.F.C. Malmundaria 1904 B    v R. Baelen F.C.                0-1
+
+» 30. Round
+  Thu Dec/04 2025
+    20.00  US.FC Elsenborn              v R.C.S. Jalhaytois A           1-1
+
+» 31. Round
+  Sat Dec/06 2025
+    19.30  R.F.C. Malmundaria 1904 B    v R.FC. Sart-Lez-Spa B          1-5
+    20.00  K.FC Eupen 1963 B            v R.C.S. Bellevaux-Ligneuville  4-4
+    20.00  S.G.R. Oudler                v R.R.C. Trois Ponts            1-2
+    20.00  R.U.S. 1947 Emmels           v FC Bullingen                  2-3
+
+» 32. Round
+  Sun Dec/07 2025
+    14.30  R.FC. Butgenbach             v R. Baelen F.C.                4-2
+    14.30  All. Hautes Fagnes           v R.S. Club Lontzen             1-1
+    14.30  F.C. Trois-Frontières        v US.FC Elsenborn               1-4
+    14.30  R.U. Limbourg                v R.C.S. Jalhaytois A           1-1
+
+» 33. Round
+  Sat Dec/13 2025
+    19.30  R.FC. Sart-Lez-Spa B         v R.FC. Butgenbach              
+
+» 34. Round
+  Sun Dec/14 2025
+    14.30  R.R.C. Trois Ponts           v All. Hautes Fagnes            
+    14.30  R.C.S. Bellevaux-Ligneuville v R.U. Limbourg                 
+    14.30  R.C.S. Jalhaytois A          v F.C. Trois-Frontières         
+    14.30  US.FC Elsenborn              v R.U.S. 1947 Emmels            
+    14.30  R. Baelen F.C.               v K.FC Eupen 1963 B             
+    14.30  FC Bullingen                 v S.G.R. Oudler                 
+    14.30  R.S. Club Lontzen            v R.F.C. Malmundaria 1904 B     
+
+» 35. Round
+  Wed Dec/17 2025
+    20.00  R.U.S. 1947 Emmels           v R.C.S. Jalhaytois A           
+
+» 36. Round
+  Sat Dec/20 2025
+    19.30  R.F.C. Malmundaria 1904 B    v R.R.C. Trois Ponts            
+    20.00  K.FC Eupen 1963 B            v R.FC. Sart-Lez-Spa B          
+    20.00  S.G.R. Oudler                v US.FC Elsenborn               
+
+» 37. Round
+  Sun Dec/21 2025
+    14.30  F.C. Trois-Frontières        v R.U. Limbourg                 
+    14.30  All. Hautes Fagnes           v FC Bullingen                  
+    14.30  R. Baelen F.C.               v R.C.S. Bellevaux-Ligneuville  
+    14.30  R.FC. Butgenbach             v R.S. Club Lontzen             
+
+» 38. Round
+  Sat Jan/17 2026
+    19.30  R.FC. Sart-Lez-Spa B         v R. Baelen F.C.                
+
+» 39. Round
+  Sun Jan/18 2026
+    14.30  R.U. Limbourg                v R.U.S. 1947 Emmels            
+    14.30  R.R.C. Trois Ponts           v R.FC. Butgenbach              
+    14.30  R.C.S. Jalhaytois A          v S.G.R. Oudler                 
+    14.30  US.FC Elsenborn              v All. Hautes Fagnes            
+    14.30  R.S. Club Lontzen            v K.FC Eupen 1963 B             
+    14.30  R.C.S. Bellevaux-Ligneuville v F.C. Trois-Frontières         
+    14.30  FC Bullingen                 v R.F.C. Malmundaria 1904 B     
+
+» 40. Round
+  Sun Jan/25 2026
+    14.30  S.G.R. Oudler                v R.U. Limbourg                 
+    14.30  All. Hautes Fagnes           v R.C.S. Jalhaytois A           
+    14.30  R. Baelen F.C.               v R.S. Club Lontzen             
+    14.30  R.U.S. 1947 Emmels           v F.C. Trois-Frontières         
+    14.30  R.FC. Sart-Lez-Spa B         v R.C.S. Bellevaux-Ligneuville  
+    14.30  R.FC. Butgenbach             v FC Bullingen                  
+    14.30  R.F.C. Malmundaria 1904 B    v US.FC Elsenborn               
+    14.30  K.FC Eupen 1963 B            v R.R.C. Trois Ponts            
+
+» 41. Round
+  Sun Feb/01 2026
+    15.00  FC Bullingen                 v K.FC Eupen 1963 B             
+    15.00  R.C.S. Bellevaux-Ligneuville v R.U.S. 1947 Emmels            
+    15.00  R.C.S. Jalhaytois A          v R.F.C. Malmundaria 1904 B     
+    15.00  R.R.C. Trois Ponts           v R. Baelen F.C.                
+    15.00  R.U. Limbourg                v All. Hautes Fagnes            
+    15.00  US.FC Elsenborn              v R.FC. Butgenbach              
+    15.00  R.S. Club Lontzen            v R.FC. Sart-Lez-Spa B          
+    15.00  F.C. Trois-Frontières        v S.G.R. Oudler                 
+
+» 42. Round
+  Sat Feb/07 2026
+    19.30  R.FC. Sart-Lez-Spa B         v R.R.C. Trois Ponts            
+    20.00  S.G.R. Oudler                v R.U.S. 1947 Emmels            
+    20.00  K.FC Eupen 1963 B            v US.FC Elsenborn               
+
+» 43. Round
+  Sun Feb/08 2026
+    15.00  R.F.C. Malmundaria 1904 B    v R.U. Limbourg                 
+    15.00  All. Hautes Fagnes           v F.C. Trois-Frontières         
+    15.00  R.S. Club Lontzen            v R.C.S. Bellevaux-Ligneuville  
+    15.00  R. Baelen F.C.               v FC Bullingen                  
+    15.00  R.FC. Butgenbach             v R.C.S. Jalhaytois A           
+
+» 44. Round
+  Sat Feb/21 2026
+    20.00  R.U.S. 1947 Emmels           v All. Hautes Fagnes            
+
+» 45. Round
+  Sun Feb/22 2026
+    15.00  R.C.S. Bellevaux-Ligneuville v S.G.R. Oudler                 
+    15.00  R.C.S. Jalhaytois A          v K.FC Eupen 1963 B             
+    15.00  R.R.C. Trois Ponts           v R.S. Club Lontzen             
+    15.00  R.U. Limbourg                v R.FC. Butgenbach              
+    15.00  FC Bullingen                 v R.FC. Sart-Lez-Spa B          
+    15.00  F.C. Trois-Frontières        v R.F.C. Malmundaria 1904 B     
+    15.00  US.FC Elsenborn              v R. Baelen F.C.                
+
+» 46. Round
+  Sat Feb/28 2026
+    19.30  R.FC. Sart-Lez-Spa B         v US.FC Elsenborn               
+    19.30  R.F.C. Malmundaria 1904 B    v R.U.S. 1947 Emmels            
+    20.00  K.FC Eupen 1963 B            v R.U. Limbourg                 
+
+» 47. Round
+  Sun Mar/01 2026
+    15.00  R.R.C. Trois Ponts           v R.C.S. Bellevaux-Ligneuville  
+    15.00  All. Hautes Fagnes           v S.G.R. Oudler                 
+    15.00  R.S. Club Lontzen            v FC Bullingen                  
+    15.00  R.FC. Butgenbach             v F.C. Trois-Frontières         
+    15.00  R. Baelen F.C.               v R.C.S. Jalhaytois A           
+
+» 48. Round
+  Sat Mar/07 2026
+    20.00  S.G.R. Oudler                v R.F.C. Malmundaria 1904 B     
+    20.00  R.U.S. 1947 Emmels           v R.FC. Butgenbach              
+
+» 49. Round
+  Sun Mar/08 2026
+    15.00  F.C. Trois-Frontières        v K.FC Eupen 1963 B             
+    15.00  R.U. Limbourg                v R. Baelen F.C.                
+    15.00  R.C.S. Bellevaux-Ligneuville v All. Hautes Fagnes            
+    15.00  R.C.S. Jalhaytois A          v R.FC. Sart-Lez-Spa B          
+    15.00  FC Bullingen                 v R.R.C. Trois Ponts            
+    15.00  US.FC Elsenborn              v R.S. Club Lontzen             
+
+» 50. Round
+  Sat Mar/21 2026
+    19.30  R.FC. Sart-Lez-Spa B         v R.U. Limbourg                 
+    20.00  K.FC Eupen 1963 B            v R.U.S. 1947 Emmels            
+
+» 51. Round
+  Sun Mar/22 2026
+    15.00  R.R.C. Trois Ponts           v US.FC Elsenborn               
+    15.00  R.S. Club Lontzen            v R.C.S. Jalhaytois A           
+    15.00  FC Bullingen                 v R.C.S. Bellevaux-Ligneuville  
+    15.00  R.FC. Butgenbach             v S.G.R. Oudler                 
+    15.00  R.F.C. Malmundaria 1904 B    v All. Hautes Fagnes            
+    15.00  R. Baelen F.C.               v F.C. Trois-Frontières         
+
+» 52. Round
+  Sat Mar/28 2026
+    20.00  R.U.S. 1947 Emmels           v R. Baelen F.C.                
+    20.00  S.G.R. Oudler                v K.FC Eupen 1963 B             
+
+» 53. Round
+  Sun Mar/29 2026
+    15.00  US.FC Elsenborn              v FC Bullingen                  
+    15.00  R.C.S. Bellevaux-Ligneuville v R.F.C. Malmundaria 1904 B     
+    15.00  R.C.S. Jalhaytois A          v R.R.C. Trois Ponts            
+    15.00  F.C. Trois-Frontières        v R.FC. Sart-Lez-Spa B          
+    15.00  All. Hautes Fagnes           v R.FC. Butgenbach              
+    15.00  R.U. Limbourg                v R.S. Club Lontzen             
+
+» 54. Round
+  Sat Apr/11 2026
+    19.30  R.FC. Sart-Lez-Spa B         v R.U.S. 1947 Emmels            
+    20.00  K.FC Eupen 1963 B            v All. Hautes Fagnes            
+
+» 55. Round
+  Sun Apr/12 2026
+    15.00  R.S. Club Lontzen            v F.C. Trois-Frontières         
+    15.00  R.R.C. Trois Ponts           v R.U. Limbourg                 
+    15.00  FC Bullingen                 v R.C.S. Jalhaytois A           
+    15.00  R. Baelen F.C.               v S.G.R. Oudler                 
+    15.00  R.FC. Butgenbach             v R.F.C. Malmundaria 1904 B     
+    15.00  US.FC Elsenborn              v R.C.S. Bellevaux-Ligneuville  
+
+» 56. Round
+  Sun Apr/19 2026
+    15.00  R.F.C. Malmundaria 1904 B    v K.FC Eupen 1963 B             
+    15.00  R.U.S. 1947 Emmels           v R.S. Club Lontzen             
+    15.00  R.FC. Butgenbach             v R.C.S. Bellevaux-Ligneuville  
+    15.00  All. Hautes Fagnes           v R. Baelen F.C.                
+    15.00  F.C. Trois-Frontières        v R.R.C. Trois Ponts            
+    15.00  S.G.R. Oudler                v R.FC. Sart-Lez-Spa B          
+    15.00  R.U. Limbourg                v FC Bullingen                  
+    15.00  R.C.S. Jalhaytois A          v US.FC Elsenborn               
+
+» 57. Round
+  Sun Apr/26 2026
+    15.00  R.C.S. Bellevaux-Ligneuville v R.C.S. Jalhaytois A           
+    15.00  R.S. Club Lontzen            v S.G.R. Oudler                 
+    15.00  R.FC. Sart-Lez-Spa B         v All. Hautes Fagnes            
+    15.00  K.FC Eupen 1963 B            v R.FC. Butgenbach              
+    15.00  R. Baelen F.C.               v R.F.C. Malmundaria 1904 B     
+    15.00  R.R.C. Trois Ponts           v R.U.S. 1947 Emmels            
+    15.00  US.FC Elsenborn              v R.U. Limbourg                 
+    15.00  FC Bullingen                 v F.C. Trois-Frontières         
