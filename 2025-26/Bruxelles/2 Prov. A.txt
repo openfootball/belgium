@@ -1,0 +1,393 @@
+= 2 Prov. A
+
+# Date       Sun Aug/24 2025 - Sun Apr/26 2026 (246d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sun Aug/24 2025
+    15.00  Aca.Jeun.Molenbeek A         v RRC.Boitsfort A               1-1
+    15.00  RFC.Saint-Michel B           v FC. Forest                    5-2
+    15.00  Olympique Club Forestois A   v RSC.Ixelles A                 0-5
+    15.00  A.S.A. Molenbeek A           v ROFC.Stockel A                0-4
+    15.00  Berchem Brussels FC A        v Crossing Schaerbeek B         2-4
+    15.00  Stade Everois RC B           v AS.Brussels City A            4-4
+    15.00  Sporting Bruxelles B         v Anderlecht Youth Talents      1-4
+    15.00  FC.Saint-Josse               v NSeth Berchem                 
+
+» 2. Round
+  Sat Aug/30 2025
+    20.30  RSC.Ixelles A                v Sporting Bruxelles B          4-1
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  FC. Forest                   v Berchem Brussels FC A         2-7
+    15.00  RRC.Boitsfort A              v Stade Everois RC B            2-0
+    15.00  ROFC.Stockel A               v FC.Saint-Josse                3-1
+    15.00  Anderlecht Youth Talents     v Aca.Jeun.Molenbeek A          2-2
+    18.00  Crossing Schaerbeek B        v Olympique Club Forestois A    5-1
+
+» 4. Round
+  Tue Sep/02 2025
+    20.00  NSeth Berchem                v RFC.Saint-Michel B            
+
+» 5. Round
+  Sun Sep/07 2025
+    15.00  Olympique Club Forestois A   v FC. Forest                    6-1
+    15.00  FC.Saint-Josse               v AS.Brussels City A            0-2
+    15.00  A.S.A. Molenbeek A           v RRC.Boitsfort A               7-6
+    15.00  Aca.Jeun.Molenbeek A         v RSC.Ixelles A                 1-0
+    15.00  Sporting Bruxelles B         v Crossing Schaerbeek B         2-0
+    15.00  RFC.Saint-Michel B           v Berchem Brussels FC A         4-2
+    15.00  Stade Everois RC B           v Anderlecht Youth Talents      2-2
+    15.00  NSeth Berchem                v ROFC.Stockel A                
+
+» 6. Round
+  Sat Sep/13 2025
+    20.30  RSC.Ixelles A                v Stade Everois RC B            1-1
+
+» 7. Round
+  Sun Sep/14 2025
+    15.00  ROFC.Stockel A               v RFC.Saint-Michel B            1-1
+    15.00  RRC.Boitsfort A              v FC.Saint-Josse                3-1
+    15.00  Anderlecht Youth Talents     v A.S.A. Molenbeek A            7-2
+    15.00  Berchem Brussels FC A        v Olympique Club Forestois A    2-1
+    15.00  AS.Brussels City A           v NSeth Berchem                 
+    15.00  FC. Forest                   v Sporting Bruxelles B          0-5
+    18.00  Crossing Schaerbeek B        v Aca.Jeun.Molenbeek A          2-3
+
+» 8. Round
+  Sat Sep/27 2025
+    20.30  RSC.Ixelles A                v FC.Saint-Josse                2-1
+
+» 9. Round
+  Sun Sep/28 2025
+    15.00  Olympique Club Forestois A   v Sporting Bruxelles B          3-3
+    15.00  AS.Brussels City A           v RFC.Saint-Michel B            1-2
+    15.00  FC. Forest                   v Stade Everois RC B            5-1
+    15.00  RRC.Boitsfort A              v ROFC.Stockel A                1-4
+    15.00  Berchem Brussels FC A        v Aca.Jeun.Molenbeek A          1-1
+    15.00  Anderlecht Youth Talents     v NSeth Berchem                 
+    18.00  Crossing Schaerbeek B        v A.S.A. Molenbeek A            4-1
+
+» 10. Round
+  Sun Oct/05 2025
+    15.00  FC.Saint-Josse               v Crossing Schaerbeek B         0-2
+    15.00  Aca.Jeun.Molenbeek A         v Olympique Club Forestois A    1-1
+    15.00  ROFC.Stockel A               v Anderlecht Youth Talents      1-2
+    15.00  AS.Brussels City A           v RRC.Boitsfort A               1-2
+    15.00  RFC.Saint-Michel B           v Sporting Bruxelles B          1-1
+    15.00  Stade Everois RC B           v Berchem Brussels FC A         2-3
+    15.00  NSeth Berchem                v RSC.Ixelles A                 
+
+» 11. Round
+  Sat Oct/11 2025
+    20.30  RSC.Ixelles A                v ROFC.Stockel A                0-4
+
+» 12. Round
+  Sun Oct/12 2025
+    15.00  Olympique Club Forestois A   v Stade Everois RC B            4-1
+    15.00  FC. Forest                   v FC.Saint-Josse                3-3
+    15.00  Crossing Schaerbeek B        v NSeth Berchem                 
+    15.00  Berchem Brussels FC A        v A.S.A. Molenbeek A            1-2
+    15.00  RRC.Boitsfort A              v RFC.Saint-Michel B            4-0
+    15.00  Sporting Bruxelles B         v Aca.Jeun.Molenbeek A          0-3
+    15.00  Anderlecht Youth Talents     v AS.Brussels City A            5-1
+
+» 13. Round
+  Wed Oct/15 2025
+    20.00  RFC.Saint-Michel B           v Olympique Club Forestois A    1-2
+    20.00  FC.Saint-Josse               v Anderlecht Youth Talents      0-6
+    20.00  NSeth Berchem                v RRC.Boitsfort A               
+    20.00  Sporting Bruxelles B         v Berchem Brussels FC A         5-4
+    20.00  Stade Everois RC B           v Crossing Schaerbeek B         0-3
+    20.00  ROFC.Stockel A               v AS.Brussels City A            3-0
+    20.00  A.S.A. Molenbeek A           v RSC.Ixelles A                 1-1
+    20.00  Aca.Jeun.Molenbeek A         v FC. Forest                    2-0
+
+» 14. Round
+  Sun Oct/19 2025
+    15.00  RRC.Boitsfort A              v Anderlecht Youth Talents      0-5
+    15.00  RFC.Saint-Michel B           v Aca.Jeun.Molenbeek A          2-3
+    15.00  FC.Saint-Josse               v Berchem Brussels FC A         1-1
+    15.00  NSeth Berchem                v FC. Forest                    
+    15.00  AS.Brussels City A           v RSC.Ixelles A                 3-2
+    15.00  Stade Everois RC B           v Sporting Bruxelles B          1-3
+    15.00  ROFC.Stockel A               v Crossing Schaerbeek B         1-4
+
+» 15. Round
+  Wed Oct/22 2025
+    20.30  AS.Brussels City A           v A.S.A. Molenbeek A            3-3
+
+» 16. Round
+  Sat Oct/25 2025
+    20.30  RSC.Ixelles A                v RRC.Boitsfort A               0-0
+
+» 17. Round
+  Sun Oct/26 2025
+    15.00  FC. Forest                   v ROFC.Stockel A                2-6
+    15.00  Sporting Bruxelles B         v A.S.A. Molenbeek A            1-2
+    15.00  Aca.Jeun.Molenbeek A         v Stade Everois RC B            1-0
+    15.00  Olympique Club Forestois A   v FC.Saint-Josse                2-3
+    15.00  Berchem Brussels FC A        v NSeth Berchem                 
+    15.00  Anderlecht Youth Talents     v RFC.Saint-Michel B            1-0
+    15.00  Crossing Schaerbeek B        v AS.Brussels City A            5-1
+
+» 18. Round
+  Thu Oct/30 2025
+    20.00  A.S.A. Molenbeek A           v FC. Forest                    4-1
+
+» 19. Round
+  Sun Nov/02 2025
+    15.00  RRC.Boitsfort A              v Crossing Schaerbeek B         3-4
+    15.00  NSeth Berchem                v Olympique Club Forestois A    
+    15.00  A.S.A. Molenbeek A           v Aca.Jeun.Molenbeek A          2-2
+    15.00  ROFC.Stockel A               v Berchem Brussels FC A         5-0
+    15.00  RFC.Saint-Michel B           v Stade Everois RC B            
+    15.00  FC.Saint-Josse               v Sporting Bruxelles B          1-1
+    15.00  Anderlecht Youth Talents     v RSC.Ixelles A                 2-0
+    15.00  AS.Brussels City A           v FC. Forest                    3-1
+
+» 20. Round
+  Wed Nov/05 2025
+    20.00  A.S.A. Molenbeek A           v Olympique Club Forestois A    0-2
+
+» 21. Round
+  Sat Nov/08 2025
+    20.30  RSC.Ixelles A                v RFC.Saint-Michel B            3-0
+
+» 22. Round
+  Sun Nov/09 2025
+    15.00  Sporting Bruxelles B         v NSeth Berchem                 
+    15.00  Stade Everois RC B           v A.S.A. Molenbeek A            0-1
+    15.00  FC. Forest                   v RRC.Boitsfort A               3-4
+    15.00  Berchem Brussels FC A        v AS.Brussels City A            1-1
+    15.00  Olympique Club Forestois A   v ROFC.Stockel A                0-2
+    15.00  Aca.Jeun.Molenbeek A         v FC.Saint-Josse                2-0
+    18.00  Crossing Schaerbeek B        v Anderlecht Youth Talents      0-2
+
+» 23. Round
+  Sat Nov/15 2025
+    20.30  RSC.Ixelles A                v Crossing Schaerbeek B         2-2
+
+» 24. Round
+  Sun Nov/16 2025
+    14.30  FC.Saint-Josse               v Stade Everois RC B            3-4
+    15.00  NSeth Berchem                v Aca.Jeun.Molenbeek A          
+    15.00  RRC.Boitsfort A              v Berchem Brussels FC A         4-2
+    15.00  RFC.Saint-Michel B           v A.S.A. Molenbeek A            1-3
+    15.00  Anderlecht Youth Talents     v FC. Forest                    5-0
+    15.00  ROFC.Stockel A               v Sporting Bruxelles B          2-0
+    15.00  AS.Brussels City A           v Olympique Club Forestois A    1-1
+
+» 25. Round
+  Sun Nov/23 2025
+    15.00  A.S.A. Molenbeek A           v FC.Saint-Josse                5-6
+    15.00  Berchem Brussels FC A        v Anderlecht Youth Talents      1-7
+    15.00  FC. Forest                   v RSC.Ixelles A                 0-3
+    15.00  Stade Everois RC B           v NSeth Berchem                 
+    15.00  Sporting Bruxelles B         v AS.Brussels City A            0-1
+    15.00  Aca.Jeun.Molenbeek A         v ROFC.Stockel A                0-1
+    15.00  Olympique Club Forestois A   v RRC.Boitsfort A               2-2
+    18.00  RFC.Saint-Michel B           v Crossing Schaerbeek B         3-2
+
+» 26. Round
+  Sat Nov/29 2025
+    20.30  RSC.Ixelles A                v Berchem Brussels FC A         1-1
+
+» 27. Round
+  Sun Nov/30 2025
+    14.30  FC.Saint-Josse               v RFC.Saint-Michel B            3-2
+    15.00  NSeth Berchem                v A.S.A. Molenbeek A            
+    15.00  ROFC.Stockel A               v Stade Everois RC B            4-0
+    15.00  AS.Brussels City A           v Aca.Jeun.Molenbeek A          1-1
+    15.00  Crossing Schaerbeek B        v FC. Forest                    7-1
+    15.00  Anderlecht Youth Talents     v Olympique Club Forestois A    2-0
+    15.00  RRC.Boitsfort A              v Sporting Bruxelles B          3-2
+
+» 28. Round
+  Sat Dec/06 2025
+    20.30  RSC.Ixelles A                v Olympique Club Forestois A    1-0
+
+» 29. Round
+  Sun Dec/07 2025
+    14.30  RRC.Boitsfort A              v Aca.Jeun.Molenbeek A          4-0
+    15.00  NSeth Berchem                v FC.Saint-Josse                
+    15.00  AS.Brussels City A           v Stade Everois RC B            3-1
+    15.00  FC. Forest                   v RFC.Saint-Michel B            0-3
+    15.00  ROFC.Stockel A               v A.S.A. Molenbeek A            0-0
+    15.00  Anderlecht Youth Talents     v Sporting Bruxelles B          5-1
+    18.00  Crossing Schaerbeek B        v Berchem Brussels FC A         5-3
+
+» 30. Round
+  Sun Dec/14 2025
+    14.30  FC.Saint-Josse               v ROFC.Stockel A                
+    15.00  Berchem Brussels FC A        v FC. Forest                    
+    15.00  RFC.Saint-Michel B           v NSeth Berchem                 
+    15.00  Sporting Bruxelles B         v RSC.Ixelles A                 
+    15.00  Aca.Jeun.Molenbeek A         v Anderlecht Youth Talents      
+    15.00  Olympique Club Forestois A   v Crossing Schaerbeek B         
+    18.00  Stade Everois RC B           v RRC.Boitsfort A               
+
+» 31. Round
+  Sat Dec/20 2025
+    20.30  RSC.Ixelles A                v Aca.Jeun.Molenbeek A          
+
+» 32. Round
+  Sun Dec/21 2025
+    15.00  AS.Brussels City A           v FC.Saint-Josse                
+    15.00  ROFC.Stockel A               v NSeth Berchem                 
+    15.00  Anderlecht Youth Talents     v Stade Everois RC B            
+    15.00  RRC.Boitsfort A              v A.S.A. Molenbeek A            
+    15.00  Crossing Schaerbeek B        v Sporting Bruxelles B          
+    15.00  Berchem Brussels FC A        v RFC.Saint-Michel B            
+    15.00  FC. Forest                   v Olympique Club Forestois A    
+
+» 33. Round
+  Sun Jan/18 2026
+    14.30  FC.Saint-Josse               v RRC.Boitsfort A               
+    15.00  Olympique Club Forestois A   v Berchem Brussels FC A         
+    15.00  Sporting Bruxelles B         v FC. Forest                    
+    15.00  A.S.A. Molenbeek A           v Anderlecht Youth Talents      
+    15.00  RFC.Saint-Michel B           v ROFC.Stockel A                
+    15.00  Aca.Jeun.Molenbeek A         v Crossing Schaerbeek B         
+    15.00  NSeth Berchem                v AS.Brussels City A            
+    18.00  Stade Everois RC B           v RSC.Ixelles A                 
+
+» 34. Round
+  Sat Jan/24 2026
+    20.30  RSC.Ixelles A                v A.S.A. Molenbeek A            
+
+» 35. Round
+  Sun Jan/25 2026
+    15.00  AS.Brussels City A           v ROFC.Stockel A                
+    15.00  Anderlecht Youth Talents     v FC.Saint-Josse                
+    15.00  FC. Forest                   v Aca.Jeun.Molenbeek A          
+    15.00  RRC.Boitsfort A              v NSeth Berchem                 
+    15.00  Berchem Brussels FC A        v Sporting Bruxelles B          
+    15.00  Olympique Club Forestois A   v RFC.Saint-Michel B            
+    18.00  Crossing Schaerbeek B        v Stade Everois RC B            
+
+» 36. Round
+  Thu Jan/29 2026
+    20.00  A.S.A. Molenbeek A           v AS.Brussels City A            
+
+» 37. Round
+  Sun Feb/01 2026
+    14.30  FC.Saint-Josse               v RSC.Ixelles A                 
+    15.00  Aca.Jeun.Molenbeek A         v Berchem Brussels FC A         
+    15.00  A.S.A. Molenbeek A           v Crossing Schaerbeek B         
+    15.00  NSeth Berchem                v Anderlecht Youth Talents      
+    15.00  ROFC.Stockel A               v RRC.Boitsfort A               
+    15.00  RFC.Saint-Michel B           v AS.Brussels City A            
+    15.00  Sporting Bruxelles B         v Olympique Club Forestois A    
+    18.00  Stade Everois RC B           v FC. Forest                    
+
+» 38. Round
+  Sat Feb/07 2026
+    20.30  RSC.Ixelles A                v NSeth Berchem                 
+
+» 39. Round
+  Sun Feb/08 2026
+    15.00  Sporting Bruxelles B         v RFC.Saint-Michel B            
+    15.00  FC. Forest                   v A.S.A. Molenbeek A            
+    15.00  Berchem Brussels FC A        v Stade Everois RC B            
+    15.00  Olympique Club Forestois A   v Aca.Jeun.Molenbeek A          
+    15.00  Anderlecht Youth Talents     v ROFC.Stockel A                
+    15.00  Crossing Schaerbeek B        v FC.Saint-Josse                
+    15.00  RRC.Boitsfort A              v AS.Brussels City A            
+
+» 40. Round
+  Sun Feb/22 2026
+    15.00  Aca.Jeun.Molenbeek A         v Sporting Bruxelles B          
+    15.00  Stade Everois RC B           v Olympique Club Forestois A    
+    15.00  NSeth Berchem                v Crossing Schaerbeek B         
+    15.00  AS.Brussels City A           v Anderlecht Youth Talents      
+    15.00  FC.Saint-Josse               v FC. Forest                    
+    15.00  ROFC.Stockel A               v RSC.Ixelles A                 
+    15.00  RFC.Saint-Michel B           v RRC.Boitsfort A               
+    15.00  A.S.A. Molenbeek A           v Berchem Brussels FC A         
+
+» 41. Round
+  Sat Feb/28 2026
+    20.30  RSC.Ixelles A                v AS.Brussels City A            
+
+» 42. Round
+  Sun Mar/01 2026
+    15.00  Olympique Club Forestois A   v A.S.A. Molenbeek A            
+    15.00  Aca.Jeun.Molenbeek A         v RFC.Saint-Michel B            
+    15.00  Anderlecht Youth Talents     v RRC.Boitsfort A               
+    15.00  Berchem Brussels FC A        v FC.Saint-Josse                
+    15.00  Sporting Bruxelles B         v Stade Everois RC B            
+    15.00  FC. Forest                   v NSeth Berchem                 
+    18.00  Crossing Schaerbeek B        v ROFC.Stockel A                
+
+» 43. Round
+  Sun Mar/08 2026
+    15.00  FC.Saint-Josse               v Olympique Club Forestois A    
+    15.00  ROFC.Stockel A               v FC. Forest                    
+    15.00  Stade Everois RC B           v Aca.Jeun.Molenbeek A          
+    15.00  AS.Brussels City A           v Crossing Schaerbeek B         
+    15.00  RRC.Boitsfort A              v RSC.Ixelles A                 
+    15.00  RFC.Saint-Michel B           v Anderlecht Youth Talents      
+    15.00  A.S.A. Molenbeek A           v Sporting Bruxelles B          
+    15.00  NSeth Berchem                v Berchem Brussels FC A         
+
+» 44. Round
+  Sat Mar/21 2026
+    20.30  RSC.Ixelles A                v Anderlecht Youth Talents      
+
+» 45. Round
+  Sun Mar/22 2026
+    15.00  Berchem Brussels FC A        v ROFC.Stockel A                
+    15.00  Aca.Jeun.Molenbeek A         v A.S.A. Molenbeek A            
+    15.00  Stade Everois RC B           v RFC.Saint-Michel B            
+    15.00  FC. Forest                   v AS.Brussels City A            
+    15.00  Sporting Bruxelles B         v FC.Saint-Josse                
+    15.00  Olympique Club Forestois A   v NSeth Berchem                 
+    18.00  Crossing Schaerbeek B        v RRC.Boitsfort A               
+
+» 46. Round
+  Sun Mar/29 2026
+    15.00  A.S.A. Molenbeek A           v Stade Everois RC B            
+    15.00  RRC.Boitsfort A              v FC. Forest                    
+    15.00  FC.Saint-Josse               v Aca.Jeun.Molenbeek A          
+    15.00  ROFC.Stockel A               v Olympique Club Forestois A    
+    15.00  Anderlecht Youth Talents     v Crossing Schaerbeek B         
+    15.00  RFC.Saint-Michel B           v RSC.Ixelles A                 
+    15.00  AS.Brussels City A           v Berchem Brussels FC A         
+    15.00  NSeth Berchem                v Sporting Bruxelles B          
+
+» 47. Round
+  Sun Apr/12 2026
+    15.00  Berchem Brussels FC A        v RRC.Boitsfort A               
+    15.00  Sporting Bruxelles B         v ROFC.Stockel A                
+    15.00  A.S.A. Molenbeek A           v RFC.Saint-Michel B            
+    15.00  FC. Forest                   v Anderlecht Youth Talents      
+    15.00  Olympique Club Forestois A   v AS.Brussels City A            
+    15.00  Stade Everois RC B           v FC.Saint-Josse                
+    15.00  Aca.Jeun.Molenbeek A         v NSeth Berchem                 
+    18.00  Crossing Schaerbeek B        v RSC.Ixelles A                 
+
+» 48. Round
+  Sun Apr/19 2026
+    15.00  Anderlecht Youth Talents     v Berchem Brussels FC A         
+    15.00  FC.Saint-Josse               v A.S.A. Molenbeek A            
+    15.00  RRC.Boitsfort A              v Olympique Club Forestois A    
+    15.00  NSeth Berchem                v Stade Everois RC B            
+    15.00  RSC.Ixelles A                v FC. Forest                    
+    15.00  Crossing Schaerbeek B        v RFC.Saint-Michel B            
+    15.00  ROFC.Stockel A               v Aca.Jeun.Molenbeek A          
+    15.00  AS.Brussels City A           v Sporting Bruxelles B          
+
+» 49. Round
+  Sun Apr/26 2026
+    15.00  Berchem Brussels FC A        v RSC.Ixelles A                 
+    15.00  RFC.Saint-Michel B           v FC.Saint-Josse                
+    15.00  Stade Everois RC B           v ROFC.Stockel A                
+    15.00  Sporting Bruxelles B         v RRC.Boitsfort A               
+    15.00  Aca.Jeun.Molenbeek A         v AS.Brussels City A            
+    15.00  FC. Forest                   v Crossing Schaerbeek B         
+    15.00  Olympique Club Forestois A   v Anderlecht Youth Talents      
+    15.00  A.S.A. Molenbeek A           v NSeth Berchem                 

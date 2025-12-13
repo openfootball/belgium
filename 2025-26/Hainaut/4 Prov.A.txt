@@ -1,0 +1,311 @@
+= 4 Prov.A
+
+# Date       Sun Aug/24 2025 - Sun Apr/26 2026 (246d)
+# Teams      14
+# Matches    182
+
+
+» 1. Round
+  Sun Aug/24 2025
+    13.30  SB Stade Mouscronnois B      v R.S.C. Bruyelle               5-3
+    15.00  R.A.S. Risquons-Tout Mouscro v F.C. Esplechin                2-3
+    15.00  F.C. Etoiles d'Ere B         v DR Rongy B                    2-2
+    15.00  A.S. Obigies B               v F.C. Bleharies B              2-1
+    15.00  Ren.U.S. Tournaisienne B     v Royale J.S. Wez-Guignies      0-3
+    15.00  Ent. Velaines Enclusienne B  v R.U.S. Herseautoise B         0-5
+    15.00  U.S. Mouscronnoise           v A.S.C. Havinnes               2-6
+
+» 2. Round
+  Sat Aug/30 2025
+    19.00  DR Rongy B                   v Ren.U.S. Tournaisienne B      6-1
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  A.S.C. Havinnes              v A.S. Obigies B                2-4
+    15.00  F.C. Esplechin               v SB Stade Mouscronnois B       0-1
+    15.00  F.C. Bleharies B             v Ent. Velaines Enclusienne B   3-0
+    15.00  Royale J.S. Wez-Guignies     v R.A.S. Risquons-Tout Mouscro  1-0
+    15.00  R.S.C. Bruyelle              v U.S. Mouscronnoise            2-3
+    15.00  R.U.S. Herseautoise B        v F.C. Etoiles d'Ere B          4-1
+
+» 4. Round
+  Sun Sep/07 2025
+    15.00  Ren.U.S. Tournaisienne B     v R.U.S. Herseautoise B         0-7
+    15.00  F.C. Esplechin               v Royale J.S. Wez-Guignies      5-0
+    15.00  SB Stade Mouscronnois B      v U.S. Mouscronnoise            9-1
+    15.00  Ent. Velaines Enclusienne B  v A.S.C. Havinnes               1-4
+    15.00  A.S. Obigies B               v R.S.C. Bruyelle               1-2
+    15.00  R.A.S. Risquons-Tout Mouscro v DR Rongy B                    4-1
+    15.00  F.C. Etoiles d'Ere B         v F.C. Bleharies B              3-1
+
+» 5. Round
+  Sat Sep/13 2025
+    17.45  R.U.S. Herseautoise B        v R.A.S. Risquons-Tout Mouscro  3-2
+    19.00  DR Rongy B                   v F.C. Esplechin                0-3
+
+» 6. Round
+  Sun Sep/14 2025
+    15.00  A.S.C. Havinnes              v F.C. Etoiles d'Ere B          6-0
+    15.00  F.C. Bleharies B             v Ren.U.S. Tournaisienne B      6-5
+    15.00  U.S. Mouscronnoise           v A.S. Obigies B                2-2
+    15.00  R.S.C. Bruyelle              v Ent. Velaines Enclusienne B   7-0
+    15.00  Royale J.S. Wez-Guignies     v SB Stade Mouscronnois B       1-4
+
+» 7. Round
+  Sun Sep/21 2025
+    15.00  F.C. Esplechin               v R.U.S. Herseautoise B         5-0
+    15.00  Ent. Velaines Enclusienne B  v U.S. Mouscronnoise            0-2
+    15.00  F.C. Etoiles d'Ere B         v R.S.C. Bruyelle               0-2
+    15.00  Ren.U.S. Tournaisienne B     v A.S.C. Havinnes               0-3
+    15.00  SB Stade Mouscronnois B      v A.S. Obigies B                6-3
+    15.00  Royale J.S. Wez-Guignies     v DR Rongy B                    2-3
+    15.00  R.A.S. Risquons-Tout Mouscro v F.C. Bleharies B              7-0
+
+» 8. Round
+  Sat Sep/27 2025
+    19.00  DR Rongy B                   v SB Stade Mouscronnois B       0-3
+
+» 9. Round
+  Sun Sep/28 2025
+    15.00  A.S.C. Havinnes              v R.A.S. Risquons-Tout Mouscro  2-4
+    15.00  U.S. Mouscronnoise           v F.C. Etoiles d'Ere B          2-3
+    15.00  R.U.S. Herseautoise B        v Royale J.S. Wez-Guignies      8-1
+    15.00  F.C. Bleharies B             v F.C. Esplechin                0-1
+    15.00  A.S. Obigies B               v Ent. Velaines Enclusienne B   3-2
+    15.00  R.S.C. Bruyelle              v Ren.U.S. Tournaisienne B      5-0
+
+» 10. Round
+  Sat Oct/04 2025
+    19.00  DR Rongy B                   v R.U.S. Herseautoise B         1-0
+
+» 11. Round
+  Sun Oct/05 2025
+    15.00  F.C. Esplechin               v A.S.C. Havinnes               0-0
+    15.00  F.C. Etoiles d'Ere B         v A.S. Obigies B                1-4
+    15.00  Royale J.S. Wez-Guignies     v F.C. Bleharies B              3-1
+    15.00  R.A.S. Risquons-Tout Mouscro v R.S.C. Bruyelle               1-0
+    15.00  Ren.U.S. Tournaisienne B     v U.S. Mouscronnoise            2-4
+    15.00  SB Stade Mouscronnois B      v Ent. Velaines Enclusienne B   16-1
+
+» 12. Round
+  Sat Oct/11 2025
+    20.00  R.S.C. Bruyelle              v F.C. Esplechin                0-0
+
+» 13. Round
+  Sun Oct/12 2025
+    15.00  A.S.C. Havinnes              v Royale J.S. Wez-Guignies      3-0
+    15.00  A.S. Obigies B               v Ren.U.S. Tournaisienne B      7-3
+    15.00  Ent. Velaines Enclusienne B  v F.C. Etoiles d'Ere B          0-4
+    15.00  U.S. Mouscronnoise           v R.A.S. Risquons-Tout Mouscro  2-1
+    15.00  F.C. Bleharies B             v DR Rongy B                    0-5
+    15.00  R.U.S. Herseautoise B        v SB Stade Mouscronnois B       0-4
+
+» 14. Round
+  Sat Oct/18 2025
+    19.00  DR Rongy B                   v A.S.C. Havinnes               2-1
+
+» 15. Round
+  Sun Oct/19 2025
+    15.00  SB Stade Mouscronnois B      v F.C. Etoiles d'Ere B          6-2
+    15.00  Royale J.S. Wez-Guignies     v R.S.C. Bruyelle               0-2
+    15.00  R.U.S. Herseautoise B        v F.C. Bleharies B              3-0
+    15.00  Ren.U.S. Tournaisienne B     v Ent. Velaines Enclusienne B   0-2
+    15.00  F.C. Esplechin               v U.S. Mouscronnoise            4-2
+    15.00  R.A.S. Risquons-Tout Mouscro v A.S. Obigies B                1-1
+
+» 16. Round
+  Sun Oct/26 2025
+    15.00  A.S. Obigies B               v F.C. Esplechin                1-2
+    15.00  U.S. Mouscronnoise           v Royale J.S. Wez-Guignies      3-5
+    15.00  A.S.C. Havinnes              v R.U.S. Herseautoise B         3-1
+    15.00  Ent. Velaines Enclusienne B  v R.A.S. Risquons-Tout Mouscro  2-5
+    15.00  F.C. Etoiles d'Ere B         v Ren.U.S. Tournaisienne B      9-0
+    15.00  F.C. Bleharies B             v SB Stade Mouscronnois B       1-6
+    15.00  R.S.C. Bruyelle              v DR Rongy B                    4-1
+
+» 17. Round
+  Sat Nov/01 2025
+    19.00  DR Rongy B                   v U.S. Mouscronnoise            4-0
+
+» 18. Round
+  Sun Nov/02 2025
+    14.30  F.C. Bleharies B             v A.S.C. Havinnes               1-6
+    14.30  SB Stade Mouscronnois B      v Ren.U.S. Tournaisienne B      5-0
+    14.30  R.U.S. Herseautoise B        v R.S.C. Bruyelle               1-2
+    14.30  F.C. Esplechin               v Ent. Velaines Enclusienne B   7-0
+    14.30  R.A.S. Risquons-Tout Mouscro v F.C. Etoiles d'Ere B          4-4
+
+» 19. Round
+  Sun Nov/09 2025
+    14.30  Royale J.S. Wez-Guignies     v A.S. Obigies B                1-6
+
+» 20. Round
+  Sat Nov/15 2025
+    19.00  DR Rongy B                   v Ent. Velaines Enclusienne B   7-0
+
+» 21. Round
+  Sun Nov/16 2025
+    14.30  R.A.S. Risquons-Tout Mouscro v SB Stade Mouscronnois B       0-2
+    14.30  R.U.S. Herseautoise B        v A.S. Obigies B                0-1
+    14.30  A.S.C. Havinnes              v R.S.C. Bruyelle               2-1
+    14.30  F.C. Bleharies B             v U.S. Mouscronnoise            2-1
+    14.30  F.C. Esplechin               v Ren.U.S. Tournaisienne B      5-0
+    14.30  Royale J.S. Wez-Guignies     v F.C. Etoiles d'Ere B          4-1
+
+» 22. Round
+  Sun Nov/23 2025
+    14.30  SB Stade Mouscronnois B      v A.S.C. Havinnes               3-1
+    14.30  U.S. Mouscronnoise           v R.U.S. Herseautoise B         2-5
+    14.30  Ent. Velaines Enclusienne B  v Royale J.S. Wez-Guignies      0-2
+
+» 23. Round
+  Sun Nov/30 2025
+    12.30  F.C. Etoiles d'Ere B         v F.C. Esplechin                0-4
+    14.30  A.S. Obigies B               v DR Rongy B                    1-4
+    15.00  R.S.C. Bruyelle              v F.C. Bleharies B              4-1
+
+» 24. Round
+  Sun Dec/07 2025
+    14.30  Royale J.S. Wez-Guignies     v Ren.U.S. Tournaisienne B      5-1
+    14.30  F.C. Bleharies B             v A.S. Obigies B                1-2
+    14.30  F.C. Esplechin               v R.A.S. Risquons-Tout Mouscro  3-1
+    14.30  A.S.C. Havinnes              v U.S. Mouscronnoise            9-1
+    14.30  R.U.S. Herseautoise B        v Ent. Velaines Enclusienne B   6-0
+    15.00  R.S.C. Bruyelle              v SB Stade Mouscronnois B       1-2
+    15.00  DR Rongy B                   v F.C. Etoiles d'Ere B          4-1
+
+» 25. Round
+  Sun Dec/14 2025
+    14.30  R.A.S. Risquons-Tout Mouscro v Royale J.S. Wez-Guignies      
+    14.30  A.S. Obigies B               v A.S.C. Havinnes               
+    14.30  Ent. Velaines Enclusienne B  v F.C. Bleharies B              
+    14.30  Ren.U.S. Tournaisienne B     v DR Rongy B                    
+    14.30  F.C. Etoiles d'Ere B         v R.U.S. Herseautoise B         
+    14.30  U.S. Mouscronnoise           v R.S.C. Bruyelle               
+    14.30  SB Stade Mouscronnois B      v F.C. Esplechin                
+
+» 26. Round
+  Sat Dec/20 2025
+    14.30  U.S. Mouscronnoise           v SB Stade Mouscronnois B       
+
+» 27. Round
+  Sun Dec/21 2025
+    14.30  R.S.C. Bruyelle              v A.S. Obigies B                
+    14.30  DR Rongy B                   v R.A.S. Risquons-Tout Mouscro  
+    14.30  Royale J.S. Wez-Guignies     v F.C. Esplechin                
+    14.30  F.C. Bleharies B             v F.C. Etoiles d'Ere B          
+    14.30  A.S.C. Havinnes              v Ent. Velaines Enclusienne B   
+    14.30  R.U.S. Herseautoise B        v Ren.U.S. Tournaisienne B      
+
+» 28. Round
+  Sun Jan/11 2026
+    14.30  Ren.U.S. Tournaisienne B     v R.A.S. Risquons-Tout Mouscro  
+
+» 29. Round
+  Sun Jan/18 2026
+    15.00  Ren.U.S. Tournaisienne B     v F.C. Bleharies B              
+    15.00  F.C. Esplechin               v DR Rongy B                    
+    15.00  SB Stade Mouscronnois B      v Royale J.S. Wez-Guignies      
+    15.00  F.C. Etoiles d'Ere B         v A.S.C. Havinnes               
+    15.00  A.S. Obigies B               v U.S. Mouscronnoise            
+    15.00  R.A.S. Risquons-Tout Mouscro v R.U.S. Herseautoise B         
+    15.00  Ent. Velaines Enclusienne B  v R.S.C. Bruyelle               
+
+» 30. Round
+  Sat Jan/24 2026
+    20.00  DR Rongy B                   v Royale J.S. Wez-Guignies      
+
+» 31. Round
+  Sun Jan/25 2026
+    15.00  F.C. Bleharies B             v R.A.S. Risquons-Tout Mouscro  
+    15.00  R.S.C. Bruyelle              v F.C. Etoiles d'Ere B          
+    15.00  U.S. Mouscronnoise           v Ent. Velaines Enclusienne B   
+    15.00  A.S.C. Havinnes              v Ren.U.S. Tournaisienne B      
+    15.00  A.S. Obigies B               v SB Stade Mouscronnois B       
+    15.00  R.U.S. Herseautoise B        v F.C. Esplechin                
+
+» 32. Round
+  Sun Feb/01 2026
+    15.00  Royale J.S. Wez-Guignies     v R.U.S. Herseautoise B         
+    15.00  SB Stade Mouscronnois B      v DR Rongy B                    
+    15.00  F.C. Etoiles d'Ere B         v U.S. Mouscronnoise            
+    15.00  Ent. Velaines Enclusienne B  v A.S. Obigies B                
+    15.00  Ren.U.S. Tournaisienne B     v R.S.C. Bruyelle               
+    15.00  R.A.S. Risquons-Tout Mouscro v A.S.C. Havinnes               
+    15.00  F.C. Esplechin               v F.C. Bleharies B              
+
+» 33. Round
+  Sun Feb/08 2026
+    15.00  A.S.C. Havinnes              v F.C. Esplechin                
+    15.00  Ent. Velaines Enclusienne B  v SB Stade Mouscronnois B       
+    15.00  R.S.C. Bruyelle              v R.A.S. Risquons-Tout Mouscro  
+    15.00  U.S. Mouscronnoise           v Ren.U.S. Tournaisienne B      
+    15.00  F.C. Bleharies B             v Royale J.S. Wez-Guignies      
+    15.00  R.U.S. Herseautoise B        v DR Rongy B                    
+    15.00  A.S. Obigies B               v F.C. Etoiles d'Ere B          
+
+» 34. Round
+  Sat Feb/21 2026
+    20.00  DR Rongy B                   v F.C. Bleharies B              
+
+» 35. Round
+  Sun Feb/22 2026
+    15.00  Ren.U.S. Tournaisienne B     v A.S. Obigies B                
+    15.00  F.C. Esplechin               v R.S.C. Bruyelle               
+    15.00  SB Stade Mouscronnois B      v R.U.S. Herseautoise B         
+    15.00  Royale J.S. Wez-Guignies     v A.S.C. Havinnes               
+    15.00  R.A.S. Risquons-Tout Mouscro v U.S. Mouscronnoise            
+    15.00  F.C. Etoiles d'Ere B         v Ent. Velaines Enclusienne B   
+
+» 36. Round
+  Sun Mar/01 2026
+    15.00  Ent. Velaines Enclusienne B  v Ren.U.S. Tournaisienne B      
+    15.00  F.C. Bleharies B             v R.U.S. Herseautoise B         
+    15.00  F.C. Etoiles d'Ere B         v SB Stade Mouscronnois B       
+    15.00  R.S.C. Bruyelle              v Royale J.S. Wez-Guignies      
+    15.00  U.S. Mouscronnoise           v F.C. Esplechin                
+    15.00  A.S.C. Havinnes              v DR Rongy B                    
+    15.00  A.S. Obigies B               v R.A.S. Risquons-Tout Mouscro  
+
+» 37. Round
+  Sat Mar/07 2026
+    20.00  DR Rongy B                   v R.S.C. Bruyelle               
+
+» 38. Round
+  Sun Mar/08 2026
+    15.00  Ren.U.S. Tournaisienne B     v F.C. Etoiles d'Ere B          
+    15.00  R.A.S. Risquons-Tout Mouscro v Ent. Velaines Enclusienne B   
+    15.00  SB Stade Mouscronnois B      v F.C. Bleharies B              
+    15.00  R.U.S. Herseautoise B        v A.S.C. Havinnes               
+    15.00  F.C. Esplechin               v A.S. Obigies B                
+    15.00  Royale J.S. Wez-Guignies     v U.S. Mouscronnoise            
+
+» 39. Round
+  Sun Mar/22 2026
+    15.00  Ent. Velaines Enclusienne B  v F.C. Esplechin                
+    15.00  A.S. Obigies B               v Royale J.S. Wez-Guignies      
+    15.00  U.S. Mouscronnoise           v DR Rongy B                    
+    15.00  R.S.C. Bruyelle              v R.U.S. Herseautoise B         
+    15.00  A.S.C. Havinnes              v F.C. Bleharies B              
+    15.00  F.C. Etoiles d'Ere B         v R.A.S. Risquons-Tout Mouscro  
+    15.00  Ren.U.S. Tournaisienne B     v SB Stade Mouscronnois B       
+
+» 40. Round
+  Sun Apr/19 2026
+    15.00  A.S.C. Havinnes              v SB Stade Mouscronnois B       
+    15.00  F.C. Bleharies B             v R.S.C. Bruyelle               
+    15.00  F.C. Esplechin               v F.C. Etoiles d'Ere B          
+    15.00  Royale J.S. Wez-Guignies     v Ent. Velaines Enclusienne B   
+    15.00  R.U.S. Herseautoise B        v U.S. Mouscronnoise            
+    15.00  DR Rongy B                   v A.S. Obigies B                
+    15.00  R.A.S. Risquons-Tout Mouscro v Ren.U.S. Tournaisienne B      
+
+» 41. Round
+  Sun Apr/26 2026
+    15.00  Ren.U.S. Tournaisienne B     v F.C. Esplechin                
+    15.00  Ent. Velaines Enclusienne B  v DR Rongy B                    
+    15.00  SB Stade Mouscronnois B      v R.A.S. Risquons-Tout Mouscro  
+    15.00  R.S.C. Bruyelle              v A.S.C. Havinnes               
+    15.00  F.C. Etoiles d'Ere B         v Royale J.S. Wez-Guignies      
+    15.00  U.S. Mouscronnoise           v F.C. Bleharies B              
+    15.00  A.S. Obigies B               v R.U.S. Herseautoise B         

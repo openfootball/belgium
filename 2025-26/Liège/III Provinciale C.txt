@@ -1,0 +1,342 @@
+= III Provinciale C
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    19.00  R.A. Fouron FC               v R. Oupeye FC A                1-5
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  R. Cornesse F.C. A           v R.E.SP. Dalhemoise B          2-3
+    15.30  R.Ent. Blegnytoise B         v R.F.C. Charneux A             2-2
+    16.00  R. Herve FC. B               v R.ESP. Minerois B             1-3
+    16.00  R.ST. F.C. Andrimont A       v F.C. Entente Pepine           1-0
+    16.00  UN. Roclenge Wonck A         v R.F.C. Warsage B              2-0
+    16.00  R.J.S. Olnoise A             v RJS Chênéenne A               1-0
+    16.00  JS. Vivegnis                 v R.F.C. Soumagne A             1-2
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  R.F.C. Charneux A            v JS. Vivegnis                  1-3
+    15.00  R.F.C. Soumagne A            v R. Cornesse F.C. A            0-3
+    15.00  F.C. Entente Pepine          v R.A. Fouron FC                2-0
+    16.00  R.ESP. Minerois B            v R.ST. F.C. Andrimont A        0-3
+    16.00  R.E.SP. Dalhemoise B         v R.J.S. Olnoise A              4-1
+    16.00  R. Oupeye FC A               v R.Ent. Blegnytoise B          1-2
+    16.00  R.F.C. Warsage B             v R. Herve FC. B                4-2
+    16.00  RJS Chênéenne A              v UN. Roclenge Wonck A          3-0
+
+» 4. Round
+  Sun Sep/07 2025
+    14.30  R.Ent. Blegnytoise B         v F.C. Entente Pepine           0-2
+    15.00  R.A. Fouron FC               v R.ESP. Minerois B             3-6
+    15.00  R.ST. F.C. Andrimont A       v R.F.C. Warsage B              2-1
+    15.00  UN. Roclenge Wonck A         v R. Herve FC. B                2-1
+    15.00  RJS Chênéenne A              v R.E.SP. Dalhemoise B          2-2
+    15.00  JS. Vivegnis                 v R. Oupeye FC A                3-2
+    15.00  R. Cornesse F.C. A           v R.F.C. Charneux A             2-0
+    15.00  R.J.S. Olnoise A             v R.F.C. Soumagne A             1-2
+
+» 5. Round
+  Sun Sep/14 2025
+    14.30  R.F.C. Warsage B             v R.A. Fouron FC                2-3
+    15.00  R. Oupeye FC A               v R. Cornesse F.C. A            2-1
+    15.00  R.F.C. Soumagne A            v RJS Chênéenne A               4-0
+    15.00  F.C. Entente Pepine          v JS. Vivegnis                  1-1
+    15.00  R.F.C. Charneux A            v R.J.S. Olnoise A              1-1
+    15.00  R.ESP. Minerois B            v R.Ent. Blegnytoise B          2-4
+    15.00  R.E.SP. Dalhemoise B         v UN. Roclenge Wonck A          1-3
+    15.00  R. Herve FC. B               v R.ST. F.C. Andrimont A        0-3
+
+» 6. Round
+  Sun Sep/21 2025
+    14.30  R.Ent. Blegnytoise B         v R.F.C. Warsage B              4-3
+    15.00  R.E.SP. Dalhemoise B         v R.F.C. Soumagne A             0-0
+    15.00  R. Cornesse F.C. A           v F.C. Entente Pepine           1-0
+    15.00  RJS Chênéenne A              v R.F.C. Charneux A             3-3
+    15.00  R.A. Fouron FC               v R. Herve FC. B                3-3
+    15.00  UN. Roclenge Wonck A         v R.ST. F.C. Andrimont A        1-1
+    15.00  R.J.S. Olnoise A             v R. Oupeye FC A                2-0
+    15.00  JS. Vivegnis                 v R.ESP. Minerois B             2-0
+
+» 7. Round
+  Sun Sep/28 2025
+    14.30  R.F.C. Warsage B             v JS. Vivegnis                  0-3
+    15.00  R.ESP. Minerois B            v R. Cornesse F.C. A            1-4
+    15.00  R.ST. F.C. Andrimont A       v R.A. Fouron FC                3-1
+    15.00  R. Oupeye FC A               v RJS Chênéenne A               2-1
+    15.00  R.F.C. Soumagne A            v UN. Roclenge Wonck A          0-1
+    15.00  R.F.C. Charneux A            v R.E.SP. Dalhemoise B          2-4
+    15.00  F.C. Entente Pepine          v R.J.S. Olnoise A              1-0
+    15.00  R. Herve FC. B               v R.Ent. Blegnytoise B          0-2
+
+» 8. Round
+  Sun Oct/05 2025
+    15.00  R.E.SP. Dalhemoise B         v R. Oupeye FC A                1-2
+    15.00  R. Cornesse F.C. A           v R.F.C. Warsage B              6-2
+    15.00  RJS Chênéenne A              v F.C. Entente Pepine           3-1
+    15.00  R.Ent. Blegnytoise B         v R.ST. F.C. Andrimont A        2-3
+    15.00  R.F.C. Soumagne A            v R.F.C. Charneux A             2-2
+    15.00  JS. Vivegnis                 v R. Herve FC. B                2-2
+    15.00  UN. Roclenge Wonck A         v R.A. Fouron FC                5-2
+    15.00  R.J.S. Olnoise A             v R.ESP. Minerois B             1-3
+
+» 9. Round
+  Sun Oct/12 2025
+    14.30  R.F.C. Warsage B             v R.J.S. Olnoise A              4-2
+    15.00  R.ESP. Minerois B            v RJS Chênéenne A               2-3
+    15.00  R. Herve FC. B               v R. Cornesse F.C. A            1-1
+    15.00  R.A. Fouron FC               v R.Ent. Blegnytoise B          2-5
+    15.00  F.C. Entente Pepine          v R.E.SP. Dalhemoise B          2-4
+    15.00  R. Oupeye FC A               v R.F.C. Soumagne A             3-3
+    15.00  R.F.C. Charneux A            v UN. Roclenge Wonck A          0-2
+    15.00  R.ST. F.C. Andrimont A       v JS. Vivegnis                  2-2
+
+» 10. Round
+  Sun Oct/19 2025
+    14.30  R.F.C. Charneux A            v R. Oupeye FC A                1-0
+    15.00  R.F.C. Soumagne A            v F.C. Entente Pepine           1-1
+    15.00  R. Cornesse F.C. A           v R.ST. F.C. Andrimont A        2-2
+    15.00  RJS Chênéenne A              v R.F.C. Warsage B              0-0
+    15.00  JS. Vivegnis                 v R.A. Fouron FC                2-2
+    15.00  R.J.S. Olnoise A             v R. Herve FC. B                3-1
+    15.00  UN. Roclenge Wonck A         v R.Ent. Blegnytoise B          0-0
+    15.00  R.E.SP. Dalhemoise B         v R.ESP. Minerois B             2-1
+
+» 11. Round
+  Sun Oct/26 2025
+    14.30  R.Ent. Blegnytoise B         v JS. Vivegnis                  1-2
+    14.30  F.C. Entente Pepine          v R.F.C. Charneux A             3-1
+    14.30  R. Oupeye FC A               v UN. Roclenge Wonck A          1-1
+    14.30  R.ESP. Minerois B            v R.F.C. Soumagne A             4-5
+    14.30  R.A. Fouron FC               v R. Cornesse F.C. A            4-6
+    14.30  R.ST. F.C. Andrimont A       v R.J.S. Olnoise A              5-0
+    14.30  R.F.C. Warsage B             v R.E.SP. Dalhemoise B          4-1
+    14.30  R. Herve FC. B               v RJS Chênéenne A               2-2
+
+» 12. Round
+  Sun Nov/02 2025
+    14.30  R.J.S. Olnoise A             v R.A. Fouron FC                4-0
+    14.30  R.F.C. Charneux A            v R.ESP. Minerois B             0-0
+    14.30  R.F.C. Soumagne A            v R.F.C. Warsage B              4-1
+    14.30  R.E.SP. Dalhemoise B         v R. Herve FC. B                3-1
+    14.30  R. Oupeye FC A               v F.C. Entente Pepine           4-3
+    14.30  UN. Roclenge Wonck A         v JS. Vivegnis                  2-1
+    14.30  RJS Chênéenne A              v R.ST. F.C. Andrimont A        1-2
+    14.30  R. Cornesse F.C. A           v R.Ent. Blegnytoise B          5-2
+
+» 13. Round
+  Sun Nov/09 2025
+    14.00  R.F.C. Warsage B             v R.F.C. Charneux A             0-1
+    14.30  F.C. Entente Pepine          v UN. Roclenge Wonck A          2-0
+    14.30  R. Herve FC. B               v R.F.C. Soumagne A             1-2
+    14.30  R.Ent. Blegnytoise B         v R.J.S. Olnoise A              0-1
+    14.30  R.A. Fouron FC               v RJS Chênéenne A               2-3
+    14.30  R.ESP. Minerois B            v R. Oupeye FC A                1-2
+    14.30  R.ST. F.C. Andrimont A       v R.E.SP. Dalhemoise B          6-2
+    14.30  JS. Vivegnis                 v R. Cornesse F.C. A            2-3
+
+» 14. Round
+  Sun Nov/16 2025
+    14.30  R.F.C. Soumagne A            v R.ST. F.C. Andrimont A        0-1
+    14.30  F.C. Entente Pepine          v R.ESP. Minerois B             5-3
+    14.30  RJS Chênéenne A              v R.Ent. Blegnytoise B          2-1
+    14.30  R.F.C. Charneux A            v R. Herve FC. B                3-1
+    14.30  R.J.S. Olnoise A             v JS. Vivegnis                  4-0
+    14.30  R.E.SP. Dalhemoise B         v R.A. Fouron FC                1-1
+    14.30  R. Oupeye FC A               v R.F.C. Warsage B              2-0
+    14.30  UN. Roclenge Wonck A         v R. Cornesse F.C. A            1-3
+
+» 15. Round
+  Sun Nov/23 2025
+    14.00  R.F.C. Warsage B             v F.C. Entente Pepine           1-1
+    14.30  R. Herve FC. B               v R. Oupeye FC A                2-1
+    14.30  R.A. Fouron FC               v R.F.C. Soumagne A             0-3
+    14.30  JS. Vivegnis                 v RJS Chênéenne A               4-2
+    14.30  R.Ent. Blegnytoise B         v R.E.SP. Dalhemoise B          1-1
+    14.30  UN. Roclenge Wonck A         v R.ESP. Minerois B             1-0
+    14.30  R.ST. F.C. Andrimont A       v R.F.C. Charneux A             3-0
+    14.30  R. Cornesse F.C. A           v R.J.S. Olnoise A              1-4
+
+» 16. Round
+  Sat Nov/29 2025
+    20.30  R.ESP. Minerois B            v R.F.C. Warsage B              2-2
+
+» 17. Round
+  Sun Nov/30 2025
+    14.30  R.J.S. Olnoise A             v UN. Roclenge Wonck A          5-2
+    14.30  F.C. Entente Pepine          v R. Herve FC. B                0-0
+    14.30  R.F.C. Charneux A            v R.A. Fouron FC                4-0
+    14.30  R. Oupeye FC A               v R.ST. F.C. Andrimont A        1-2
+    14.30  R.E.SP. Dalhemoise B         v JS. Vivegnis                  0-2
+    14.30  R.F.C. Soumagne A            v R.Ent. Blegnytoise B          3-1
+    14.30  RJS Chênéenne A              v R. Cornesse F.C. A            0-3
+
+» 18. Round
+  Sun Dec/07 2025
+    14.00  R.F.C. Warsage B             v UN. Roclenge Wonck A          1-1
+    14.30  RJS Chênéenne A              v R.J.S. Olnoise A              1-2
+    14.30  R.F.C. Soumagne A            v JS. Vivegnis                  1-0
+    14.30  R. Oupeye FC A               v R.A. Fouron FC                1-0
+    14.30  R.ESP. Minerois B            v R. Herve FC. B                7-1
+    14.30  R.F.C. Charneux A            v R.Ent. Blegnytoise B          4-2
+    14.30  F.C. Entente Pepine          v R.ST. F.C. Andrimont A        4-3
+    14.30  R.E.SP. Dalhemoise B         v R. Cornesse F.C. A            4-2
+
+» 19. Round
+  Sun Dec/14 2025
+    14.30  R.ST. F.C. Andrimont A       v R.ESP. Minerois B             
+    14.30  R.J.S. Olnoise A             v R.E.SP. Dalhemoise B          
+    14.30  R.Ent. Blegnytoise B         v R. Oupeye FC A                
+    14.30  UN. Roclenge Wonck A         v RJS Chênéenne A               
+    14.30  R. Herve FC. B               v R.F.C. Warsage B              
+    14.30  R.A. Fouron FC               v F.C. Entente Pepine           
+    14.30  JS. Vivegnis                 v R.F.C. Charneux A             
+    14.30  R. Cornesse F.C. A           v R.F.C. Soumagne A             
+
+» 20. Round
+  Sun Dec/21 2025
+    14.00  R.F.C. Warsage B             v R.ST. F.C. Andrimont A        
+    14.30  R.F.C. Charneux A            v R. Cornesse F.C. A            
+    14.30  R. Oupeye FC A               v JS. Vivegnis                  
+    14.30  R.F.C. Soumagne A            v R.J.S. Olnoise A              
+    14.30  F.C. Entente Pepine          v R.Ent. Blegnytoise B          
+    14.30  R.E.SP. Dalhemoise B         v RJS Chênéenne A               
+    14.30  R. Herve FC. B               v UN. Roclenge Wonck A          
+    14.30  R.ESP. Minerois B            v R.A. Fouron FC                
+
+» 21. Round
+  Sun Jan/18 2026
+    14.30  R.J.S. Olnoise A             v R.F.C. Charneux A             
+    14.30  RJS Chênéenne A              v R.F.C. Soumagne A             
+    14.30  R.ST. F.C. Andrimont A       v R. Herve FC. B                
+    14.30  R.A. Fouron FC               v R.F.C. Warsage B              
+    14.30  UN. Roclenge Wonck A         v R.E.SP. Dalhemoise B          
+    14.30  R. Cornesse F.C. A           v R. Oupeye FC A                
+    14.30  R.Ent. Blegnytoise B         v R.ESP. Minerois B             
+    14.30  JS. Vivegnis                 v F.C. Entente Pepine           
+
+» 22. Round
+  Sun Jan/25 2026
+    14.30  R. Oupeye FC A               v R.J.S. Olnoise A              
+    14.30  R.F.C. Charneux A            v RJS Chênéenne A               
+    14.30  R.F.C. Soumagne A            v R.E.SP. Dalhemoise B          
+    14.30  R.ST. F.C. Andrimont A       v UN. Roclenge Wonck A          
+    14.30  R. Herve FC. B               v R.A. Fouron FC                
+    14.30  F.C. Entente Pepine          v R. Cornesse F.C. A            
+    14.30  R.F.C. Warsage B             v R.Ent. Blegnytoise B          
+    14.30  R.ESP. Minerois B            v JS. Vivegnis                  
+
+» 23. Round
+  Sun Feb/01 2026
+    15.00  UN. Roclenge Wonck A         v R.F.C. Soumagne A             
+    15.00  R.E.SP. Dalhemoise B         v R.F.C. Charneux A             
+    15.00  R.A. Fouron FC               v R.ST. F.C. Andrimont A        
+    15.00  RJS Chênéenne A              v R. Oupeye FC A                
+    15.00  R.J.S. Olnoise A             v F.C. Entente Pepine           
+    15.00  R. Cornesse F.C. A           v R.ESP. Minerois B             
+    15.00  JS. Vivegnis                 v R.F.C. Warsage B              
+    15.00  R.Ent. Blegnytoise B         v R. Herve FC. B                
+
+» 24. Round
+  Sun Feb/08 2026
+    14.30  R.F.C. Warsage B             v R. Cornesse F.C. A            
+    15.00  R.ST. F.C. Andrimont A       v R.Ent. Blegnytoise B          
+    15.00  R. Oupeye FC A               v R.E.SP. Dalhemoise B          
+    15.00  R.A. Fouron FC               v UN. Roclenge Wonck A          
+    15.00  R.ESP. Minerois B            v R.J.S. Olnoise A              
+    15.00  R. Herve FC. B               v JS. Vivegnis                  
+    15.00  F.C. Entente Pepine          v RJS Chênéenne A               
+    15.00  R.F.C. Charneux A            v R.F.C. Soumagne A             
+
+» 25. Round
+  Sun Feb/22 2026
+    15.00  UN. Roclenge Wonck A         v R.F.C. Charneux A             
+    15.00  R.E.SP. Dalhemoise B         v F.C. Entente Pepine           
+    15.00  R.Ent. Blegnytoise B         v R.A. Fouron FC                
+    15.00  R.F.C. Soumagne A            v R. Oupeye FC A                
+    15.00  JS. Vivegnis                 v R.ST. F.C. Andrimont A        
+    15.00  R.J.S. Olnoise A             v R.F.C. Warsage B              
+    15.00  RJS Chênéenne A              v R.ESP. Minerois B             
+    15.00  R. Cornesse F.C. A           v R. Herve FC. B                
+
+» 26. Round
+  Sun Mar/01 2026
+    14.30  R.F.C. Warsage B             v RJS Chênéenne A               
+    15.00  R.ESP. Minerois B            v R.E.SP. Dalhemoise B          
+    15.00  F.C. Entente Pepine          v R.F.C. Soumagne A             
+    15.00  R.Ent. Blegnytoise B         v UN. Roclenge Wonck A          
+    15.00  R. Herve FC. B               v R.J.S. Olnoise A              
+    15.00  R. Oupeye FC A               v R.F.C. Charneux A             
+    15.00  R.ST. F.C. Andrimont A       v R. Cornesse F.C. A            
+    15.00  R.A. Fouron FC               v JS. Vivegnis                  
+
+» 27. Round
+  Sun Mar/08 2026
+    15.00  R. Cornesse F.C. A           v R.A. Fouron FC                
+    15.00  RJS Chênéenne A              v R. Herve FC. B                
+    15.00  R.F.C. Soumagne A            v R.ESP. Minerois B             
+    15.00  UN. Roclenge Wonck A         v R. Oupeye FC A                
+    15.00  R.E.SP. Dalhemoise B         v R.F.C. Warsage B              
+    15.00  R.F.C. Charneux A            v F.C. Entente Pepine           
+    15.00  JS. Vivegnis                 v R.Ent. Blegnytoise B          
+    15.00  R.J.S. Olnoise A             v R.ST. F.C. Andrimont A        
+
+» 28. Round
+  Sun Mar/22 2026
+    14.30  R.F.C. Warsage B             v R.F.C. Soumagne A             
+    15.00  F.C. Entente Pepine          v R. Oupeye FC A                
+    15.00  R.ST. F.C. Andrimont A       v RJS Chênéenne A               
+    15.00  R.A. Fouron FC               v R.J.S. Olnoise A              
+    15.00  R.Ent. Blegnytoise B         v R. Cornesse F.C. A            
+    15.00  R.ESP. Minerois B            v R.F.C. Charneux A             
+    15.00  JS. Vivegnis                 v UN. Roclenge Wonck A          
+    15.00  R. Herve FC. B               v R.E.SP. Dalhemoise B          
+
+» 29. Round
+  Sun Mar/29 2026
+    15.00  UN. Roclenge Wonck A         v F.C. Entente Pepine           
+    15.00  R.F.C. Soumagne A            v R. Herve FC. B                
+    15.00  R. Cornesse F.C. A           v JS. Vivegnis                  
+    15.00  R.F.C. Charneux A            v R.F.C. Warsage B              
+    15.00  R.E.SP. Dalhemoise B         v R.ST. F.C. Andrimont A        
+    15.00  R. Oupeye FC A               v R.ESP. Minerois B             
+    15.00  R.J.S. Olnoise A             v R.Ent. Blegnytoise B          
+    15.00  RJS Chênéenne A              v R.A. Fouron FC                
+
+» 30. Round
+  Sun Apr/12 2026
+    14.30  R.F.C. Warsage B             v R. Oupeye FC A                
+    15.00  JS. Vivegnis                 v R.J.S. Olnoise A              
+    15.00  R.A. Fouron FC               v R.E.SP. Dalhemoise B          
+    15.00  R.ESP. Minerois B            v F.C. Entente Pepine           
+    15.00  R. Herve FC. B               v R.F.C. Charneux A             
+    15.00  R.ST. F.C. Andrimont A       v R.F.C. Soumagne A             
+    15.00  R. Cornesse F.C. A           v UN. Roclenge Wonck A          
+    15.00  R.Ent. Blegnytoise B         v RJS Chênéenne A               
+
+» 31. Round
+  Sun Apr/19 2026
+    15.00  R.F.C. Charneux A            v R.ST. F.C. Andrimont A        
+    15.00  RJS Chênéenne A              v JS. Vivegnis                  
+    15.00  R.F.C. Soumagne A            v R.A. Fouron FC                
+    15.00  R. Oupeye FC A               v R. Herve FC. B                
+    15.00  R.J.S. Olnoise A             v R. Cornesse F.C. A            
+    15.00  F.C. Entente Pepine          v R.F.C. Warsage B              
+    15.00  R.ESP. Minerois B            v UN. Roclenge Wonck A          
+    15.00  R.E.SP. Dalhemoise B         v R.Ent. Blegnytoise B          
+
+» 32. Round
+  Sun Apr/26 2026
+    15.00  UN. Roclenge Wonck A         v R.J.S. Olnoise A              
+    15.00  R.A. Fouron FC               v R.F.C. Charneux A             
+    15.00  R.F.C. Warsage B             v R.ESP. Minerois B             
+    15.00  JS. Vivegnis                 v R.E.SP. Dalhemoise B          
+    15.00  R.Ent. Blegnytoise B         v R.F.C. Soumagne A             
+    15.00  R. Cornesse F.C. A           v RJS Chênéenne A               
+    15.00  R.ST. F.C. Andrimont A       v R. Oupeye FC A                
+    15.00  R. Herve FC. B               v F.C. Entente Pepine           

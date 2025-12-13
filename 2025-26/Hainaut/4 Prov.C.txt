@@ -1,0 +1,302 @@
+= 4 Prov.C
+
+# Date       Thu Aug/21 2025 - Sun Apr/26 2026 (249d)
+# Teams      14
+# Matches    182
+
+
+» 1. Round
+  Thu Aug/21 2025
+    19.00  F.C. Houtaing                v J.S. Meslin-Grand Marais B    0-3
+    19.30  J.S. Isièroise B             v A.S. Vaudignies B             1-1
+
+» 2. Round
+  Sat Aug/23 2025
+    19.30  R.U.S. Flobecquoise          v R.S.C. Naastois B             1-5
+
+» 3. Round
+  Sun Aug/24 2025
+    15.00  R. Entente Mons Nord B       v R.F.C. Ellezelles B           0-7
+    15.00  R.F.C. Ecaussinnois B        v FC Wodecq                     5-1
+    15.00  R.E.S.C. Horrues             v R.C.S. Lensois                3-0
+    15.00  F.C. Casteau B               v F.C. Vacresse B               4-0
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  A.S. Vaudignies B            v R.F.C. Ecaussinnois B         2-0
+    15.00  R.F.C. Ellezelles B          v R.U.S. Flobecquoise           1-0
+    15.00  R.S.C. Naastois B            v F.C. Casteau B                3-0
+    15.00  F.C. Vacresse B              v R.E.S.C. Horrues              1-5
+    15.00  R.C.S. Lensois               v J.S. Isièroise B              1-2
+    15.00  FC Wodecq                    v F.C. Houtaing                 2-1
+    15.00  J.S. Meslin-Grand Marais B   v R. Entente Mons Nord B        3-2
+
+» 5. Round
+  Sat Sep/06 2025
+    19.30  R.U.S. Flobecquoise          v J.S. Meslin-Grand Marais B    1-0
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  F.C. Houtaing                v A.S. Vaudignies B             
+    15.00  R.S.C. Naastois B            v R.F.C. Ellezelles B           3-0
+    15.00  J.S. Isièroise B             v F.C. Vacresse B               4-3
+    15.00  R.F.C. Ecaussinnois B        v R.C.S. Lensois                4-1
+    15.00  F.C. Casteau B               v R.E.S.C. Horrues              0-1
+    15.00  R. Entente Mons Nord B       v FC Wodecq                     0-3
+
+» 7. Round
+  Sun Sep/14 2025
+    15.00  J.S. Meslin-Grand Marais B   v R.S.C. Naastois B             0-1
+    15.00  F.C. Vacresse B              v R.F.C. Ecaussinnois B         2-4
+    15.00  R.E.S.C. Horrues             v J.S. Isièroise B              6-1
+    15.00  R.C.S. Lensois               v F.C. Houtaing                 3-2
+    15.00  FC Wodecq                    v R.U.S. Flobecquoise           2-0
+    15.00  A.S. Vaudignies B            v R. Entente Mons Nord B        0-1
+    15.00  R.F.C. Ellezelles B          v F.C. Casteau B                3-2
+
+» 8. Round
+  Sat Sep/20 2025
+    19.30  R.U.S. Flobecquoise          v A.S. Vaudignies B             1-4
+
+» 9. Round
+  Sun Sep/21 2025
+    15.00  R.F.C. Ellezelles B          v J.S. Meslin-Grand Marais B    4-0
+    15.00  R.F.C. Ecaussinnois B        v R.E.S.C. Horrues              3-3
+    15.00  R. Entente Mons Nord B       v R.C.S. Lensois                2-2
+    15.00  F.C. Houtaing                v F.C. Vacresse B               5-2
+    15.00  F.C. Casteau B               v J.S. Isièroise B              1-1
+    15.00  R.S.C. Naastois B            v FC Wodecq                     4-0
+
+» 10. Round
+  Sat Sep/27 2025
+    15.00  A.S. Vaudignies B            v R.S.C. Naastois B             0-1
+
+» 11. Round
+  Sun Sep/28 2025
+    15.00  R.C.S. Lensois               v R.U.S. Flobecquoise           4-0
+    15.00  J.S. Meslin-Grand Marais B   v F.C. Casteau B                2-1
+    15.00  R.E.S.C. Horrues             v F.C. Houtaing                 3-1
+    15.00  FC Wodecq                    v R.F.C. Ellezelles B           0-4
+    15.00  F.C. Vacresse B              v R. Entente Mons Nord B        2-3
+    15.00  J.S. Isièroise B             v R.F.C. Ecaussinnois B         4-2
+
+» 12. Round
+  Sat Oct/04 2025
+    19.30  R.U.S. Flobecquoise          v F.C. Vacresse B               3-1
+
+» 13. Round
+  Sun Oct/05 2025
+    15.00  F.C. Houtaing                v J.S. Isièroise B              2-4
+    15.00  R.F.C. Ellezelles B          v A.S. Vaudignies B             1-0
+    15.00  R. Entente Mons Nord B       v R.E.S.C. Horrues              2-3
+    15.00  J.S. Meslin-Grand Marais B   v FC Wodecq                     3-2
+    15.00  R.S.C. Naastois B            v R.C.S. Lensois                3-2
+    15.00  F.C. Casteau B               v R.F.C. Ecaussinnois B         3-3
+
+» 14. Round
+  Sun Oct/12 2025
+    15.00  R.F.C. Ecaussinnois B        v F.C. Houtaing                 5-2
+    15.00  R.E.S.C. Horrues             v R.U.S. Flobecquoise           
+    15.00  F.C. Vacresse B              v R.S.C. Naastois B             0-6
+    15.00  J.S. Isièroise B             v R. Entente Mons Nord B        5-1
+    15.00  R.C.S. Lensois               v R.F.C. Ellezelles B           3-1
+    15.00  FC Wodecq                    v F.C. Casteau B                3-3
+    15.00  A.S. Vaudignies B            v J.S. Meslin-Grand Marais B    1-2
+
+» 15. Round
+  Sun Oct/19 2025
+    15.00  F.C. Casteau B               v F.C. Houtaing                 2-3
+    15.00  R. Entente Mons Nord B       v R.F.C. Ecaussinnois B         0-1
+    15.00  FC Wodecq                    v A.S. Vaudignies B             1-2
+    15.00  R.S.C. Naastois B            v R.E.S.C. Horrues              
+    15.00  R.F.C. Ellezelles B          v F.C. Vacresse B               2-0
+    15.00  J.S. Meslin-Grand Marais B   v R.C.S. Lensois                2-0
+
+» 16. Round
+  Thu Oct/23 2025
+    19.30  R.U.S. Flobecquoise          v J.S. Isièroise B              2-3
+
+» 17. Round
+  Sun Oct/26 2025
+    15.00  F.C. Vacresse B              v J.S. Meslin-Grand Marais B    0-0
+    15.00  J.S. Isièroise B             v R.S.C. Naastois B             3-3
+    15.00  R.F.C. Ecaussinnois B        v R.U.S. Flobecquoise           2-0
+    15.00  F.C. Houtaing                v R. Entente Mons Nord B        5-4
+    15.00  R.E.S.C. Horrues             v R.F.C. Ellezelles B           2-1
+    15.00  A.S. Vaudignies B            v F.C. Casteau B                3-1
+    15.00  R.C.S. Lensois               v FC Wodecq                     3-2
+
+» 18. Round
+  Sun Nov/02 2025
+    14.30  FC Wodecq                    v F.C. Vacresse B               1-1
+    14.30  R.S.C. Naastois B            v R.F.C. Ecaussinnois B         2-0
+    14.30  F.C. Casteau B               v R. Entente Mons Nord B        3-2
+    14.30  R.F.C. Ellezelles B          v J.S. Isièroise B              2-1
+    14.30  J.S. Meslin-Grand Marais B   v R.E.S.C. Horrues              5-3
+    14.30  R.U.S. Flobecquoise          v F.C. Houtaing                 1-4
+    14.30  A.S. Vaudignies B            v R.C.S. Lensois                4-1
+
+» 19. Round
+  Sat Nov/15 2025
+    19.30  R.U.S. Flobecquoise          v F.C. Casteau B                3-2
+
+» 20. Round
+  Sun Nov/16 2025
+    14.30  R.C.S. Lensois               v F.C. Vacresse B               2-1
+    14.30  R.F.C. Ellezelles B          v F.C. Houtaing                 0-0
+    14.30  A.S. Vaudignies B            v R.E.S.C. Horrues              1-1
+    14.30  R.S.C. Naastois B            v R. Entente Mons Nord B        6-1
+    14.30  J.S. Meslin-Grand Marais B   v R.F.C. Ecaussinnois B         5-1
+    14.30  FC Wodecq                    v J.S. Isièroise B              4-1
+
+» 21. Round
+  Sun Nov/23 2025
+    14.30  F.C. Houtaing                v R.S.C. Naastois B             1-3
+    14.30  R.E.S.C. Horrues             v FC Wodecq                     2-1
+    14.30  R.F.C. Ecaussinnois B        v R.F.C. Ellezelles B           1-2
+    14.30  F.C. Casteau B               v R.C.S. Lensois                5-2
+    14.30  J.S. Isièroise B             v J.S. Meslin-Grand Marais B    5-5
+    14.30  R. Entente Mons Nord B       v R.U.S. Flobecquoise           2-2
+    15.00  F.C. Vacresse B              v A.S. Vaudignies B             4-5
+
+» 22. Round
+  Sun Dec/07 2025
+    14.30  FC Wodecq                    v R.F.C. Ecaussinnois B         2-1
+    14.30  R.F.C. Ellezelles B          v R. Entente Mons Nord B        3-2
+    14.30  R.C.S. Lensois               v R.E.S.C. Horrues              3-5
+    14.30  R.S.C. Naastois B            v R.U.S. Flobecquoise           1-0
+    14.30  A.S. Vaudignies B            v J.S. Isièroise B              0-2
+    14.30  J.S. Meslin-Grand Marais B   v F.C. Houtaing                 3-1
+    15.00  F.C. Vacresse B              v F.C. Casteau B                0-0
+
+» 23. Round
+  Sat Dec/13 2025
+    19.30  R.U.S. Flobecquoise          v R.F.C. Ellezelles B           
+
+» 24. Round
+  Sun Dec/14 2025
+    14.30  R.E.S.C. Horrues             v F.C. Vacresse B               
+    14.30  F.C. Casteau B               v R.S.C. Naastois B             
+    14.30  R. Entente Mons Nord B       v J.S. Meslin-Grand Marais B    
+    14.30  J.S. Isièroise B             v R.C.S. Lensois                
+    14.30  F.C. Houtaing                v FC Wodecq                     
+    14.30  R.F.C. Ecaussinnois B        v A.S. Vaudignies B             
+
+» 25. Round
+  Sun Dec/21 2025
+    14.30  FC Wodecq                    v R. Entente Mons Nord B        
+    14.30  R.F.C. Ellezelles B          v R.S.C. Naastois B             
+    14.30  R.C.S. Lensois               v R.F.C. Ecaussinnois B         
+    14.30  J.S. Meslin-Grand Marais B   v R.U.S. Flobecquoise           
+    14.30  F.C. Vacresse B              v J.S. Isièroise B              
+    14.30  R.E.S.C. Horrues             v F.C. Casteau B                
+    14.30  A.S. Vaudignies B            v F.C. Houtaing                 
+
+» 26. Round
+  Sat Jan/17 2026
+    20.00  R.U.S. Flobecquoise          v FC Wodecq                     
+
+» 27. Round
+  Sun Jan/18 2026
+    15.00  R.F.C. Ecaussinnois B        v F.C. Vacresse B               
+    15.00  F.C. Houtaing                v R.C.S. Lensois                
+    15.00  F.C. Casteau B               v R.F.C. Ellezelles B           
+    15.00  R.S.C. Naastois B            v J.S. Meslin-Grand Marais B    
+    15.00  R. Entente Mons Nord B       v A.S. Vaudignies B             
+    15.00  J.S. Isièroise B             v R.E.S.C. Horrues              
+
+» 28. Round
+  Sun Jan/25 2026
+    15.00  R.C.S. Lensois               v R. Entente Mons Nord B        
+    15.00  J.S. Isièroise B             v F.C. Casteau B                
+    15.00  FC Wodecq                    v R.S.C. Naastois B             
+    15.00  R.E.S.C. Horrues             v R.F.C. Ecaussinnois B         
+    15.00  J.S. Meslin-Grand Marais B   v R.F.C. Ellezelles B           
+    15.00  A.S. Vaudignies B            v R.U.S. Flobecquoise           
+    15.00  F.C. Vacresse B              v F.C. Houtaing                 
+
+» 29. Round
+  Sat Jan/31 2026
+    20.00  R.U.S. Flobecquoise          v R.C.S. Lensois                
+
+» 30. Round
+  Sun Feb/01 2026
+    15.00  R. Entente Mons Nord B       v F.C. Vacresse B               
+    15.00  F.C. Casteau B               v J.S. Meslin-Grand Marais B    
+    15.00  R.F.C. Ellezelles B          v FC Wodecq                     
+    15.00  F.C. Houtaing                v R.E.S.C. Horrues              
+    15.00  R.S.C. Naastois B            v A.S. Vaudignies B             
+    15.00  R.F.C. Ecaussinnois B        v J.S. Isièroise B              
+
+» 31. Round
+  Sun Feb/08 2026
+    15.00  J.S. Isièroise B             v F.C. Houtaing                 
+    15.00  A.S. Vaudignies B            v R.F.C. Ellezelles B           
+    15.00  R.E.S.C. Horrues             v R. Entente Mons Nord B        
+    15.00  FC Wodecq                    v J.S. Meslin-Grand Marais B    
+    15.00  R.C.S. Lensois               v R.S.C. Naastois B             
+    15.00  F.C. Vacresse B              v R.U.S. Flobecquoise           
+    15.00  R.F.C. Ecaussinnois B        v F.C. Casteau B                
+
+» 32. Round
+  Sat Feb/21 2026
+    20.00  R.U.S. Flobecquoise          v R.E.S.C. Horrues              
+
+» 33. Round
+  Sun Feb/22 2026
+    15.00  F.C. Casteau B               v FC Wodecq                     
+    15.00  J.S. Meslin-Grand Marais B   v A.S. Vaudignies B             
+    15.00  F.C. Houtaing                v R.F.C. Ecaussinnois B         
+    15.00  R.S.C. Naastois B            v F.C. Vacresse B               
+    15.00  R. Entente Mons Nord B       v J.S. Isièroise B              
+    15.00  R.F.C. Ellezelles B          v R.C.S. Lensois                
+
+» 34. Round
+  Sun Mar/01 2026
+    15.00  R.F.C. Ecaussinnois B        v R. Entente Mons Nord B        
+    15.00  F.C. Vacresse B              v R.F.C. Ellezelles B           
+    15.00  R.E.S.C. Horrues             v R.S.C. Naastois B             
+    15.00  R.C.S. Lensois               v J.S. Meslin-Grand Marais B    
+    15.00  J.S. Isièroise B             v R.U.S. Flobecquoise           
+    15.00  A.S. Vaudignies B            v FC Wodecq                     
+    15.00  F.C. Houtaing                v F.C. Casteau B                
+
+» 35. Round
+  Sun Mar/08 2026
+    15.00  R.F.C. Ellezelles B          v R.E.S.C. Horrues              
+    15.00  FC Wodecq                    v R.C.S. Lensois                
+    15.00  R.U.S. Flobecquoise          v R.F.C. Ecaussinnois B         
+    15.00  F.C. Casteau B               v A.S. Vaudignies B             
+    15.00  J.S. Meslin-Grand Marais B   v F.C. Vacresse B               
+    15.00  R.S.C. Naastois B            v J.S. Isièroise B              
+    15.00  R. Entente Mons Nord B       v F.C. Houtaing                 
+
+» 36. Round
+  Sun Mar/22 2026
+    15.00  J.S. Isièroise B             v R.F.C. Ellezelles B           
+    15.00  R.E.S.C. Horrues             v J.S. Meslin-Grand Marais B    
+    15.00  R.F.C. Ecaussinnois B        v R.S.C. Naastois B             
+    15.00  F.C. Houtaing                v R.U.S. Flobecquoise           
+    15.00  R.C.S. Lensois               v A.S. Vaudignies B             
+    15.00  F.C. Vacresse B              v FC Wodecq                     
+    15.00  R. Entente Mons Nord B       v F.C. Casteau B                
+
+» 37. Round
+  Sun Apr/19 2026
+    15.00  J.S. Meslin-Grand Marais B   v J.S. Isièroise B              
+    15.00  R.F.C. Ellezelles B          v R.F.C. Ecaussinnois B         
+    15.00  A.S. Vaudignies B            v F.C. Vacresse B               
+    15.00  R.S.C. Naastois B            v F.C. Houtaing                 
+    15.00  FC Wodecq                    v R.E.S.C. Horrues              
+    15.00  R.U.S. Flobecquoise          v R. Entente Mons Nord B        
+    15.00  R.C.S. Lensois               v F.C. Casteau B                
+
+» 38. Round
+  Sun Apr/26 2026
+    15.00  R. Entente Mons Nord B       v R.S.C. Naastois B             
+    15.00  J.S. Isièroise B             v FC Wodecq                     
+    15.00  R.E.S.C. Horrues             v A.S. Vaudignies B             
+    15.00  R.F.C. Ecaussinnois B        v J.S. Meslin-Grand Marais B    
+    15.00  F.C. Houtaing                v R.F.C. Ellezelles B           
+    15.00  F.C. Casteau B               v R.U.S. Flobecquoise           
+    15.00  F.C. Vacresse B              v R.C.S. Lensois                

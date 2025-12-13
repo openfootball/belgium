@@ -1,0 +1,299 @@
+= 4 Prov.E
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      14
+# Matches    182
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  R.C. Gouy                    v F.C. Snef B                   6-2
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  Trazegnies Sports B          v U.E. Chapelloise              1-1
+    15.00  Renaissance FC Carnières B   v F.C. Peronnes B               5-2
+    15.00  C.Ol. Trivières B            v La Louvière Centre B          
+    15.00  R.F.C. Ronquières-Hy 86      v Jeunesse Trazegnies A         6-0
+    15.00  A.S. Morlanwelz B            v R.U.S. Binche B               1-0
+    15.00  AJS Buvrinnes                v A.C. Le Roeulx B              1-3
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  F.C. Snef B                  v Renaissance FC Carnières B    7-1
+    15.00  U.E. Chapelloise             v A.S. Morlanwelz B             2-0
+    15.00  Jeunesse Trazegnies A        v R.C. Gouy                     1-1
+    15.00  F.C. Peronnes B              v Trazegnies Sports B           2-1
+    15.00  La Louvière Centre B         v AJS Buvrinnes                 2-7
+    15.00  R.U.S. Binche B              v C.Ol. Trivières B             7-5
+    15.00  A.C. Le Roeulx B             v R.F.C. Ronquières-Hy 86       0-4
+
+» 4. Round
+  Sat Sep/06 2025
+    20.00  R.C. Gouy                    v A.C. Le Roeulx B              10-1
+
+» 5. Round
+  Sun Sep/07 2025
+    15.00  Trazegnies Sports B          v F.C. Snef B                   2-2
+    15.00  R.U.S. Binche B              v U.E. Chapelloise              1-2
+    15.00  R.F.C. Ronquières-Hy 86      v La Louvière Centre B          13-0
+    15.00  A.S. Morlanwelz B            v F.C. Peronnes B               9-0
+    15.00  Renaissance FC Carnières B   v Jeunesse Trazegnies A         1-3
+    15.00  C.Ol. Trivières B            v AJS Buvrinnes                 1-1
+
+» 6. Round
+  Sun Sep/14 2025
+    15.00  La Louvière Centre B         v R.C. Gouy                     2-3
+    15.00  F.C. Snef B                  v A.S. Morlanwelz B             4-2
+    15.00  A.C. Le Roeulx B             v Renaissance FC Carnières B    1-0
+    15.00  F.C. Peronnes B              v R.U.S. Binche B               3-5
+    15.00  Jeunesse Trazegnies A        v Trazegnies Sports B           4-2
+    15.00  AJS Buvrinnes                v R.F.C. Ronquières-Hy 86       1-1
+    15.00  U.E. Chapelloise             v C.Ol. Trivières B             5-0
+
+» 7. Round
+  Sun Sep/21 2025
+    15.00  R.U.S. Binche B              v F.C. Snef B                   2-0
+    15.00  Trazegnies Sports B          v A.C. Le Roeulx B              4-2
+    15.00  U.E. Chapelloise             v F.C. Peronnes B               5-3
+    15.00  R.C. Gouy                    v AJS Buvrinnes                 1-0
+    15.00  Renaissance FC Carnières B   v La Louvière Centre B          4-3
+    15.00  C.Ol. Trivières B            v R.F.C. Ronquières-Hy 86       0-2
+    15.00  A.S. Morlanwelz B            v Jeunesse Trazegnies A         2-4
+
+» 8. Round
+  Sun Sep/28 2025
+    15.00  F.C. Peronnes B              v C.Ol. Trivières B             1-3
+    15.00  Jeunesse Trazegnies A        v R.U.S. Binche B               4-2
+    15.00  AJS Buvrinnes                v Renaissance FC Carnières B    5-1
+    15.00  La Louvière Centre B         v Trazegnies Sports B           1-0
+    15.00  R.F.C. Ronquières-Hy 86      v R.C. Gouy                     1-2
+    15.00  F.C. Snef B                  v U.E. Chapelloise              0-6
+    15.00  A.C. Le Roeulx B             v A.S. Morlanwelz B             0-3
+
+» 9. Round
+  Sun Oct/05 2025
+    15.00  Renaissance FC Carnières B   v R.F.C. Ronquières-Hy 86       0-5
+    15.00  A.S. Morlanwelz B            v La Louvière Centre B          3-3
+    15.00  F.C. Peronnes B              v F.C. Snef B                   0-5
+    15.00  C.Ol. Trivières B            v R.C. Gouy                     1-1
+    15.00  Trazegnies Sports B          v AJS Buvrinnes                 2-2
+    15.00  U.E. Chapelloise             v Jeunesse Trazegnies A         2-0
+    15.00  R.U.S. Binche B              v A.C. Le Roeulx B              3-0
+
+» 10. Round
+  Sun Oct/12 2025
+    15.00  F.C. Snef B                  v C.Ol. Trivières B             1-3
+    15.00  Jeunesse Trazegnies A        v F.C. Peronnes B               8-0
+    15.00  AJS Buvrinnes                v A.S. Morlanwelz B             4-3
+    15.00  R.C. Gouy                    v Renaissance FC Carnières B    1-2
+    15.00  La Louvière Centre B         v R.U.S. Binche B               1-4
+    15.00  A.C. Le Roeulx B             v U.E. Chapelloise              0-6
+    15.00  R.F.C. Ronquières-Hy 86      v Trazegnies Sports B           1-1
+
+» 11. Round
+  Sun Oct/19 2025
+    15.00  F.C. Snef B                  v Jeunesse Trazegnies A         2-5
+    15.00  R.U.S. Binche B              v AJS Buvrinnes                 1-1
+    15.00  A.S. Morlanwelz B            v R.F.C. Ronquières-Hy 86       0-3
+    15.00  U.E. Chapelloise             v La Louvière Centre B          4-0
+    15.00  F.C. Peronnes B              v A.C. Le Roeulx B              6-1
+    15.00  Trazegnies Sports B          v R.C. Gouy                     0-1
+    15.00  C.Ol. Trivières B            v Renaissance FC Carnières B    4-4
+
+» 12. Round
+  Sat Oct/25 2025
+    20.00  R.C. Gouy                    v A.S. Morlanwelz B             2-1
+
+» 13. Round
+  Sun Oct/26 2025
+    15.00  A.C. Le Roeulx B             v F.C. Snef B                   1-4
+    15.00  R.F.C. Ronquières-Hy 86      v R.U.S. Binche B               3-0
+    15.00  Renaissance FC Carnières B   v Trazegnies Sports B           1-2
+    15.00  AJS Buvrinnes                v U.E. Chapelloise              1-2
+    15.00  La Louvière Centre B         v F.C. Peronnes B               2-2
+    15.00  Jeunesse Trazegnies A        v C.Ol. Trivières B             1-1
+
+» 14. Round
+  Sun Nov/02 2025
+    14.30  Jeunesse Trazegnies A        v A.C. Le Roeulx B              10-1
+    14.30  R.U.S. Binche B              v R.C. Gouy                     1-1
+    14.30  C.Ol. Trivières B            v Trazegnies Sports B           1-5
+    14.30  F.C. Peronnes B              v AJS Buvrinnes                 1-4
+    15.00  A.S. Morlanwelz B            v Renaissance FC Carnières B    1-2
+    15.00  U.E. Chapelloise             v R.F.C. Ronquières-Hy 86       0-0
+    15.00  F.C. Snef B                  v La Louvière Centre B          4-0
+
+» 15. Round
+  Sun Nov/16 2025
+    14.30  F.C. Peronnes B              v R.C. Gouy                     3-2
+    14.30  A.C. Le Roeulx B             v La Louvière Centre B          4-3
+    14.30  R.U.S. Binche B              v Trazegnies Sports B           3-3
+    14.30  Jeunesse Trazegnies A        v AJS Buvrinnes                 1-4
+    15.00  U.E. Chapelloise             v Renaissance FC Carnières B    3-1
+    15.00  A.S. Morlanwelz B            v C.Ol. Trivières B             1-3
+    15.00  F.C. Snef B                  v R.F.C. Ronquières-Hy 86       1-3
+
+» 16. Round
+  Sat Nov/22 2025
+    20.00  R.C. Gouy                    v U.E. Chapelloise              0-2
+
+» 17. Round
+  Sun Nov/23 2025
+    14.30  R.F.C. Ronquières-Hy 86      v F.C. Peronnes B               4-1
+    14.30  C.Ol. Trivières B            v A.C. Le Roeulx B              5-0
+    14.30  La Louvière Centre B         v Jeunesse Trazegnies A         1-3
+    14.30  Renaissance FC Carnières B   v R.U.S. Binche B               2-1
+    14.30  AJS Buvrinnes                v F.C. Snef B                   3-3
+    14.30  Trazegnies Sports B          v A.S. Morlanwelz B             1-7
+
+» 18. Round
+  Sun Dec/07 2025
+    14.30  La Louvière Centre B         v C.Ol. Trivières B             1-3
+    14.30  Jeunesse Trazegnies A        v R.F.C. Ronquières-Hy 86       0-1
+    14.30  R.U.S. Binche B              v A.S. Morlanwelz B             2-4
+    14.30  A.C. Le Roeulx B             v AJS Buvrinnes                 1-4
+    14.30  F.C. Peronnes B              v Renaissance FC Carnières B    4-3
+    15.00  F.C. Snef B                  v R.C. Gouy                     4-4
+    15.00  U.E. Chapelloise             v Trazegnies Sports B           2-1
+
+» 19. Round
+  Sat Dec/13 2025
+    20.00  R.C. Gouy                    v Jeunesse Trazegnies A         
+
+» 20. Round
+  Sun Dec/14 2025
+    14.30  C.Ol. Trivières B            v R.U.S. Binche B               
+    14.30  AJS Buvrinnes                v La Louvière Centre B          5-0
+    14.30  Renaissance FC Carnières B   v F.C. Snef B                   
+    14.30  Trazegnies Sports B          v F.C. Peronnes B               
+    14.30  R.F.C. Ronquières-Hy 86      v A.C. Le Roeulx B              
+    15.00  A.S. Morlanwelz B            v U.E. Chapelloise              
+
+» 21. Round
+  Sun Dec/21 2025
+    14.30  U.E. Chapelloise             v R.U.S. Binche B               
+    14.30  F.C. Peronnes B              v A.S. Morlanwelz B             
+    14.30  Jeunesse Trazegnies A        v Renaissance FC Carnières B    
+    14.30  A.C. Le Roeulx B             v R.C. Gouy                     
+    14.30  AJS Buvrinnes                v C.Ol. Trivières B             
+    14.30  La Louvière Centre B         v R.F.C. Ronquières-Hy 86       
+    14.30  F.C. Snef B                  v Trazegnies Sports B           
+
+» 22. Round
+  Sat Jan/17 2026
+    20.00  R.C. Gouy                    v La Louvière Centre B          
+
+» 23. Round
+  Sun Jan/18 2026
+    15.00  C.Ol. Trivières B            v U.E. Chapelloise              
+    15.00  R.F.C. Ronquières-Hy 86      v AJS Buvrinnes                 
+    15.00  Renaissance FC Carnières B   v A.C. Le Roeulx B              
+    15.00  Trazegnies Sports B          v Jeunesse Trazegnies A         
+    15.00  A.S. Morlanwelz B            v F.C. Snef B                   
+    15.00  R.U.S. Binche B              v F.C. Peronnes B               
+
+» 24. Round
+  Sun Jan/25 2026
+    15.00  La Louvière Centre B         v Renaissance FC Carnières B    
+    15.00  Jeunesse Trazegnies A        v A.S. Morlanwelz B             
+    15.00  A.C. Le Roeulx B             v Trazegnies Sports B           
+    15.00  AJS Buvrinnes                v R.C. Gouy                     
+    15.00  F.C. Peronnes B              v U.E. Chapelloise              
+    15.00  R.F.C. Ronquières-Hy 86      v C.Ol. Trivières B             
+    15.00  F.C. Snef B                  v R.U.S. Binche B               
+
+» 25. Round
+  Sat Jan/31 2026
+    20.00  R.C. Gouy                    v R.F.C. Ronquières-Hy 86       
+
+» 26. Round
+  Sun Feb/01 2026
+    15.00  A.S. Morlanwelz B            v A.C. Le Roeulx B              
+    15.00  R.U.S. Binche B              v Jeunesse Trazegnies A         
+    15.00  Renaissance FC Carnières B   v AJS Buvrinnes                 
+    15.00  Trazegnies Sports B          v La Louvière Centre B          
+    15.00  C.Ol. Trivières B            v F.C. Peronnes B               
+    15.00  U.E. Chapelloise             v F.C. Snef B                   
+
+» 27. Round
+  Sat Feb/07 2026
+    20.00  R.C. Gouy                    v C.Ol. Trivières B             
+
+» 28. Round
+  Sun Feb/08 2026
+    15.00  Jeunesse Trazegnies A        v U.E. Chapelloise              
+    15.00  La Louvière Centre B         v A.S. Morlanwelz B             
+    15.00  A.C. Le Roeulx B             v R.U.S. Binche B               
+    15.00  R.F.C. Ronquières-Hy 86      v Renaissance FC Carnières B    
+    15.00  AJS Buvrinnes                v Trazegnies Sports B           
+    15.00  F.C. Snef B                  v F.C. Peronnes B               
+
+» 29. Round
+  Sat Feb/21 2026
+    15.00  A.S. Morlanwelz B            v AJS Buvrinnes                 
+
+» 30. Round
+  Sun Feb/22 2026
+    15.00  Trazegnies Sports B          v R.F.C. Ronquières-Hy 86       
+    15.00  Renaissance FC Carnières B   v R.C. Gouy                     
+    15.00  C.Ol. Trivières B            v F.C. Snef B                   
+    15.00  F.C. Peronnes B              v Jeunesse Trazegnies A         
+    15.00  U.E. Chapelloise             v A.C. Le Roeulx B              
+    15.00  R.U.S. Binche B              v La Louvière Centre B          
+
+» 31. Round
+  Sat Feb/28 2026
+    15.00  AJS Buvrinnes                v R.U.S. Binche B               
+    20.00  R.C. Gouy                    v Trazegnies Sports B           
+
+» 32. Round
+  Sun Mar/01 2026
+    15.00  Renaissance FC Carnières B   v C.Ol. Trivières B             
+    15.00  A.C. Le Roeulx B             v F.C. Peronnes B               
+    15.00  La Louvière Centre B         v U.E. Chapelloise              
+    15.00  Jeunesse Trazegnies A        v F.C. Snef B                   
+    15.00  R.F.C. Ronquières-Hy 86      v A.S. Morlanwelz B             
+
+» 33. Round
+  Sun Mar/08 2026
+    15.00  A.S. Morlanwelz B            v R.C. Gouy                     
+    15.00  U.E. Chapelloise             v AJS Buvrinnes                 
+    15.00  F.C. Peronnes B              v La Louvière Centre B          
+    15.00  C.Ol. Trivières B            v Jeunesse Trazegnies A         
+    15.00  R.U.S. Binche B              v R.F.C. Ronquières-Hy 86       
+    15.00  F.C. Snef B                  v A.C. Le Roeulx B              
+    15.00  Trazegnies Sports B          v Renaissance FC Carnières B    
+
+» 34. Round
+  Sat Mar/21 2026
+    15.00  Renaissance FC Carnières B   v A.S. Morlanwelz B             
+    20.00  R.C. Gouy                    v R.U.S. Binche B               
+
+» 35. Round
+  Sun Mar/22 2026
+    15.00  Trazegnies Sports B          v C.Ol. Trivières B             
+    15.00  R.F.C. Ronquières-Hy 86      v U.E. Chapelloise              
+    15.00  AJS Buvrinnes                v F.C. Peronnes B               
+    15.00  A.C. Le Roeulx B             v Jeunesse Trazegnies A         
+    15.00  La Louvière Centre B         v F.C. Snef B                   
+
+» 36. Round
+  Sun Apr/19 2026
+    15.00  Jeunesse Trazegnies A        v La Louvière Centre B          
+    15.00  R.U.S. Binche B              v Renaissance FC Carnières B    
+    15.00  A.S. Morlanwelz B            v Trazegnies Sports B           
+    15.00  U.E. Chapelloise             v R.C. Gouy                     
+    15.00  A.C. Le Roeulx B             v C.Ol. Trivières B             
+    15.00  F.C. Peronnes B              v R.F.C. Ronquières-Hy 86       
+    15.00  F.C. Snef B                  v AJS Buvrinnes                 
+
+» 37. Round
+  Sun Apr/26 2026
+    15.00  R.F.C. Ronquières-Hy 86      v F.C. Snef B                   
+    15.00  Trazegnies Sports B          v R.U.S. Binche B               
+    15.00  AJS Buvrinnes                v Jeunesse Trazegnies A         
+    15.00  R.C. Gouy                    v F.C. Peronnes B               
+    15.00  Renaissance FC Carnières B   v U.E. Chapelloise              
+    15.00  C.Ol. Trivières B            v A.S. Morlanwelz B             
+    15.00  La Louvière Centre B         v A.C. Le Roeulx B              

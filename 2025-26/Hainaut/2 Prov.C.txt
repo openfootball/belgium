@@ -1,0 +1,402 @@
+= 2 Prov.C
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  R. Gosselies Sports B        v R.F.C. La Buissière A         4-5
+    20.00  A.S. Fontainoise A           v R.S.A. Forchies A             0-4
+    20.00  Carolo Football Charleroi    v F.C. Mont-S-March-Collège A   3-3
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  R.U.S. Courcelloise A        v F.C. Gerpinnes A              0-1
+    15.00  F.C. Bouffioulx              v Jeunesse Sportive Team Rosel  3-1
+    15.00  E.S. Mominoise A             v S.R.J.S. Thudinienne A        3-2
+    15.00  Erpion-LL Eau d'Heure A      v R.U.S.C. Anderlues A          8-2
+    15.00  SC Farciennes A              v R.C. Marcinelle A             5-0
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  F.C. Mont-S-March-Collège A  v E.S. Mominoise A              2-1
+    15.00  R.U.S.C. Anderlues A         v R. Gosselies Sports B         1-2
+    15.00  F.C. Gerpinnes A             v A.S. Fontainoise A            4-1
+    15.00  S.R.J.S. Thudinienne A       v Erpion-LL Eau d'Heure A       2-2
+    15.00  R.F.C. La Buissière A        v R.U.S. Courcelloise A         3-2
+    15.00  R.S.A. Forchies A            v F.C. Bouffioulx               4-1
+    15.00  R.C. Marcinelle A            v Carolo Football Charleroi     1-1
+    15.00  Jeunesse Sportive Team Rosel v SC Farciennes A               1-12
+
+» 4. Round
+  Sat Sep/06 2025
+    20.00  Carolo Football Charleroi    v Jeunesse Sportive Team Rosel  5-1
+    20.00  R. Gosselies Sports B        v R.U.S. Courcelloise A         3-2
+    20.00  A.S. Fontainoise A           v R.F.C. La Buissière A         4-5
+
+» 5. Round
+  Sun Sep/07 2025
+    15.00  F.C. Bouffioulx              v F.C. Gerpinnes A              4-3
+    15.00  E.S. Mominoise A             v R.C. Marcinelle A             5-0
+    15.00  R.U.S.C. Anderlues A         v S.R.J.S. Thudinienne A        2-2
+    15.00  Erpion-LL Eau d'Heure A      v F.C. Mont-S-March-Collège A   7-2
+    15.00  SC Farciennes A              v R.S.A. Forchies A             2-1
+
+» 6. Round
+  Sun Sep/14 2025
+    15.00  R.C. Marcinelle A            v Erpion-LL Eau d'Heure A       0-1
+    15.00  F.C. Gerpinnes A             v SC Farciennes A               6-1
+    15.00  R.F.C. La Buissière A        v F.C. Bouffioulx               1-1
+    15.00  R.U.S. Courcelloise A        v A.S. Fontainoise A            2-0
+    15.00  Jeunesse Sportive Team Rosel v E.S. Mominoise A              1-6
+    15.00  R.S.A. Forchies A            v Carolo Football Charleroi     1-0
+    15.00  S.R.J.S. Thudinienne A       v R. Gosselies Sports B         3-0
+    15.00  F.C. Mont-S-March-Collège A  v R.U.S.C. Anderlues A          3-0
+
+» 7. Round
+  Sat Sep/20 2025
+    20.00  R. Gosselies Sports B        v A.S. Fontainoise A            2-1
+    20.00  Carolo Football Charleroi    v F.C. Gerpinnes A              1-2
+
+» 8. Round
+  Sun Sep/21 2025
+    15.00  E.S. Mominoise A             v R.S.A. Forchies A             1-2
+    15.00  F.C. Bouffioulx              v R.U.S. Courcelloise A         1-1
+    15.00  Erpion-LL Eau d'Heure A      v Jeunesse Sportive Team Rosel  13-0
+    15.00  SC Farciennes A              v R.F.C. La Buissière A         4-3
+    15.00  R.U.S.C. Anderlues A         v R.C. Marcinelle A             4-0
+    15.00  S.R.J.S. Thudinienne A       v F.C. Mont-S-March-Collège A   4-0
+
+» 9. Round
+  Sat Sep/27 2025
+    20.00  A.S. Fontainoise A           v F.C. Bouffioulx               3-3
+
+» 10. Round
+  Sun Sep/28 2025
+    15.00  F.C. Mont-S-March-Collège A  v R. Gosselies Sports B         1-2
+    15.00  R.C. Marcinelle A            v S.R.J.S. Thudinienne A        1-1
+    15.00  R.U.S. Courcelloise A        v SC Farciennes A               2-1
+    15.00  R.S.A. Forchies A            v Erpion-LL Eau d'Heure A       2-0
+    15.00  R.F.C. La Buissière A        v Carolo Football Charleroi     2-0
+    15.00  F.C. Gerpinnes A             v E.S. Mominoise A              2-2
+    15.00  Jeunesse Sportive Team Rosel v R.U.S.C. Anderlues A          0-5
+
+» 11. Round
+  Sat Oct/04 2025
+    20.00  R. Gosselies Sports B        v F.C. Bouffioulx               0-1
+    20.00  Carolo Football Charleroi    v R.U.S. Courcelloise A         1-6
+
+» 12. Round
+  Sun Oct/05 2025
+    15.00  E.S. Mominoise A             v R.F.C. La Buissière A         2-2
+    15.00  SC Farciennes A              v A.S. Fontainoise A            1-0
+    15.00  S.R.J.S. Thudinienne A       v Jeunesse Sportive Team Rosel  2-0
+    15.00  R.U.S.C. Anderlues A         v R.S.A. Forchies A             0-1
+    15.00  F.C. Mont-S-March-Collège A  v R.C. Marcinelle A             0-0
+    15.00  Erpion-LL Eau d'Heure A      v F.C. Gerpinnes A              1-1
+
+» 13. Round
+  Sat Oct/11 2025
+    20.00  A.S. Fontainoise A           v Carolo Football Charleroi     6-0
+
+» 14. Round
+  Sun Oct/12 2025
+    15.00  Jeunesse Sportive Team Rosel v F.C. Mont-S-March-Collège A   1-4
+    15.00  R.F.C. La Buissière A        v Erpion-LL Eau d'Heure A       1-2
+    15.00  R.U.S. Courcelloise A        v E.S. Mominoise A              4-3
+    15.00  F.C. Gerpinnes A             v R.U.S.C. Anderlues A          4-3
+    15.00  R.C. Marcinelle A            v R. Gosselies Sports B         4-3
+    15.00  F.C. Bouffioulx              v SC Farciennes A               2-2
+    15.00  R.S.A. Forchies A            v S.R.J.S. Thudinienne A        3-5
+
+» 15. Round
+  Sat Oct/18 2025
+    20.00  R. Gosselies Sports B        v SC Farciennes A               2-2
+    20.00  Carolo Football Charleroi    v F.C. Bouffioulx               0-5
+
+» 16. Round
+  Sun Oct/19 2025
+    15.00  Erpion-LL Eau d'Heure A      v R.U.S. Courcelloise A         3-1
+    15.00  F.C. Mont-S-March-Collège A  v R.S.A. Forchies A             4-1
+    15.00  S.R.J.S. Thudinienne A       v F.C. Gerpinnes A              2-2
+    15.00  R.U.S.C. Anderlues A         v R.F.C. La Buissière A         0-0
+    15.00  R.C. Marcinelle A            v Jeunesse Sportive Team Rosel  3-0
+    15.00  E.S. Mominoise A             v A.S. Fontainoise A            2-3
+
+» 17. Round
+  Sun Oct/26 2025
+    15.00  F.C. Gerpinnes A             v F.C. Mont-S-March-Collège A   2-0
+    15.00  A.S. Fontainoise A           v Erpion-LL Eau d'Heure A       1-7
+    15.00  R.F.C. La Buissière A        v S.R.J.S. Thudinienne A        2-3
+    15.00  R.U.S. Courcelloise A        v R.U.S.C. Anderlues A          1-2
+    15.00  R.S.A. Forchies A            v R.C. Marcinelle A             3-2
+    15.00  F.C. Bouffioulx              v E.S. Mominoise A              1-1
+    15.00  Jeunesse Sportive Team Rosel v R. Gosselies Sports B         0-9
+    15.00  SC Farciennes A              v Carolo Football Charleroi     3-0
+
+» 18. Round
+  Sat Nov/01 2025
+    20.00  R. Gosselies Sports B        v Carolo Football Charleroi     4-0
+
+» 19. Round
+  Sun Nov/02 2025
+    14.30  Jeunesse Sportive Team Rosel v R.S.A. Forchies A             0-9
+    14.30  E.S. Mominoise A             v SC Farciennes A               3-4
+    14.30  S.R.J.S. Thudinienne A       v R.U.S. Courcelloise A         0-1
+    14.30  R.C. Marcinelle A            v F.C. Gerpinnes A              1-2
+    14.30  F.C. Mont-S-March-Collège A  v R.F.C. La Buissière A         1-1
+    14.30  Erpion-LL Eau d'Heure A      v F.C. Bouffioulx               8-1
+    15.00  R.U.S.C. Anderlues A         v A.S. Fontainoise A            3-1
+
+» 20. Round
+  Sat Nov/08 2025
+    20.00  Carolo Football Charleroi    v E.S. Mominoise A              0-5
+    20.00  A.S. Fontainoise A           v S.R.J.S. Thudinienne A        0-2
+
+» 21. Round
+  Sun Nov/09 2025
+    14.30  F.C. Bouffioulx              v R.U.S.C. Anderlues A          1-0
+    14.30  F.C. Gerpinnes A             v Jeunesse Sportive Team Rosel  12-0
+    14.30  R.F.C. La Buissière A        v R.C. Marcinelle A             6-3
+    14.30  R.U.S. Courcelloise A        v F.C. Mont-S-March-Collège A   2-1
+    14.30  R.S.A. Forchies A            v R. Gosselies Sports B         1-1
+    14.30  SC Farciennes A              v Erpion-LL Eau d'Heure A       0-2
+
+» 22. Round
+  Sat Nov/15 2025
+    20.00  R. Gosselies Sports B        v E.S. Mominoise A              2-1
+
+» 23. Round
+  Sun Nov/16 2025
+    14.30  F.C. Mont-S-March-Collège A  v A.S. Fontainoise A            3-0
+    14.30  Jeunesse Sportive Team Rosel v R.F.C. La Buissière A         1-3
+    14.30  Erpion-LL Eau d'Heure A      v Carolo Football Charleroi     7-0
+    14.30  S.R.J.S. Thudinienne A       v F.C. Bouffioulx               7-0
+    14.30  R.C. Marcinelle A            v R.U.S. Courcelloise A         0-2
+    14.30  R.S.A. Forchies A            v F.C. Gerpinnes A              4-0
+    15.00  R.U.S.C. Anderlues A         v SC Farciennes A               3-2
+
+» 24. Round
+  Sat Nov/22 2025
+    20.00  A.S. Fontainoise A           v R.C. Marcinelle A             0-1
+    20.00  R. Gosselies Sports B        v F.C. Gerpinnes A              1-1
+    20.00  Carolo Football Charleroi    v R.U.S.C. Anderlues A          1-3
+
+» 25. Round
+  Sun Nov/23 2025
+    14.30  F.C. Bouffioulx              v F.C. Mont-S-March-Collège A   2-1
+    14.30  SC Farciennes A              v S.R.J.S. Thudinienne A        1-2
+    14.30  R.F.C. La Buissière A        v R.S.A. Forchies A             1-1
+    14.30  R.U.S. Courcelloise A        v Jeunesse Sportive Team Rosel  5-0
+
+» 26. Round
+  Sun Nov/30 2025
+    14.30  R.C. Marcinelle A            v F.C. Bouffioulx               0-1
+    14.30  Jeunesse Sportive Team Rosel v A.S. Fontainoise A            1-1
+    14.30  F.C. Gerpinnes A             v R.F.C. La Buissière A         3-2
+    14.30  S.R.J.S. Thudinienne A       v Carolo Football Charleroi     4-0
+    14.30  F.C. Mont-S-March-Collège A  v SC Farciennes A               1-2
+    14.30  R.S.A. Forchies A            v R.U.S. Courcelloise A         1-4
+    14.30  Erpion-LL Eau d'Heure A      v R. Gosselies Sports B         7-3
+    15.00  R.U.S.C. Anderlues A         v E.S. Mominoise A              3-0
+
+» 27. Round
+  Sun Dec/07 2025
+    14.30  F.C. Gerpinnes A             v R.U.S. Courcelloise A         2-4
+    14.30  R.C. Marcinelle A            v SC Farciennes A               2-1
+    14.30  S.R.J.S. Thudinienne A       v E.S. Mominoise A              2-2
+    14.30  F.C. Mont-S-March-Collège A  v Carolo Football Charleroi     1-1
+    14.30  R.S.A. Forchies A            v A.S. Fontainoise A            3-0
+    14.30  Jeunesse Sportive Team Rosel v F.C. Bouffioulx               0-2
+    14.30  R.F.C. La Buissière A        v R. Gosselies Sports B         2-2
+    15.00  R.U.S.C. Anderlues A         v Erpion-LL Eau d'Heure A       3-4
+
+» 28. Round
+  Wed Dec/10 2025
+    20.00  E.S. Mominoise A             v Erpion-LL Eau d'Heure A       0-2
+
+» 29. Round
+  Sat Dec/13 2025
+    20.00  R. Gosselies Sports B        v R.U.S.C. Anderlues A          
+    20.00  A.S. Fontainoise A           v F.C. Gerpinnes A              
+    20.00  Carolo Football Charleroi    v R.C. Marcinelle A             
+
+» 30. Round
+  Sun Dec/14 2025
+    14.30  SC Farciennes A              v Jeunesse Sportive Team Rosel  
+    14.30  E.S. Mominoise A             v F.C. Mont-S-March-Collège A   
+    14.30  Erpion-LL Eau d'Heure A      v S.R.J.S. Thudinienne A        
+    14.30  F.C. Bouffioulx              v R.S.A. Forchies A             
+    14.30  R.U.S. Courcelloise A        v R.F.C. La Buissière A         
+
+» 31. Round
+  Sun Dec/21 2025
+    14.30  R.S.A. Forchies A            v SC Farciennes A               
+    14.30  S.R.J.S. Thudinienne A       v R.U.S.C. Anderlues A          
+    14.30  F.C. Mont-S-March-Collège A  v Erpion-LL Eau d'Heure A       
+    14.30  F.C. Gerpinnes A             v F.C. Bouffioulx               
+    14.30  R.C. Marcinelle A            v E.S. Mominoise A              
+    14.30  R.F.C. La Buissière A        v A.S. Fontainoise A            
+    14.30  Jeunesse Sportive Team Rosel v Carolo Football Charleroi     
+    14.30  R.U.S. Courcelloise A        v R. Gosselies Sports B         
+
+» 32. Round
+  Sat Jan/17 2026
+    20.00  A.S. Fontainoise A           v R.U.S. Courcelloise A         
+    20.00  R. Gosselies Sports B        v S.R.J.S. Thudinienne A        
+
+» 33. Round
+  Sun Jan/18 2026
+    15.00  Erpion-LL Eau d'Heure A      v R.C. Marcinelle A             
+    15.00  E.S. Mominoise A             v Jeunesse Sportive Team Rosel  
+    15.00  R.U.S.C. Anderlues A         v F.C. Mont-S-March-Collège A   
+    15.00  F.C. Bouffioulx              v R.F.C. La Buissière A         
+    15.00  SC Farciennes A              v F.C. Gerpinnes A              
+    15.00  Carolo Football Charleroi    v R.S.A. Forchies A             
+
+» 34. Round
+  Sun Jan/25 2026
+    15.00  Jeunesse Sportive Team Rosel v Erpion-LL Eau d'Heure A       
+    15.00  A.S. Fontainoise A           v R. Gosselies Sports B         
+    15.00  R.U.S. Courcelloise A        v F.C. Bouffioulx               
+    15.00  F.C. Mont-S-March-Collège A  v S.R.J.S. Thudinienne A        
+    15.00  R.C. Marcinelle A            v R.U.S.C. Anderlues A          
+    15.00  R.S.A. Forchies A            v E.S. Mominoise A              
+    15.00  R.F.C. La Buissière A        v SC Farciennes A               
+    15.00  F.C. Gerpinnes A             v Carolo Football Charleroi     
+
+» 35. Round
+  Sat Jan/31 2026
+    20.00  R. Gosselies Sports B        v F.C. Mont-S-March-Collège A   
+    20.00  Carolo Football Charleroi    v R.F.C. La Buissière A         
+
+» 36. Round
+  Sun Feb/01 2026
+    15.00  F.C. Bouffioulx              v A.S. Fontainoise A            
+    15.00  R.U.S.C. Anderlues A         v Jeunesse Sportive Team Rosel  
+    15.00  S.R.J.S. Thudinienne A       v R.C. Marcinelle A             
+    15.00  Erpion-LL Eau d'Heure A      v R.S.A. Forchies A             
+    15.00  SC Farciennes A              v R.U.S. Courcelloise A         
+    15.00  E.S. Mominoise A             v F.C. Gerpinnes A              
+
+» 37. Round
+  Sat Feb/07 2026
+    20.00  A.S. Fontainoise A           v SC Farciennes A               
+
+» 38. Round
+  Sun Feb/08 2026
+    15.00  R.U.S. Courcelloise A        v Carolo Football Charleroi     
+    15.00  R.S.A. Forchies A            v R.U.S.C. Anderlues A          
+    15.00  R.F.C. La Buissière A        v E.S. Mominoise A              
+    15.00  R.C. Marcinelle A            v F.C. Mont-S-March-Collège A   
+    15.00  F.C. Bouffioulx              v R. Gosselies Sports B         
+    15.00  F.C. Gerpinnes A             v Erpion-LL Eau d'Heure A       
+    15.00  Jeunesse Sportive Team Rosel v S.R.J.S. Thudinienne A        
+
+» 39. Round
+  Sat Feb/21 2026
+    15.00  R.U.S.C. Anderlues A         v F.C. Gerpinnes A              
+    20.00  Carolo Football Charleroi    v A.S. Fontainoise A            
+    20.00  R. Gosselies Sports B        v R.C. Marcinelle A             
+
+» 40. Round
+  Sun Feb/22 2026
+    15.00  E.S. Mominoise A             v R.U.S. Courcelloise A         
+    15.00  SC Farciennes A              v F.C. Bouffioulx               
+    15.00  F.C. Mont-S-March-Collège A  v Jeunesse Sportive Team Rosel  
+    15.00  Erpion-LL Eau d'Heure A      v R.F.C. La Buissière A         
+    15.00  S.R.J.S. Thudinienne A       v R.S.A. Forchies A             
+
+» 41. Round
+  Sat Feb/28 2026
+    15.00  R.S.A. Forchies A            v F.C. Mont-S-March-Collège A   
+    20.00  A.S. Fontainoise A           v E.S. Mominoise A              
+
+» 42. Round
+  Sun Mar/01 2026
+    15.00  R.F.C. La Buissière A        v R.U.S.C. Anderlues A          
+    15.00  Jeunesse Sportive Team Rosel v R.C. Marcinelle A             
+    15.00  SC Farciennes A              v R. Gosselies Sports B         
+    15.00  F.C. Bouffioulx              v Carolo Football Charleroi     
+    15.00  F.C. Gerpinnes A             v S.R.J.S. Thudinienne A        
+    15.00  R.U.S. Courcelloise A        v Erpion-LL Eau d'Heure A       
+
+» 43. Round
+  Sat Mar/07 2026
+    20.00  Carolo Football Charleroi    v SC Farciennes A               
+    20.00  R. Gosselies Sports B        v Jeunesse Sportive Team Rosel  
+
+» 44. Round
+  Sun Mar/08 2026
+    15.00  Erpion-LL Eau d'Heure A      v A.S. Fontainoise A            
+    15.00  S.R.J.S. Thudinienne A       v R.F.C. La Buissière A         
+    15.00  R.C. Marcinelle A            v R.S.A. Forchies A             
+    15.00  F.C. Mont-S-March-Collège A  v F.C. Gerpinnes A              
+    15.00  E.S. Mominoise A             v F.C. Bouffioulx               
+    15.00  R.U.S.C. Anderlues A         v R.U.S. Courcelloise A         
+
+» 45. Round
+  Sat Mar/21 2026
+    20.00  A.S. Fontainoise A           v R.U.S.C. Anderlues A          
+    20.00  Carolo Football Charleroi    v R. Gosselies Sports B         
+
+» 46. Round
+  Sun Mar/22 2026
+    15.00  R.U.S. Courcelloise A        v S.R.J.S. Thudinienne A        
+    15.00  F.C. Gerpinnes A             v R.C. Marcinelle A             
+    15.00  SC Farciennes A              v E.S. Mominoise A              
+    15.00  F.C. Bouffioulx              v Erpion-LL Eau d'Heure A       
+    15.00  R.F.C. La Buissière A        v F.C. Mont-S-March-Collège A   
+    15.00  R.S.A. Forchies A            v Jeunesse Sportive Team Rosel  
+
+» 47. Round
+  Sat Mar/28 2026
+    20.00  R. Gosselies Sports B        v R.S.A. Forchies A             
+
+» 48. Round
+  Sun Mar/29 2026
+    15.00  S.R.J.S. Thudinienne A       v A.S. Fontainoise A            
+    15.00  Jeunesse Sportive Team Rosel v F.C. Gerpinnes A              
+    15.00  Erpion-LL Eau d'Heure A      v SC Farciennes A               
+    15.00  F.C. Mont-S-March-Collège A  v R.U.S. Courcelloise A         
+    15.00  R.C. Marcinelle A            v R.F.C. La Buissière A         
+    15.00  E.S. Mominoise A             v Carolo Football Charleroi     
+    15.00  R.U.S.C. Anderlues A         v F.C. Bouffioulx               
+
+» 49. Round
+  Sat Apr/11 2026
+    20.00  A.S. Fontainoise A           v F.C. Mont-S-March-Collège A   
+    20.00  Carolo Football Charleroi    v Erpion-LL Eau d'Heure A       
+
+» 50. Round
+  Sun Apr/12 2026
+    15.00  F.C. Gerpinnes A             v R.S.A. Forchies A             
+    15.00  SC Farciennes A              v R.U.S.C. Anderlues A          
+    15.00  E.S. Mominoise A             v R. Gosselies Sports B         
+    15.00  R.F.C. La Buissière A        v Jeunesse Sportive Team Rosel  
+    15.00  R.U.S. Courcelloise A        v R.C. Marcinelle A             
+    15.00  F.C. Bouffioulx              v S.R.J.S. Thudinienne A        
+
+» 51. Round
+  Sun Apr/19 2026
+    15.00  R.S.A. Forchies A            v R.F.C. La Buissière A         
+    15.00  Erpion-LL Eau d'Heure A      v E.S. Mominoise A              
+    15.00  F.C. Gerpinnes A             v R. Gosselies Sports B         
+    15.00  S.R.J.S. Thudinienne A       v SC Farciennes A               
+    15.00  R.C. Marcinelle A            v A.S. Fontainoise A            
+    15.00  R.U.S.C. Anderlues A         v Carolo Football Charleroi     
+    15.00  Jeunesse Sportive Team Rosel v R.U.S. Courcelloise A         
+    15.00  F.C. Mont-S-March-Collège A  v F.C. Bouffioulx               
+
+» 52. Round
+  Sun Apr/26 2026
+    15.00  SC Farciennes A              v F.C. Mont-S-March-Collège A   
+    15.00  Carolo Football Charleroi    v S.R.J.S. Thudinienne A        
+    15.00  E.S. Mominoise A             v R.U.S.C. Anderlues A          
+    15.00  A.S. Fontainoise A           v Jeunesse Sportive Team Rosel  
+    15.00  R.U.S. Courcelloise A        v R.S.A. Forchies A             
+    15.00  F.C. Bouffioulx              v R.C. Marcinelle A             
+    15.00  R.F.C. La Buissière A        v F.C. Gerpinnes A              
+    15.00  R. Gosselies Sports B        v Erpion-LL Eau d'Heure A       

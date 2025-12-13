@@ -1,0 +1,356 @@
+= 2 PROVINCIALE B
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      14
+# Matches    182
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  R.Wallonia Club Sibret       v RES.Orgeotoise                3-2
+    20.00  RES.Vaux-Sur-Sûre            v FC.Les Cerfs Grandvoir        3-2
+    20.00  RCS.Libramontois B           v RUS.Léglise                   0-1
+    20.00  FC.Bertrix                   v RJS.Mageretoise               2-2
+    20.00  RES.Chaumont                 v FC.Bercheux                   0-2
+    20.00  RUS.Tellinoise               v RUS.Ste Ode A                 0-3
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  RAC.Neuvillers A             v ES.Saint-Pierre A             2-1
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  FC.Bercheux                  v R.Wallonia Club Sibret        3-0
+    20.00  RES.Orgeotoise               v RCS.Libramontois B            2-0
+    20.00  RUS.Ste Ode A                v RAC.Neuvillers A              2-2
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  RUS.Léglise                  v RES.Vaux-Sur-Sûre             1-1
+    15.00  RJS.Mageretoise              v RES.Chaumont                  1-1
+    15.00  ES.Saint-Pierre A            v FC.Bertrix                    2-4
+    15.00  FC.Les Cerfs Grandvoir       v RUS.Tellinoise                3-0
+
+» 5. Round
+  Sat Sep/06 2025
+    20.00  RES.Vaux-Sur-Sûre            v RES.Orgeotoise                3-0
+    20.00  RCS.Libramontois B           v FC.Bercheux                   0-2
+    20.00  RUS.Tellinoise               v RUS.Léglise                   1-0
+    20.00  FC.Bertrix                   v RES.Chaumont                  3-0
+    20.00  R.Wallonia Club Sibret       v RJS.Mageretoise               0-1
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  ES.Saint-Pierre A            v RUS.Ste Ode A                 3-0
+    15.00  RAC.Neuvillers A             v FC.Les Cerfs Grandvoir        2-1
+
+» 7. Round
+  Fri Sep/12 2025
+    20.30  RES.Chaumont                 v R.Wallonia Club Sibret        0-0
+
+» 8. Round
+  Sat Sep/13 2025
+    20.00  RES.Orgeotoise               v RUS.Tellinoise                0-4
+    20.00  RUS.Ste Ode A                v FC.Bertrix                    1-3
+    20.30  FC.Bercheux                  v RES.Vaux-Sur-Sûre             1-2
+
+» 9. Round
+  Sun Sep/14 2025
+    15.00  RJS.Mageretoise              v RCS.Libramontois B            0-2
+    15.00  RUS.Léglise                  v RAC.Neuvillers A              1-3
+    15.00  FC.Les Cerfs Grandvoir       v ES.Saint-Pierre A             4-3
+
+» 10. Round
+  Sat Sep/20 2025
+    20.00  RUS.Ste Ode A                v FC.Les Cerfs Grandvoir        2-1
+    20.00  FC.Bertrix                   v R.Wallonia Club Sibret        2-2
+    20.00  RCS.Libramontois B           v RES.Chaumont                  4-0
+    20.00  RES.Vaux-Sur-Sûre            v RJS.Mageretoise               8-2
+    20.00  RUS.Tellinoise               v FC.Bercheux                   0-5
+
+» 11. Round
+  Sun Sep/21 2025
+    15.00  RAC.Neuvillers A             v RES.Orgeotoise                3-0
+    15.00  ES.Saint-Pierre A            v RUS.Léglise                   6-2
+
+» 12. Round
+  Fri Sep/26 2025
+    20.30  FC.Bercheux                  v RAC.Neuvillers A              0-1
+
+» 13. Round
+  Sat Sep/27 2025
+    20.00  RES.Chaumont                 v RES.Vaux-Sur-Sûre             0-3
+    20.00  R.Wallonia Club Sibret       v RCS.Libramontois B            0-0
+    20.00  RES.Orgeotoise               v ES.Saint-Pierre A             1-1
+
+» 14. Round
+  Sun Sep/28 2025
+    15.00  FC.Les Cerfs Grandvoir       v FC.Bertrix                    0-4
+    15.00  RJS.Mageretoise              v RUS.Tellinoise                2-2
+    16.00  RUS.Léglise                  v RUS.Ste Ode A                 1-2
+
+» 15. Round
+  Sat Oct/04 2025
+    17.00  RAC.Neuvillers A             v RJS.Mageretoise               5-0
+    17.30  RUS.Tellinoise               v RES.Chaumont                  1-0
+    19.00  RUS.Ste Ode A                v RES.Orgeotoise                1-2
+    20.00  RES.Vaux-Sur-Sûre            v R.Wallonia Club Sibret        4-3
+    20.00  FC.Bertrix                   v RCS.Libramontois B            0-2
+
+» 16. Round
+  Sun Oct/05 2025
+    15.00  ES.Saint-Pierre A            v FC.Bercheux                   0-3
+    15.00  FC.Les Cerfs Grandvoir       v RUS.Léglise                   3-2
+
+» 17. Round
+  Sat Oct/11 2025
+    20.00  FC.Bercheux                  v RUS.Ste Ode A                 3-3
+    20.00  RES.Orgeotoise               v FC.Les Cerfs Grandvoir        2-2
+    20.00  R.Wallonia Club Sibret       v RUS.Tellinoise                1-3
+    20.00  RCS.Libramontois B           v RES.Vaux-Sur-Sûre             2-4
+    20.00  RES.Chaumont                 v RAC.Neuvillers A              1-1
+
+» 18. Round
+  Sun Oct/12 2025
+    15.00  RUS.Léglise                  v FC.Bertrix                    0-1
+    15.00  RJS.Mageretoise              v ES.Saint-Pierre A             1-4
+
+» 19. Round
+  Fri Oct/17 2025
+    20.30  RUS.Ste Ode A                v RJS.Mageretoise               1-0
+
+» 20. Round
+  Sat Oct/18 2025
+    20.00  FC.Bertrix                   v RES.Vaux-Sur-Sûre             2-0
+
+» 21. Round
+  Sun Oct/19 2025
+    15.00  RUS.Léglise                  v RES.Orgeotoise                1-1
+    15.00  RUS.Tellinoise               v RCS.Libramontois B            1-0
+    15.00  RAC.Neuvillers A             v R.Wallonia Club Sibret        1-0
+    15.00  ES.Saint-Pierre A            v RES.Chaumont                  3-1
+    15.00  FC.Les Cerfs Grandvoir       v FC.Bercheux                   2-4
+
+» 22. Round
+  Sat Oct/25 2025
+    20.00  FC.Bercheux                  v RUS.Léglise                   4-0
+    20.00  RES.Vaux-Sur-Sûre            v RUS.Tellinoise                3-2
+    20.00  RES.Chaumont                 v RUS.Ste Ode A                 1-4
+    20.00  RES.Orgeotoise               v FC.Bertrix                    0-6
+    20.00  RCS.Libramontois B           v RAC.Neuvillers A              4-1
+    20.00  R.Wallonia Club Sibret       v ES.Saint-Pierre A             0-0
+
+» 23. Round
+  Sun Oct/26 2025
+    15.00  RJS.Mageretoise              v FC.Les Cerfs Grandvoir        5-1
+
+» 24. Round
+  Sat Nov/01 2025
+    20.00  FC.Bertrix                   v RUS.Tellinoise                1-1
+    20.00  RES.Orgeotoise               v FC.Bercheux                   0-1
+    20.00  RUS.Ste Ode A                v R.Wallonia Club Sibret        3-0
+
+» 25. Round
+  Sun Nov/02 2025
+    14.30  RUS.Léglise                  v RJS.Mageretoise               1-1
+    14.30  RAC.Neuvillers A             v RES.Vaux-Sur-Sûre             2-2
+    14.30  FC.Les Cerfs Grandvoir       v RES.Chaumont                  1-2
+    15.00  ES.Saint-Pierre A            v RCS.Libramontois B            3-3
+
+» 26. Round
+  Fri Nov/07 2025
+    20.30  RCS.Libramontois B           v RUS.Ste Ode A                 3-2
+
+» 27. Round
+  Sat Nov/08 2025
+    20.00  R.Wallonia Club Sibret       v FC.Les Cerfs Grandvoir        1-3
+    20.00  RES.Chaumont                 v RUS.Léglise                   5-2
+    20.00  RES.Vaux-Sur-Sûre            v ES.Saint-Pierre A             1-1
+    20.00  FC.Bertrix                   v FC.Bercheux                   2-3
+
+» 28. Round
+  Sun Nov/09 2025
+    14.30  RJS.Mageretoise              v RES.Orgeotoise                5-1
+    14.30  RUS.Tellinoise               v RAC.Neuvillers A              1-1
+
+» 29. Round
+  Fri Nov/14 2025
+    20.30  FC.Les Cerfs Grandvoir       v RCS.Libramontois B            3-2
+
+» 30. Round
+  Sat Nov/15 2025
+    20.00  RUS.Ste Ode A                v RES.Vaux-Sur-Sûre             2-2
+    20.00  RES.Orgeotoise               v RES.Chaumont                  1-4
+    20.00  FC.Bercheux                  v RJS.Mageretoise               4-2
+
+» 31. Round
+  Sun Nov/16 2025
+    14.30  ES.Saint-Pierre A            v RUS.Tellinoise                0-1
+    14.30  RUS.Léglise                  v R.Wallonia Club Sibret        4-1
+    14.30  RAC.Neuvillers A             v FC.Bertrix                    0-2
+
+» 32. Round
+  Sat Nov/22 2025
+    20.00  R.Wallonia Club Sibret       v FC.Bercheux                   
+    20.00  RES.Chaumont                 v RJS.Mageretoise               3-3
+    20.00  FC.Bertrix                   v ES.Saint-Pierre A             
+    20.00  RES.Vaux-Sur-Sûre            v RUS.Léglise                   3-0
+    20.00  RCS.Libramontois B           v RES.Orgeotoise                2-0
+
+» 33. Round
+  Sun Nov/23 2025
+    14.30  RUS.Tellinoise               v FC.Les Cerfs Grandvoir        2-1
+    14.30  RAC.Neuvillers A             v RUS.Ste Ode A                 
+
+» 34. Round
+  Sat Nov/29 2025
+    20.00  FC.Bercheux                  v RES.Chaumont                  3-0
+    20.00  RES.Orgeotoise               v R.Wallonia Club Sibret        2-3
+    20.00  RUS.Ste Ode A                v RUS.Tellinoise                1-1
+
+» 35. Round
+  Sun Nov/30 2025
+    14.30  FC.Les Cerfs Grandvoir       v RES.Vaux-Sur-Sûre             1-6
+    14.30  ES.Saint-Pierre A            v RAC.Neuvillers A              2-3
+    14.30  RJS.Mageretoise              v FC.Bertrix                    2-0
+    14.30  RUS.Léglise                  v RCS.Libramontois B            2-1
+
+» 36. Round
+  Sat Dec/06 2025
+    20.00  RES.Orgeotoise               v RES.Vaux-Sur-Sûre             
+    20.00  RES.Chaumont                 v FC.Bertrix                    2-3
+    20.00  FC.Bercheux                  v RCS.Libramontois B            2-1
+    20.00  RUS.Ste Ode A                v ES.Saint-Pierre A             1-2
+
+» 37. Round
+  Sun Dec/07 2025
+    14.30  RUS.Léglise                  v RUS.Tellinoise                
+    14.30  RJS.Mageretoise              v R.Wallonia Club Sibret        1-4
+    14.30  FC.Les Cerfs Grandvoir       v RAC.Neuvillers A              
+
+» 38. Round
+  Fri Dec/12 2025
+    20.30  R.Wallonia Club Sibret       v RES.Chaumont                  3-0
+
+» 39. Round
+  Sat Dec/13 2025
+    20.00  RCS.Libramontois B           v RJS.Mageretoise               
+    20.00  FC.Bertrix                   v RUS.Ste Ode A                 
+    20.00  RES.Vaux-Sur-Sûre            v FC.Bercheux                   
+
+» 40. Round
+  Sun Dec/14 2025
+    14.30  RUS.Tellinoise               v RES.Orgeotoise                
+    14.30  ES.Saint-Pierre A            v FC.Les Cerfs Grandvoir        
+    14.30  RAC.Neuvillers A             v RUS.Léglise                   
+
+» 41. Round
+  Sat Dec/20 2025
+    20.00  RES.Orgeotoise               v RAC.Neuvillers A              
+    20.00  FC.Bercheux                  v RUS.Tellinoise                
+    20.00  R.Wallonia Club Sibret       v FC.Bertrix                    
+    20.00  RES.Chaumont                 v RCS.Libramontois B            
+
+» 42. Round
+  Sun Dec/21 2025
+    14.30  RJS.Mageretoise              v RES.Vaux-Sur-Sûre             
+    14.30  FC.Les Cerfs Grandvoir       v RUS.Ste Ode A                 
+    14.30  RUS.Léglise                  v ES.Saint-Pierre A             
+
+» 43. Round
+  Sat Feb/21 2026
+    20.00  FC.Bertrix                   v FC.Les Cerfs Grandvoir        
+    20.00  RUS.Ste Ode A                v RUS.Léglise                   
+    20.00  RES.Vaux-Sur-Sûre            v RES.Chaumont                  
+    20.00  RCS.Libramontois B           v R.Wallonia Club Sibret        
+
+» 44. Round
+  Sun Feb/22 2026
+    15.00  ES.Saint-Pierre A            v RES.Orgeotoise                
+    15.00  RAC.Neuvillers A             v FC.Bercheux                   
+    15.00  RUS.Tellinoise               v RJS.Mageretoise               
+
+» 45. Round
+  Sat Feb/28 2026
+    20.00  RCS.Libramontois B           v FC.Bertrix                    
+    20.00  FC.Bercheux                  v ES.Saint-Pierre A             
+    20.00  RES.Chaumont                 v RUS.Tellinoise                
+    20.00  RES.Orgeotoise               v RUS.Ste Ode A                 
+    20.00  R.Wallonia Club Sibret       v RES.Vaux-Sur-Sûre             
+
+» 46. Round
+  Sun Mar/01 2026
+    15.00  RUS.Léglise                  v FC.Les Cerfs Grandvoir        
+    15.00  RJS.Mageretoise              v RAC.Neuvillers A              
+
+» 47. Round
+  Sat Mar/07 2026
+    20.00  FC.Bertrix                   v RUS.Léglise                   
+    20.00  RUS.Tellinoise               v R.Wallonia Club Sibret        
+    20.00  RUS.Ste Ode A                v FC.Bercheux                   
+    20.00  RES.Vaux-Sur-Sûre            v RCS.Libramontois B            
+
+» 48. Round
+  Sun Mar/08 2026
+    15.00  FC.Les Cerfs Grandvoir       v RES.Orgeotoise                
+    15.00  RAC.Neuvillers A             v RES.Chaumont                  
+    15.00  ES.Saint-Pierre A            v RJS.Mageretoise               
+
+» 49. Round
+  Sat Mar/21 2026
+    20.00  RES.Orgeotoise               v RUS.Léglise                   
+    20.00  RES.Chaumont                 v ES.Saint-Pierre A             
+    20.00  R.Wallonia Club Sibret       v RAC.Neuvillers A              
+    20.00  FC.Bercheux                  v FC.Les Cerfs Grandvoir        
+    20.00  RCS.Libramontois B           v RUS.Tellinoise                
+    20.00  RES.Vaux-Sur-Sûre            v FC.Bertrix                    
+
+» 50. Round
+  Sun Mar/22 2026
+    15.00  RJS.Mageretoise              v RUS.Ste Ode A                 
+
+» 51. Round
+  Sat Mar/28 2026
+    20.00  RUS.Ste Ode A                v RES.Chaumont                  
+    20.00  RUS.Tellinoise               v RES.Vaux-Sur-Sûre             
+    20.00  FC.Bertrix                   v RES.Orgeotoise                
+
+» 52. Round
+  Sun Mar/29 2026
+    15.00  FC.Les Cerfs Grandvoir       v RJS.Mageretoise               
+    15.00  ES.Saint-Pierre A            v R.Wallonia Club Sibret        
+    15.00  RAC.Neuvillers A             v RCS.Libramontois B            
+    15.00  RUS.Léglise                  v FC.Bercheux                   
+
+» 53. Round
+  Sat Apr/11 2026
+    20.00  RUS.Tellinoise               v FC.Bertrix                    
+    20.00  RES.Vaux-Sur-Sûre            v RAC.Neuvillers A              
+    20.00  FC.Bercheux                  v RES.Orgeotoise                
+    20.00  RCS.Libramontois B           v ES.Saint-Pierre A             
+    20.00  R.Wallonia Club Sibret       v RUS.Ste Ode A                 
+    20.00  RES.Chaumont                 v FC.Les Cerfs Grandvoir        
+
+» 54. Round
+  Sun Apr/12 2026
+    15.00  RJS.Mageretoise              v RUS.Léglise                   
+
+» 55. Round
+  Sun Apr/19 2026
+    15.00  ES.Saint-Pierre A            v RES.Vaux-Sur-Sûre             
+    15.00  FC.Les Cerfs Grandvoir       v R.Wallonia Club Sibret        
+    15.00  RAC.Neuvillers A             v RUS.Tellinoise                
+    15.00  FC.Bercheux                  v FC.Bertrix                    
+    15.00  RES.Orgeotoise               v RJS.Mageretoise               
+    15.00  RUS.Ste Ode A                v RCS.Libramontois B            
+    15.00  RUS.Léglise                  v RES.Chaumont                  
+
+» 56. Round
+  Sun Apr/26 2026
+    15.00  RUS.Tellinoise               v ES.Saint-Pierre A             
+    15.00  RJS.Mageretoise              v FC.Bercheux                   
+    15.00  RES.Chaumont                 v RES.Orgeotoise                
+    15.00  RES.Vaux-Sur-Sûre            v RUS.Ste Ode A                 
+    15.00  FC.Bertrix                   v RAC.Neuvillers A              
+    15.00  R.Wallonia Club Sibret       v RUS.Léglise                   
+    15.00  RCS.Libramontois B           v FC.Les Cerfs Grandvoir        

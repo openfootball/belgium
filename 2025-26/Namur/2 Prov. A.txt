@@ -1,0 +1,426 @@
+= 2 Prov. A
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  RUW Ciney B                  v US Thy-Chateau A              2-1
+    20.00  US Beauraing 61 A            v OC Nismes B                   4-1
+    20.00  U.S. Flavion-Morialmé A      v RCS Hastière                  2-1
+
+» 2. Round
+  Sun Aug/24 2025
+    18.00  RUS Biesme B                 v R Anhée FC A                  1-3
+    18.00  RFC Surice A                 v RCS Profondeville A           3-1
+    18.00  RCS Condruzien B             v RFC Bioul 81 A                1-2
+    18.00  RES Philippeville A          v R.U.S. Dinantaise A           0-3
+    18.00  FCE Tarciennois A            v RAS Houyet A                  1-1
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  RCS Hastière                 v FCE Tarciennois A             1-1
+    20.00  R.U.S. Dinantaise A          v RFC Surice A                  4-1
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  US Thy-Chateau A             v RUS Biesme B                  2-0
+    15.00  RFC Bioul 81 A               v US Beauraing 61 A             1-1
+    15.00  OC Nismes B                  v RUW Ciney B                   1-2
+    16.00  R Anhée FC A                 v U.S. Flavion-Morialmé A       2-0
+    18.00  RCS Profondeville A          v RCS Condruzien B              1-0
+    18.00  RAS Houyet A                 v RES Philippeville A           1-0
+
+» 5. Round
+  Sat Sep/06 2025
+    20.00  RUW Ciney B                  v RUS Biesme B                  4-0
+    20.30  US Beauraing 61 A            v RCS Profondeville A           3-1
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  OC Nismes B                  v RFC Bioul 81 A                0-0
+    15.00  RCS Condruzien B             v R.U.S. Dinantaise A           2-7
+    15.00  FCE Tarciennois A            v R Anhée FC A                  0-2
+    15.00  RES Philippeville A          v RCS Hastière                  2-1
+    15.00  U.S. Flavion-Morialmé A      v US Thy-Chateau A              0-1
+    15.00  RFC Surice A                 v RAS Houyet A                  2-2
+
+» 7. Round
+  Sat Sep/13 2025
+    20.00  R.U.S. Dinantaise A          v US Beauraing 61 A             4-5
+    20.00  RCS Hastière                 v RFC Surice A                  1-2
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  RFC Bioul 81 A               v RUW Ciney B                   3-2
+    15.00  RCS Profondeville A          v OC Nismes B                   1-0
+    15.00  US Thy-Chateau A             v FCE Tarciennois A             1-0
+    15.00  RUS Biesme B                 v U.S. Flavion-Morialmé A       0-2
+    15.00  R Anhée FC A                 v RES Philippeville A           1-1
+    15.00  RAS Houyet A                 v RCS Condruzien B              2-3
+
+» 9. Round
+  Sat Sep/20 2025
+    20.00  RUW Ciney B                  v U.S. Flavion-Morialmé A       3-3
+    20.00  US Beauraing 61 A            v RAS Houyet A                  2-0
+
+» 10. Round
+  Sun Sep/21 2025
+    15.00  RFC Bioul 81 A               v RCS Profondeville A           4-1
+    15.00  OC Nismes B                  v R.U.S. Dinantaise A           0-3
+    15.00  RES Philippeville A          v US Thy-Chateau A              0-1
+    15.00  RCS Condruzien B             v RCS Hastière                  0-3
+    15.00  RFC Surice A                 v R Anhée FC A                  2-0
+    15.00  FCE Tarciennois A            v RUS Biesme B                  1-0
+
+» 11. Round
+  Sat Sep/27 2025
+    20.00  RCS Hastière                 v US Beauraing 61 A             2-3
+    20.00  U.S. Flavion-Morialmé A      v FCE Tarciennois A             3-0
+    20.00  R.U.S. Dinantaise A          v RFC Bioul 81 A                2-0
+
+» 12. Round
+  Sun Sep/28 2025
+    15.00  US Thy-Chateau A             v RFC Surice A                  2-3
+    15.00  RAS Houyet A                 v OC Nismes B                   1-2
+    15.00  R Anhée FC A                 v RCS Condruzien B              6-1
+    15.00  RUS Biesme B                 v RES Philippeville A           6-6
+    15.00  RCS Profondeville A          v RUW Ciney B                   0-1
+
+» 13. Round
+  Sat Oct/04 2025
+    20.00  RUW Ciney B                  v FCE Tarciennois A             2-2
+    20.00  US Beauraing 61 A            v R Anhée FC A                  3-0
+
+» 14. Round
+  Sun Oct/05 2025
+    15.00  RFC Surice A                 v RUS Biesme B                  2-1
+    15.00  OC Nismes B                  v RCS Hastière                  1-1
+    15.00  RFC Bioul 81 A               v RAS Houyet A                  3-1
+    15.00  RCS Condruzien B             v US Thy-Chateau A              2-0
+    15.00  RES Philippeville A          v U.S. Flavion-Morialmé A       2-2
+    15.00  RCS Profondeville A          v R.U.S. Dinantaise A           1-4
+
+» 15. Round
+  Sat Oct/11 2025
+    20.00  R.U.S. Dinantaise A          v RUW Ciney B                   2-0
+    20.00  RCS Hastière                 v RFC Bioul 81 A                1-4
+    20.00  U.S. Flavion-Morialmé A      v RFC Surice A                  2-0
+
+» 16. Round
+  Sun Oct/12 2025
+    15.00  US Thy-Chateau A             v US Beauraing 61 A             2-6
+    15.00  R Anhée FC A                 v OC Nismes B                   1-1
+    15.00  RUS Biesme B                 v RCS Condruzien B              4-1
+    15.00  RAS Houyet A                 v RCS Profondeville A           2-2
+    15.00  FCE Tarciennois A            v RES Philippeville A           5-2
+
+» 17. Round
+  Sat Oct/18 2025
+    20.00  US Beauraing 61 A            v RUS Biesme B                  2-2
+    20.00  R.U.S. Dinantaise A          v RAS Houyet A                  7-1
+    20.00  RUW Ciney B                  v RES Philippeville A           5-1
+
+» 18. Round
+  Sun Oct/19 2025
+    15.00  RCS Condruzien B             v U.S. Flavion-Morialmé A       0-1
+    15.00  RFC Bioul 81 A               v R Anhée FC A                  1-5
+    15.00  RFC Surice A                 v FCE Tarciennois A             1-1
+    15.00  RCS Profondeville A          v RCS Hastière                  8-0
+    15.00  OC Nismes B                  v US Thy-Chateau A              0-2
+
+» 19. Round
+  Sun Oct/26 2025
+    15.00  FCE Tarciennois A            v RCS Condruzien B              4-2
+    15.00  R Anhée FC A                 v RCS Profondeville A           3-1
+    15.00  US Thy-Chateau A             v RFC Bioul 81 A                3-2
+    15.00  RAS Houyet A                 v RUW Ciney B                   0-1
+    15.00  U.S. Flavion-Morialmé A      v US Beauraing 61 A             2-0
+    15.00  RES Philippeville A          v RFC Surice A                  2-3
+    15.00  RUS Biesme B                 v OC Nismes B                   3-0
+    15.00  RCS Hastière                 v R.U.S. Dinantaise A           2-3
+
+» 20. Round
+  Sat Nov/01 2025
+    20.00  US Beauraing 61 A            v FCE Tarciennois A             0-1
+    20.00  RUW Ciney B                  v RFC Surice A                  5-3
+    20.00  R.U.S. Dinantaise A          v R Anhée FC A                  2-1
+
+» 21. Round
+  Sun Nov/02 2025
+    14.30  OC Nismes B                  v U.S. Flavion-Morialmé A       0-1
+    14.30  RCS Profondeville A          v US Thy-Chateau A              0-1
+    14.30  RFC Bioul 81 A               v RUS Biesme B                  3-3
+    15.00  RAS Houyet A                 v RCS Hastière                  1-0
+    15.00  RCS Condruzien B             v RES Philippeville A           
+
+» 22. Round
+  Fri Nov/07 2025
+    20.00  RCS Hastière                 v RUW Ciney B                   1-4
+
+» 23. Round
+  Sat Nov/08 2025
+    20.00  U.S. Flavion-Morialmé A      v RFC Bioul 81 A                2-3
+
+» 24. Round
+  Sun Nov/09 2025
+    14.30  RFC Surice A                 v RCS Condruzien B              1-0
+    14.30  RES Philippeville A          v US Beauraing 61 A             3-1
+    14.30  FCE Tarciennois A            v OC Nismes B                   2-0
+    15.00  RUS Biesme B                 v RCS Profondeville A           6-1
+    15.00  US Thy-Chateau A             v R.U.S. Dinantaise A           1-2
+    15.00  R Anhée FC A                 v RAS Houyet A                  3-0
+
+» 25. Round
+  Sat Nov/15 2025
+    20.00  R.U.S. Dinantaise A          v RUS Biesme B                  2-0
+    20.00  RUW Ciney B                  v RCS Condruzien B              6-1
+    20.00  US Beauraing 61 A            v RFC Surice A                  0-0
+    20.00  RCS Hastière                 v R Anhée FC A                  0-2
+
+» 26. Round
+  Sun Nov/16 2025
+    14.30  OC Nismes B                  v RES Philippeville A           1-0
+    14.30  RCS Profondeville A          v U.S. Flavion-Morialmé A       2-2
+    14.30  RFC Bioul 81 A               v FCE Tarciennois A             0-0
+    15.00  RAS Houyet A                 v US Thy-Chateau A              1-0
+
+» 27. Round
+  Sat Nov/22 2025
+    20.00  U.S. Flavion-Morialmé A      v R.U.S. Dinantaise A           2-1
+    20.00  RUW Ciney B                  v R Anhée FC A                  4-0
+
+» 28. Round
+  Sun Nov/23 2025
+    14.30  RFC Surice A                 v OC Nismes B                   3-0
+    14.30  RES Philippeville A          v RFC Bioul 81 A                3-3
+    15.00  RUS Biesme B                 v RAS Houyet A                  4-1
+    15.00  RCS Condruzien B             v US Beauraing 61 A             0-3
+    15.00  US Thy-Chateau A             v RCS Hastière                  5-1
+
+» 29. Round
+  Fri Nov/28 2025
+    20.00  RCS Hastière                 v RUS Biesme B                  0-2
+
+» 30. Round
+  Sat Nov/29 2025
+    20.00  US Beauraing 61 A            v RUW Ciney B                   2-1
+    20.00  R.U.S. Dinantaise A          v FCE Tarciennois A             3-2
+
+» 31. Round
+  Sun Nov/30 2025
+    14.30  RFC Bioul 81 A               v RFC Surice A                  2-1
+    14.30  RCS Profondeville A          v RES Philippeville A           5-1
+    14.30  OC Nismes B                  v RCS Condruzien B              10-1
+    15.00  RAS Houyet A                 v U.S. Flavion-Morialmé A       2-1
+    15.00  R Anhée FC A                 v US Thy-Chateau A              0-1
+
+» 32. Round
+  Sat Dec/06 2025
+    20.00  R.U.S. Dinantaise A          v RES Philippeville A           5-1
+    20.00  RCS Hastière                 v U.S. Flavion-Morialmé A       0-3
+
+» 33. Round
+  Sun Dec/07 2025
+    14.30  RFC Bioul 81 A               v RCS Condruzien B              1-1
+    14.30  RCS Profondeville A          v RFC Surice A                  2-1
+    14.30  OC Nismes B                  v US Beauraing 61 A             0-2
+    15.00  US Thy-Chateau A             v RUW Ciney B                   1-1
+    15.00  R Anhée FC A                 v RUS Biesme B                  6-1
+    15.00  RAS Houyet A                 v FCE Tarciennois A             2-2
+
+» 34. Round
+  Wed Dec/10 2025
+    20.00  FCE Tarciennois A            v RCS Profondeville A           0-0
+
+» 35. Round
+  Fri Dec/12 2025
+    20.30  RUW Ciney B                  v OC Nismes B                   2-0
+
+» 36. Round
+  Sat Dec/13 2025
+    20.00  US Beauraing 61 A            v RFC Bioul 81 A                
+    20.00  U.S. Flavion-Morialmé A      v R Anhée FC A                  
+
+» 37. Round
+  Sun Dec/14 2025
+    14.30  RES Philippeville A          v RAS Houyet A                  
+    14.30  FCE Tarciennois A            v RCS Hastière                  
+    14.30  RFC Surice A                 v R.U.S. Dinantaise A           
+    17.00  RCS Condruzien B             v RCS Profondeville A           
+    18.00  RUS Biesme B                 v US Thy-Chateau A              
+
+» 38. Round
+  Sat Dec/20 2025
+    20.00  RCS Hastière                 v RES Philippeville A           
+    20.00  R.U.S. Dinantaise A          v RCS Condruzien B              
+    20.00  RUS Biesme B                 v RUW Ciney B                   
+
+» 39. Round
+  Sun Dec/21 2025
+    14.30  RFC Bioul 81 A               v OC Nismes B                   
+    14.30  RCS Profondeville A          v US Beauraing 61 A             
+    15.00  R Anhée FC A                 v FCE Tarciennois A             
+    15.00  RAS Houyet A                 v RFC Surice A                  
+    15.00  US Thy-Chateau A             v U.S. Flavion-Morialmé A       
+
+» 40. Round
+  Sat Jan/17 2026
+    20.00  U.S. Flavion-Morialmé A      v RUS Biesme B                  
+    20.00  US Beauraing 61 A            v R.U.S. Dinantaise A           
+    20.00  RUW Ciney B                  v RFC Bioul 81 A                
+
+» 41. Round
+  Sun Jan/18 2026
+    15.00  FCE Tarciennois A            v US Thy-Chateau A              
+    15.00  OC Nismes B                  v RCS Profondeville A           
+    15.00  RES Philippeville A          v R Anhée FC A                  
+    15.00  RFC Surice A                 v RCS Hastière                  
+    15.00  RCS Condruzien B             v RAS Houyet A                  
+
+» 42. Round
+  Sun Jan/25 2026
+    15.00  RCS Profondeville A          v RFC Bioul 81 A                
+    15.00  RUS Biesme B                 v FCE Tarciennois A             
+    15.00  RAS Houyet A                 v US Beauraing 61 A             
+    15.00  R Anhée FC A                 v RFC Surice A                  
+    15.00  U.S. Flavion-Morialmé A      v RUW Ciney B                   
+    15.00  R.U.S. Dinantaise A          v OC Nismes B                   
+    15.00  RCS Hastière                 v RCS Condruzien B              
+    15.00  US Thy-Chateau A             v RES Philippeville A           
+
+» 43. Round
+  Sat Jan/31 2026
+    20.00  US Beauraing 61 A            v RCS Hastière                  
+    20.00  RUW Ciney B                  v RCS Profondeville A           
+
+» 44. Round
+  Sun Feb/01 2026
+    15.00  FCE Tarciennois A            v U.S. Flavion-Morialmé A       
+    15.00  RFC Bioul 81 A               v R.U.S. Dinantaise A           
+    15.00  OC Nismes B                  v RAS Houyet A                  
+    15.00  RES Philippeville A          v RUS Biesme B                  
+    15.00  RCS Condruzien B             v R Anhée FC A                  
+    15.00  RFC Surice A                 v US Thy-Chateau A              
+
+» 45. Round
+  Sat Feb/07 2026
+    20.00  U.S. Flavion-Morialmé A      v RES Philippeville A           
+    20.00  RCS Hastière                 v OC Nismes B                   
+    20.00  R.U.S. Dinantaise A          v RCS Profondeville A           
+
+» 46. Round
+  Sun Feb/08 2026
+    15.00  FCE Tarciennois A            v RUW Ciney B                   
+    15.00  RUS Biesme B                 v RFC Surice A                  
+    15.00  R Anhée FC A                 v US Beauraing 61 A             
+    15.00  RAS Houyet A                 v RFC Bioul 81 A                
+    15.00  US Thy-Chateau A             v RCS Condruzien B              
+
+» 47. Round
+  Sat Feb/21 2026
+    20.00  US Beauraing 61 A            v US Thy-Chateau A              
+    20.00  RUW Ciney B                  v R.U.S. Dinantaise A           
+
+» 48. Round
+  Sun Feb/22 2026
+    15.00  RCS Condruzien B             v RUS Biesme B                  
+    15.00  RFC Surice A                 v U.S. Flavion-Morialmé A       
+    15.00  OC Nismes B                  v R Anhée FC A                  
+    15.00  RES Philippeville A          v FCE Tarciennois A             
+    15.00  RCS Profondeville A          v RAS Houyet A                  
+    15.00  RFC Bioul 81 A               v RCS Hastière                  
+
+» 49. Round
+  Sat Feb/28 2026
+    20.00  U.S. Flavion-Morialmé A      v RCS Condruzien B              
+    20.00  RCS Hastière                 v RCS Profondeville A           
+
+» 50. Round
+  Sun Mar/01 2026
+    15.00  US Thy-Chateau A             v OC Nismes B                   
+    15.00  RES Philippeville A          v RUW Ciney B                   
+    15.00  FCE Tarciennois A            v RFC Surice A                  
+    15.00  R Anhée FC A                 v RFC Bioul 81 A                
+    15.00  RAS Houyet A                 v R.U.S. Dinantaise A           
+    15.00  RUS Biesme B                 v US Beauraing 61 A             
+
+» 51. Round
+  Sat Mar/07 2026
+    20.00  US Beauraing 61 A            v U.S. Flavion-Morialmé A       
+    20.00  R.U.S. Dinantaise A          v RCS Hastière                  
+    20.00  RUW Ciney B                  v RAS Houyet A                  
+
+» 52. Round
+  Sun Mar/08 2026
+    15.00  OC Nismes B                  v RUS Biesme B                  
+    15.00  RCS Profondeville A          v R Anhée FC A                  
+    15.00  RFC Surice A                 v RES Philippeville A           
+    15.00  RFC Bioul 81 A               v US Thy-Chateau A              
+    15.00  RCS Condruzien B             v FCE Tarciennois A             
+
+» 53. Round
+  Sat Mar/21 2026
+    20.00  U.S. Flavion-Morialmé A      v OC Nismes B                   
+    20.00  RCS Hastière                 v RAS Houyet A                  
+
+» 54. Round
+  Sun Mar/22 2026
+    15.00  US Thy-Chateau A             v RCS Profondeville A           
+    15.00  FCE Tarciennois A            v US Beauraing 61 A             
+    15.00  RUS Biesme B                 v RFC Bioul 81 A                
+    15.00  R Anhée FC A                 v R.U.S. Dinantaise A           
+    15.00  RFC Surice A                 v RUW Ciney B                   
+    15.00  RES Philippeville A          v RCS Condruzien B              
+
+» 55. Round
+  Sat Mar/28 2026
+    20.00  R.U.S. Dinantaise A          v US Thy-Chateau A              
+    20.00  US Beauraing 61 A            v RES Philippeville A           
+    20.00  RUW Ciney B                  v RCS Hastière                  
+
+» 56. Round
+  Sun Mar/29 2026
+    15.00  RAS Houyet A                 v R Anhée FC A                  
+    15.00  OC Nismes B                  v FCE Tarciennois A             
+    15.00  RCS Condruzien B             v RFC Surice A                  
+    15.00  RCS Profondeville A          v RUS Biesme B                  
+    15.00  RFC Bioul 81 A               v U.S. Flavion-Morialmé A       
+
+» 57. Round
+  Sat Apr/11 2026
+    20.00  U.S. Flavion-Morialmé A      v RCS Profondeville A           
+
+» 58. Round
+  Sun Apr/12 2026
+    15.00  US Thy-Chateau A             v RAS Houyet A                  
+    15.00  RES Philippeville A          v OC Nismes B                   
+    15.00  RFC Surice A                 v US Beauraing 61 A             
+    15.00  R Anhée FC A                 v RCS Hastière                  
+    15.00  RUS Biesme B                 v R.U.S. Dinantaise A           
+    15.00  RCS Condruzien B             v RUW Ciney B                   
+    15.00  FCE Tarciennois A            v RFC Bioul 81 A                
+
+» 59. Round
+  Sun Apr/19 2026
+    15.00  RFC Bioul 81 A               v RES Philippeville A           
+    15.00  RCS Profondeville A          v FCE Tarciennois A             
+    15.00  R Anhée FC A                 v RUW Ciney B                   
+    15.00  RAS Houyet A                 v RUS Biesme B                  
+    15.00  RCS Hastière                 v US Thy-Chateau A              
+    15.00  US Beauraing 61 A            v RCS Condruzien B              
+    15.00  R.U.S. Dinantaise A          v U.S. Flavion-Morialmé A       
+    15.00  OC Nismes B                  v RFC Surice A                  
+
+» 60. Round
+  Sun Apr/26 2026
+    15.00  FCE Tarciennois A            v R.U.S. Dinantaise A           
+    15.00  RUW Ciney B                  v US Beauraing 61 A             
+    15.00  US Thy-Chateau A             v R Anhée FC A                  
+    15.00  U.S. Flavion-Morialmé A      v RAS Houyet A                  
+    15.00  RFC Surice A                 v RFC Bioul 81 A                
+    15.00  RES Philippeville A          v RCS Profondeville A           
+    15.00  RUS Biesme B                 v RCS Hastière                  
+    15.00  RCS Condruzien B             v OC Nismes B                   
