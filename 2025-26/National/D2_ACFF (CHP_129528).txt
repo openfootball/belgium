@@ -1,0 +1,525 @@
+= D2_ACFF
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      18
+# Matches    306
+
+
+» 1. Round
+  Sat Aug/23 2025
+    19.30  R.F.C. Tournai A             v FC.Ganshoren                  1-3
+    19.30  RFC UN. La Calamine A        v C.S. Entité Manageoise        4-1
+    20.00  CS Onhaye A                  v F.C.UN. Richelle A            0-4
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  R. Aywaille F.C. A           v F.C. 1912 Raeren-Eynatten A   1-1
+    15.00  F.C. Flénu A                 v Royale Union Hutoise A        0-0
+    15.00  RSD.Jette A                  v R.S.C. Tilffois A             0-0
+
+» 3. Round
+  Wed Aug/27 2025
+    20.00  R.U.S. Binche A              v Sporting Bruxelles A          1-0
+    20.00  Stade Verviétois A           v Entente Acren Lessines A      2-0
+    20.00  CS Pays Vert Ostiches-Ath A  v RCS.Brainois A                1-1
+
+» 4. Round
+  Sat Aug/30 2025
+    19.30  Royale Union Hutoise A       v CS Pays Vert Ostiches-Ath A   1-1
+    20.00  RCS.Brainois A               v F.C. Flénu A                  3-2
+    20.00  Entente Acren Lessines A     v R.U.S. Binche A               3-1
+
+» 5. Round
+  Sun Aug/31 2025
+    15.00  F.C. 1912 Raeren-Eynatten A  v RFC UN. La Calamine A         1-0
+    15.00  C.S. Entité Manageoise       v RSD.Jette A                   1-1
+    15.00  F.C.UN. Richelle A           v R.F.C. Tournai A              3-1
+    15.00  R.S.C. Tilffois A            v Stade Verviétois A            1-2
+    15.00  FC.Ganshoren                 v CS Onhaye A                   0-2
+    15.00  Sporting Bruxelles A         v R. Aywaille F.C. A            1-2
+
+» 6. Round
+  Sat Sep/06 2025
+    19.30  Stade Verviétois A           v R.F.C. Tournai A              3-2
+    20.00  CS Onhaye A                  v Royale Union Hutoise A        1-2
+
+» 7. Round
+  Sun Sep/07 2025
+    15.00  F.C. 1912 Raeren-Eynatten A  v C.S. Entité Manageoise        1-1
+    15.00  RSD.Jette A                  v Sporting Bruxelles A          2-2
+    15.00  R.U.S. Binche A              v R. Aywaille F.C. A            1-2
+    15.00  F.C.UN. Richelle A           v Entente Acren Lessines A      0-2
+    15.00  F.C. Flénu A                 v CS Pays Vert Ostiches-Ath A   0-1
+    15.00  R.S.C. Tilffois A            v FC.Ganshoren                  1-1
+
+» 8. Round
+  Wed Sep/10 2025
+    20.00  RFC UN. La Calamine A        v RCS.Brainois A                1-2
+
+» 9. Round
+  Sat Sep/13 2025
+    19.30  Royale Union Hutoise A       v Stade Verviétois A            0-2
+    19.30  R.F.C. Tournai A             v R.U.S. Binche A               1-4
+    19.30  CS Pays Vert Ostiches-Ath A  v RFC UN. La Calamine A         2-1
+    20.00  RCS.Brainois A               v RSD.Jette A                   4-0
+
+» 10. Round
+  Sun Sep/14 2025
+    15.00  FC.Ganshoren                 v F.C.UN. Richelle A            4-1
+    15.00  Sporting Bruxelles A         v F.C. 1912 Raeren-Eynatten A   1-2
+    15.00  C.S. Entité Manageoise       v CS Onhaye A                   1-3
+    15.00  Entente Acren Lessines A     v R.S.C. Tilffois A             1-2
+    15.00  R. Aywaille F.C. A           v F.C. Flénu A                  1-3
+
+» 11. Round
+  Sat Sep/20 2025
+    19.30  RFC UN. La Calamine A        v Sporting Bruxelles A          1-0
+    19.30  RSD.Jette A                  v R. Aywaille F.C. A            3-0
+    19.30  CS Pays Vert Ostiches-Ath A  v Entente Acren Lessines A      2-2
+    19.30  Stade Verviétois A           v CS Onhaye A                   1-0
+    20.00  RCS.Brainois A               v R.F.C. Tournai A              3-1
+
+» 12. Round
+  Sun Sep/21 2025
+    15.00  R.U.S. Binche A              v Royale Union Hutoise A        0-0
+    15.00  F.C. 1912 Raeren-Eynatten A  v FC.Ganshoren                  1-4
+    15.00  R.S.C. Tilffois A            v F.C.UN. Richelle A            1-4
+    16.00  F.C. Flénu A                 v C.S. Entité Manageoise        3-2
+
+» 13. Round
+  Sat Sep/27 2025
+    16.00  C.S. Entité Manageoise       v RCS.Brainois A                2-1
+    19.30  Royale Union Hutoise A       v F.C. 1912 Raeren-Eynatten A   1-0
+    19.30  R.F.C. Tournai A             v F.C. Flénu A                  1-5
+    20.00  CS Onhaye A                  v R.U.S. Binche A               2-1
+
+» 14. Round
+  Sun Sep/28 2025
+    15.00  Sporting Bruxelles A         v CS Pays Vert Ostiches-Ath A   3-1
+    15.00  Entente Acren Lessines A     v RFC UN. La Calamine A         3-1
+    15.00  F.C.UN. Richelle A           v Stade Verviétois A            0-3
+    15.00  FC.Ganshoren                 v RSD.Jette A                   1-1
+    15.00  R. Aywaille F.C. A           v R.S.C. Tilffois A             2-3
+
+» 15. Round
+  Sat Oct/04 2025
+    19.30  RFC UN. La Calamine A        v FC.Ganshoren                  2-0
+    19.30  CS Pays Vert Ostiches-Ath A  v CS Onhaye A                   2-0
+    20.00  RCS.Brainois A               v F.C.UN. Richelle A            2-0
+    20.00  F.C. Flénu A                 v Stade Verviétois A            2-2
+
+» 16. Round
+  Sun Oct/05 2025
+    15.00  R.S.C. Tilffois A            v R.U.S. Binche A               2-0
+    15.00  C.S. Entité Manageoise       v R. Aywaille F.C. A            3-0
+    15.00  F.C. 1912 Raeren-Eynatten A  v R.F.C. Tournai A              1-0
+    15.00  RSD.Jette A                  v Entente Acren Lessines A      2-0
+    15.00  Sporting Bruxelles A         v Royale Union Hutoise A        1-0
+
+» 17. Round
+  Sat Oct/11 2025
+    19.30  Stade Verviétois A           v RSD.Jette A                   1-4
+    19.30  R.F.C. Tournai A             v RFC UN. La Calamine A         0-2
+    19.30  Royale Union Hutoise A       v RCS.Brainois A                0-2
+    20.00  CS Onhaye A                  v R.S.C. Tilffois A             4-3
+
+» 18. Round
+  Sun Oct/12 2025
+    15.00  F.C.UN. Richelle A           v Sporting Bruxelles A          2-0
+    15.00  Entente Acren Lessines A     v F.C. 1912 Raeren-Eynatten A   5-2
+    15.00  R.U.S. Binche A              v F.C. Flénu A                  2-1
+    15.00  FC.Ganshoren                 v C.S. Entité Manageoise        0-1
+    15.00  R. Aywaille F.C. A           v CS Pays Vert Ostiches-Ath A   2-2
+
+» 19. Round
+  Sat Oct/18 2025
+    19.30  RFC UN. La Calamine A        v Stade Verviétois A            0-2
+    19.30  CS Pays Vert Ostiches-Ath A  v R.U.S. Binche A               0-2
+    20.00  RCS.Brainois A               v FC.Ganshoren                  2-2
+
+» 20. Round
+  Sun Oct/19 2025
+    15.00  C.S. Entité Manageoise       v F.C.UN. Richelle A            1-0
+    15.00  Entente Acren Lessines A     v F.C. Flénu A                  1-2
+    15.00  RSD.Jette A                  v R.F.C. Tournai A              1-1
+    15.00  Sporting Bruxelles A         v CS Onhaye A                   2-2
+    15.00  F.C. 1912 Raeren-Eynatten A  v R.S.C. Tilffois A             2-0
+    15.00  R. Aywaille F.C. A           v Royale Union Hutoise A        1-4
+
+» 21. Round
+  Sat Oct/25 2025
+    19.30  RFC UN. La Calamine A        v RSD.Jette A                   0-0
+
+» 22. Round
+  Sun Oct/26 2025
+    15.00  F.C.UN. Richelle A           v F.C. 1912 Raeren-Eynatten A   0-2
+    15.00  R.F.C. Tournai A             v Entente Acren Lessines A      1-4
+    15.00  FC.Ganshoren                 v Royale Union Hutoise A        0-0
+    15.00  R.S.C. Tilffois A            v C.S. Entité Manageoise        1-1
+    15.00  Stade Verviétois A           v CS Pays Vert Ostiches-Ath A   0-1
+    15.00  F.C. Flénu A                 v Sporting Bruxelles A          2-1
+    15.00  R.U.S. Binche A              v RCS.Brainois A                0-4
+    15.00  CS Onhaye A                  v R. Aywaille F.C. A            3-2
+
+» 23. Round
+  Sat Nov/01 2025
+    19.30  CS Pays Vert Ostiches-Ath A  v R.S.C. Tilffois A             0-0
+    19.30  Royale Union Hutoise A       v F.C.UN. Richelle A            2-1
+    20.00  F.C. Flénu A                 v RFC UN. La Calamine A         4-0
+    20.00  RCS.Brainois A               v Entente Acren Lessines A      1-3
+
+» 24. Round
+  Sun Nov/02 2025
+    14.30  Sporting Bruxelles A         v FC.Ganshoren                  0-2
+    14.30  F.C. 1912 Raeren-Eynatten A  v CS Onhaye A                   0-2
+    14.30  C.S. Entité Manageoise       v Stade Verviétois A            2-3
+    14.30  R. Aywaille F.C. A           v R.F.C. Tournai A              4-1
+    15.00  RSD.Jette A                  v R.U.S. Binche A               1-1
+
+» 25. Round
+  Sat Nov/08 2025
+    19.30  R.F.C. Tournai A             v C.S. Entité Manageoise        1-2
+    19.30  Stade Verviétois A           v F.C. 1912 Raeren-Eynatten A   1-0
+    19.30  RFC UN. La Calamine A        v CS Onhaye A                   1-1
+    20.00  RCS.Brainois A               v R. Aywaille F.C. A            2-0
+
+» 26. Round
+  Sun Nov/09 2025
+    14.30  R.S.C. Tilffois A            v Royale Union Hutoise A        2-1
+    15.00  R.U.S. Binche A              v FC.Ganshoren                  1-0
+    15.00  Entente Acren Lessines A     v Sporting Bruxelles A          1-2
+    15.00  F.C.UN. Richelle A           v F.C. Flénu A                  2-0
+
+» 27. Round
+  Sat Nov/15 2025
+    19.30  Royale Union Hutoise A       v Entente Acren Lessines A      2-2
+    20.00  CS Onhaye A                  v R.F.C. Tournai A              2-2
+
+» 28. Round
+  Sun Nov/16 2025
+    14.30  R. Aywaille F.C. A           v RFC UN. La Calamine A         3-1
+    14.30  FC.Ganshoren                 v Stade Verviétois A            0-0
+    14.30  C.S. Entité Manageoise       v CS Pays Vert Ostiches-Ath A   0-0
+    14.30  Sporting Bruxelles A         v RCS.Brainois A                1-2
+    14.30  F.C. 1912 Raeren-Eynatten A  v RSD.Jette A                   1-1
+    15.00  F.C.UN. Richelle A           v R.U.S. Binche A               2-2
+    15.00  F.C. Flénu A                 v R.S.C. Tilffois A             5-1
+
+» 29. Round
+  Sat Nov/22 2025
+    19.30  Stade Verviétois A           v R.U.S. Binche A               0-1
+    19.30  CS Pays Vert Ostiches-Ath A  v F.C. 1912 Raeren-Eynatten A   0-1
+    20.00  RCS.Brainois A               v R.S.C. Tilffois A             2-0
+
+» 30. Round
+  Sun Nov/23 2025
+    14.30  R. Aywaille F.C. A           v FC.Ganshoren                  0-2
+    14.30  C.S. Entité Manageoise       v Sporting Bruxelles A          1-0
+    15.00  RSD.Jette A                  v F.C. Flénu A                  0-0
+    15.00  Entente Acren Lessines A     v CS Onhaye A                   2-2
+
+» 31. Round
+  Wed Nov/26 2025
+    20.00  RSD.Jette A                  v CS Pays Vert Ostiches-Ath A   1-3
+
+» 32. Round
+  Sat Nov/29 2025
+    19.30  Stade Verviétois A           v Sporting Bruxelles A          1-0
+    19.30  Royale Union Hutoise A       v C.S. Entité Manageoise        1-1
+    20.00  CS Onhaye A                  v F.C. Flénu A                  4-3
+
+» 33. Round
+  Sun Nov/30 2025
+    14.30  R.S.C. Tilffois A            v R.F.C. Tournai A              0-1
+    14.30  F.C. 1912 Raeren-Eynatten A  v RCS.Brainois A                2-0
+    14.30  FC.Ganshoren                 v CS Pays Vert Ostiches-Ath A   1-1
+    15.00  R.U.S. Binche A              v RFC UN. La Calamine A         1-2
+    15.00  F.C.UN. Richelle A           v RSD.Jette A                   1-3
+    15.00  Entente Acren Lessines A     v R. Aywaille F.C. A            3-1
+
+» 34. Round
+  Sat Dec/06 2025
+    19.30  RFC UN. La Calamine A        v Royale Union Hutoise A        1-2
+    19.30  CS Pays Vert Ostiches-Ath A  v R.F.C. Tournai A              3-0
+    20.00  RCS.Brainois A               v Stade Verviétois A            2-0
+
+» 35. Round
+  Sun Dec/07 2025
+    14.30  C.S. Entité Manageoise       v Entente Acren Lessines A      0-1
+    14.30  R. Aywaille F.C. A           v F.C.UN. Richelle A            1-1
+    14.30  F.C. Flénu A                 v FC.Ganshoren                  2-3
+    14.30  Sporting Bruxelles A         v R.S.C. Tilffois A             1-0
+    14.30  F.C. 1912 Raeren-Eynatten A  v R.U.S. Binche A               2-1
+    15.00  RSD.Jette A                  v CS Onhaye A                   1-1
+
+» 36. Round
+  Wed Dec/10 2025
+    20.00  RFC UN. La Calamine A        v F.C.UN. Richelle A            1-0
+
+» 37. Round
+  Sat Dec/13 2025
+    19.30  Stade Verviétois A           v R. Aywaille F.C. A            1-0
+    19.30  R.F.C. Tournai A             v Sporting Bruxelles A          
+    19.30  Royale Union Hutoise A       v RSD.Jette A                   2-2
+    20.00  CS Onhaye A                  v RCS.Brainois A                3-2
+
+» 38. Round
+  Sun Dec/14 2025
+    14.30  FC.Ganshoren                 v Entente Acren Lessines A      2-1
+    14.30  F.C. Flénu A                 v F.C. 1912 Raeren-Eynatten A   3-0
+    14.30  R.S.C. Tilffois A            v RFC UN. La Calamine A         0-1
+    15.00  R.U.S. Binche A              v C.S. Entité Manageoise        1-0
+    15.00  F.C.UN. Richelle A           v CS Pays Vert Ostiches-Ath A   1-1
+
+» 39. Round
+  Wed Dec/17 2025
+    20.00  F.C.UN. Richelle A           v CS Onhaye A                   1-2
+
+» 40. Round
+  Sat Dec/20 2025
+    17.00  Entente Acren Lessines A     v Stade Verviétois A            2-4
+    19.30  R.F.C. Tournai A             v Royale Union Hutoise A        2-4
+
+» 41. Round
+  Sat Jan/03 2026
+    20.00  RCS.Brainois A               v R.U.S. Binche A               
+
+» 42. Round
+  Sun Jan/04 2026
+    14.30  F.C. 1912 Raeren-Eynatten A  v R. Aywaille F.C. A            
+    14.30  R.S.C. Tilffois A            v CS Pays Vert Ostiches-Ath A   
+    14.30  FC.Ganshoren                 v R.F.C. Tournai A              
+    14.30  C.S. Entité Manageoise       v RFC UN. La Calamine A         
+    14.30  Sporting Bruxelles A         v RSD.Jette A                   
+    15.00  Royale Union Hutoise A       v F.C. Flénu A                  
+
+» 43. Round
+  Sat Jan/10 2026
+    19.30  Stade Verviétois A           v C.S. Entité Manageoise        
+    19.30  R.F.C. Tournai A             v F.C. 1912 Raeren-Eynatten A   
+    19.30  RFC UN. La Calamine A        v Entente Acren Lessines A      
+    19.30  CS Pays Vert Ostiches-Ath A  v Royale Union Hutoise A        
+    20.00  CS Onhaye A                  v FC.Ganshoren                  
+
+» 44. Round
+  Sun Jan/11 2026
+    14.30  F.C. Flénu A                 v F.C.UN. Richelle A            
+    14.30  R. Aywaille F.C. A           v Sporting Bruxelles A          
+    15.00  RSD.Jette A                  v RCS.Brainois A                
+    15.00  R.U.S. Binche A              v R.S.C. Tilffois A             
+
+» 45. Round
+  Sat Jan/17 2026
+    19.30  Royale Union Hutoise A       v R. Aywaille F.C. A            
+    20.00  CS Onhaye A                  v CS Pays Vert Ostiches-Ath A   
+
+» 46. Round
+  Sun Jan/18 2026
+    14.30  F.C. 1912 Raeren-Eynatten A  v Stade Verviétois A            
+    14.30  C.S. Entité Manageoise       v R.F.C. Tournai A              
+    14.30  FC.Ganshoren                 v R.U.S. Binche A               
+    14.30  Sporting Bruxelles A         v RFC UN. La Calamine A         
+    14.30  R.S.C. Tilffois A            v F.C. Flénu A                  
+    15.00  Entente Acren Lessines A     v RSD.Jette A                   
+    15.00  F.C.UN. Richelle A           v RCS.Brainois A                
+
+» 47. Round
+  Sat Jan/24 2026
+    19.30  R.F.C. Tournai A             v CS Onhaye A                   
+    19.30  RFC UN. La Calamine A        v F.C. 1912 Raeren-Eynatten A   
+    19.30  CS Pays Vert Ostiches-Ath A  v Sporting Bruxelles A          
+    19.30  Stade Verviétois A           v R.S.C. Tilffois A             
+    20.00  RCS.Brainois A               v Royale Union Hutoise A        
+
+» 48. Round
+  Sun Jan/25 2026
+    14.30  R. Aywaille F.C. A           v C.S. Entité Manageoise        
+    14.30  F.C. Flénu A                 v Entente Acren Lessines A      
+    15.00  RSD.Jette A                  v FC.Ganshoren                  
+    15.00  R.U.S. Binche A              v F.C.UN. Richelle A            
+
+» 49. Round
+  Sun Feb/01 2026
+    14.30  R.S.C. Tilffois A            v F.C. 1912 Raeren-Eynatten A   
+    14.30  Royale Union Hutoise A       v R.U.S. Binche A               
+    14.30  Sporting Bruxelles A         v F.C.UN. Richelle A            
+    14.30  FC.Ganshoren                 v RFC UN. La Calamine A         
+    14.30  Entente Acren Lessines A     v RCS.Brainois A                
+    14.30  C.S. Entité Manageoise       v F.C. Flénu A                  
+    14.30  CS Onhaye A                  v Stade Verviétois A            
+    14.30  R.F.C. Tournai A             v R. Aywaille F.C. A            
+    14.30  CS Pays Vert Ostiches-Ath A  v RSD.Jette A                   
+
+» 50. Round
+  Sat Feb/07 2026
+    19.30  RFC UN. La Calamine A        v CS Pays Vert Ostiches-Ath A   
+    19.30  Stade Verviétois A           v Royale Union Hutoise A        
+    20.00  RCS.Brainois A               v Sporting Bruxelles A          
+
+» 51. Round
+  Sun Feb/08 2026
+    15.00  R.S.C. Tilffois A            v R. Aywaille F.C. A            
+    15.00  R.U.S. Binche A              v CS Onhaye A                   
+    15.00  F.C.UN. Richelle A           v FC.Ganshoren                  
+    15.00  F.C. Flénu A                 v R.F.C. Tournai A              
+    15.00  RSD.Jette A                  v C.S. Entité Manageoise        
+    15.00  F.C. 1912 Raeren-Eynatten A  v Entente Acren Lessines A      
+
+» 52. Round
+  Sat Feb/14 2026
+    19.30  CS Pays Vert Ostiches-Ath A  v F.C. Flénu A                  
+    19.30  R.F.C. Tournai A             v Stade Verviétois A            
+    19.30  Royale Union Hutoise A       v RFC UN. La Calamine A         
+    20.00  CS Onhaye A                  v RSD.Jette A                   
+
+» 53. Round
+  Sun Feb/15 2026
+    15.00  Entente Acren Lessines A     v F.C.UN. Richelle A            
+    15.00  C.S. Entité Manageoise       v F.C. 1912 Raeren-Eynatten A   
+    15.00  R. Aywaille F.C. A           v RCS.Brainois A                
+    15.00  FC.Ganshoren                 v R.S.C. Tilffois A             
+    15.00  Sporting Bruxelles A         v R.U.S. Binche A               
+
+» 54. Round
+  Sat Feb/21 2026
+    19.30  Stade Verviétois A           v F.C.UN. Richelle A            
+    19.30  CS Pays Vert Ostiches-Ath A  v FC.Ganshoren                  
+    19.30  RFC UN. La Calamine A        v R. Aywaille F.C. A            
+    20.00  RCS.Brainois A               v C.S. Entité Manageoise        
+    20.00  F.C. Flénu A                 v CS Onhaye A                   
+
+» 55. Round
+  Sun Feb/22 2026
+    15.00  R.U.S. Binche A              v R.F.C. Tournai A              
+    15.00  RSD.Jette A                  v Royale Union Hutoise A        
+    15.00  F.C. 1912 Raeren-Eynatten A  v Sporting Bruxelles A          
+    15.00  R.S.C. Tilffois A            v Entente Acren Lessines A      
+
+» 56. Round
+  Sat Feb/28 2026
+    19.30  R.F.C. Tournai A             v RCS.Brainois A                
+    19.30  Royale Union Hutoise A       v R.S.C. Tilffois A             
+    20.00  CS Onhaye A                  v F.C. 1912 Raeren-Eynatten A   
+
+» 57. Round
+  Sun Mar/01 2026
+    15.00  Entente Acren Lessines A     v CS Pays Vert Ostiches-Ath A   
+    15.00  FC.Ganshoren                 v F.C. Flénu A                  
+    15.00  R. Aywaille F.C. A           v RSD.Jette A                   
+    15.00  F.C.UN. Richelle A           v RFC UN. La Calamine A         
+    15.00  C.S. Entité Manageoise       v R.U.S. Binche A               
+    15.00  Sporting Bruxelles A         v Stade Verviétois A            
+
+» 58. Round
+  Sat Mar/07 2026
+    19.30  CS Pays Vert Ostiches-Ath A  v C.S. Entité Manageoise        
+    19.30  RFC UN. La Calamine A        v R.F.C. Tournai A              
+    19.30  Stade Verviétois A           v FC.Ganshoren                  
+    20.00  CS Onhaye A                  v Sporting Bruxelles A          
+
+» 59. Round
+  Sun Mar/08 2026
+    15.00  F.C. 1912 Raeren-Eynatten A  v Royale Union Hutoise A        
+    15.00  F.C. Flénu A                 v R. Aywaille F.C. A            
+    15.00  RSD.Jette A                  v F.C.UN. Richelle A            
+    15.00  R.U.S. Binche A              v Entente Acren Lessines A      
+    15.00  R.S.C. Tilffois A            v RCS.Brainois A                
+
+» 60. Round
+  Sat Mar/14 2026
+    19.30  Royale Union Hutoise A       v CS Onhaye A                   
+    19.30  R.F.C. Tournai A             v RSD.Jette A                   
+    20.00  RCS.Brainois A               v RFC UN. La Calamine A         
+
+» 61. Round
+  Sun Mar/15 2026
+    15.00  F.C.UN. Richelle A           v R.S.C. Tilffois A             
+    15.00  Sporting Bruxelles A         v F.C. Flénu A                  
+    15.00  FC.Ganshoren                 v F.C. 1912 Raeren-Eynatten A   
+    15.00  R. Aywaille F.C. A           v Stade Verviétois A            
+    15.00  Entente Acren Lessines A     v C.S. Entité Manageoise        
+    15.00  R.U.S. Binche A              v CS Pays Vert Ostiches-Ath A   
+
+» 62. Round
+  Sat Mar/21 2026
+    19.30  CS Pays Vert Ostiches-Ath A  v R. Aywaille F.C. A            
+    19.30  Stade Verviétois A           v RCS.Brainois A                
+    19.30  Royale Union Hutoise A       v R.F.C. Tournai A              
+    20.00  CS Onhaye A                  v Entente Acren Lessines A      
+
+» 63. Round
+  Sun Mar/22 2026
+    15.00  RSD.Jette A                  v RFC UN. La Calamine A         
+    15.00  F.C. Flénu A                 v R.U.S. Binche A               
+    15.00  C.S. Entité Manageoise       v FC.Ganshoren                  
+    15.00  F.C. 1912 Raeren-Eynatten A  v F.C.UN. Richelle A            
+    15.00  R.S.C. Tilffois A            v Sporting Bruxelles A          
+
+» 64. Round
+  Sat Mar/28 2026
+    19.30  Stade Verviétois A           v F.C. Flénu A                  
+    19.30  R.F.C. Tournai A             v CS Pays Vert Ostiches-Ath A   
+    19.30  RFC UN. La Calamine A        v R.S.C. Tilffois A             
+    20.00  RCS.Brainois A               v F.C. 1912 Raeren-Eynatten A   
+
+» 65. Round
+  Sun Mar/29 2026
+    15.00  F.C.UN. Richelle A           v C.S. Entité Manageoise        
+    15.00  R. Aywaille F.C. A           v CS Onhaye A                   
+    15.00  FC.Ganshoren                 v Sporting Bruxelles A          
+    15.00  Entente Acren Lessines A     v Royale Union Hutoise A        
+    15.00  R.U.S. Binche A              v RSD.Jette A                   
+
+» 66. Round
+  Sat Apr/04 2026
+    19.30  CS Pays Vert Ostiches-Ath A  v Stade Verviétois A            
+    19.30  Royale Union Hutoise A       v FC.Ganshoren                  
+    19.30  R.F.C. Tournai A             v F.C.UN. Richelle A            
+    20.00  CS Onhaye A                  v RFC UN. La Calamine A         
+
+» 67. Round
+  Sun Apr/05 2026
+    15.00  R. Aywaille F.C. A           v R.U.S. Binche A               
+    15.00  C.S. Entité Manageoise       v R.S.C. Tilffois A             
+    15.00  RSD.Jette A                  v F.C. 1912 Raeren-Eynatten A   
+    15.00  F.C. Flénu A                 v RCS.Brainois A                
+    15.00  Sporting Bruxelles A         v Entente Acren Lessines A      
+
+» 68. Round
+  Sat Apr/11 2026
+    19.30  RFC UN. La Calamine A        v F.C. Flénu A                  
+    20.00  RCS.Brainois A               v CS Onhaye A                   
+
+» 69. Round
+  Sun Apr/12 2026
+    15.00  Entente Acren Lessines A     v R.F.C. Tournai A              
+    15.00  Sporting Bruxelles A         v C.S. Entité Manageoise        
+    15.00  F.C. 1912 Raeren-Eynatten A  v CS Pays Vert Ostiches-Ath A   
+    15.00  FC.Ganshoren                 v R. Aywaille F.C. A            
+    15.00  F.C.UN. Richelle A           v Royale Union Hutoise A        
+    15.00  R.U.S. Binche A              v Stade Verviétois A            
+    15.00  R.S.C. Tilffois A            v RSD.Jette A                   
+
+» 70. Round
+  Sun Apr/19 2026
+    15.00  FC.Ganshoren                 v RCS.Brainois A                
+    15.00  R. Aywaille F.C. A           v Entente Acren Lessines A      
+    15.00  Royale Union Hutoise A       v Sporting Bruxelles A          
+    15.00  CS Pays Vert Ostiches-Ath A  v F.C.UN. Richelle A            
+    15.00  F.C. Flénu A                 v RSD.Jette A                   
+    15.00  R.F.C. Tournai A             v R.S.C. Tilffois A             
+    15.00  CS Onhaye A                  v C.S. Entité Manageoise        
+    15.00  Stade Verviétois A           v RFC UN. La Calamine A         
+    15.00  R.U.S. Binche A              v F.C. 1912 Raeren-Eynatten A   
+
+» 71. Round
+  Sun Apr/26 2026
+    15.00  RFC UN. La Calamine A        v R.U.S. Binche A               
+    15.00  Entente Acren Lessines A     v FC.Ganshoren                  
+    15.00  F.C. 1912 Raeren-Eynatten A  v F.C. Flénu A                  
+    15.00  RSD.Jette A                  v Stade Verviétois A            
+    15.00  Sporting Bruxelles A         v R.F.C. Tournai A              
+    15.00  C.S. Entité Manageoise       v Royale Union Hutoise A        
+    15.00  F.C.UN. Richelle A           v R. Aywaille F.C. A            
+    15.00  RCS.Brainois A               v CS Pays Vert Ostiches-Ath A   
+    15.00  R.S.C. Tilffois A            v CS Onhaye A                   

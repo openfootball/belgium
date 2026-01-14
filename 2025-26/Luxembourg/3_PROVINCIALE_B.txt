@@ -1,0 +1,309 @@
+= 3_PROVINCIALE_B
+
+# Date       Fri Aug/22 2025 - Sun Apr/26 2026 (248d)
+# Teams      13
+# Matches    156
+
+
+» 1. Round
+  Fri Aug/22 2025
+    20.30  RUS.Marbehan                 v SC.Villers-Dt-Orval           1-1
+
+» 2. Round
+  Sat Aug/23 2025
+    20.00  RUS.Ste Marie-Semois         v AS.Gérouville                 1-0
+    20.00  RES.Petitvoir-Tournay        v Union Cecilienne              1-9
+    20.00  EC.Jamoigne-Chiny            v US.Assenois B                 0-2
+
+» 3. Round
+  Sun Aug/24 2025
+    15.00  RUS.Les Bulles               v FC.Namoussart                 0-2
+    15.00  RUS.Etalle                   v RSC.Muno                      1-3
+
+» 4. Round
+  Sat Aug/30 2025
+    20.00  AS.Gérouville                v RES.Petitvoir-Tournay         8-2
+
+» 5. Round
+  Sun Aug/31 2025
+    15.00  FC.Namoussart                v EC.Jamoigne-Chiny             1-2
+    15.00  Union Cecilienne             v RLC.Warmifontaine             1-3
+    15.00  SC.Villers-Dt-Orval          v RUS.Etalle                    0-0
+    15.00  RSC.Muno                     v RUS.Ste Marie-Semois          2-0
+    15.00  US.Assenois B                v RUS.Marbehan                  4-1
+
+» 6. Round
+  Sat Sep/06 2025
+    20.00  RUS.Marbehan                 v FC.Namoussart                 5-0
+    20.00  RUS.Ste Marie-Semois         v SC.Villers-Dt-Orval           1-1
+    20.00  RES.Petitvoir-Tournay        v RLC.Warmifontaine             0-5
+
+» 7. Round
+  Sun Sep/07 2025
+    15.00  RUS.Les Bulles               v Union Cecilienne              
+    15.00  RUS.Etalle                   v US.Assenois B                 1-2
+    15.00  AS.Gérouville                v RSC.Muno                      2-1
+
+» 8. Round
+  Sat Sep/13 2025
+    20.00  US.Assenois B                v RUS.Ste Marie-Semois          4-4
+
+» 9. Round
+  Sun Sep/14 2025
+    15.00  RSC.Muno                     v RES.Petitvoir-Tournay         8-1
+    15.00  RLC.Warmifontaine            v RUS.Les Bulles                4-1
+    15.00  SC.Villers-Dt-Orval          v AS.Gérouville                 1-0
+    15.00  Union Cecilienne             v EC.Jamoigne-Chiny             2-4
+    15.00  FC.Namoussart                v RUS.Etalle                    1-5
+
+» 10. Round
+  Sat Sep/20 2025
+    20.00  RUS.Marbehan                 v Union Cecilienne              1-6
+    20.00  RUS.Ste Marie-Semois         v FC.Namoussart                 5-1
+    20.00  EC.Jamoigne-Chiny            v RLC.Warmifontaine             2-3
+    20.00  RES.Petitvoir-Tournay        v RUS.Les Bulles                2-5
+
+» 11. Round
+  Sun Sep/21 2025
+    15.00  AS.Gérouville                v US.Assenois B                 2-1
+    15.00  RSC.Muno                     v SC.Villers-Dt-Orval           2-2
+
+» 12. Round
+  Sat Sep/27 2025
+    20.00  Union Cecilienne             v RUS.Etalle                    2-5
+
+» 13. Round
+  Sun Sep/28 2025
+    15.00  FC.Namoussart                v AS.Gérouville                 4-6
+    15.00  US.Assenois B                v RSC.Muno                      5-2
+    15.00  RUS.Les Bulles               v EC.Jamoigne-Chiny             1-3
+    15.00  SC.Villers-Dt-Orval          v RES.Petitvoir-Tournay         3-0
+    15.00  RLC.Warmifontaine            v RUS.Marbehan                  2-2
+
+» 14. Round
+  Sat Oct/04 2025
+    20.00  RUS.Ste Marie-Semois         v Union Cecilienne              1-1
+    20.00  RES.Petitvoir-Tournay        v EC.Jamoigne-Chiny             3-11
+    20.30  RUS.Marbehan                 v RUS.Les Bulles                0-0
+
+» 15. Round
+  Sun Oct/05 2025
+    15.00  RSC.Muno                     v FC.Namoussart                 2-2
+    15.00  SC.Villers-Dt-Orval          v US.Assenois B                 1-2
+    15.00  RUS.Etalle                   v RLC.Warmifontaine             3-4
+
+» 16. Round
+  Sat Oct/11 2025
+    20.00  EC.Jamoigne-Chiny            v RUS.Marbehan                  2-0
+
+» 17. Round
+  Sun Oct/12 2025
+    15.00  FC.Namoussart                v SC.Villers-Dt-Orval           1-3
+    15.00  RLC.Warmifontaine            v RUS.Ste Marie-Semois          2-1
+    15.00  US.Assenois B                v RES.Petitvoir-Tournay         10-0
+    15.00  RUS.Les Bulles               v RUS.Etalle                    0-0
+    15.00  Union Cecilienne             v AS.Gérouville                 1-3
+
+» 18. Round
+  Sat Oct/18 2025
+    20.00  US.Assenois B                v FC.Namoussart                 6-1
+    20.00  RUS.Ste Marie-Semois         v RUS.Les Bulles                2-1
+    20.00  RES.Petitvoir-Tournay        v RUS.Marbehan                  1-8
+
+» 19. Round
+  Sun Oct/19 2025
+    15.00  AS.Gérouville                v RLC.Warmifontaine             2-3
+    15.00  RSC.Muno                     v Union Cecilienne              1-1
+    15.00  RUS.Etalle                   v EC.Jamoigne-Chiny             3-2
+
+» 20. Round
+  Sat Oct/25 2025
+    20.00  RUS.Marbehan                 v RUS.Etalle                    1-1
+    20.00  EC.Jamoigne-Chiny            v RUS.Ste Marie-Semois          4-3
+
+» 21. Round
+  Sun Oct/26 2025
+    15.00  FC.Namoussart                v RES.Petitvoir-Tournay         8-0
+    15.00  RLC.Warmifontaine            v RSC.Muno                      1-2
+    15.00  Union Cecilienne             v SC.Villers-Dt-Orval           0-2
+    15.00  RUS.Les Bulles               v AS.Gérouville                 0-5
+
+» 22. Round
+  Sat Nov/01 2025
+    20.00  RUS.Ste Marie-Semois         v RUS.Marbehan                  3-2
+    20.00  RES.Petitvoir-Tournay        v RUS.Etalle                    3-5
+
+» 23. Round
+  Sun Nov/02 2025
+    14.30  SC.Villers-Dt-Orval          v RLC.Warmifontaine             1-1
+    15.00  AS.Gérouville                v EC.Jamoigne-Chiny             2-0
+    15.00  RSC.Muno                     v RUS.Les Bulles                2-4
+    15.00  US.Assenois B                v Union Cecilienne              2-3
+
+» 24. Round
+  Sat Nov/08 2025
+    20.00  EC.Jamoigne-Chiny            v RSC.Muno                      3-3
+    20.00  RUS.Marbehan                 v AS.Gérouville                 2-3
+
+» 25. Round
+  Sun Nov/09 2025
+    14.30  Union Cecilienne             v FC.Namoussart                 2-1
+    14.30  RLC.Warmifontaine            v US.Assenois B                 2-2
+    14.30  RUS.Les Bulles               v SC.Villers-Dt-Orval           1-3
+    15.00  RUS.Etalle                   v RUS.Ste Marie-Semois          1-3
+
+» 26. Round
+  Sat Nov/15 2025
+    20.00  RUS.Ste Marie-Semois         v RES.Petitvoir-Tournay         4-1
+    20.00  US.Assenois B                v RUS.Les Bulles                8-1
+
+» 27. Round
+  Sun Nov/16 2025
+    14.30  FC.Namoussart                v RLC.Warmifontaine             2-3
+    14.30  SC.Villers-Dt-Orval          v EC.Jamoigne-Chiny             1-0
+    15.00  RSC.Muno                     v RUS.Marbehan                  2-0
+    15.00  AS.Gérouville                v RUS.Etalle                    3-1
+
+» 28. Round
+  Fri Nov/21 2025
+    20.30  EC.Jamoigne-Chiny            v FC.Namoussart                 0-3
+
+» 29. Round
+  Sat Nov/22 2025
+    20.00  RES.Petitvoir-Tournay        v AS.Gérouville                 
+    20.00  RUS.Marbehan                 v US.Assenois B                 
+    20.00  RUS.Ste Marie-Semois         v RSC.Muno                      2-1
+
+» 30. Round
+  Sun Nov/23 2025
+    14.30  RLC.Warmifontaine            v Union Cecilienne              
+    15.00  RUS.Etalle                   v SC.Villers-Dt-Orval           2-2
+
+» 31. Round
+  Sun Nov/30 2025
+    14.30  Union Cecilienne             v RES.Petitvoir-Tournay         6-1
+    14.30  FC.Namoussart                v RUS.Les Bulles                7-1
+    14.30  SC.Villers-Dt-Orval          v RUS.Marbehan                  6-0
+    15.00  RSC.Muno                     v RUS.Etalle                    2-1
+    15.00  AS.Gérouville                v RUS.Ste Marie-Semois          1-2
+    15.00  US.Assenois B                v EC.Jamoigne-Chiny             2-0
+
+» 32. Round
+  Sun Dec/07 2025
+    14.30  RLC.Warmifontaine            v RES.Petitvoir-Tournay         4-1
+    14.30  FC.Namoussart                v RUS.Marbehan                  0-3
+    14.30  SC.Villers-Dt-Orval          v RUS.Ste Marie-Semois          1-0
+    14.30  Union Cecilienne             v RUS.Les Bulles                
+    15.00  US.Assenois B                v RUS.Etalle                    1-1
+    15.00  RSC.Muno                     v AS.Gérouville                 
+
+» 33. Round
+  Sat Dec/13 2025
+    20.00  EC.Jamoigne-Chiny            v Union Cecilienne              6-5
+    20.00  RUS.Ste Marie-Semois         v US.Assenois B                 4-3
+    20.00  RES.Petitvoir-Tournay        v RSC.Muno                      2-6
+
+» 34. Round
+  Sun Dec/14 2025
+    14.30  RUS.Les Bulles               v RLC.Warmifontaine             0-3
+    15.00  RUS.Etalle                   v FC.Namoussart                 2-1
+    15.00  AS.Gérouville                v SC.Villers-Dt-Orval           3-1
+
+» 35. Round
+  Sun Dec/21 2025
+    14.30  FC.Namoussart                v RUS.Ste Marie-Semois          1-2
+    14.30  RUS.Les Bulles               v RES.Petitvoir-Tournay         3-0
+    14.30  SC.Villers-Dt-Orval          v RSC.Muno                      0-3
+    14.30  Union Cecilienne             v RUS.Marbehan                  2-0
+    14.30  RLC.Warmifontaine            v EC.Jamoigne-Chiny             1-0
+    15.00  US.Assenois B                v AS.Gérouville                 1-0
+
+» 36. Round
+  Sat Feb/21 2026
+    20.00  EC.Jamoigne-Chiny            v RUS.Les Bulles                
+    20.00  RUS.Marbehan                 v RLC.Warmifontaine             
+    20.00  RES.Petitvoir-Tournay        v SC.Villers-Dt-Orval           
+
+» 37. Round
+  Sun Feb/22 2026
+    15.00  AS.Gérouville                v FC.Namoussart                 
+    15.00  RSC.Muno                     v US.Assenois B                 
+    15.00  RUS.Etalle                   v Union Cecilienne              
+
+» 38. Round
+  Sat Feb/28 2026
+    20.00  EC.Jamoigne-Chiny            v RES.Petitvoir-Tournay         
+
+» 39. Round
+  Sun Mar/01 2026
+    15.00  FC.Namoussart                v RSC.Muno                      
+    15.00  RUS.Les Bulles               v RUS.Marbehan                  
+    15.00  US.Assenois B                v SC.Villers-Dt-Orval           
+    15.00  RLC.Warmifontaine            v RUS.Etalle                    
+    15.00  Union Cecilienne             v RUS.Ste Marie-Semois          
+
+» 40. Round
+  Sat Mar/07 2026
+    20.00  RUS.Ste Marie-Semois         v RLC.Warmifontaine             
+    20.00  RUS.Marbehan                 v EC.Jamoigne-Chiny             
+    20.00  RES.Petitvoir-Tournay        v US.Assenois B                 
+
+» 41. Round
+  Sun Mar/08 2026
+    15.00  SC.Villers-Dt-Orval          v FC.Namoussart                 
+    15.00  AS.Gérouville                v Union Cecilienne              
+    15.00  RUS.Etalle                   v RUS.Les Bulles                
+
+» 42. Round
+  Sat Mar/21 2026
+    20.00  RUS.Marbehan                 v RES.Petitvoir-Tournay         
+    20.00  EC.Jamoigne-Chiny            v RUS.Etalle                    
+
+» 43. Round
+  Sun Mar/22 2026
+    15.00  Union Cecilienne             v RSC.Muno                      
+    15.00  RLC.Warmifontaine            v AS.Gérouville                 
+    15.00  FC.Namoussart                v US.Assenois B                 
+    15.00  RUS.Les Bulles               v RUS.Ste Marie-Semois          
+
+» 44. Round
+  Sat Mar/28 2026
+    20.00  RES.Petitvoir-Tournay        v FC.Namoussart                 
+    20.00  RUS.Ste Marie-Semois         v EC.Jamoigne-Chiny             
+
+» 45. Round
+  Sun Mar/29 2026
+    15.00  SC.Villers-Dt-Orval          v Union Cecilienne              
+    15.00  RSC.Muno                     v RLC.Warmifontaine             
+    15.00  RUS.Etalle                   v RUS.Marbehan                  
+    15.00  AS.Gérouville                v RUS.Les Bulles                
+
+» 46. Round
+  Sat Apr/11 2026
+    20.00  EC.Jamoigne-Chiny            v AS.Gérouville                 
+    20.00  RUS.Marbehan                 v RUS.Ste Marie-Semois          
+
+» 47. Round
+  Sun Apr/12 2026
+    15.00  Union Cecilienne             v US.Assenois B                 
+    15.00  RUS.Les Bulles               v RSC.Muno                      
+    15.00  RLC.Warmifontaine            v SC.Villers-Dt-Orval           
+    15.00  RUS.Etalle                   v RES.Petitvoir-Tournay         
+
+» 48. Round
+  Sun Apr/19 2026
+    15.00  RSC.Muno                     v EC.Jamoigne-Chiny             
+    15.00  SC.Villers-Dt-Orval          v RUS.Les Bulles                
+    15.00  FC.Namoussart                v Union Cecilienne              
+    15.00  AS.Gérouville                v RUS.Marbehan                  
+    15.00  US.Assenois B                v RLC.Warmifontaine             
+    15.00  RUS.Ste Marie-Semois         v RUS.Etalle                    
+
+» 49. Round
+  Sun Apr/26 2026
+    15.00  RLC.Warmifontaine            v FC.Namoussart                 
+    15.00  RES.Petitvoir-Tournay        v RUS.Ste Marie-Semois          
+    15.00  RUS.Etalle                   v AS.Gérouville                 
+    15.00  EC.Jamoigne-Chiny            v SC.Villers-Dt-Orval           
+    15.00  RUS.Les Bulles               v US.Assenois B                 
+    15.00  RUS.Marbehan                 v RSC.Muno                      

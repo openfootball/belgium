@@ -1,0 +1,402 @@
+= 3_Prov_C
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    15.00  F.C. AEDEC-Hyon              v Renaissance FC Carnières A    1-3
+    20.00  R.F.C. Houdinois B           v A.S. Morlanwelz A             4-5
+    20.00  R. Soignies Sports B         v R.F.C.E. Maurage              2-1
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  R.F.C.R. Symphorinois B      v R.L.C. Givry                  0-0
+    15.00  U.S Solrezienne A            v U.E. Estinnoise B             4-0
+    15.00  U.S. Neufvilles B            v R.E.S. Frasnoise B            3-3
+    15.00  R. Entente Mons Nord A       v Bracquegnies Sp B             0-1
+    15.00  F.C. Enghiennois B           v R. Goutroux Sports A          2-1
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  R.E.S. Frasnoise B           v R.F.C. Houdinois B            2-0
+    15.00  A.S. Morlanwelz A            v R. Soignies Sports B          5-1
+    15.00  U.E. Estinnoise B            v U.S. Neufvilles B             3-1
+    15.00  R. Goutroux Sports A         v F.C. AEDEC-Hyon               1-0
+    15.00  R.F.C.E. Maurage             v R.F.C.R. Symphorinois B       3-2
+    15.00  Bracquegnies Sp B            v U.S Solrezienne A             6-4
+    15.00  Renaissance FC Carnières A   v R. Entente Mons Nord A        3-1
+    15.00  R.L.C. Givry                 v F.C. Enghiennois B            2-3
+
+» 4. Round
+  Sat Sep/06 2025
+    19.30  R.F.C. Houdinois B           v R. Soignies Sports B          1-5
+
+» 5. Round
+  Sun Sep/07 2025
+    15.00  U.S Solrezienne A            v Renaissance FC Carnières A    2-3
+    15.00  R.E.S. Frasnoise B           v U.E. Estinnoise B             4-2
+    15.00  F.C. AEDEC-Hyon              v R.L.C. Givry                  3-6
+    15.00  U.S. Neufvilles B            v Bracquegnies Sp B             2-2
+    15.00  R.F.C.R. Symphorinois B      v A.S. Morlanwelz A             2-1
+    15.00  R. Entente Mons Nord A       v R. Goutroux Sports A          3-2
+    15.00  F.C. Enghiennois B           v R.F.C.E. Maurage              0-0
+
+» 6. Round
+  Sat Sep/13 2025
+    20.00  R. Soignies Sports B         v R.F.C.R. Symphorinois B       2-1
+
+» 7. Round
+  Sun Sep/14 2025
+    15.00  R.L.C. Givry                 v R. Entente Mons Nord A        3-1
+    15.00  U.E. Estinnoise B            v R.F.C. Houdinois B            1-2
+    15.00  Renaissance FC Carnières A   v U.S. Neufvilles B             3-1
+    15.00  R. Goutroux Sports A         v U.S Solrezienne A             2-4
+    15.00  Bracquegnies Sp B            v R.E.S. Frasnoise B            1-0
+    15.00  R.F.C.E. Maurage             v F.C. AEDEC-Hyon               1-0
+    15.00  A.S. Morlanwelz A            v F.C. Enghiennois B            3-2
+
+» 8. Round
+  Sun Sep/21 2025
+    15.00  F.C. AEDEC-Hyon              v A.S. Morlanwelz A             0-1
+    15.00  F.C. Enghiennois B           v R. Soignies Sports B          6-2
+    15.00  R. Entente Mons Nord A       v R.F.C.E. Maurage              2-1
+    15.00  U.S Solrezienne A            v R.L.C. Givry                  0-1
+    15.00  U.E. Estinnoise B            v Bracquegnies Sp B             0-1
+    15.00  R.E.S. Frasnoise B           v Renaissance FC Carnières A    1-2
+    15.00  U.S. Neufvilles B            v R. Goutroux Sports A          3-2
+    17.00  R.F.C. Houdinois B           v R.F.C.R. Symphorinois B       5-5
+
+» 9. Round
+  Sat Sep/27 2025
+    20.00  R. Soignies Sports B         v F.C. AEDEC-Hyon               2-2
+
+» 10. Round
+  Sun Sep/28 2025
+    15.00  Bracquegnies Sp B            v R.F.C. Houdinois B            1-3
+    15.00  R.F.C.R. Symphorinois B      v F.C. Enghiennois B            3-5
+    15.00  A.S. Morlanwelz A            v R. Entente Mons Nord A        2-1
+    15.00  R. Goutroux Sports A         v R.E.S. Frasnoise B            2-2
+    15.00  Renaissance FC Carnières A   v U.E. Estinnoise B             6-1
+    15.00  R.F.C.E. Maurage             v U.S Solrezienne A             3-1
+    15.00  R.L.C. Givry                 v U.S. Neufvilles B             1-1
+
+» 11. Round
+  Sat Oct/04 2025
+    19.30  R.F.C. Houdinois B           v F.C. Enghiennois B            1-3
+
+» 12. Round
+  Sun Oct/05 2025
+    15.00  R. Entente Mons Nord A       v R. Soignies Sports B          2-0
+    15.00  Bracquegnies Sp B            v Renaissance FC Carnières A    1-2
+    15.00  F.C. AEDEC-Hyon              v R.F.C.R. Symphorinois B       1-2
+    15.00  R.E.S. Frasnoise B           v R.L.C. Givry                  1-2
+    15.00  U.S Solrezienne A            v A.S. Morlanwelz A             3-2
+    15.00  U.E. Estinnoise B            v R. Goutroux Sports A          0-2
+    16.00  U.S. Neufvilles B            v R.F.C.E. Maurage              1-2
+
+» 13. Round
+  Sat Oct/11 2025
+    20.00  R. Soignies Sports B         v U.S Solrezienne A             2-2
+
+» 14. Round
+  Sun Oct/12 2025
+    15.00  F.C. Enghiennois B           v F.C. AEDEC-Hyon               0-1
+    15.00  Renaissance FC Carnières A   v R.F.C. Houdinois B            4-0
+    15.00  R.F.C.R. Symphorinois B      v R. Entente Mons Nord A        0-4
+    15.00  R.F.C.E. Maurage             v R.E.S. Frasnoise B            2-1
+    15.00  A.S. Morlanwelz A            v U.S. Neufvilles B             3-5
+    15.00  R. Goutroux Sports A         v Bracquegnies Sp B             2-4
+    15.00  R.L.C. Givry                 v U.E. Estinnoise B             3-3
+
+» 15. Round
+  Sat Oct/18 2025
+    19.30  R.F.C. Houdinois B           v F.C. AEDEC-Hyon               1-0
+
+» 16. Round
+  Sun Oct/19 2025
+    15.00  U.S Solrezienne A            v R.F.C.R. Symphorinois B       2-2
+    15.00  R.E.S. Frasnoise B           v A.S. Morlanwelz A             0-2
+    15.00  U.E. Estinnoise B            v R.F.C.E. Maurage              1-2
+    15.00  Bracquegnies Sp B            v R.L.C. Givry                  2-2
+    15.00  Renaissance FC Carnières A   v R. Goutroux Sports A          0-3
+    15.00  U.S. Neufvilles B            v R. Soignies Sports B          2-1
+    15.00  R. Entente Mons Nord A       v F.C. Enghiennois B            0-0
+
+» 17. Round
+  Sun Oct/26 2025
+    15.00  R. Goutroux Sports A         v R.F.C. Houdinois B            3-2
+    15.00  F.C. AEDEC-Hyon              v R. Entente Mons Nord A        2-1
+    15.00  R.L.C. Givry                 v Renaissance FC Carnières A    3-2
+    15.00  R.F.C.R. Symphorinois B      v U.S. Neufvilles B             1-1
+    15.00  R. Soignies Sports B         v R.E.S. Frasnoise B            8-0
+    15.00  F.C. Enghiennois B           v U.S Solrezienne A             3-2
+    15.00  R.F.C.E. Maurage             v Bracquegnies Sp B             3-1
+    15.00  A.S. Morlanwelz A            v U.E. Estinnoise B             4-2
+
+» 18. Round
+  Sat Nov/01 2025
+    19.30  R.F.C. Houdinois B           v R. Entente Mons Nord A        0-2
+
+» 19. Round
+  Sun Nov/02 2025
+    14.30  U.S Solrezienne A            v F.C. AEDEC-Hyon               0-1
+    14.30  Bracquegnies Sp B            v A.S. Morlanwelz A             1-2
+    14.30  Renaissance FC Carnières A   v R.F.C.E. Maurage              0-1
+    14.30  U.E. Estinnoise B            v R. Soignies Sports B          0-1
+    14.30  R.E.S. Frasnoise B           v R.F.C.R. Symphorinois B       4-1
+    15.00  U.S. Neufvilles B            v F.C. Enghiennois B            1-3
+    15.00  R. Goutroux Sports A         v R.L.C. Givry                  2-1
+
+» 20. Round
+  Sat Nov/08 2025
+    20.00  R. Soignies Sports B         v Bracquegnies Sp B             4-0
+
+» 21. Round
+  Sun Nov/09 2025
+    14.30  R. Entente Mons Nord A       v U.S Solrezienne A             2-1
+    14.30  R.L.C. Givry                 v R.F.C. Houdinois B            0-3
+    14.30  R.F.C.E. Maurage             v R. Goutroux Sports A          3-2
+    14.30  R.F.C.R. Symphorinois B      v U.E. Estinnoise B             3-2
+    14.30  F.C. AEDEC-Hyon              v U.S. Neufvilles B             0-2
+    15.00  F.C. Enghiennois B           v R.E.S. Frasnoise B            3-1
+    15.00  A.S. Morlanwelz A            v Renaissance FC Carnières A    4-3
+
+» 22. Round
+  Sat Nov/15 2025
+    19.30  R.F.C. Houdinois B           v U.S Solrezienne A             2-7
+
+» 23. Round
+  Sun Nov/16 2025
+    14.30  U.E. Estinnoise B            v F.C. Enghiennois B            1-2
+    14.30  R.E.S. Frasnoise B           v F.C. AEDEC-Hyon               0-3
+    14.30  Renaissance FC Carnières A   v R. Soignies Sports B          2-3
+    14.30  Bracquegnies Sp B            v R.F.C.R. Symphorinois B       1-2
+    14.30  R.L.C. Givry                 v R.F.C.E. Maurage              5-3
+    15.00  R. Goutroux Sports A         v A.S. Morlanwelz A             5-3
+    15.00  U.S. Neufvilles B            v R. Entente Mons Nord A        1-2
+
+» 24. Round
+  Sat Nov/22 2025
+    19.30  R.F.C. Houdinois B           v R.F.C.E. Maurage              4-2
+    20.00  R. Soignies Sports B         v R. Goutroux Sports A          1-0
+
+» 25. Round
+  Sun Nov/23 2025
+    14.30  U.S Solrezienne A            v U.S. Neufvilles B             4-1
+    14.30  R. Entente Mons Nord A       v R.E.S. Frasnoise B            5-1
+    14.30  R.F.C.R. Symphorinois B      v Renaissance FC Carnières A    2-5
+    14.30  F.C. AEDEC-Hyon              v U.E. Estinnoise B             3-1
+    15.00  F.C. Enghiennois B           v Bracquegnies Sp B             2-0
+    15.00  A.S. Morlanwelz A            v R.L.C. Givry                  4-3
+
+» 26. Round
+  Sun Nov/30 2025
+    14.30  R.F.C.E. Maurage             v A.S. Morlanwelz A             2-2
+    14.30  Renaissance FC Carnières A   v F.C. Enghiennois B            2-1
+    14.30  R.L.C. Givry                 v R. Soignies Sports B          4-2
+    14.30  U.E. Estinnoise B            v R. Entente Mons Nord A        1-7
+    14.30  Bracquegnies Sp B            v F.C. AEDEC-Hyon               4-1
+    14.30  R.E.S. Frasnoise B           v U.S Solrezienne A             0-1
+    15.00  R. Goutroux Sports A         v R.F.C.R. Symphorinois B       3-1
+    15.00  U.S. Neufvilles B            v R.F.C. Houdinois B            1-1
+
+» 27. Round
+  Sun Dec/07 2025
+    14.30  R.E.S. Frasnoise B           v U.S. Neufvilles B             0-5
+    14.30  Bracquegnies Sp B            v R. Entente Mons Nord A        1-1
+    14.30  U.E. Estinnoise B            v U.S Solrezienne A             0-1
+    14.30  R.F.C.E. Maurage             v R. Soignies Sports B          5-0
+    14.30  Renaissance FC Carnières A   v F.C. AEDEC-Hyon               1-6
+    15.00  A.S. Morlanwelz A            v R.F.C. Houdinois B            0-0
+    15.00  R. Goutroux Sports A         v F.C. Enghiennois B            0-1
+    15.00  R.L.C. Givry                 v R.F.C.R. Symphorinois B       2-1
+
+» 28. Round
+  Sat Dec/13 2025
+    19.30  R.F.C. Houdinois B           v R.E.S. Frasnoise B            3-1
+    20.00  R. Soignies Sports B         v A.S. Morlanwelz A             1-3
+
+» 29. Round
+  Sun Dec/14 2025
+    14.30  R. Entente Mons Nord A       v Renaissance FC Carnières A    5-0
+    14.30  U.S Solrezienne A            v Bracquegnies Sp B             2-0
+    14.30  F.C. AEDEC-Hyon              v R. Goutroux Sports A          4-2
+    14.30  R.F.C.R. Symphorinois B      v R.F.C.E. Maurage              1-1
+    15.00  U.S. Neufvilles B            v U.E. Estinnoise B             5-2
+    15.00  F.C. Enghiennois B           v R.L.C. Givry                  1-0
+
+» 30. Round
+  Sat Dec/20 2025
+    20.00  R. Soignies Sports B         v R.F.C. Houdinois B            1-1
+
+» 31. Round
+  Sun Dec/21 2025
+    14.30  Renaissance FC Carnières A   v U.S Solrezienne A             1-2
+    14.30  U.E. Estinnoise B            v R.E.S. Frasnoise B            2-2
+    14.30  Bracquegnies Sp B            v U.S. Neufvilles B             2-1
+    14.30  R.F.C.E. Maurage             v F.C. Enghiennois B            0-4
+    15.00  A.S. Morlanwelz A            v R.F.C.R. Symphorinois B       4-0
+    15.00  R. Goutroux Sports A         v R. Entente Mons Nord A        1-0
+    15.00  R.L.C. Givry                 v F.C. AEDEC-Hyon               0-4
+
+» 32. Round
+  Sat Jan/17 2026
+    20.00  R.F.C. Houdinois B           v U.E. Estinnoise B             
+
+» 33. Round
+  Sun Jan/18 2026
+    15.00  R.E.S. Frasnoise B           v Bracquegnies Sp B             
+    15.00  U.S Solrezienne A            v R. Goutroux Sports A          
+    15.00  U.S. Neufvilles B            v Renaissance FC Carnières A    
+    15.00  R.F.C.R. Symphorinois B      v R. Soignies Sports B          
+    15.00  F.C. Enghiennois B           v A.S. Morlanwelz A             
+    15.00  R. Entente Mons Nord A       v R.L.C. Givry                  
+    15.00  F.C. AEDEC-Hyon              v R.F.C.E. Maurage              
+
+» 34. Round
+  Sun Jan/25 2026
+    15.00  Bracquegnies Sp B            v U.E. Estinnoise B             
+    15.00  A.S. Morlanwelz A            v F.C. AEDEC-Hyon               
+    15.00  R.L.C. Givry                 v U.S Solrezienne A             
+    15.00  R. Goutroux Sports A         v U.S. Neufvilles B             
+    15.00  R. Soignies Sports B         v F.C. Enghiennois B            
+    15.00  Renaissance FC Carnières A   v R.E.S. Frasnoise B            
+    15.00  R.F.C.R. Symphorinois B      v R.F.C. Houdinois B            
+    15.00  R.F.C.E. Maurage             v R. Entente Mons Nord A        
+
+» 35. Round
+  Sat Jan/31 2026
+    19.30  R.F.C. Houdinois B           v Bracquegnies Sp B             
+
+» 36. Round
+  Sun Feb/01 2026
+    15.00  F.C. Enghiennois B           v R.F.C.R. Symphorinois B       
+    15.00  F.C. AEDEC-Hyon              v R. Soignies Sports B          
+    15.00  R.E.S. Frasnoise B           v R. Goutroux Sports A          
+    15.00  U.S. Neufvilles B            v R.L.C. Givry                  
+    15.00  R. Entente Mons Nord A       v A.S. Morlanwelz A             
+    15.00  U.S Solrezienne A            v R.F.C.E. Maurage              
+    15.00  U.E. Estinnoise B            v Renaissance FC Carnières A    
+
+» 37. Round
+  Sat Feb/07 2026
+    20.00  R. Soignies Sports B         v R. Entente Mons Nord A        
+
+» 38. Round
+  Sun Feb/08 2026
+    15.00  R.F.C.R. Symphorinois B      v F.C. AEDEC-Hyon               
+    15.00  R. Goutroux Sports A         v U.E. Estinnoise B             
+    15.00  R.F.C.E. Maurage             v U.S. Neufvilles B             
+    15.00  F.C. Enghiennois B           v R.F.C. Houdinois B            
+    15.00  A.S. Morlanwelz A            v U.S Solrezienne A             
+    15.00  R.L.C. Givry                 v R.E.S. Frasnoise B            
+    15.00  Renaissance FC Carnières A   v Bracquegnies Sp B             
+
+» 39. Round
+  Sat Feb/21 2026
+    15.00  U.S. Neufvilles B            v A.S. Morlanwelz A             
+    19.30  R.F.C. Houdinois B           v Renaissance FC Carnières A    
+
+» 40. Round
+  Sun Feb/22 2026
+    15.00  Bracquegnies Sp B            v R. Goutroux Sports A          
+    15.00  R. Entente Mons Nord A       v R.F.C.R. Symphorinois B       
+    15.00  U.S Solrezienne A            v R. Soignies Sports B          
+    15.00  U.E. Estinnoise B            v R.L.C. Givry                  
+    15.00  R.E.S. Frasnoise B           v R.F.C.E. Maurage              
+    15.00  F.C. AEDEC-Hyon              v F.C. Enghiennois B            
+
+» 41. Round
+  Sat Feb/28 2026
+    15.00  R.F.C.E. Maurage             v U.E. Estinnoise B             
+    20.00  R. Soignies Sports B         v U.S. Neufvilles B             
+
+» 42. Round
+  Sun Mar/01 2026
+    15.00  F.C. Enghiennois B           v R. Entente Mons Nord A        
+    15.00  R. Goutroux Sports A         v Renaissance FC Carnières A    
+    15.00  F.C. AEDEC-Hyon              v R.F.C. Houdinois B            
+    15.00  R.F.C.R. Symphorinois B      v U.S Solrezienne A             
+    15.00  A.S. Morlanwelz A            v R.E.S. Frasnoise B            
+    15.00  R.L.C. Givry                 v Bracquegnies Sp B             
+
+» 43. Round
+  Sat Mar/07 2026
+    15.00  Renaissance FC Carnières A   v R.L.C. Givry                  
+    15.00  Bracquegnies Sp B            v R.F.C.E. Maurage              
+    20.00  R.F.C. Houdinois B           v R. Goutroux Sports A          
+    20.00  U.S Solrezienne A            v F.C. Enghiennois B            
+
+» 44. Round
+  Sun Mar/08 2026
+    15.00  R.E.S. Frasnoise B           v R. Soignies Sports B          
+    15.00  R. Entente Mons Nord A       v F.C. AEDEC-Hyon               
+    15.00  U.S. Neufvilles B            v R.F.C.R. Symphorinois B       
+    15.00  U.E. Estinnoise B            v A.S. Morlanwelz A             
+
+» 45. Round
+  Sat Mar/21 2026
+    15.00  R.F.C.E. Maurage             v Renaissance FC Carnières A    
+    15.00  R. Entente Mons Nord A       v R.F.C. Houdinois B            
+    20.00  R. Soignies Sports B         v U.E. Estinnoise B             
+
+» 46. Round
+  Sun Mar/22 2026
+    15.00  R.F.C.R. Symphorinois B      v R.E.S. Frasnoise B            
+    15.00  R.L.C. Givry                 v R. Goutroux Sports A          
+    15.00  A.S. Morlanwelz A            v Bracquegnies Sp B             
+    15.00  F.C. AEDEC-Hyon              v U.S Solrezienne A             
+    15.00  F.C. Enghiennois B           v U.S. Neufvilles B             
+
+» 47. Round
+  Sat Mar/28 2026
+    15.00  R. Goutroux Sports A         v R.F.C.E. Maurage              
+    20.00  R.F.C. Houdinois B           v R.L.C. Givry                  
+
+» 48. Round
+  Sun Mar/29 2026
+    15.00  Bracquegnies Sp B            v R. Soignies Sports B          
+    15.00  Renaissance FC Carnières A   v A.S. Morlanwelz A             
+    15.00  U.E. Estinnoise B            v R.F.C.R. Symphorinois B       
+    15.00  U.S Solrezienne A            v R. Entente Mons Nord A        
+    15.00  R.E.S. Frasnoise B           v F.C. Enghiennois B            
+    15.00  U.S. Neufvilles B            v F.C. AEDEC-Hyon               
+
+» 49. Round
+  Sat Apr/11 2026
+    20.00  R. Soignies Sports B         v Renaissance FC Carnières A    
+
+» 50. Round
+  Sun Apr/12 2026
+    15.00  R.F.C.E. Maurage             v R.L.C. Givry                  
+    15.00  U.S Solrezienne A            v R.F.C. Houdinois B            
+    15.00  R.F.C.R. Symphorinois B      v Bracquegnies Sp B             
+    15.00  A.S. Morlanwelz A            v R. Goutroux Sports A          
+    15.00  R. Entente Mons Nord A       v U.S. Neufvilles B             
+    15.00  F.C. Enghiennois B           v U.E. Estinnoise B             
+    15.00  F.C. AEDEC-Hyon              v R.E.S. Frasnoise B            
+
+» 51. Round
+  Sun Apr/19 2026
+    15.00  U.S. Neufvilles B            v U.S Solrezienne A             
+    15.00  Renaissance FC Carnières A   v R.F.C.R. Symphorinois B       
+    15.00  R. Goutroux Sports A         v R. Soignies Sports B          
+    15.00  R.L.C. Givry                 v A.S. Morlanwelz A             
+    15.00  Bracquegnies Sp B            v F.C. Enghiennois B            
+    15.00  R.E.S. Frasnoise B           v R. Entente Mons Nord A        
+    15.00  R.F.C.E. Maurage             v R.F.C. Houdinois B            
+    15.00  U.E. Estinnoise B            v F.C. AEDEC-Hyon               
+
+» 52. Round
+  Sun Apr/26 2026
+    15.00  U.S Solrezienne A            v R.E.S. Frasnoise B            
+    15.00  R. Soignies Sports B         v R.L.C. Givry                  
+    15.00  F.C. Enghiennois B           v Renaissance FC Carnières A    
+    15.00  A.S. Morlanwelz A            v R.F.C.E. Maurage              
+    15.00  R. Entente Mons Nord A       v U.E. Estinnoise B             
+    15.00  R.F.C. Houdinois B           v U.S. Neufvilles B             
+    15.00  R.F.C.R. Symphorinois B      v R. Goutroux Sports A          
+    15.00  F.C. AEDEC-Hyon              v Bracquegnies Sp B             

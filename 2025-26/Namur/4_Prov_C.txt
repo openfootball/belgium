@@ -1,0 +1,420 @@
+= 4_Prov_C
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  RAC Leuze-Longchamps B       v FCO Namur B                   3-0
+    20.00  ES Boninne B                 v RFC Natoye                    6-0
+
+» 2. Round
+  Sun Aug/24 2025
+    18.00  RCS Faulx-les-Tombes B       v RS Fernelmont-Hemptinne B     1-4
+    18.00  Exc FC Evelette-Jallet B     v RCS Schaltin                  1-3
+    18.00  SC Mazycien B                v Bonneville SP                 0-3
+    18.00  RSC Petit-Waret B            v R Ent Wartet FC               0-3
+    18.00  RES Gesvoise B               v ES Jamboise B                 6-0
+    18.00  Andoy Wierde FC              v J Tavietoise B                3-1
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  R Ent Wartet FC              v RES Gesvoise B                1-2
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  ES Jamboise B                v Andoy Wierde FC               0-1
+    18.00  RS Fernelmont-Hemptinne B    v RAC Leuze-Longchamps B        1-2
+    18.00  Bonneville SP                v Exc FC Evelette-Jallet B      5-1
+    18.00  RFC Natoye                   v RSC Petit-Waret B             4-2
+    18.00  RCS Schaltin                 v ES Boninne B                  1-3
+    18.00  J Tavietoise B               v RCS Faulx-les-Tombes B        3-1
+    18.00  FCO Namur B                  v SC Mazycien B                 2-2
+
+» 5. Round
+  Fri Sep/05 2025
+    19.30  RAC Leuze-Longchamps B       v J Tavietoise B                2-0
+
+» 6. Round
+  Sat Sep/06 2025
+    20.00  ES Boninne B                 v RSC Petit-Waret B             3-0
+
+» 7. Round
+  Sun Sep/07 2025
+    15.00  RCS Faulx-les-Tombes B       v ES Jamboise B                 0-5
+    15.00  Exc FC Evelette-Jallet B     v FCO Namur B                   2-6
+    15.00  RCS Schaltin                 v Bonneville SP                 2-8
+    15.00  SC Mazycien B                v RS Fernelmont-Hemptinne B     2-2
+    15.00  Andoy Wierde FC              v R Ent Wartet FC               4-0
+    15.00  RES Gesvoise B               v RFC Natoye                    5-1
+
+» 8. Round
+  Sat Sep/13 2025
+    20.00  R Ent Wartet FC              v RCS Faulx-les-Tombes B        3-0
+
+» 9. Round
+  Sun Sep/14 2025
+    15.00  ES Jamboise B                v RAC Leuze-Longchamps B        3-1
+    15.00  FCO Namur B                  v RCS Schaltin                  0-6
+    15.00  J Tavietoise B               v SC Mazycien B                 6-1
+    15.00  RS Fernelmont-Hemptinne B    v Exc FC Evelette-Jallet B      4-2
+    15.00  RSC Petit-Waret B            v RES Gesvoise B                1-5
+    15.00  Bonneville SP                v ES Boninne B                  2-3
+    15.00  RFC Natoye                   v Andoy Wierde FC               0-4
+
+» 10. Round
+  Sat Sep/20 2025
+    20.00  ES Boninne B                 v RES Gesvoise B                1-3
+    20.00  RAC Leuze-Longchamps B       v R Ent Wartet FC               2-1
+
+» 11. Round
+  Sun Sep/21 2025
+    15.00  RCS Faulx-les-Tombes B       v RFC Natoye                    0-3
+    15.00  Andoy Wierde FC              v RSC Petit-Waret B             8-1
+    15.00  Bonneville SP                v FCO Namur B                   3-4
+    15.00  SC Mazycien B                v ES Jamboise B                 1-3
+    15.00  Exc FC Evelette-Jallet B     v J Tavietoise B                1-2
+    15.00  RCS Schaltin                 v RS Fernelmont-Hemptinne B     3-5
+
+» 12. Round
+  Sat Sep/27 2025
+    20.00  R Ent Wartet FC              v SC Mazycien B                 7-1
+
+» 13. Round
+  Sun Sep/28 2025
+    15.00  RS Fernelmont-Hemptinne B    v Bonneville SP                 1-2
+    15.00  J Tavietoise B               v RCS Schaltin                  3-2
+    15.00  RES Gesvoise B               v Andoy Wierde FC               5-1
+    15.00  RFC Natoye                   v RAC Leuze-Longchamps B        3-2
+    15.00  FCO Namur B                  v ES Boninne B                  0-6
+    15.00  ES Jamboise B                v Exc FC Evelette-Jallet B      11-1
+    15.00  RSC Petit-Waret B            v RCS Faulx-les-Tombes B        0-2
+
+» 14. Round
+  Sat Oct/04 2025
+    20.00  RCS Schaltin                 v ES Jamboise B                 1-0
+    20.00  RAC Leuze-Longchamps B       v RSC Petit-Waret B             9-0
+    20.00  ES Boninne B                 v Andoy Wierde FC               5-2
+
+» 15. Round
+  Sun Oct/05 2025
+    15.00  SC Mazycien B                v RFC Natoye                    0-4
+    15.00  RCS Faulx-les-Tombes B       v RES Gesvoise B                0-5
+    15.00  FCO Namur B                  v RS Fernelmont-Hemptinne B     4-6
+    15.00  Bonneville SP                v J Tavietoise B                7-3
+    15.00  Exc FC Evelette-Jallet B     v R Ent Wartet FC               2-4
+
+» 16. Round
+  Sat Oct/11 2025
+    20.00  R Ent Wartet FC              v RCS Schaltin                  2-2
+
+» 17. Round
+  Sun Oct/12 2025
+    13.00  Andoy Wierde FC              v RCS Faulx-les-Tombes B        2-2
+    15.00  RFC Natoye                   v Exc FC Evelette-Jallet B      7-2
+    15.00  RS Fernelmont-Hemptinne B    v ES Boninne B                  2-4
+    15.00  RSC Petit-Waret B            v SC Mazycien B                 3-3
+    15.00  RES Gesvoise B               v RAC Leuze-Longchamps B        4-1
+    15.00  J Tavietoise B               v FCO Namur B                   10-0
+    15.00  ES Jamboise B                v Bonneville SP                 1-1
+
+» 18. Round
+  Fri Oct/17 2025
+    20.00  RCS Schaltin                 v RFC Natoye                    2-0
+
+» 19. Round
+  Sat Oct/18 2025
+    20.00  Bonneville SP                v R Ent Wartet FC               6-2
+    20.00  RAC Leuze-Longchamps B       v Andoy Wierde FC               3-0
+
+» 20. Round
+  Sun Oct/19 2025
+    15.00  RS Fernelmont-Hemptinne B    v J Tavietoise B                11-0
+    15.00  SC Mazycien B                v RES Gesvoise B                0-6
+    15.00  FCO Namur B                  v ES Jamboise B                 0-3
+    15.00  ES Boninne B                 v RCS Faulx-les-Tombes B        2-0
+    15.00  Exc FC Evelette-Jallet B     v RSC Petit-Waret B             
+
+» 21. Round
+  Sun Oct/26 2025
+    15.00  Andoy Wierde FC              v SC Mazycien B                 4-1
+    15.00  J Tavietoise B               v ES Boninne B                  0-5
+    15.00  RCS Faulx-les-Tombes B       v RAC Leuze-Longchamps B        1-5
+    15.00  ES Jamboise B                v RS Fernelmont-Hemptinne B     2-2
+    15.00  R Ent Wartet FC              v FCO Namur B                   5-0
+    15.00  RES Gesvoise B               v Exc FC Evelette-Jallet B      5-1
+    15.00  RSC Petit-Waret B            v RCS Schaltin                  0-2
+    15.00  RFC Natoye                   v Bonneville SP                 3-3
+
+» 22. Round
+  Sat Nov/01 2025
+    20.00  ES Boninne B                 v RAC Leuze-Longchamps B        1-0
+
+» 23. Round
+  Sun Nov/02 2025
+    14.30  Exc FC Evelette-Jallet B     v Andoy Wierde FC               2-1
+    14.30  Bonneville SP                v RSC Petit-Waret B             8-1
+    14.30  SC Mazycien B                v RCS Faulx-les-Tombes B        3-1
+    14.30  J Tavietoise B               v ES Jamboise B                 1-2
+    14.30  FCO Namur B                  v RFC Natoye                    0-7
+    14.30  RCS Schaltin                 v RES Gesvoise B                0-2
+    15.00  RS Fernelmont-Hemptinne B    v R Ent Wartet FC               5-3
+
+» 24. Round
+  Sat Nov/08 2025
+    20.00  R Ent Wartet FC              v J Tavietoise B                2-1
+    20.00  RAC Leuze-Longchamps B       v SC Mazycien B                 6-1
+
+» 25. Round
+  Sun Nov/09 2025
+    14.30  ES Jamboise B                v ES Boninne B                  3-1
+    14.30  RES Gesvoise B               v Bonneville SP                 5-0
+    14.30  RCS Faulx-les-Tombes B       v Exc FC Evelette-Jallet B      0-0
+    14.30  RFC Natoye                   v RS Fernelmont-Hemptinne B     3-2
+    14.30  Andoy Wierde FC              v RCS Schaltin                  0-1
+    15.00  RSC Petit-Waret B            v FCO Namur B                   12-2
+
+» 26. Round
+  Sat Nov/15 2025
+    20.00  ES Boninne B                 v SC Mazycien B                 3-2
+
+» 27. Round
+  Sun Nov/16 2025
+    14.30  RCS Schaltin                 v RCS Faulx-les-Tombes B        3-2
+    14.30  Bonneville SP                v Andoy Wierde FC               2-1
+    14.30  FCO Namur B                  v RES Gesvoise B                0-13
+    14.30  Exc FC Evelette-Jallet B     v RAC Leuze-Longchamps B        0-2
+    14.30  ES Jamboise B                v R Ent Wartet FC               2-1
+    14.30  J Tavietoise B               v RFC Natoye                    4-5
+    15.00  RS Fernelmont-Hemptinne B    v RSC Petit-Waret B             4-2
+
+» 28. Round
+  Sat Nov/22 2025
+    20.00  RAC Leuze-Longchamps B       v RCS Schaltin                  5-0
+    20.00  ES Boninne B                 v R Ent Wartet FC               1-1
+
+» 29. Round
+  Sun Nov/23 2025
+    14.30  RCS Faulx-les-Tombes B       v Bonneville SP                 3-4
+    14.30  Andoy Wierde FC              v FCO Namur B                   2-1
+    14.30  RFC Natoye                   v ES Jamboise B                 2-2
+    14.30  SC Mazycien B                v Exc FC Evelette-Jallet B      7-2
+    14.30  RES Gesvoise B               v RS Fernelmont-Hemptinne B     1-0
+    15.00  RSC Petit-Waret B            v J Tavietoise B                0-5
+
+» 30. Round
+  Sat Nov/29 2025
+    20.00  R Ent Wartet FC              v RFC Natoye                    1-2
+
+» 31. Round
+  Sun Nov/30 2025
+    14.30  J Tavietoise B               v RES Gesvoise B                0-4
+    14.30  FCO Namur B                  v RCS Faulx-les-Tombes B        3-4
+    14.30  Bonneville SP                v RAC Leuze-Longchamps B        3-4
+    14.30  RCS Schaltin                 v SC Mazycien B                 4-1
+    14.30  Exc FC Evelette-Jallet B     v ES Boninne B                  1-2
+    14.30  ES Jamboise B                v RSC Petit-Waret B             2-1
+    15.00  RS Fernelmont-Hemptinne B    v Andoy Wierde FC               3-3
+
+» 32. Round
+  Sat Dec/06 2025
+    20.00  R Ent Wartet FC              v RSC Petit-Waret B             1-4
+
+» 33. Round
+  Sun Dec/07 2025
+    14.30  J Tavietoise B               v Andoy Wierde FC               2-3
+    14.30  FCO Namur B                  v RAC Leuze-Longchamps B        0-12
+    14.30  Bonneville SP                v SC Mazycien B                 7-1
+    14.30  ES Jamboise B                v RES Gesvoise B                1-2
+    14.30  RFC Natoye                   v ES Boninne B                  4-5
+    14.30  RCS Schaltin                 v Exc FC Evelette-Jallet B      2-2
+    15.00  RS Fernelmont-Hemptinne B    v RCS Faulx-les-Tombes B        9-0
+
+» 34. Round
+  Sat Dec/13 2025
+    20.00  ES Boninne B                 v RCS Schaltin                  1-0
+    20.00  RAC Leuze-Longchamps B       v RS Fernelmont-Hemptinne B     4-3
+
+» 35. Round
+  Sun Dec/14 2025
+    14.30  Exc FC Evelette-Jallet B     v Bonneville SP                 5-3
+    14.30  SC Mazycien B                v FCO Namur B                   7-1
+    14.30  RCS Faulx-les-Tombes B       v J Tavietoise B                3-3
+    14.30  Andoy Wierde FC              v ES Jamboise B                 0-1
+    14.30  RES Gesvoise B               v R Ent Wartet FC               5-3
+    15.00  RSC Petit-Waret B            v RFC Natoye                    2-4
+
+» 36. Round
+  Sat Dec/20 2025
+    20.00  R Ent Wartet FC              v Andoy Wierde FC               2-2
+
+» 37. Round
+  Sun Dec/21 2025
+    14.30  RFC Natoye                   v RES Gesvoise B                3-3
+    14.30  ES Jamboise B                v RCS Faulx-les-Tombes B        2-1
+    14.30  FCO Namur B                  v Exc FC Evelette-Jallet B      1-4
+    14.30  Bonneville SP                v RCS Schaltin                  1-2
+    14.30  J Tavietoise B               v RAC Leuze-Longchamps B        1-6
+    15.00  RS Fernelmont-Hemptinne B    v SC Mazycien B                 7-2
+    15.00  RSC Petit-Waret B            v ES Boninne B                  0-6
+
+» 38. Round
+  Sat Jan/17 2026
+    20.00  RAC Leuze-Longchamps B       v ES Jamboise B                 
+    20.00  ES Boninne B                 v Bonneville SP                 
+
+» 39. Round
+  Sun Jan/18 2026
+    15.00  RCS Schaltin                 v FCO Namur B                   
+    15.00  RCS Faulx-les-Tombes B       v R Ent Wartet FC               
+    15.00  RES Gesvoise B               v RSC Petit-Waret B             
+    15.00  Exc FC Evelette-Jallet B     v RS Fernelmont-Hemptinne B     
+    15.00  SC Mazycien B                v J Tavietoise B                
+    15.00  Andoy Wierde FC              v RFC Natoye                    
+
+» 40. Round
+  Sun Jan/25 2026
+    15.00  RS Fernelmont-Hemptinne B    v RCS Schaltin                  
+    15.00  R Ent Wartet FC              v RAC Leuze-Longchamps B        
+    15.00  RFC Natoye                   v RCS Faulx-les-Tombes B        
+    15.00  RSC Petit-Waret B            v Andoy Wierde FC               
+    15.00  ES Jamboise B                v SC Mazycien B                 
+    15.00  FCO Namur B                  v Bonneville SP                 
+    15.00  J Tavietoise B               v Exc FC Evelette-Jallet B      
+    15.00  RES Gesvoise B               v ES Boninne B                  
+
+» 41. Round
+  Sat Jan/31 2026
+    20.00  ES Boninne B                 v FCO Namur B                   
+    20.00  RAC Leuze-Longchamps B       v RFC Natoye                    
+
+» 42. Round
+  Sun Feb/01 2026
+    15.00  Andoy Wierde FC              v RES Gesvoise B                
+    15.00  Bonneville SP                v RS Fernelmont-Hemptinne B     
+    15.00  RCS Schaltin                 v J Tavietoise B                
+    15.00  Exc FC Evelette-Jallet B     v ES Jamboise B                 
+    15.00  SC Mazycien B                v R Ent Wartet FC               
+    15.00  RCS Faulx-les-Tombes B       v RSC Petit-Waret B             
+
+» 43. Round
+  Sat Feb/07 2026
+    20.00  R Ent Wartet FC              v Exc FC Evelette-Jallet B      
+
+» 44. Round
+  Sun Feb/08 2026
+    15.00  RES Gesvoise B               v RCS Faulx-les-Tombes B        
+    15.00  J Tavietoise B               v Bonneville SP                 
+    15.00  RS Fernelmont-Hemptinne B    v FCO Namur B                   
+    15.00  ES Jamboise B                v RCS Schaltin                  
+    15.00  Andoy Wierde FC              v ES Boninne B                  
+    15.00  RSC Petit-Waret B            v RAC Leuze-Longchamps B        
+    15.00  RFC Natoye                   v SC Mazycien B                 
+
+» 45. Round
+  Sat Feb/21 2026
+    20.00  RAC Leuze-Longchamps B       v RES Gesvoise B                
+    20.00  ES Boninne B                 v RS Fernelmont-Hemptinne B     
+
+» 46. Round
+  Sun Feb/22 2026
+    15.00  FCO Namur B                  v J Tavietoise B                
+    15.00  RCS Schaltin                 v R Ent Wartet FC               
+    15.00  RCS Faulx-les-Tombes B       v Andoy Wierde FC               
+    15.00  SC Mazycien B                v RSC Petit-Waret B             
+    15.00  Exc FC Evelette-Jallet B     v RFC Natoye                    
+    15.00  Bonneville SP                v ES Jamboise B                 
+
+» 47. Round
+  Sat Feb/28 2026
+    20.00  R Ent Wartet FC              v Bonneville SP                 
+
+» 48. Round
+  Sun Mar/01 2026
+    15.00  Andoy Wierde FC              v RAC Leuze-Longchamps B        
+    15.00  ES Jamboise B                v FCO Namur B                   
+    15.00  RSC Petit-Waret B            v Exc FC Evelette-Jallet B      
+    15.00  RES Gesvoise B               v SC Mazycien B                 
+    15.00  RCS Faulx-les-Tombes B       v ES Boninne B                  
+    15.00  J Tavietoise B               v RS Fernelmont-Hemptinne B     
+    15.00  RFC Natoye                   v RCS Schaltin                  
+
+» 49. Round
+  Sat Mar/07 2026
+    20.00  ES Boninne B                 v J Tavietoise B                
+    20.00  RAC Leuze-Longchamps B       v RCS Faulx-les-Tombes B        
+
+» 50. Round
+  Sun Mar/08 2026
+    15.00  FCO Namur B                  v R Ent Wartet FC               
+    15.00  RS Fernelmont-Hemptinne B    v ES Jamboise B                 
+    15.00  Exc FC Evelette-Jallet B     v RES Gesvoise B                
+    15.00  RCS Schaltin                 v RSC Petit-Waret B             
+    15.00  Bonneville SP                v RFC Natoye                    
+    15.00  SC Mazycien B                v Andoy Wierde FC               
+
+» 51. Round
+  Sat Mar/21 2026
+    20.00  R Ent Wartet FC              v RS Fernelmont-Hemptinne B     
+    20.00  RAC Leuze-Longchamps B       v ES Boninne B                  
+
+» 52. Round
+  Sun Mar/22 2026
+    15.00  RCS Faulx-les-Tombes B       v SC Mazycien B                 
+    15.00  RSC Petit-Waret B            v Bonneville SP                 
+    15.00  RES Gesvoise B               v RCS Schaltin                  
+    15.00  ES Jamboise B                v J Tavietoise B                
+    15.00  Andoy Wierde FC              v Exc FC Evelette-Jallet B      
+    15.00  RFC Natoye                   v FCO Namur B                   
+
+» 53. Round
+  Sat Mar/28 2026
+    20.00  ES Boninne B                 v ES Jamboise B                 
+
+» 54. Round
+  Sun Mar/29 2026
+    15.00  J Tavietoise B               v R Ent Wartet FC               
+    15.00  RCS Schaltin                 v Andoy Wierde FC               
+    15.00  SC Mazycien B                v RAC Leuze-Longchamps B        
+    15.00  RS Fernelmont-Hemptinne B    v RFC Natoye                    
+    15.00  Bonneville SP                v RES Gesvoise B                
+    15.00  FCO Namur B                  v RSC Petit-Waret B             
+    15.00  Exc FC Evelette-Jallet B     v RCS Faulx-les-Tombes B        
+
+» 55. Round
+  Sat Apr/11 2026
+    20.00  R Ent Wartet FC              v ES Jamboise B                 
+    20.00  RAC Leuze-Longchamps B       v Exc FC Evelette-Jallet B      
+
+» 56. Round
+  Sun Apr/12 2026
+    15.00  RCS Faulx-les-Tombes B       v RCS Schaltin                  
+    15.00  RES Gesvoise B               v FCO Namur B                   
+    15.00  RSC Petit-Waret B            v RS Fernelmont-Hemptinne B     
+    15.00  RFC Natoye                   v J Tavietoise B                
+    15.00  SC Mazycien B                v ES Boninne B                  
+    15.00  Andoy Wierde FC              v Bonneville SP                 
+
+» 57. Round
+  Sun Apr/19 2026
+    15.00  R Ent Wartet FC              v ES Boninne B                  
+    15.00  Exc FC Evelette-Jallet B     v SC Mazycien B                 
+    15.00  RS Fernelmont-Hemptinne B    v RES Gesvoise B                
+    15.00  Bonneville SP                v RCS Faulx-les-Tombes B        
+    15.00  RCS Schaltin                 v RAC Leuze-Longchamps B        
+    15.00  FCO Namur B                  v Andoy Wierde FC               
+    15.00  J Tavietoise B               v RSC Petit-Waret B             
+    15.00  ES Jamboise B                v RFC Natoye                    
+
+» 58. Round
+  Sun Apr/26 2026
+    15.00  RES Gesvoise B               v J Tavietoise B                
+    15.00  RSC Petit-Waret B            v ES Jamboise B                 
+    15.00  RAC Leuze-Longchamps B       v Bonneville SP                 
+    15.00  Andoy Wierde FC              v RS Fernelmont-Hemptinne B     
+    15.00  RFC Natoye                   v R Ent Wartet FC               
+    15.00  SC Mazycien B                v RCS Schaltin                  
+    15.00  ES Boninne B                 v Exc FC Evelette-Jallet B      
+    15.00  RCS Faulx-les-Tombes B       v FCO Namur B                   

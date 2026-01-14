@@ -1,0 +1,426 @@
+= 3_Prov_A
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    19.00  R.F.C. Molenbaix B           v S.C. de Nechin B              2-2
+    19.00  DR Rongy A                   v Ren.U.S. Tournaisienne A      2-1
+    20.00  R.F.C. Herinnes              v A.C. Estaimbourg B            1-1
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  F.C. Bleharies A             v F.C. Beclers                  3-3
+    15.00  FC St. Jean Tournai          v R.A.S. Risquons-Tout Mouscro  3-0
+    15.00  R.S.C. Templeuvois B         v R.F.C. Tournai B              6-0
+    15.00  A.C. Anvaing B               v C.S. Taintignies              3-1
+    15.00  F.C. Rumes-La-Glanerie       v F.C. Brunehaut                1-3
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  A.C. Estaimbourg B           v FC St. Jean Tournai           0-2
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  R.A.S. Risquons-Tout Mouscro v A.C. Anvaing B                9-1
+    15.00  C.S. Taintignies             v R.F.C. Molenbaix B            0-5
+    15.00  F.C. Beclers                 v R.S.C. Templeuvois B          5-3
+    15.00  R.F.C. Tournai B             v R.F.C. Herinnes               0-1
+    15.00  Ren.U.S. Tournaisienne A     v F.C. Rumes-La-Glanerie        2-3
+    15.00  S.C. de Nechin B             v DR Rongy A                    3-2
+    15.00  F.C. Brunehaut               v F.C. Bleharies A              2-0
+
+» 5. Round
+  Sat Sep/06 2025
+    19.00  DR Rongy A                   v C.S. Taintignies              3-0
+    19.00  R.F.C. Molenbaix B           v R.A.S. Risquons-Tout Mouscro  4-1
+    19.00  R.F.C. Herinnes              v F.C. Beclers                  1-1
+    20.00  A.C. Estaimbourg B           v R.F.C. Tournai B              5-0
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  F.C. Bleharies A             v Ren.U.S. Tournaisienne A      3-4
+    15.00  F.C. Rumes-La-Glanerie       v S.C. de Nechin B              1-5
+    15.00  FC St. Jean Tournai          v A.C. Anvaing B                4-3
+    15.00  R.S.C. Templeuvois B         v F.C. Brunehaut                1-1
+
+» 7. Round
+  Sat Sep/13 2025
+    19.00  R.A.S. Risquons-Tout Mouscro v DR Rongy A                    0-3
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  A.C. Anvaing B               v R.F.C. Molenbaix B            1-2
+    15.00  F.C. Brunehaut               v R.F.C. Herinnes               1-1
+    15.00  F.C. Beclers                 v A.C. Estaimbourg B            1-0
+    15.00  Ren.U.S. Tournaisienne A     v R.S.C. Templeuvois B          2-2
+    15.00  S.C. de Nechin B             v F.C. Bleharies A              5-3
+    15.00  C.S. Taintignies             v F.C. Rumes-La-Glanerie        0-4
+    15.00  R.F.C. Tournai B             v FC St. Jean Tournai           2-0
+
+» 9. Round
+  Sat Sep/20 2025
+    19.00  R.F.C. Herinnes              v Ren.U.S. Tournaisienne A      3-1
+    20.00  A.C. Estaimbourg B           v F.C. Brunehaut                2-1
+    20.00  DR Rongy A                   v A.C. Anvaing B                2-1
+
+» 10. Round
+  Sun Sep/21 2025
+    15.00  F.C. Rumes-La-Glanerie       v R.A.S. Risquons-Tout Mouscro  1-5
+    15.00  R.S.C. Templeuvois B         v S.C. de Nechin B              5-1
+    15.00  R.F.C. Tournai B             v F.C. Beclers                  1-3
+    15.00  F.C. Bleharies A             v C.S. Taintignies              1-0
+    15.00  FC St. Jean Tournai          v R.F.C. Molenbaix B            4-4
+
+» 11. Round
+  Fri Sep/26 2025
+    20.00  R.F.C. Molenbaix B           v DR Rongy A                    0-0
+
+» 12. Round
+  Sat Sep/27 2025
+    18.30  R.A.S. Risquons-Tout Mouscro v F.C. Bleharies A              1-1
+
+» 13. Round
+  Sun Sep/28 2025
+    15.00  F.C. Beclers                 v FC St. Jean Tournai           4-1
+    15.00  S.C. de Nechin B             v R.F.C. Herinnes               4-4
+    15.00  A.C. Anvaing B               v F.C. Rumes-La-Glanerie        1-4
+    15.00  F.C. Brunehaut               v R.F.C. Tournai B              1-0
+    15.00  C.S. Taintignies             v R.S.C. Templeuvois B          3-7
+    15.00  Ren.U.S. Tournaisienne A     v A.C. Estaimbourg B            0-5
+
+» 14. Round
+  Sat Oct/04 2025
+    19.00  R.F.C. Herinnes              v C.S. Taintignies              6-1
+    20.00  A.C. Estaimbourg B           v S.C. de Nechin B              2-1
+
+» 15. Round
+  Sun Oct/05 2025
+    15.00  F.C. Bleharies A             v A.C. Anvaing B                2-1
+    15.00  R.F.C. Tournai B             v Ren.U.S. Tournaisienne A      3-2
+    15.00  F.C. Rumes-La-Glanerie       v R.F.C. Molenbaix B            5-2
+    15.00  FC St. Jean Tournai          v DR Rongy A                    0-5
+    15.00  F.C. Beclers                 v F.C. Brunehaut                2-2
+    15.00  R.S.C. Templeuvois B         v R.A.S. Risquons-Tout Mouscro  0-5
+
+» 16. Round
+  Sat Oct/11 2025
+    19.00  R.A.S. Risquons-Tout Mouscro v R.F.C. Herinnes               1-1
+    19.00  R.F.C. Molenbaix B           v F.C. Bleharies A              1-3
+
+» 17. Round
+  Sun Oct/12 2025
+    15.00  Ren.U.S. Tournaisienne A     v F.C. Beclers                  1-2
+    15.00  S.C. de Nechin B             v R.F.C. Tournai B              3-3
+    15.00  C.S. Taintignies             v A.C. Estaimbourg B            0-0
+    15.00  F.C. Brunehaut               v FC St. Jean Tournai           1-3
+    15.00  DR Rongy A                   v F.C. Rumes-La-Glanerie        3-1
+    15.00  A.C. Anvaing B               v R.S.C. Templeuvois B          1-1
+
+» 18. Round
+  Sat Oct/18 2025
+    20.00  A.C. Estaimbourg B           v R.A.S. Risquons-Tout Mouscro  1-0
+    20.00  R.F.C. Herinnes              v A.C. Anvaing B                3-2
+
+» 19. Round
+  Sun Oct/19 2025
+    15.00  F.C. Bleharies A             v DR Rongy A                    1-4
+    15.00  F.C. Beclers                 v S.C. de Nechin B              3-3
+    15.00  R.F.C. Tournai B             v C.S. Taintignies              4-2
+    15.00  FC St. Jean Tournai          v F.C. Rumes-La-Glanerie        1-1
+    15.00  F.C. Brunehaut               v Ren.U.S. Tournaisienne A      4-0
+    16.30  R.S.C. Templeuvois B         v R.F.C. Molenbaix B            0-2
+
+» 20. Round
+  Sat Oct/25 2025
+    18.30  R.F.C. Molenbaix B           v R.F.C. Herinnes               1-2
+
+» 21. Round
+  Sun Oct/26 2025
+    15.00  DR Rongy A                   v R.S.C. Templeuvois B          4-1
+    15.00  C.S. Taintignies             v F.C. Beclers                  1-8
+    15.00  A.C. Anvaing B               v A.C. Estaimbourg B            0-1
+    15.00  Ren.U.S. Tournaisienne A     v FC St. Jean Tournai           2-0
+    15.00  S.C. de Nechin B             v F.C. Brunehaut                2-0
+    15.00  F.C. Rumes-La-Glanerie       v F.C. Bleharies A              2-4
+    15.00  R.A.S. Risquons-Tout Mouscro v R.F.C. Tournai B              3-4
+
+» 22. Round
+  Sat Nov/01 2025
+    19.00  R.F.C. Herinnes              v DR Rongy A                    1-5
+    20.00  A.C. Estaimbourg B           v R.F.C. Molenbaix B            4-2
+
+» 23. Round
+  Sun Nov/02 2025
+    14.30  F.C. Brunehaut               v C.S. Taintignies              3-1
+    14.30  FC St. Jean Tournai          v F.C. Bleharies A              3-2
+    14.30  Ren.U.S. Tournaisienne A     v S.C. de Nechin B              1-2
+    14.30  R.S.C. Templeuvois B         v F.C. Rumes-La-Glanerie        0-4
+    14.30  R.F.C. Tournai B             v A.C. Anvaing B                2-2
+    15.00  F.C. Beclers                 v R.A.S. Risquons-Tout Mouscro  2-2
+
+» 24. Round
+  Sat Nov/08 2025
+    14.30  C.S. Taintignies             v Ren.U.S. Tournaisienne A      0-6
+    19.00  DR Rongy A                   v A.C. Estaimbourg B            1-0
+    19.00  R.A.S. Risquons-Tout Mouscro v F.C. Brunehaut                2-4
+    19.00  R.F.C. Molenbaix B           v R.F.C. Tournai B              2-3
+
+» 25. Round
+  Sun Nov/09 2025
+    14.30  A.C. Anvaing B               v F.C. Beclers                  1-2
+    14.30  F.C. Rumes-La-Glanerie       v R.F.C. Herinnes               2-2
+    14.30  F.C. Bleharies A             v R.S.C. Templeuvois B          6-1
+    14.30  S.C. de Nechin B             v FC St. Jean Tournai           2-2
+
+» 26. Round
+  Sat Nov/15 2025
+    19.00  R.F.C. Herinnes              v F.C. Bleharies A              2-2
+    20.00  A.C. Estaimbourg B           v F.C. Rumes-La-Glanerie        3-3
+
+» 27. Round
+  Sun Nov/16 2025
+    14.30  R.F.C. Tournai B             v DR Rongy A                    1-4
+    14.30  S.C. de Nechin B             v C.S. Taintignies              7-0
+    14.30  Ren.U.S. Tournaisienne A     v R.A.S. Risquons-Tout Mouscro  6-1
+    14.30  FC St. Jean Tournai          v R.S.C. Templeuvois B          1-0
+    14.30  F.C. Brunehaut               v A.C. Anvaing B                3-3
+    15.00  F.C. Beclers                 v R.F.C. Molenbaix B            4-2
+
+» 28. Round
+  Sun Nov/23 2025
+    14.30  A.C. Anvaing B               v Ren.U.S. Tournaisienne A      2-2
+    14.30  F.C. Bleharies A             v A.C. Estaimbourg B            2-2
+    14.30  FC St. Jean Tournai          v C.S. Taintignies              1-0
+    14.30  R.S.C. Templeuvois B         v R.F.C. Herinnes               4-2
+
+» 29. Round
+  Sat Nov/29 2025
+    19.00  R.F.C. Herinnes              v FC St. Jean Tournai           1-1
+
+» 30. Round
+  Sun Nov/30 2025
+    14.30  C.S. Taintignies             v R.A.S. Risquons-Tout Mouscro  1-5
+    14.30  F.C. Brunehaut               v DR Rongy A                    0-1
+    14.30  A.C. Estaimbourg B           v R.S.C. Templeuvois B          2-1
+    14.30  S.C. de Nechin B             v A.C. Anvaing B                2-1
+    14.30  Ren.U.S. Tournaisienne A     v R.F.C. Molenbaix B            2-5
+    14.30  R.F.C. Tournai B             v F.C. Bleharies A              1-3
+    15.00  F.C. Beclers                 v F.C. Rumes-La-Glanerie        1-0
+
+» 31. Round
+  Sat Dec/06 2025
+    19.00  R.A.S. Risquons-Tout Mouscro v FC St. Jean Tournai           2-1
+    20.00  A.C. Estaimbourg B           v R.F.C. Herinnes               2-4
+
+» 32. Round
+  Sun Dec/07 2025
+    14.30  Ren.U.S. Tournaisienne A     v DR Rongy A                    1-2
+    14.30  S.C. de Nechin B             v R.F.C. Molenbaix B            0-1
+    14.30  C.S. Taintignies             v A.C. Anvaing B                1-4
+    14.30  R.F.C. Tournai B             v R.S.C. Templeuvois B          3-4
+    14.30  F.C. Brunehaut               v F.C. Rumes-La-Glanerie        3-0
+    15.00  F.C. Beclers                 v F.C. Bleharies A              1-3
+
+» 33. Round
+  Wed Dec/10 2025
+    20.00  R.A.S. Risquons-Tout Mouscro v S.C. de Nechin B              1-1
+    20.00  DR Rongy A                   v F.C. Beclers                  1-1
+    20.00  R.F.C. Molenbaix B           v F.C. Brunehaut                6-1
+
+» 34. Round
+  Sat Dec/13 2025
+    18.00  R.F.C. Molenbaix B           v C.S. Taintignies              7-0
+    19.00  DR Rongy A                   v S.C. de Nechin B              
+    20.00  R.F.C. Herinnes              v R.F.C. Tournai B              
+
+» 35. Round
+  Sun Dec/14 2025
+    14.30  FC St. Jean Tournai          v A.C. Estaimbourg B            1-1
+    14.30  R.S.C. Templeuvois B         v F.C. Beclers                  1-3
+    14.30  A.C. Anvaing B               v R.A.S. Risquons-Tout Mouscro  1-1
+    14.30  F.C. Rumes-La-Glanerie       v Ren.U.S. Tournaisienne A      3-1
+    14.30  F.C. Bleharies A             v F.C. Brunehaut                3-4
+
+» 36. Round
+  Sat Dec/20 2025
+    19.00  R.A.S. Risquons-Tout Mouscro v R.F.C. Molenbaix B            5-4
+
+» 37. Round
+  Sun Dec/21 2025
+    14.30  S.C. de Nechin B             v F.C. Rumes-La-Glanerie        0-2
+    14.30  A.C. Anvaing B               v FC St. Jean Tournai           1-2
+    14.30  F.C. Brunehaut               v R.S.C. Templeuvois B          4-6
+    14.30  C.S. Taintignies             v DR Rongy A                    0-9
+    14.30  Ren.U.S. Tournaisienne A     v F.C. Bleharies A              4-1
+    14.30  R.F.C. Tournai B             v A.C. Estaimbourg B            2-3
+    15.00  F.C. Beclers                 v R.F.C. Herinnes               2-1
+
+» 38. Round
+  Sun Jan/11 2026
+    14.30  F.C. Rumes-La-Glanerie       v R.F.C. Tournai B              
+
+» 39. Round
+  Sat Jan/17 2026
+    19.00  R.F.C. Herinnes              v F.C. Brunehaut                
+    20.00  A.C. Estaimbourg B           v F.C. Beclers                  
+    20.00  R.F.C. Molenbaix B           v A.C. Anvaing B                
+    20.00  DR Rongy A                   v R.A.S. Risquons-Tout Mouscro  
+
+» 40. Round
+  Sun Jan/18 2026
+    15.00  R.S.C. Templeuvois B         v Ren.U.S. Tournaisienne A      
+    15.00  FC St. Jean Tournai          v R.F.C. Tournai B              
+    15.00  F.C. Rumes-La-Glanerie       v C.S. Taintignies              
+    15.00  F.C. Bleharies A             v S.C. de Nechin B              
+
+» 41. Round
+  Sun Jan/25 2026
+    15.00  R.A.S. Risquons-Tout Mouscro v F.C. Rumes-La-Glanerie        
+    15.00  A.C. Anvaing B               v DR Rongy A                    
+    15.00  Ren.U.S. Tournaisienne A     v R.F.C. Herinnes               
+    15.00  F.C. Brunehaut               v A.C. Estaimbourg B            
+    15.00  C.S. Taintignies             v F.C. Bleharies A              
+    15.00  S.C. de Nechin B             v R.S.C. Templeuvois B          
+    15.00  F.C. Beclers                 v R.F.C. Tournai B              
+    15.00  R.F.C. Molenbaix B           v FC St. Jean Tournai           
+
+» 42. Round
+  Sat Jan/31 2026
+    20.00  R.F.C. Herinnes              v S.C. de Nechin B              
+    20.00  A.C. Estaimbourg B           v Ren.U.S. Tournaisienne A      
+    20.00  DR Rongy A                   v R.F.C. Molenbaix B            
+
+» 43. Round
+  Sun Feb/01 2026
+    15.00  R.F.C. Tournai B             v F.C. Brunehaut                
+    15.00  F.C. Rumes-La-Glanerie       v A.C. Anvaing B                
+    15.00  FC St. Jean Tournai          v F.C. Beclers                  
+    15.00  F.C. Bleharies A             v R.A.S. Risquons-Tout Mouscro  
+    15.00  R.S.C. Templeuvois B         v C.S. Taintignies              
+
+» 44. Round
+  Sat Feb/07 2026
+    19.00  R.F.C. Molenbaix B           v F.C. Rumes-La-Glanerie        
+    20.00  DR Rongy A                   v FC St. Jean Tournai           
+    20.00  R.A.S. Risquons-Tout Mouscro v R.S.C. Templeuvois B          
+
+» 45. Round
+  Sun Feb/08 2026
+    15.00  F.C. Brunehaut               v F.C. Beclers                  
+    15.00  A.C. Anvaing B               v F.C. Bleharies A              
+    15.00  C.S. Taintignies             v R.F.C. Herinnes               
+    15.00  S.C. de Nechin B             v A.C. Estaimbourg B            
+    15.00  Ren.U.S. Tournaisienne A     v R.F.C. Tournai B              
+
+» 46. Round
+  Sat Feb/21 2026
+    20.00  A.C. Estaimbourg B           v C.S. Taintignies              
+    20.00  R.F.C. Herinnes              v R.A.S. Risquons-Tout Mouscro  
+
+» 47. Round
+  Sun Feb/22 2026
+    15.00  R.S.C. Templeuvois B         v A.C. Anvaing B                
+    15.00  F.C. Beclers                 v Ren.U.S. Tournaisienne A      
+    15.00  F.C. Bleharies A             v R.F.C. Molenbaix B            
+    15.00  F.C. Rumes-La-Glanerie       v DR Rongy A                    
+    15.00  FC St. Jean Tournai          v F.C. Brunehaut                
+    15.00  R.F.C. Tournai B             v S.C. de Nechin B              
+
+» 48. Round
+  Fri Feb/27 2026
+    19.00  R.F.C. Molenbaix B           v R.S.C. Templeuvois B          
+
+» 49. Round
+  Sat Feb/28 2026
+    20.00  DR Rongy A                   v F.C. Bleharies A              
+    20.00  R.A.S. Risquons-Tout Mouscro v A.C. Estaimbourg B            
+
+» 50. Round
+  Sun Mar/01 2026
+    15.00  A.C. Anvaing B               v R.F.C. Herinnes               
+    15.00  S.C. de Nechin B             v F.C. Beclers                  
+    15.00  Ren.U.S. Tournaisienne A     v F.C. Brunehaut                
+    15.00  F.C. Rumes-La-Glanerie       v FC St. Jean Tournai           
+    15.00  C.S. Taintignies             v R.F.C. Tournai B              
+
+» 51. Round
+  Sat Mar/07 2026
+    20.00  A.C. Estaimbourg B           v A.C. Anvaing B                
+    20.00  R.F.C. Herinnes              v R.F.C. Molenbaix B            
+
+» 52. Round
+  Sun Mar/08 2026
+    15.00  F.C. Brunehaut               v S.C. de Nechin B              
+    15.00  F.C. Beclers                 v C.S. Taintignies              
+    15.00  R.F.C. Tournai B             v R.A.S. Risquons-Tout Mouscro  
+    15.00  FC St. Jean Tournai          v Ren.U.S. Tournaisienne A      
+    15.00  R.S.C. Templeuvois B         v DR Rongy A                    
+    15.00  F.C. Bleharies A             v F.C. Rumes-La-Glanerie        
+
+» 53. Round
+  Sat Mar/21 2026
+    19.00  R.F.C. Molenbaix B           v A.C. Estaimbourg B            
+    20.00  R.A.S. Risquons-Tout Mouscro v F.C. Beclers                  
+    20.00  DR Rongy A                   v R.F.C. Herinnes               
+
+» 54. Round
+  Sun Mar/22 2026
+    15.00  S.C. de Nechin B             v Ren.U.S. Tournaisienne A      
+    15.00  F.C. Bleharies A             v FC St. Jean Tournai           
+    15.00  C.S. Taintignies             v F.C. Brunehaut                
+    15.00  A.C. Anvaing B               v R.F.C. Tournai B              
+    15.00  F.C. Rumes-La-Glanerie       v R.S.C. Templeuvois B          
+
+» 55. Round
+  Sat Mar/28 2026
+    20.00  A.C. Estaimbourg B           v DR Rongy A                    
+    20.00  R.F.C. Herinnes              v F.C. Rumes-La-Glanerie        
+
+» 56. Round
+  Sun Mar/29 2026
+    15.00  R.F.C. Tournai B             v R.F.C. Molenbaix B            
+    15.00  F.C. Beclers                 v A.C. Anvaing B                
+    15.00  R.S.C. Templeuvois B         v F.C. Bleharies A              
+    15.00  F.C. Brunehaut               v R.A.S. Risquons-Tout Mouscro  
+    15.00  Ren.U.S. Tournaisienne A     v C.S. Taintignies              
+    15.00  FC St. Jean Tournai          v S.C. de Nechin B              
+
+» 57. Round
+  Sat Apr/11 2026
+    20.00  DR Rongy A                   v R.F.C. Tournai B              
+    20.00  R.A.S. Risquons-Tout Mouscro v Ren.U.S. Tournaisienne A      
+    20.00  R.F.C. Molenbaix B           v F.C. Beclers                  
+
+» 58. Round
+  Sun Apr/12 2026
+    15.00  A.C. Anvaing B               v F.C. Brunehaut                
+    15.00  R.S.C. Templeuvois B         v FC St. Jean Tournai           
+    15.00  F.C. Bleharies A             v R.F.C. Herinnes               
+    15.00  F.C. Rumes-La-Glanerie       v A.C. Estaimbourg B            
+    15.00  C.S. Taintignies             v S.C. de Nechin B              
+
+» 59. Round
+  Sun Apr/19 2026
+    15.00  C.S. Taintignies             v FC St. Jean Tournai           
+    15.00  R.F.C. Tournai B             v F.C. Rumes-La-Glanerie        
+    15.00  Ren.U.S. Tournaisienne A     v A.C. Anvaing B                
+    15.00  F.C. Brunehaut               v R.F.C. Molenbaix B            
+    15.00  A.C. Estaimbourg B           v F.C. Bleharies A              
+    15.00  F.C. Beclers                 v DR Rongy A                    
+    15.00  S.C. de Nechin B             v R.A.S. Risquons-Tout Mouscro  
+    15.00  R.F.C. Herinnes              v R.S.C. Templeuvois B          
+
+» 60. Round
+  Sun Apr/26 2026
+    15.00  DR Rongy A                   v F.C. Brunehaut                
+    15.00  F.C. Bleharies A             v R.F.C. Tournai B              
+    15.00  FC St. Jean Tournai          v R.F.C. Herinnes               
+    15.00  R.A.S. Risquons-Tout Mouscro v C.S. Taintignies              
+    15.00  A.C. Anvaing B               v S.C. de Nechin B              
+    15.00  R.F.C. Molenbaix B           v Ren.U.S. Tournaisienne A      
+    15.00  F.C. Rumes-La-Glanerie       v F.C. Beclers                  
+    15.00  R.S.C. Templeuvois B         v A.C. Estaimbourg B            

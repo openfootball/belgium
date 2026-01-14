@@ -1,0 +1,396 @@
+= 4_Prov_D
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      15
+# Matches    210
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  RU ST-G Sinsin-Waillet       v E Sommenoise                  
+    20.00  US St Hadelin-Haversin B     v RAS Houyet B                  3-3
+    20.00  CSE Han-Sur-Lesse B          v Rienne Sp                     2-2
+
+» 2. Round
+  Sun Aug/24 2025
+    18.00  Chevetogne Foot B            v RJS Leignon                   3-5
+    18.00  RUS Pondrome B               v E Dionaise                    1-1
+    18.00  St Cl Feschaux               v FC St-Martin Pessoux          0-3
+    18.00  R Dinant FC B                v Sporting Club Graide          5-0
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  Sporting Club Graide         v FC Achêne B                   2-4
+    20.00  RAS Houyet B                 v CSE Han-Sur-Lesse B           1-2
+    20.30  RJS Leignon                  v RU ST-G Sinsin-Waillet        3-2
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  Rienne Sp                    v RUS Pondrome B                1-0
+    18.00  FC St-Martin Pessoux         v US St Hadelin-Haversin B      2-2
+    18.00  E Sommenoise                 v R Dinant FC B                 
+    18.00  E Dionaise                   v Chevetogne Foot B             3-2
+
+» 5. Round
+  Fri Sep/05 2025
+    20.00  RU ST-G Sinsin-Waillet       v E Dionaise                    1-5
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  RUS Pondrome B               v RAS Houyet B                  3-3
+    15.00  Chevetogne Foot B            v Rienne Sp                     3-1
+    15.00  R Dinant FC B                v FC Achêne B                   4-1
+    15.00  CSE Han-Sur-Lesse B          v FC St-Martin Pessoux          5-1
+    15.00  E Sommenoise                 v RJS Leignon                   
+    18.00  St Cl Feschaux               v Sporting Club Graide          3-0
+
+» 7. Round
+  Sat Sep/13 2025
+    20.00  FC Achêne B                  v St Cl Feschaux                4-2
+    20.00  Sporting Club Graide         v US St Hadelin-Haversin B      2-2
+    20.30  RJS Leignon                  v R Dinant FC B                 2-0
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  Rienne Sp                    v RU ST-G Sinsin-Waillet        2-3
+    15.00  E Dionaise                   v E Sommenoise                  
+    15.00  FC St-Martin Pessoux         v RUS Pondrome B                7-3
+
+» 9. Round
+  Fri Sep/19 2025
+    20.00  CSE Han-Sur-Lesse B          v Sporting Club Graide          6-1
+
+» 10. Round
+  Sat Sep/20 2025
+    20.00  RU ST-G Sinsin-Waillet       v RAS Houyet B                  2-1
+    20.00  US St Hadelin-Haversin B     v FC Achêne B                   3-1
+    20.30  RJS Leignon                  v E Dionaise                    5-3
+
+» 11. Round
+  Sun Sep/21 2025
+    15.00  R Dinant FC B                v St Cl Feschaux                7-0
+    15.00  Chevetogne Foot B            v FC St-Martin Pessoux          2-6
+    15.00  E Sommenoise                 v Rienne Sp                     
+
+» 12. Round
+  Sat Sep/27 2025
+    20.00  Sporting Club Graide         v RUS Pondrome B                0-7
+    20.00  RAS Houyet B                 v E Sommenoise                  
+    20.00  FC Achêne B                  v CSE Han-Sur-Lesse B           1-3
+
+» 13. Round
+  Sun Sep/28 2025
+    15.00  E Dionaise                   v R Dinant FC B                 4-2
+    15.00  Rienne Sp                    v RJS Leignon                   0-2
+    15.00  St Cl Feschaux               v US St Hadelin-Haversin B      2-4
+    15.00  FC St-Martin Pessoux         v RU ST-G Sinsin-Waillet        5-4
+
+» 14. Round
+  Sat Oct/04 2025
+    20.00  CSE Han-Sur-Lesse B          v St Cl Feschaux                10-1
+    20.00  RJS Leignon                  v RAS Houyet B                  2-0
+
+» 15. Round
+  Sun Oct/05 2025
+    15.00  RUS Pondrome B               v FC Achêne B                   4-1
+    15.00  E Sommenoise                 v FC St-Martin Pessoux          
+    15.00  Chevetogne Foot B            v Sporting Club Graide          0-1
+    15.00  E Dionaise                   v Rienne Sp                     0-1
+    18.00  R Dinant FC B                v US St Hadelin-Haversin B      4-1
+
+» 16. Round
+  Wed Oct/08 2025
+    20.00  RAS Houyet B                 v Chevetogne Foot B             2-1
+
+» 17. Round
+  Fri Oct/10 2025
+    20.00  US St Hadelin-Haversin B     v CSE Han-Sur-Lesse B           0-2
+
+» 18. Round
+  Sat Oct/11 2025
+    20.00  RAS Houyet B                 v E Dionaise                    1-4
+    20.00  Sporting Club Graide         v RU ST-G Sinsin-Waillet        0-3
+    20.00  FC Achêne B                  v Chevetogne Foot B             2-1
+
+» 19. Round
+  Sun Oct/12 2025
+    15.00  FC St-Martin Pessoux         v RJS Leignon                   2-7
+    15.00  Rienne Sp                    v R Dinant FC B                 1-2
+    15.00  St Cl Feschaux               v RUS Pondrome B                0-9
+
+» 20. Round
+  Sat Oct/18 2025
+    20.00  RUS Pondrome B               v US St Hadelin-Haversin B      4-0
+    20.00  RU ST-G Sinsin-Waillet       v FC Achêne B                   4-1
+
+» 21. Round
+  Sun Oct/19 2025
+    15.00  Chevetogne Foot B            v St Cl Feschaux                2-2
+    15.00  E Sommenoise                 v Sporting Club Graide          
+    15.00  Rienne Sp                    v RAS Houyet B                  2-2
+    15.00  E Dionaise                   v FC St-Martin Pessoux          6-4
+    15.00  R Dinant FC B                v CSE Han-Sur-Lesse B           1-3
+
+» 22. Round
+  Sun Oct/26 2025
+    15.00  St Cl Feschaux               v RU ST-G Sinsin-Waillet        1-5
+    15.00  FC St-Martin Pessoux         v Rienne Sp                     2-1
+    15.00  US St Hadelin-Haversin B     v Chevetogne Foot B             3-2
+    15.00  FC Achêne B                  v E Sommenoise                  
+    15.00  Sporting Club Graide         v RJS Leignon                   0-10
+    15.00  CSE Han-Sur-Lesse B          v RUS Pondrome B                7-2
+    18.30  RAS Houyet B                 v R Dinant FC B                 1-2
+
+» 23. Round
+  Sat Nov/01 2025
+    20.00  RAS Houyet B                 v FC St-Martin Pessoux          4-2
+    20.00  RU ST-G Sinsin-Waillet       v US St Hadelin-Haversin B      2-0
+    20.00  RJS Leignon                  v FC Achêne B                   13-0
+
+» 24. Round
+  Sun Nov/02 2025
+    14.30  E Sommenoise                 v St Cl Feschaux                
+    14.30  E Dionaise                   v Sporting Club Graide          7-0
+    15.00  R Dinant FC B                v RUS Pondrome B                7-1
+    15.00  Chevetogne Foot B            v CSE Han-Sur-Lesse B           0-4
+
+» 25. Round
+  Sat Nov/08 2025
+    20.00  FC Achêne B                  v E Dionaise                    0-6
+    20.00  Sporting Club Graide         v Rienne Sp                     0-7
+    20.00  US St Hadelin-Haversin B     v E Sommenoise                  
+    20.00  CSE Han-Sur-Lesse B          v RU ST-G Sinsin-Waillet        3-1
+
+» 26. Round
+  Sun Nov/09 2025
+    14.30  FC St-Martin Pessoux         v R Dinant FC B                 6-1
+    14.30  St Cl Feschaux               v RJS Leignon                   0-14
+    14.30  RUS Pondrome B               v Chevetogne Foot B             1-0
+
+» 27. Round
+  Sat Nov/15 2025
+    20.00  RU ST-G Sinsin-Waillet       v RUS Pondrome B                2-4
+    20.00  RAS Houyet B                 v Sporting Club Graide          4-5
+    20.30  RJS Leignon                  v US St Hadelin-Haversin B      1-1
+
+» 28. Round
+  Sun Nov/16 2025
+    14.30  E Dionaise                   v St Cl Feschaux                15-1
+    14.30  Rienne Sp                    v FC Achêne B                   2-2
+    14.30  E Sommenoise                 v CSE Han-Sur-Lesse B           
+    15.00  R Dinant FC B                v Chevetogne Foot B             3-2
+
+» 29. Round
+  Sat Nov/22 2025
+    20.00  CSE Han-Sur-Lesse B          v RJS Leignon                   0-4
+    20.00  US St Hadelin-Haversin B     v E Dionaise                    2-2
+
+» 30. Round
+  Sun Nov/23 2025
+    14.30  RUS Pondrome B               v E Sommenoise                  
+    14.30  St Cl Feschaux               v Rienne Sp                     0-11
+    15.00  Chevetogne Foot B            v RU ST-G Sinsin-Waillet        0-5
+
+» 31. Round
+  Sat Nov/29 2025
+    20.00  RU ST-G Sinsin-Waillet       v R Dinant FC B                 3-3
+    20.00  RAS Houyet B                 v St Cl Feschaux                7-2
+
+» 32. Round
+  Sun Nov/30 2025
+    14.30  E Sommenoise                 v Chevetogne Foot B             
+    14.30  Rienne Sp                    v US St Hadelin-Haversin B      2-2
+    14.30  FC St-Martin Pessoux         v FC Achêne B                   2-1
+    14.30  E Dionaise                   v CSE Han-Sur-Lesse B           1-2
+    15.00  RJS Leignon                  v RUS Pondrome B                6-2
+
+» 33. Round
+  Sat Dec/06 2025
+    20.00  RAS Houyet B                 v US St Hadelin-Haversin B      4-1
+    20.00  RJS Leignon                  v Chevetogne Foot B             4-1
+    20.00  Sporting Club Graide         v R Dinant FC B                 0-5
+
+» 34. Round
+  Sun Dec/07 2025
+    14.30  Rienne Sp                    v CSE Han-Sur-Lesse B           4-2
+    14.30  E Sommenoise                 v RU ST-G Sinsin-Waillet        
+    14.30  FC St-Martin Pessoux         v St Cl Feschaux                8-0
+    14.30  E Dionaise                   v RUS Pondrome B                1-3
+
+» 35. Round
+  Wed Dec/10 2025
+    20.00  Sporting Club Graide         v FC St-Martin Pessoux          0-4
+    20.00  FC Achêne B                  v RAS Houyet B                  2-2
+
+» 36. Round
+  Sat Dec/13 2025
+    20.00  RU ST-G Sinsin-Waillet       v RJS Leignon                   1-4
+    20.00  CSE Han-Sur-Lesse B          v RAS Houyet B                  4-3
+    20.00  US St Hadelin-Haversin B     v FC St-Martin Pessoux          2-4
+    20.00  FC Achêne B                  v Sporting Club Graide          5-1
+
+» 37. Round
+  Sun Dec/14 2025
+    14.30  RUS Pondrome B               v Rienne Sp                     1-1
+    15.00  R Dinant FC B                v E Sommenoise                  
+    15.00  Chevetogne Foot B            v E Dionaise                    4-6
+
+» 38. Round
+  Sat Dec/20 2025
+    20.00  RJS Leignon                  v E Sommenoise                  
+    20.00  RAS Houyet B                 v RUS Pondrome B                1-3
+    20.00  Sporting Club Graide         v St Cl Feschaux                1-2
+    20.00  FC Achêne B                  v R Dinant FC B                 2-5
+
+» 39. Round
+  Sun Dec/21 2025
+    14.30  FC St-Martin Pessoux         v CSE Han-Sur-Lesse B           4-1
+    14.30  Rienne Sp                    v Chevetogne Foot B             1-2
+    14.30  E Dionaise                   v RU ST-G Sinsin-Waillet        0-1
+
+» 40. Round
+  Sat Jan/17 2026
+    20.00  RU ST-G Sinsin-Waillet       v Rienne Sp                     
+    20.00  US St Hadelin-Haversin B     v Sporting Club Graide          
+
+» 41. Round
+  Sun Jan/18 2026
+    15.00  Chevetogne Foot B            v RAS Houyet B                  
+    15.00  R Dinant FC B                v RJS Leignon                   
+    15.00  St Cl Feschaux               v FC Achêne B                   
+    15.00  RUS Pondrome B               v FC St-Martin Pessoux          
+    15.00  E Sommenoise                 v E Dionaise                    
+
+» 42. Round
+  Sun Jan/25 2026
+    15.00  St Cl Feschaux               v R Dinant FC B                 
+    15.00  RAS Houyet B                 v RU ST-G Sinsin-Waillet        
+    15.00  FC St-Martin Pessoux         v Chevetogne Foot B             
+    15.00  Sporting Club Graide         v CSE Han-Sur-Lesse B           
+    15.00  E Dionaise                   v RJS Leignon                   
+    15.00  FC Achêne B                  v US St Hadelin-Haversin B      
+    15.00  Rienne Sp                    v E Sommenoise                  
+
+» 43. Round
+  Sat Jan/31 2026
+    20.00  RJS Leignon                  v Rienne Sp                     
+    20.00  RU ST-G Sinsin-Waillet       v FC St-Martin Pessoux          
+    20.00  CSE Han-Sur-Lesse B          v FC Achêne B                   
+    20.00  US St Hadelin-Haversin B     v St Cl Feschaux                
+
+» 44. Round
+  Sun Feb/01 2026
+    15.00  RUS Pondrome B               v Sporting Club Graide          
+    15.00  R Dinant FC B                v E Dionaise                    
+    15.00  E Sommenoise                 v RAS Houyet B                  
+
+» 45. Round
+  Sat Feb/07 2026
+    20.00  FC Achêne B                  v RUS Pondrome B                
+    20.00  RAS Houyet B                 v RJS Leignon                   
+    20.00  US St Hadelin-Haversin B     v R Dinant FC B                 
+    20.00  Sporting Club Graide         v Chevetogne Foot B             
+
+» 46. Round
+  Sun Feb/08 2026
+    15.00  FC St-Martin Pessoux         v E Sommenoise                  
+    15.00  Rienne Sp                    v E Dionaise                    
+    15.00  St Cl Feschaux               v CSE Han-Sur-Lesse B           
+
+» 47. Round
+  Sat Feb/21 2026
+    20.00  CSE Han-Sur-Lesse B          v US St Hadelin-Haversin B      
+    20.00  RU ST-G Sinsin-Waillet       v Sporting Club Graide          
+    20.00  RJS Leignon                  v FC St-Martin Pessoux          
+
+» 48. Round
+  Sun Feb/22 2026
+    15.00  RUS Pondrome B               v St Cl Feschaux                
+    15.00  E Dionaise                   v RAS Houyet B                  
+    15.00  Chevetogne Foot B            v FC Achêne B                   
+    15.00  R Dinant FC B                v Rienne Sp                     
+
+» 49. Round
+  Sat Feb/28 2026
+    20.00  US St Hadelin-Haversin B     v RUS Pondrome B                
+    20.00  CSE Han-Sur-Lesse B          v R Dinant FC B                 
+    20.00  RAS Houyet B                 v Rienne Sp                     
+    20.00  Sporting Club Graide         v E Sommenoise                  
+    20.00  FC Achêne B                  v RU ST-G Sinsin-Waillet        
+
+» 50. Round
+  Sun Mar/01 2026
+    15.00  FC St-Martin Pessoux         v E Dionaise                    
+    15.00  St Cl Feschaux               v Chevetogne Foot B             
+
+» 51. Round
+  Sat Mar/07 2026
+    20.00  RU ST-G Sinsin-Waillet       v St Cl Feschaux                
+    20.00  RJS Leignon                  v Sporting Club Graide          
+
+» 52. Round
+  Sun Mar/08 2026
+    15.00  Rienne Sp                    v FC St-Martin Pessoux          
+    15.00  R Dinant FC B                v RAS Houyet B                  
+    15.00  Chevetogne Foot B            v US St Hadelin-Haversin B      
+    15.00  RUS Pondrome B               v CSE Han-Sur-Lesse B           
+    15.00  E Sommenoise                 v FC Achêne B                   
+
+» 53. Round
+  Sat Mar/21 2026
+    20.00  FC Achêne B                  v RJS Leignon                   
+    20.00  Sporting Club Graide         v E Dionaise                    
+    20.00  US St Hadelin-Haversin B     v RU ST-G Sinsin-Waillet        
+    20.00  CSE Han-Sur-Lesse B          v Chevetogne Foot B             
+
+» 54. Round
+  Sun Mar/22 2026
+    15.00  St Cl Feschaux               v E Sommenoise                  
+    15.00  RUS Pondrome B               v R Dinant FC B                 
+    15.00  FC St-Martin Pessoux         v RAS Houyet B                  
+
+» 55. Round
+  Sat Mar/28 2026
+    20.00  RJS Leignon                  v St Cl Feschaux                
+    20.00  RU ST-G Sinsin-Waillet       v CSE Han-Sur-Lesse B           
+
+» 56. Round
+  Sun Mar/29 2026
+    15.00  R Dinant FC B                v FC St-Martin Pessoux          
+    15.00  E Dionaise                   v FC Achêne B                   
+    15.00  E Sommenoise                 v US St Hadelin-Haversin B      
+    15.00  Chevetogne Foot B            v RUS Pondrome B                
+    15.00  Rienne Sp                    v Sporting Club Graide          
+
+» 57. Round
+  Sat Apr/11 2026
+    20.00  US St Hadelin-Haversin B     v RJS Leignon                   
+    20.00  Sporting Club Graide         v RAS Houyet B                  
+    20.00  FC Achêne B                  v Rienne Sp                     
+    20.00  CSE Han-Sur-Lesse B          v E Sommenoise                  
+
+» 58. Round
+  Sun Apr/12 2026
+    15.00  St Cl Feschaux               v E Dionaise                    
+    15.00  Chevetogne Foot B            v R Dinant FC B                 
+    15.00  RUS Pondrome B               v RU ST-G Sinsin-Waillet        
+
+» 59. Round
+  Sun Apr/19 2026
+    15.00  RAS Houyet B                 v FC Achêne B                   
+    15.00  Rienne Sp                    v St Cl Feschaux                
+    15.00  FC St-Martin Pessoux         v Sporting Club Graide          
+    15.00  RJS Leignon                  v CSE Han-Sur-Lesse B           
+    15.00  E Dionaise                   v US St Hadelin-Haversin B      
+    15.00  RU ST-G Sinsin-Waillet       v Chevetogne Foot B             
+    15.00  E Sommenoise                 v RUS Pondrome B                
+
+» 60. Round
+  Sun Apr/26 2026
+    15.00  Chevetogne Foot B            v E Sommenoise                  
+    15.00  R Dinant FC B                v RU ST-G Sinsin-Waillet        
+    15.00  FC Achêne B                  v FC St-Martin Pessoux          
+    15.00  St Cl Feschaux               v RAS Houyet B                  
+    15.00  RUS Pondrome B               v RJS Leignon                   
+    15.00  US St Hadelin-Haversin B     v Rienne Sp                     
+    15.00  CSE Han-Sur-Lesse B          v E Dionaise                    
