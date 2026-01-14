@@ -1,0 +1,393 @@
+= IV_Provinciale_B
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    18.30  R.S. Remouchamps SP          v R. Fraiture F.C.              3-1
+    19.30  R. Marchin Sport B           v Jeunesse MSN Tilleur A        2-1
+    20.00  CS Ocquier                   v R.S.C. Tilffois B             3-2
+
+» 2. Round
+  Sun Aug/24 2025
+    16.00  R. Ougrée FC. B              v R.CS. Xhorisien B             2-4
+    16.00  FC Apicoles Tilffois         v R.All. Clavinoise B           3-1
+    16.00  Seraing Athl R.FC. B         v R.R.C. Hamoir B               2-1
+    16.00  R.S.C. Modave                v R. Fraiture SP B              7-0
+    16.00  U.S. Ferrières               v R. Harzé F.C. B               3-3
+
+» 3. Round
+  Sun Aug/31 2025
+    16.00  R.All. Clavinoise B          v R. Ougrée FC. B               3-4
+    16.00  R. Harzé F.C. B              v FC Apicoles Tilffois          2-1
+    16.00  R.CS. Xhorisien B            v R. Marchin Sport B            3-2
+    16.00  R. Fraiture SP B             v R.S. Remouchamps SP           0-5
+    16.00  Jeunesse MSN Tilleur A       v Seraing Athl R.FC. B          1-5
+    16.00  R.S.C. Tilffois B            v R.S.C. Modave                 2-1
+    16.00  R. Fraiture F.C.             v U.S. Ferrières                6-1
+    16.00  R.R.C. Hamoir B              v CS Ocquier                    4-0
+
+» 4. Round
+  Sat Sep/06 2025
+    19.30  R. Marchin Sport B           v Seraing Athl R.FC. B          0-1
+
+» 5. Round
+  Sun Sep/07 2025
+    14.30  R.CS. Xhorisien B            v R.All. Clavinoise B           2-1
+    15.00  FC Apicoles Tilffois         v R. Fraiture F.C.              3-5
+    15.00  R.S.C. Modave                v R.R.C. Hamoir B               2-1
+    15.00  R. Ougrée FC. B              v R. Harzé F.C. B               4-1
+    15.00  R.S. Remouchamps SP          v R.S.C. Tilffois B             6-0
+    15.00  U.S. Ferrières               v R. Fraiture SP B              2-1
+
+» 6. Round
+  Sun Sep/14 2025
+    14.30  R. Harzé F.C. B              v R.CS. Xhorisien B             3-3
+    15.00  R.S.C. Tilffois B            v U.S. Ferrières                4-1
+    15.00  Seraing Athl R.FC. B         v CS Ocquier                    5-1
+    15.00  R.All. Clavinoise B          v R. Marchin Sport B            2-3
+    15.00  Jeunesse MSN Tilleur A       v R.S.C. Modave                 3-1
+    15.00  R. Fraiture F.C.             v R. Ougrée FC. B               4-1
+    15.00  R.R.C. Hamoir B              v R.S. Remouchamps SP           0-5
+    15.00  R. Fraiture SP B             v FC Apicoles Tilffois          0-4
+
+» 7. Round
+  Sat Sep/20 2025
+    19.30  R. Marchin Sport B           v CS Ocquier                    1-5
+
+» 8. Round
+  Sun Sep/21 2025
+    14.30  R.CS. Xhorisien B            v R. Fraiture F.C.              2-1
+    15.00  R. Ougrée FC. B              v R. Fraiture SP B              5-0
+    15.00  R.S. Remouchamps SP          v Jeunesse MSN Tilleur A        2-2
+    15.00  R.All. Clavinoise B          v R. Harzé F.C. B               3-7
+    15.00  U.S. Ferrières               v R.R.C. Hamoir B               0-7
+    15.00  R.S.C. Modave                v Seraing Athl R.FC. B          2-4
+    16.00  FC Apicoles Tilffois         v R.S.C. Tilffois B             1-3
+
+» 9. Round
+  Sat Sep/27 2025
+    20.00  CS Ocquier                   v R.S.C. Modave                 1-4
+
+» 10. Round
+  Sun Sep/28 2025
+    14.30  R. Harzé F.C. B              v R. Marchin Sport B            3-1
+    15.00  Seraing Athl R.FC. B         v R.S. Remouchamps SP           5-3
+    15.00  R. Fraiture SP B             v R.CS. Xhorisien B             0-5
+    15.00  R. Fraiture F.C.             v R.All. Clavinoise B           1-0
+    15.00  Jeunesse MSN Tilleur A       v U.S. Ferrières                3-0
+    15.00  R.S.C. Tilffois B            v R. Ougrée FC. B               5-1
+    15.00  R.R.C. Hamoir B              v FC Apicoles Tilffois          5-1
+
+» 11. Round
+  Sat Oct/04 2025
+    19.30  R. Marchin Sport B           v R.S.C. Modave                 2-2
+
+» 12. Round
+  Sun Oct/05 2025
+    14.30  R. Harzé F.C. B              v R. Fraiture F.C.              0-1
+    15.00  R.All. Clavinoise B          v R. Fraiture SP B              2-1
+    15.00  FC Apicoles Tilffois         v Jeunesse MSN Tilleur A        3-3
+    15.00  U.S. Ferrières               v Seraing Athl R.FC. B          1-2
+    15.00  R. Ougrée FC. B              v R.R.C. Hamoir B               1-4
+    15.00  R.S. Remouchamps SP          v CS Ocquier                    3-1
+    15.30  R.CS. Xhorisien B            v R.S.C. Tilffois B             4-0
+
+» 13. Round
+  Sun Oct/12 2025
+    15.00  R. Fraiture F.C.             v R. Marchin Sport B            0-1
+    15.00  Seraing Athl R.FC. B         v FC Apicoles Tilffois          11-1
+    15.00  R.S.C. Modave                v R.S. Remouchamps SP           1-4
+    15.00  CS Ocquier                   v U.S. Ferrières                6-2
+    15.00  R.R.C. Hamoir B              v R.CS. Xhorisien B             2-0
+    15.00  Jeunesse MSN Tilleur A       v R. Ougrée FC. B               7-2
+    15.00  R. Fraiture SP B             v R. Harzé F.C. B               0-6
+    15.00  R.S.C. Tilffois B            v R.All. Clavinoise B           3-1
+
+» 14. Round
+  Tue Oct/14 2025
+    20.00  CS Ocquier                   v Jeunesse MSN Tilleur A        2-3
+
+» 15. Round
+  Sat Oct/18 2025
+    19.30  R. Marchin Sport B           v R.S. Remouchamps SP           0-4
+
+» 16. Round
+  Sun Oct/19 2025
+    14.30  R.CS. Xhorisien B            v Jeunesse MSN Tilleur A        3-2
+    14.30  R. Harzé F.C. B              v R.S.C. Tilffois B             2-0
+    15.00  FC Apicoles Tilffois         v CS Ocquier                    1-2
+    15.00  R. Fraiture F.C.             v R. Fraiture SP B              8-0
+    15.00  U.S. Ferrières               v R.S.C. Modave                 1-5
+    15.00  R.All. Clavinoise B          v R.R.C. Hamoir B               2-5
+    15.00  R. Ougrée FC. B              v Seraing Athl R.FC. B          1-5
+
+» 17. Round
+  Sun Oct/26 2025
+    14.30  CS Ocquier                   v R. Ougrée FC. B               5-0
+    14.30  Jeunesse MSN Tilleur A       v R.All. Clavinoise B           3-0
+    14.30  R.S. Remouchamps SP          v U.S. Ferrières                2-1
+    14.30  R.S.C. Modave                v FC Apicoles Tilffois          6-1
+    14.30  R.S.C. Tilffois B            v R. Fraiture F.C.              1-2
+    14.30  R. Fraiture SP B             v R. Marchin Sport B            1-2
+    14.30  Seraing Athl R.FC. B         v R.CS. Xhorisien B             1-0
+    14.30  R.R.C. Hamoir B              v R. Harzé F.C. B               2-1
+
+» 18. Round
+  Sat Nov/01 2025
+    19.30  R. Marchin Sport B           v U.S. Ferrières                2-0
+
+» 19. Round
+  Sun Nov/02 2025
+    14.00  R. Fraiture F.C.             v R.R.C. Hamoir B               4-2
+    14.00  R.CS. Xhorisien B            v CS Ocquier                    5-2
+    14.00  R. Harzé F.C. B              v Jeunesse MSN Tilleur A        3-2
+    14.30  R. Fraiture SP B             v R.S.C. Tilffois B             1-4
+    14.30  R. Ougrée FC. B              v R.S.C. Modave                 1-4
+    14.30  FC Apicoles Tilffois         v R.S. Remouchamps SP           0-9
+    14.30  R.All. Clavinoise B          v Seraing Athl R.FC. B          1-3
+
+» 20. Round
+  Sun Nov/09 2025
+    14.30  Seraing Athl R.FC. B         v R. Harzé F.C. B               6-4
+    14.30  R.S.C. Tilffois B            v R. Marchin Sport B            3-1
+    14.30  U.S. Ferrières               v FC Apicoles Tilffois          1-1
+    14.30  R.R.C. Hamoir B              v R. Fraiture SP B              8-2
+    14.30  R.S. Remouchamps SP          v R. Ougrée FC. B               6-0
+    14.30  R.S.C. Modave                v R.CS. Xhorisien B             2-1
+    14.30  Jeunesse MSN Tilleur A       v R. Fraiture F.C.              1-1
+    14.30  CS Ocquier                   v R.All. Clavinoise B           0-3
+
+» 21. Round
+  Sat Nov/15 2025
+    19.30  R. Marchin Sport B           v FC Apicoles Tilffois          0-2
+
+» 22. Round
+  Sun Nov/16 2025
+    14.00  R.CS. Xhorisien B            v R.S. Remouchamps SP           1-5
+    14.00  R. Harzé F.C. B              v CS Ocquier                    5-3
+    14.30  R.All. Clavinoise B          v R.S.C. Modave                 1-1
+    14.30  R. Fraiture F.C.             v Seraing Athl R.FC. B          1-5
+    14.30  R.S.C. Tilffois B            v R.R.C. Hamoir B               2-2
+    14.30  R. Fraiture SP B             v Jeunesse MSN Tilleur A        1-5
+    14.30  R. Ougrée FC. B              v U.S. Ferrières                2-1
+
+» 23. Round
+  Thu Nov/20 2025
+    20.00  R.S. Remouchamps SP          v R.All. Clavinoise B           4-0
+
+» 24. Round
+  Sun Nov/23 2025
+    14.30  R.S.C. Modave                v R. Harzé F.C. B               3-4
+    14.30  FC Apicoles Tilffois         v R. Ougrée FC. B               9-1
+    14.30  Seraing Athl R.FC. B         v R. Fraiture SP B              5-0
+    14.30  CS Ocquier                   v R. Fraiture F.C.              2-6
+    14.30  U.S. Ferrières               v R.CS. Xhorisien B             1-2
+    14.30  Jeunesse MSN Tilleur A       v R.S.C. Tilffois B             5-0
+
+» 25. Round
+  Sun Nov/30 2025
+    14.00  R.CS. Xhorisien B            v FC Apicoles Tilffois          8-0
+    14.00  R. Harzé F.C. B              v R.S. Remouchamps SP           1-3
+    14.30  R. Ougrée FC. B              v R. Marchin Sport B            3-4
+    14.30  R.R.C. Hamoir B              v Jeunesse MSN Tilleur A        3-6
+    14.30  R.All. Clavinoise B          v U.S. Ferrières                3-2
+    14.30  R. Fraiture F.C.             v R.S.C. Modave                 2-2
+    14.30  R. Fraiture SP B             v CS Ocquier                    2-5
+    14.30  R.S.C. Tilffois B            v Seraing Athl R.FC. B          2-3
+
+» 26. Round
+  Thu Dec/04 2025
+    20.00  R. Marchin Sport B           v R.R.C. Hamoir B               2-4
+
+» 27. Round
+  Sun Dec/07 2025
+    14.00  R. Harzé F.C. B              v U.S. Ferrières                3-1
+    14.00  R.CS. Xhorisien B            v R. Ougrée FC. B               4-1
+    14.30  R.S.C. Tilffois B            v CS Ocquier                    5-1
+    14.30  Jeunesse MSN Tilleur A       v R. Marchin Sport B            2-0
+    14.30  R. Fraiture SP B             v R.S.C. Modave                 0-6
+    14.30  R. Fraiture F.C.             v R.S. Remouchamps SP           1-0
+    14.30  R.All. Clavinoise B          v FC Apicoles Tilffois          3-3
+    14.30  R.R.C. Hamoir B              v Seraing Athl R.FC. B          1-3
+
+» 28. Round
+  Sat Dec/13 2025
+    19.30  R. Marchin Sport B           v R.CS. Xhorisien B             1-2
+
+» 29. Round
+  Sun Dec/14 2025
+    14.30  Seraing Athl R.FC. B         v Jeunesse MSN Tilleur A        0-2
+    14.30  R.S. Remouchamps SP          v R. Fraiture SP B              6-1
+    14.30  R.S.C. Modave                v R.S.C. Tilffois B             6-0
+    14.30  R. Ougrée FC. B              v R.All. Clavinoise B           3-2
+    14.30  U.S. Ferrières               v R. Fraiture F.C.              0-3
+    14.30  FC Apicoles Tilffois         v R. Harzé F.C. B               1-0
+    14.30  CS Ocquier                   v R.R.C. Hamoir B               1-1
+
+» 30. Round
+  Sat Dec/20 2025
+    19.00  R. Fraiture F.C.             v FC Apicoles Tilffois          3-0
+
+» 31. Round
+  Sun Dec/21 2025
+    14.00  R. Harzé F.C. B              v R. Ougrée FC. B               5-0
+    14.30  R. Fraiture SP B             v U.S. Ferrières                3-1
+    14.30  Seraing Athl R.FC. B         v R. Marchin Sport B            3-0
+    14.30  R.S.C. Tilffois B            v R.S. Remouchamps SP           0-1
+    14.30  Jeunesse MSN Tilleur A       v CS Ocquier                    5-2
+    14.30  R.All. Clavinoise B          v R.CS. Xhorisien B             3-2
+    14.30  R.R.C. Hamoir B              v R.S.C. Modave                 2-3
+
+» 32. Round
+  Sat Jan/17 2026
+    19.30  R. Marchin Sport B           v R.All. Clavinoise B           
+
+» 33. Round
+  Sun Jan/18 2026
+    14.00  R.CS. Xhorisien B            v R. Harzé F.C. B               
+    14.30  R.S.C. Modave                v Jeunesse MSN Tilleur A        
+    14.30  R.S. Remouchamps SP          v R.R.C. Hamoir B               
+    14.30  U.S. Ferrières               v R.S.C. Tilffois B             
+    14.30  CS Ocquier                   v Seraing Athl R.FC. B          
+    14.30  R. Ougrée FC. B              v R. Fraiture F.C.              
+    14.30  FC Apicoles Tilffois         v R. Fraiture SP B              
+
+» 34. Round
+  Sun Jan/25 2026
+    14.30  R.R.C. Hamoir B              v U.S. Ferrières                
+    14.30  CS Ocquier                   v R. Marchin Sport B            
+    14.30  R.S.C. Tilffois B            v FC Apicoles Tilffois          
+    14.30  R. Fraiture F.C.             v R.CS. Xhorisien B             
+    14.30  Seraing Athl R.FC. B         v R.S.C. Modave                 
+    14.30  R. Fraiture SP B             v R. Ougrée FC. B               
+    14.30  Jeunesse MSN Tilleur A       v R.S. Remouchamps SP           
+    14.30  R. Harzé F.C. B              v R.All. Clavinoise B           
+
+» 35. Round
+  Sat Jan/31 2026
+    19.30  R. Marchin Sport B           v R. Harzé F.C. B               
+
+» 36. Round
+  Sun Feb/01 2026
+    14.30  R.CS. Xhorisien B            v R. Fraiture SP B              
+    15.00  U.S. Ferrières               v Jeunesse MSN Tilleur A        
+    15.00  R. Ougrée FC. B              v R.S.C. Tilffois B             
+    15.00  R.All. Clavinoise B          v R. Fraiture F.C.              
+    15.00  FC Apicoles Tilffois         v R.R.C. Hamoir B               
+    15.00  R.S. Remouchamps SP          v Seraing Athl R.FC. B          
+    15.00  R.S.C. Modave                v CS Ocquier                    
+
+» 37. Round
+  Sun Feb/08 2026
+    15.00  R.S.C. Modave                v R. Marchin Sport B            
+    15.00  R. Fraiture SP B             v R.All. Clavinoise B           
+    15.00  Jeunesse MSN Tilleur A       v FC Apicoles Tilffois          
+    15.00  Seraing Athl R.FC. B         v U.S. Ferrières                
+    15.00  R.S.C. Tilffois B            v R.CS. Xhorisien B             
+    15.00  CS Ocquier                   v R.S. Remouchamps SP           
+    15.00  R.R.C. Hamoir B              v R. Ougrée FC. B               
+    15.00  R. Fraiture F.C.             v R. Harzé F.C. B               
+
+» 38. Round
+  Sat Feb/21 2026
+    19.30  R. Marchin Sport B           v R. Fraiture F.C.              
+
+» 39. Round
+  Sun Feb/22 2026
+    14.30  R. Harzé F.C. B              v R. Fraiture SP B              
+    14.30  R.CS. Xhorisien B            v R.R.C. Hamoir B               
+    15.00  R.All. Clavinoise B          v R.S.C. Tilffois B             
+    15.00  FC Apicoles Tilffois         v Seraing Athl R.FC. B          
+    15.00  R. Ougrée FC. B              v Jeunesse MSN Tilleur A        
+    15.00  U.S. Ferrières               v CS Ocquier                    
+    15.00  R.S. Remouchamps SP          v R.S.C. Modave                 
+
+» 40. Round
+  Sat Feb/28 2026
+    20.00  R.S. Remouchamps SP          v R. Marchin Sport B            
+
+» 41. Round
+  Sun Mar/01 2026
+    15.00  R. Fraiture SP B             v R. Fraiture F.C.              
+    15.00  Jeunesse MSN Tilleur A       v R.CS. Xhorisien B             
+    15.00  R.S.C. Tilffois B            v R. Harzé F.C. B               
+    15.00  R.S.C. Modave                v U.S. Ferrières                
+    15.00  R.R.C. Hamoir B              v R.All. Clavinoise B           
+    15.00  Seraing Athl R.FC. B         v R. Ougrée FC. B               
+    15.00  CS Ocquier                   v FC Apicoles Tilffois          
+
+» 42. Round
+  Sat Mar/07 2026
+    19.30  R. Marchin Sport B           v R. Fraiture SP B              
+
+» 43. Round
+  Sun Mar/08 2026
+    14.30  R. Harzé F.C. B              v R.R.C. Hamoir B               
+    14.30  R.CS. Xhorisien B            v Seraing Athl R.FC. B          
+    15.00  FC Apicoles Tilffois         v R.S.C. Modave                 
+    15.00  U.S. Ferrières               v R.S. Remouchamps SP           
+    15.00  R.All. Clavinoise B          v Jeunesse MSN Tilleur A        
+    15.00  R. Ougrée FC. B              v CS Ocquier                    
+    15.00  R. Fraiture F.C.             v R.S.C. Tilffois B             
+
+» 44. Round
+  Sun Mar/22 2026
+    15.00  R.S.C. Modave                v R. Ougrée FC. B               
+    15.00  Jeunesse MSN Tilleur A       v R. Harzé F.C. B               
+    15.00  Seraing Athl R.FC. B         v R.All. Clavinoise B           
+    15.00  R.R.C. Hamoir B              v R. Fraiture F.C.              
+    15.00  R.S. Remouchamps SP          v FC Apicoles Tilffois          
+    15.00  U.S. Ferrières               v R. Marchin Sport B            
+    15.00  R.S.C. Tilffois B            v R. Fraiture SP B              
+    20.00  CS Ocquier                   v R.CS. Xhorisien B             
+
+» 45. Round
+  Sat Mar/28 2026
+    19.30  R. Marchin Sport B           v R.S.C. Tilffois B             
+
+» 46. Round
+  Sun Mar/29 2026
+    14.30  R.CS. Xhorisien B            v R.S.C. Modave                 
+    14.30  R. Harzé F.C. B              v Seraing Athl R.FC. B          
+    15.00  R. Ougrée FC. B              v R.S. Remouchamps SP           
+    15.00  R. Fraiture SP B             v R.R.C. Hamoir B               
+    15.00  R. Fraiture F.C.             v Jeunesse MSN Tilleur A        
+    15.00  R.All. Clavinoise B          v CS Ocquier                    
+    15.00  FC Apicoles Tilffois         v U.S. Ferrières                
+
+» 47. Round
+  Sun Apr/12 2026
+    15.00  R.S.C. Modave                v R.All. Clavinoise B           
+    15.00  Jeunesse MSN Tilleur A       v R. Fraiture SP B              
+    15.00  U.S. Ferrières               v R. Ougrée FC. B               
+    15.00  R.R.C. Hamoir B              v R.S.C. Tilffois B             
+    15.00  CS Ocquier                   v R. Harzé F.C. B               
+    15.00  Seraing Athl R.FC. B         v R. Fraiture F.C.              
+    15.00  R.S. Remouchamps SP          v R.CS. Xhorisien B             
+    15.00  FC Apicoles Tilffois         v R. Marchin Sport B            
+
+» 48. Round
+  Sun Apr/19 2026
+    15.00  R. Harzé F.C. B              v R.S.C. Modave                 
+    15.00  R. Ougrée FC. B              v FC Apicoles Tilffois          
+    15.00  R.All. Clavinoise B          v R.S. Remouchamps SP           
+    15.00  R.CS. Xhorisien B            v U.S. Ferrières                
+    15.00  R. Fraiture SP B             v Seraing Athl R.FC. B          
+    15.00  R.R.C. Hamoir B              v R. Marchin Sport B            
+    15.00  R. Fraiture F.C.             v CS Ocquier                    
+    15.00  R.S.C. Tilffois B            v Jeunesse MSN Tilleur A        
+
+» 49. Round
+  Sun Apr/26 2026
+    15.00  Jeunesse MSN Tilleur A       v R.R.C. Hamoir B               
+    15.00  CS Ocquier                   v R. Fraiture SP B              
+    15.00  R.S. Remouchamps SP          v R. Harzé F.C. B               
+    15.00  Seraing Athl R.FC. B         v R.S.C. Tilffois B             
+    15.00  FC Apicoles Tilffois         v R.CS. Xhorisien B             
+    15.00  R. Marchin Sport B           v R. Ougrée FC. B               
+    15.00  U.S. Ferrières               v R.All. Clavinoise B           
+    15.00  R.S.C. Modave                v R. Fraiture F.C.              

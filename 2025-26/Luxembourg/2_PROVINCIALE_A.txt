@@ -1,0 +1,344 @@
+= 2_PROVINCIALE_A
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      14
+# Matches    182
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  R.Jeunesse Autelbas          v RFC.Messancy B                0-3
+    20.00  RES.Aubange A                v R.Esp.Rossignol               1-1
+    20.00  RJS.Habaysienne              v US.Martelangeoise             1-0
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  Athl.Florenvillois B         v FC.Tintifontaine              5-2
+    15.00  UN.R.St-Louis-St-Léger       v RSC.Vance                     1-0
+    15.00  RAC.Saint-Mard A             v RSC.Tontelange                3-0
+    15.00  RCS.Halanzy                  v FC.Arlon                      0-1
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  FC.Arlon                     v RAC.Saint-Mard A              7-0
+    20.00  RFC.Messancy B               v RCS.Halanzy                   6-1
+    20.00  RSC.Vance                    v RJS.Habaysienne               0-1
+    20.30  FC.Tintifontaine             v RES.Aubange A                 0-4
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  US.Martelangeoise            v Athl.Florenvillois B          7-0
+    15.00  RSC.Tontelange               v UN.R.St-Louis-St-Léger        2-1
+    15.00  R.Esp.Rossignol              v R.Jeunesse Autelbas           1-4
+
+» 5. Round
+  Sat Sep/06 2025
+    20.00  R.Jeunesse Autelbas          v RCS.Halanzy                   2-1
+    20.00  RJS.Habaysienne              v RSC.Tontelange                1-0
+    20.00  RES.Aubange A                v US.Martelangeoise             0-3
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  Athl.Florenvillois B         v RSC.Vance                     0-2
+    15.00  RAC.Saint-Mard A             v RFC.Messancy B                0-2
+    15.00  UN.R.St-Louis-St-Léger       v FC.Arlon                      0-4
+    15.00  R.Esp.Rossignol              v FC.Tintifontaine              4-0
+
+» 7. Round
+  Sat Sep/13 2025
+    18.00  Athl.Florenvillois B         v RSC.Tontelange                0-1
+    20.00  FC.Arlon                     v RJS.Habaysienne               2-5
+    20.00  FC.Tintifontaine             v R.Jeunesse Autelbas           1-2
+    20.00  RFC.Messancy B               v UN.R.St-Louis-St-Léger        2-1
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  RSC.Vance                    v RES.Aubange A                 3-0
+    15.00  RCS.Halanzy                  v RAC.Saint-Mard A              0-3
+    15.00  US.Martelangeoise            v R.Esp.Rossignol               1-0
+
+» 9. Round
+  Fri Sep/19 2025
+    20.00  R.Jeunesse Autelbas          v RAC.Saint-Mard A              1-1
+
+» 10. Round
+  Sat Sep/20 2025
+    20.00  RES.Aubange A                v RSC.Tontelange                3-0
+    20.00  RJS.Habaysienne              v RFC.Messancy B                1-0
+    20.30  FC.Tintifontaine             v US.Martelangeoise             0-3
+
+» 11. Round
+  Sun Sep/21 2025
+    15.00  Athl.Florenvillois B         v FC.Arlon                      0-1
+    15.00  UN.R.St-Louis-St-Léger       v RCS.Halanzy                   2-4
+    15.00  R.Esp.Rossignol              v RSC.Vance                     2-1
+
+» 12. Round
+  Sat Sep/27 2025
+    20.00  FC.Arlon                     v RES.Aubange A                 3-3
+
+» 13. Round
+  Sun Sep/28 2025
+    15.00  RAC.Saint-Mard A             v UN.R.St-Louis-St-Léger        4-2
+    15.00  US.Martelangeoise            v R.Jeunesse Autelbas           0-1
+    15.00  RFC.Messancy B               v Athl.Florenvillois B          4-0
+    15.00  RSC.Tontelange               v R.Esp.Rossignol               1-1
+    15.00  RSC.Vance                    v FC.Tintifontaine              1-2
+    15.00  RCS.Halanzy                  v RJS.Habaysienne               2-1
+
+» 14. Round
+  Sat Oct/04 2025
+    20.00  RJS.Habaysienne              v RAC.Saint-Mard A              0-0
+    20.00  RES.Aubange A                v RFC.Messancy B                1-1
+    20.00  R.Jeunesse Autelbas          v UN.R.St-Louis-St-Léger        2-2
+    20.30  FC.Tintifontaine             v RSC.Tontelange                0-0
+
+» 15. Round
+  Sun Oct/05 2025
+    15.00  US.Martelangeoise            v RSC.Vance                     2-0
+    15.00  Athl.Florenvillois B         v RCS.Halanzy                   4-2
+    15.00  R.Esp.Rossignol              v FC.Arlon                      3-0
+
+» 16. Round
+  Sat Oct/11 2025
+    20.00  FC.Arlon                     v FC.Tintifontaine              1-0
+
+» 17. Round
+  Sun Oct/12 2025
+    15.00  RSC.Tontelange               v US.Martelangeoise             1-3
+    15.00  RFC.Messancy B               v R.Esp.Rossignol               3-0
+    15.00  UN.R.St-Louis-St-Léger       v RJS.Habaysienne               0-2
+    15.00  RAC.Saint-Mard A             v Athl.Florenvillois B          0-1
+    15.00  RSC.Vance                    v R.Jeunesse Autelbas           6-1
+    15.00  RCS.Halanzy                  v RES.Aubange A                 2-1
+
+» 18. Round
+  Sat Oct/18 2025
+    20.00  R.Jeunesse Autelbas          v RJS.Habaysienne               4-4
+    20.00  FC.Tintifontaine             v RFC.Messancy B                2-0
+    20.00  RES.Aubange A                v RAC.Saint-Mard A              1-2
+
+» 19. Round
+  Sun Oct/19 2025
+    15.00  RSC.Vance                    v RSC.Tontelange                4-0
+    15.00  US.Martelangeoise            v FC.Arlon                      2-0
+    15.00  R.Esp.Rossignol              v RCS.Halanzy                   3-1
+    15.00  Athl.Florenvillois B         v UN.R.St-Louis-St-Léger        5-1
+
+» 20. Round
+  Sat Oct/25 2025
+    20.00  FC.Arlon                     v RSC.Vance                     3-1
+    20.00  RJS.Habaysienne              v Athl.Florenvillois B          2-2
+
+» 21. Round
+  Sun Oct/26 2025
+    14.30  UN.R.St-Louis-St-Léger       v RES.Aubange A                 1-0
+    15.00  RSC.Tontelange               v R.Jeunesse Autelbas           0-3
+    15.00  RCS.Halanzy                  v FC.Tintifontaine              2-0
+    15.00  RFC.Messancy B               v US.Martelangeoise             1-2
+    15.00  RAC.Saint-Mard A             v R.Esp.Rossignol               0-1
+
+» 22. Round
+  Sat Nov/01 2025
+    20.00  FC.Tintifontaine             v RAC.Saint-Mard A              0-6
+    20.00  R.Jeunesse Autelbas          v Athl.Florenvillois B          3-2
+    20.00  RES.Aubange A                v RJS.Habaysienne               3-0
+
+» 23. Round
+  Sun Nov/02 2025
+    14.30  US.Martelangeoise            v RCS.Halanzy                   3-2
+    15.00  RSC.Tontelange               v FC.Arlon                      2-5
+    15.00  R.Esp.Rossignol              v UN.R.St-Louis-St-Léger        8-2
+    15.00  RSC.Vance                    v RFC.Messancy B                1-1
+
+» 24. Round
+  Sat Nov/08 2025
+    20.00  R.Jeunesse Autelbas          v FC.Arlon                      
+    20.00  RJS.Habaysienne              v R.Esp.Rossignol               1-2
+
+» 25. Round
+  Sun Nov/09 2025
+    14.30  UN.R.St-Louis-St-Léger       v FC.Tintifontaine              
+    14.30  RAC.Saint-Mard A             v US.Martelangeoise             1-2
+    14.30  Athl.Florenvillois B         v RES.Aubange A                 2-5
+    15.00  RFC.Messancy B               v RSC.Tontelange                3-0
+    15.00  RCS.Halanzy                  v RSC.Vance                     1-3
+
+» 26. Round
+  Sat Nov/15 2025
+    20.00  FC.Tintifontaine             v RJS.Habaysienne               1-2
+    20.00  RES.Aubange A                v R.Jeunesse Autelbas           5-1
+    20.00  FC.Arlon                     v RFC.Messancy B                5-2
+
+» 27. Round
+  Sun Nov/16 2025
+    14.30  R.Esp.Rossignol              v Athl.Florenvillois B          0-0
+    14.30  US.Martelangeoise            v UN.R.St-Louis-St-Léger        3-0
+    15.00  RSC.Tontelange               v RCS.Halanzy                   2-2
+    15.00  RSC.Vance                    v RAC.Saint-Mard A              1-0
+
+» 28. Round
+  Fri Nov/21 2025
+    20.30  R.Jeunesse Autelbas          v R.Esp.Rossignol               1-1
+
+» 29. Round
+  Sat Nov/22 2025
+    20.00  RES.Aubange A                v FC.Tintifontaine              4-0
+    20.00  RJS.Habaysienne              v RSC.Vance                     4-2
+
+» 30. Round
+  Sun Nov/23 2025
+    14.30  RAC.Saint-Mard A             v FC.Arlon                      
+    14.30  Athl.Florenvillois B         v US.Martelangeoise             
+    14.30  UN.R.St-Louis-St-Léger       v RSC.Tontelange                1-2
+    15.00  RCS.Halanzy                  v RFC.Messancy B                
+
+» 31. Round
+  Sat Nov/29 2025
+    20.00  FC.Arlon                     v RCS.Halanzy                   5-0
+    20.00  FC.Tintifontaine             v Athl.Florenvillois B          2-1
+
+» 32. Round
+  Sun Nov/30 2025
+    14.30  US.Martelangeoise            v RJS.Habaysienne               2-0
+    14.30  R.Esp.Rossignol              v RES.Aubange A                 3-1
+    15.00  RSC.Vance                    v UN.R.St-Louis-St-Léger        5-0
+    15.00  RFC.Messancy B               v R.Jeunesse Autelbas           1-1
+    15.00  RSC.Tontelange               v RAC.Saint-Mard A              1-3
+
+» 33. Round
+  Sat Dec/06 2025
+    20.00  FC.Arlon                     v UN.R.St-Louis-St-Léger        3-0
+    20.00  RFC.Messancy B               v RAC.Saint-Mard A              1-4
+    20.30  FC.Tintifontaine             v R.Esp.Rossignol               0-2
+
+» 34. Round
+  Sun Dec/07 2025
+    14.30  US.Martelangeoise            v RES.Aubange A                 3-3
+    15.00  RCS.Halanzy                  v R.Jeunesse Autelbas           1-2
+    15.00  RSC.Vance                    v Athl.Florenvillois B          2-2
+    15.00  RSC.Tontelange               v RJS.Habaysienne               0-3
+
+» 35. Round
+  Sat Dec/13 2025
+    20.00  R.Jeunesse Autelbas          v FC.Tintifontaine              3-0
+    20.00  RES.Aubange A                v RSC.Vance                     1-3
+    20.00  RJS.Habaysienne              v FC.Arlon                      0-1
+
+» 36. Round
+  Sun Dec/14 2025
+    14.30  R.Esp.Rossignol              v US.Martelangeoise             2-2
+    14.30  UN.R.St-Louis-St-Léger       v RFC.Messancy B                0-2
+    14.30  RAC.Saint-Mard A             v RCS.Halanzy                   1-1
+    15.00  RSC.Tontelange               v Athl.Florenvillois B          0-2
+
+» 37. Round
+  Sat Dec/20 2025
+    20.00  FC.Arlon                     v Athl.Florenvillois B          5-0
+
+» 38. Round
+  Sun Dec/21 2025
+    14.30  US.Martelangeoise            v FC.Tintifontaine              5-0
+    14.30  RAC.Saint-Mard A             v R.Jeunesse Autelbas           5-0
+    15.00  RFC.Messancy B               v RJS.Habaysienne               1-1
+    15.00  RCS.Halanzy                  v UN.R.St-Louis-St-Léger        1-1
+    15.00  RSC.Tontelange               v RES.Aubange A                 2-5
+    15.00  RSC.Vance                    v R.Esp.Rossignol               2-1
+
+» 39. Round
+  Sat Feb/21 2026
+    20.00  RJS.Habaysienne              v RCS.Halanzy                   
+    20.00  RES.Aubange A                v FC.Arlon                      
+    20.00  R.Jeunesse Autelbas          v US.Martelangeoise             
+    20.30  FC.Tintifontaine             v RSC.Vance                     
+
+» 40. Round
+  Sun Feb/22 2026
+    15.00  R.Esp.Rossignol              v RSC.Tontelange                
+    15.00  UN.R.St-Louis-St-Léger       v RAC.Saint-Mard A              
+    15.00  Athl.Florenvillois B         v RFC.Messancy B                
+
+» 41. Round
+  Sat Feb/28 2026
+    20.00  FC.Arlon                     v R.Esp.Rossignol               
+
+» 42. Round
+  Sun Mar/01 2026
+    15.00  RAC.Saint-Mard A             v RJS.Habaysienne               
+    15.00  RSC.Tontelange               v FC.Tintifontaine              
+    15.00  RSC.Vance                    v US.Martelangeoise             
+    15.00  UN.R.St-Louis-St-Léger       v R.Jeunesse Autelbas           
+    15.00  RFC.Messancy B               v RES.Aubange A                 
+    15.00  RCS.Halanzy                  v Athl.Florenvillois B          
+
+» 43. Round
+  Sat Mar/07 2026
+    20.00  RES.Aubange A                v RCS.Halanzy                   
+    20.00  FC.Tintifontaine             v FC.Arlon                      
+    20.00  R.Jeunesse Autelbas          v RSC.Vance                     
+    20.00  RJS.Habaysienne              v UN.R.St-Louis-St-Léger        
+
+» 44. Round
+  Sun Mar/08 2026
+    15.00  R.Esp.Rossignol              v RFC.Messancy B                
+    15.00  Athl.Florenvillois B         v RAC.Saint-Mard A              
+    15.00  US.Martelangeoise            v RSC.Tontelange                
+
+» 45. Round
+  Sat Mar/21 2026
+    20.00  RJS.Habaysienne              v R.Jeunesse Autelbas           
+    20.00  FC.Arlon                     v US.Martelangeoise             
+
+» 46. Round
+  Sun Mar/22 2026
+    15.00  UN.R.St-Louis-St-Léger       v Athl.Florenvillois B          
+    15.00  RFC.Messancy B               v FC.Tintifontaine              
+    15.00  RAC.Saint-Mard A             v RES.Aubange A                 
+    15.00  RCS.Halanzy                  v R.Esp.Rossignol               
+    15.00  RSC.Tontelange               v RSC.Vance                     
+
+» 47. Round
+  Sat Mar/28 2026
+    20.00  R.Jeunesse Autelbas          v RSC.Tontelange                
+    20.00  RES.Aubange A                v UN.R.St-Louis-St-Léger        
+    20.00  FC.Tintifontaine             v RCS.Halanzy                   
+
+» 48. Round
+  Sun Mar/29 2026
+    15.00  US.Martelangeoise            v RFC.Messancy B                
+    15.00  R.Esp.Rossignol              v RAC.Saint-Mard A              
+    15.00  RSC.Vance                    v FC.Arlon                      
+    15.00  Athl.Florenvillois B         v RJS.Habaysienne               
+
+» 49. Round
+  Sat Apr/11 2026
+    20.00  FC.Arlon                     v RSC.Tontelange                
+    20.00  RJS.Habaysienne              v RES.Aubange A                 
+
+» 50. Round
+  Sun Apr/12 2026
+    15.00  UN.R.St-Louis-St-Léger       v R.Esp.Rossignol               
+    15.00  RCS.Halanzy                  v US.Martelangeoise             
+    15.00  RFC.Messancy B               v RSC.Vance                     
+    15.00  RAC.Saint-Mard A             v FC.Tintifontaine              
+    15.00  Athl.Florenvillois B         v R.Jeunesse Autelbas           
+
+» 51. Round
+  Sun Apr/19 2026
+    15.00  RSC.Tontelange               v RFC.Messancy B                
+    15.00  R.Esp.Rossignol              v RJS.Habaysienne               
+    15.00  US.Martelangeoise            v RAC.Saint-Mard A              
+    15.00  FC.Tintifontaine             v UN.R.St-Louis-St-Léger        
+    15.00  FC.Arlon                     v R.Jeunesse Autelbas           
+    15.00  RSC.Vance                    v RCS.Halanzy                   
+    15.00  RES.Aubange A                v Athl.Florenvillois B          
+
+» 52. Round
+  Sun Apr/26 2026
+    15.00  RCS.Halanzy                  v RSC.Tontelange                
+    15.00  RFC.Messancy B               v FC.Arlon                      
+    15.00  RAC.Saint-Mard A             v RSC.Vance                     
+    15.00  RJS.Habaysienne              v FC.Tintifontaine              
+    15.00  Athl.Florenvillois B         v R.Esp.Rossignol               
+    15.00  UN.R.St-Louis-St-Léger       v US.Martelangeoise             
+    15.00  R.Jeunesse Autelbas          v RES.Aubange A                 

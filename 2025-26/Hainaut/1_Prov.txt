@@ -1,0 +1,417 @@
+= 1_Prov
+
+# Date       Sat Aug/23 2025 - Sun Apr/26 2026 (247d)
+# Teams      16
+# Matches    240
+
+
+» 1. Round
+  Sat Aug/23 2025
+    20.00  R.E.S. Frasnoise A           v R. Gosselies Sports A         2-0
+    20.00  S.C. Montignies              v F.C. Enghiennois A            1-3
+    20.00  R.F.C.R. Symphorinois A      v Peruwelz FC A                 2-2
+
+» 2. Round
+  Sun Aug/24 2025
+    15.00  U.S.C. Jemappes A            v F.C. Etoiles d'Ere A          1-1
+    15.00  R.A.S. Pays Blanc Antoing A  v R. Soignies Sports A          0-1
+    15.00  R.U.F.C. Ransartoise A       v R.A.E.C. Mons B               2-0
+    15.00  R.F.C. Houdinois A           v R.F.C. Luingnois A            2-2
+    18.00  S.C. de Nechin A             v R.F.C. Molenbaix A            1-3
+
+» 3. Round
+  Sat Aug/30 2025
+    20.00  R. Gosselies Sports A        v R.F.C.R. Symphorinois A       1-2
+    20.00  F.C. Enghiennois A           v S.C. de Nechin A              0-1
+    20.00  R.F.C. Luingnois A           v R.E.S. Frasnoise A            2-4
+
+» 4. Round
+  Sun Aug/31 2025
+    15.00  R. Soignies Sports A         v R.F.C. Houdinois A            2-0
+    15.00  F.C. Etoiles d'Ere A         v S.C. Montignies               2-0
+    15.00  Peruwelz FC A                v R.U.F.C. Ransartoise A        2-2
+    15.00  R.A.E.C. Mons B              v U.S.C. Jemappes A             0-2
+    19.30  R.F.C. Molenbaix A           v R.A.S. Pays Blanc Antoing A   0-2
+
+» 5. Round
+  Sat Sep/06 2025
+    20.00  R.U.F.C. Ransartoise A       v R. Gosselies Sports A         1-2
+    20.00  R.F.C.R. Symphorinois A      v R.F.C. Luingnois A            3-3
+    20.00  S.C. Montignies              v R.A.E.C. Mons B               1-1
+    20.00  R.A.S. Pays Blanc Antoing A  v F.C. Enghiennois A            5-3
+
+» 6. Round
+  Sun Sep/07 2025
+    15.00  U.S.C. Jemappes A            v Peruwelz FC A                 4-0
+    15.00  R. Soignies Sports A         v R.F.C. Molenbaix A            1-4
+    15.00  R.F.C. Houdinois A           v R.E.S. Frasnoise A            5-0
+    15.00  S.C. de Nechin A             v F.C. Etoiles d'Ere A          3-0
+
+» 7. Round
+  Sat Sep/13 2025
+    19.00  R.F.C. Molenbaix A           v R.F.C. Houdinois A            0-1
+    19.30  F.C. Enghiennois A           v R. Soignies Sports A          0-3
+    20.00  R. Gosselies Sports A        v U.S.C. Jemappes A             1-1
+    20.00  R.E.S. Frasnoise A           v R.F.C.R. Symphorinois A       3-2
+    20.00  R.F.C. Luingnois A           v R.U.F.C. Ransartoise A        7-1
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  F.C. Etoiles d'Ere A         v R.A.S. Pays Blanc Antoing A   2-1
+    15.00  R.A.E.C. Mons B              v S.C. de Nechin A              0-2
+    15.00  Peruwelz FC A                v S.C. Montignies               4-0
+
+» 9. Round
+  Sat Sep/20 2025
+    19.00  R.F.C. Molenbaix A           v F.C. Enghiennois A            3-0
+    20.00  R.U.F.C. Ransartoise A       v R.E.S. Frasnoise A            0-1
+    20.00  S.C. Montignies              v R. Gosselies Sports A         1-5
+
+» 10. Round
+  Sun Sep/21 2025
+    15.00  R.F.C. Houdinois A           v R.F.C.R. Symphorinois A       1-2
+    15.00  S.C. de Nechin A             v Peruwelz FC A                 0-0
+    15.00  R. Soignies Sports A         v F.C. Etoiles d'Ere A          0-1
+    15.00  R.A.S. Pays Blanc Antoing A  v R.A.E.C. Mons B               1-3
+    15.00  U.S.C. Jemappes A            v R.F.C. Luingnois A            3-4
+
+» 11. Round
+  Sat Sep/27 2025
+    19.00  R.F.C. Luingnois A           v S.C. Montignies               7-2
+    19.30  F.C. Enghiennois A           v R.F.C. Houdinois A            3-2
+    20.00  R.E.S. Frasnoise A           v U.S.C. Jemappes A             1-2
+    20.00  R.F.C.R. Symphorinois A      v R.U.F.C. Ransartoise A        3-2
+    20.00  R. Gosselies Sports A        v S.C. de Nechin A              3-2
+
+» 12. Round
+  Sun Sep/28 2025
+    15.00  Peruwelz FC A                v R.A.S. Pays Blanc Antoing A   1-4
+    15.00  R.A.E.C. Mons B              v R. Soignies Sports A          0-1
+    15.00  F.C. Etoiles d'Ere A         v R.F.C. Molenbaix A            3-2
+
+» 13. Round
+  Sat Oct/04 2025
+    19.30  F.C. Enghiennois A           v F.C. Etoiles d'Ere A          2-1
+    20.00  R.F.C. Molenbaix A           v R.A.E.C. Mons B               3-0
+    20.00  S.C. Montignies              v R.E.S. Frasnoise A            1-3
+
+» 14. Round
+  Sun Oct/05 2025
+    15.00  U.S.C. Jemappes A            v R.F.C.R. Symphorinois A       2-0
+    15.00  R.F.C. Houdinois A           v R.U.F.C. Ransartoise A        1-2
+    15.00  S.C. de Nechin A             v R.F.C. Luingnois A            2-2
+    15.00  R. Soignies Sports A         v Peruwelz FC A                 3-0
+    16.00  R.A.S. Pays Blanc Antoing A  v R. Gosselies Sports A         3-4
+
+» 15. Round
+  Sat Oct/11 2025
+    19.00  R.F.C. Luingnois A           v R.A.S. Pays Blanc Antoing A   1-1
+    20.00  R.E.S. Frasnoise A           v S.C. de Nechin A              1-5
+    20.00  R. Gosselies Sports A        v R. Soignies Sports A          1-5
+    20.00  R.F.C.R. Symphorinois A      v S.C. Montignies               5-1
+
+» 16. Round
+  Sun Oct/12 2025
+    15.00  R.U.F.C. Ransartoise A       v U.S.C. Jemappes A             3-4
+    15.00  Peruwelz FC A                v R.F.C. Molenbaix A            0-0
+    15.00  F.C. Etoiles d'Ere A         v R.F.C. Houdinois A            1-1
+    15.00  R.A.E.C. Mons B              v F.C. Enghiennois A            0-2
+
+» 17. Round
+  Sat Oct/18 2025
+    19.00  R.F.C. Molenbaix A           v R. Gosselies Sports A         4-0
+    19.30  F.C. Enghiennois A           v Peruwelz FC A                 2-2
+    20.00  S.C. Montignies              v R.U.F.C. Ransartoise A        2-2
+
+» 18. Round
+  Sun Oct/19 2025
+    15.00  F.C. Etoiles d'Ere A         v R.A.E.C. Mons B               3-1
+    15.00  R.A.S. Pays Blanc Antoing A  v R.E.S. Frasnoise A            3-2
+    15.00  S.C. de Nechin A             v R.F.C.R. Symphorinois A       1-1
+    15.00  R. Soignies Sports A         v R.F.C. Luingnois A            1-0
+    15.00  R.F.C. Houdinois A           v U.S.C. Jemappes A             1-0
+
+» 19. Round
+  Sat Oct/25 2025
+    19.00  R.F.C. Luingnois A           v R.F.C. Molenbaix A            1-2
+
+» 20. Round
+  Sun Oct/26 2025
+    15.00  R.F.C.R. Symphorinois A      v R.A.S. Pays Blanc Antoing A   2-2
+    15.00  R.E.S. Frasnoise A           v R. Soignies Sports A          0-3
+    15.00  R. Gosselies Sports A        v F.C. Enghiennois A            3-1
+    15.00  U.S.C. Jemappes A            v S.C. Montignies               1-0
+    15.00  R.A.E.C. Mons B              v R.F.C. Houdinois A            3-5
+    15.00  Peruwelz FC A                v F.C. Etoiles d'Ere A          1-3
+    15.00  R.U.F.C. Ransartoise A       v S.C. de Nechin A              0-0
+
+» 21. Round
+  Sat Nov/01 2025
+    19.30  F.C. Enghiennois A           v R.F.C. Luingnois A            3-2
+    20.00  R.F.C. Molenbaix A           v R.E.S. Frasnoise A            2-0
+
+» 22. Round
+  Sun Nov/02 2025
+    14.30  S.C. de Nechin A             v U.S.C. Jemappes A             3-0
+    14.30  R.F.C. Houdinois A           v S.C. Montignies               7-0
+    14.30  F.C. Etoiles d'Ere A         v R. Gosselies Sports A         0-0
+    15.00  R. Soignies Sports A         v R.F.C.R. Symphorinois A       3-0
+    15.00  R.A.S. Pays Blanc Antoing A  v R.U.F.C. Ransartoise A        2-0
+    15.00  R.A.E.C. Mons B              v Peruwelz FC A                 0-2
+
+» 23. Round
+  Sat Nov/08 2025
+    18.00  R.F.C. Luingnois A           v F.C. Etoiles d'Ere A          3-2
+    20.00  R.F.C.R. Symphorinois A      v R.F.C. Molenbaix A            0-2
+    20.00  R. Gosselies Sports A        v R.A.E.C. Mons B               3-2
+    20.00  R.E.S. Frasnoise A           v F.C. Enghiennois A            1-0
+    20.00  S.C. Montignies              v S.C. de Nechin A              1-2
+
+» 24. Round
+  Sun Nov/09 2025
+    14.30  U.S.C. Jemappes A            v R.A.S. Pays Blanc Antoing A   2-3
+    14.30  Peruwelz FC A                v R.F.C. Houdinois A            2-3
+    15.00  R.U.F.C. Ransartoise A       v R. Soignies Sports A          5-2
+
+» 25. Round
+  Sat Nov/15 2025
+    19.30  F.C. Enghiennois A           v R.F.C.R. Symphorinois A       0-5
+    20.00  R.F.C. Molenbaix A           v R.U.F.C. Ransartoise A        4-0
+
+» 26. Round
+  Sun Nov/16 2025
+    14.30  Peruwelz FC A                v R. Gosselies Sports A         1-0
+    14.30  R.F.C. Houdinois A           v S.C. de Nechin A              1-1
+    14.30  F.C. Etoiles d'Ere A         v R.E.S. Frasnoise A            3-1
+    15.00  R.A.E.C. Mons B              v R.F.C. Luingnois A            1-0
+    15.00  R.A.S. Pays Blanc Antoing A  v S.C. Montignies               3-3
+    16.00  R. Soignies Sports A         v U.S.C. Jemappes A             0-0
+
+» 27. Round
+  Sat Nov/22 2025
+    19.00  R.F.C. Luingnois A           v Peruwelz FC A                 4-2
+    20.00  S.C. Montignies              v R. Soignies Sports A          1-4
+    20.00  R.E.S. Frasnoise A           v R.A.E.C. Mons B               1-3
+    20.00  R.F.C.R. Symphorinois A      v F.C. Etoiles d'Ere A          2-1
+
+» 28. Round
+  Sun Nov/23 2025
+    14.30  U.S.C. Jemappes A            v R.F.C. Molenbaix A            0-2
+    14.30  R.F.C. Houdinois A           v R. Gosselies Sports A         2-4
+    14.30  S.C. de Nechin A             v R.A.S. Pays Blanc Antoing A   2-1
+    15.00  R.U.F.C. Ransartoise A       v F.C. Enghiennois A            4-3
+
+» 29. Round
+  Sat Nov/29 2025
+    19.00  R.F.C. Molenbaix A           v S.C. Montignies               2-2
+    19.30  F.C. Enghiennois A           v U.S.C. Jemappes A             2-0
+    20.00  R. Gosselies Sports A        v R.F.C. Luingnois A            4-3
+
+» 30. Round
+  Sun Nov/30 2025
+    14.30  Peruwelz FC A                v R.E.S. Frasnoise A            1-2
+    14.30  F.C. Etoiles d'Ere A         v R.U.F.C. Ransartoise A        2-2
+    15.00  R.A.E.C. Mons B              v R.F.C.R. Symphorinois A       0-2
+    15.00  R.A.S. Pays Blanc Antoing A  v R.F.C. Houdinois A            2-1
+    15.00  R. Soignies Sports A         v S.C. de Nechin A              2-1
+
+» 31. Round
+  Sat Dec/06 2025
+    19.00  R.F.C. Molenbaix A           v S.C. de Nechin A              1-3
+    19.00  R.F.C. Luingnois A           v R.F.C. Houdinois A            3-0
+    19.30  F.C. Enghiennois A           v S.C. Montignies               2-0
+    20.00  R. Gosselies Sports A        v R.E.S. Frasnoise A            1-0
+
+» 32. Round
+  Sun Dec/07 2025
+    14.30  F.C. Etoiles d'Ere A         v U.S.C. Jemappes A             1-3
+    14.30  Peruwelz FC A                v R.F.C.R. Symphorinois A       0-2
+    15.00  R.A.E.C. Mons B              v R.U.F.C. Ransartoise A        1-2
+    15.00  R. Soignies Sports A         v R.A.S. Pays Blanc Antoing A   3-2
+
+» 33. Round
+  Sat Dec/13 2025
+    20.00  R.F.C.R. Symphorinois A      v R. Gosselies Sports A         0-3
+    20.00  S.C. Montignies              v F.C. Etoiles d'Ere A          3-1
+    20.00  R.E.S. Frasnoise A           v R.F.C. Luingnois A            2-4
+
+» 34. Round
+  Sun Dec/14 2025
+    14.30  U.S.C. Jemappes A            v R.A.E.C. Mons B               3-0
+    14.30  S.C. de Nechin A             v F.C. Enghiennois A            5-3
+    14.30  R.F.C. Houdinois A           v R. Soignies Sports A          0-0
+    15.00  R.U.F.C. Ransartoise A       v Peruwelz FC A                 1-1
+    18.00  R.A.S. Pays Blanc Antoing A  v R.F.C. Molenbaix A            1-0
+
+» 35. Round
+  Sat Dec/20 2025
+    19.00  R.F.C. Luingnois A           v R.F.C.R. Symphorinois A       1-0
+    19.00  R.F.C. Molenbaix A           v R. Soignies Sports A          5-0
+    19.30  F.C. Enghiennois A           v R.A.S. Pays Blanc Antoing A   2-2
+    20.00  R.E.S. Frasnoise A           v R.F.C. Houdinois A            3-4
+    20.00  R. Gosselies Sports A        v R.U.F.C. Ransartoise A        1-1
+
+» 36. Round
+  Sun Dec/21 2025
+    14.30  Peruwelz FC A                v U.S.C. Jemappes A             1-2
+    14.30  F.C. Etoiles d'Ere A         v S.C. de Nechin A              0-0
+    15.00  R.A.E.C. Mons B              v S.C. Montignies               3-0
+
+» 37. Round
+  Sat Jan/17 2026
+    20.00  S.C. Montignies              v Peruwelz FC A                 
+
+» 38. Round
+  Sun Jan/18 2026
+    15.00  S.C. de Nechin A             v R.A.E.C. Mons B               
+    15.00  R.A.S. Pays Blanc Antoing A  v F.C. Etoiles d'Ere A          
+    15.00  U.S.C. Jemappes A            v R. Gosselies Sports A         
+    15.00  R. Soignies Sports A         v F.C. Enghiennois A            
+    15.00  R.U.F.C. Ransartoise A       v R.F.C. Luingnois A            
+    15.00  R.F.C. Houdinois A           v R.F.C. Molenbaix A            
+    15.00  R.F.C.R. Symphorinois A      v R.E.S. Frasnoise A            
+
+» 39. Round
+  Sun Jan/25 2026
+    15.00  R. Gosselies Sports A        v S.C. Montignies               
+    15.00  R.A.E.C. Mons B              v R.A.S. Pays Blanc Antoing A   
+    15.00  R.F.C.R. Symphorinois A      v R.F.C. Houdinois A            
+    15.00  F.C. Etoiles d'Ere A         v R. Soignies Sports A          
+    15.00  F.C. Enghiennois A           v R.F.C. Molenbaix A            
+    15.00  Peruwelz FC A                v S.C. de Nechin A              
+    15.00  R.E.S. Frasnoise A           v R.U.F.C. Ransartoise A        
+    15.00  R.F.C. Luingnois A           v U.S.C. Jemappes A             
+
+» 40. Round
+  Sat Jan/31 2026
+    19.00  R.F.C. Molenbaix A           v F.C. Etoiles d'Ere A          
+    20.00  S.C. Montignies              v R.F.C. Luingnois A            
+
+» 41. Round
+  Sun Feb/01 2026
+    15.00  R. Soignies Sports A         v R.A.E.C. Mons B               
+    15.00  R.U.F.C. Ransartoise A       v R.F.C.R. Symphorinois A       
+    15.00  R.F.C. Houdinois A           v F.C. Enghiennois A            
+    15.00  U.S.C. Jemappes A            v R.E.S. Frasnoise A            
+    15.00  R.A.S. Pays Blanc Antoing A  v Peruwelz FC A                 
+    15.00  S.C. de Nechin A             v R. Gosselies Sports A         
+
+» 42. Round
+  Sat Feb/07 2026
+    19.00  R.F.C. Luingnois A           v S.C. de Nechin A              
+    20.00  R.E.S. Frasnoise A           v S.C. Montignies               
+    20.00  R.F.C.R. Symphorinois A      v U.S.C. Jemappes A             
+    20.00  R. Gosselies Sports A        v R.A.S. Pays Blanc Antoing A   
+
+» 43. Round
+  Sun Feb/08 2026
+    15.00  Peruwelz FC A                v R. Soignies Sports A          
+    15.00  R.A.E.C. Mons B              v R.F.C. Molenbaix A            
+    15.00  R.U.F.C. Ransartoise A       v R.F.C. Houdinois A            
+    15.00  F.C. Etoiles d'Ere A         v F.C. Enghiennois A            
+
+» 44. Round
+  Sat Feb/21 2026
+    19.00  R.F.C. Molenbaix A           v Peruwelz FC A                 
+    20.00  S.C. Montignies              v R.F.C.R. Symphorinois A       
+    20.00  F.C. Enghiennois A           v R.A.E.C. Mons B               
+    20.00  R.A.S. Pays Blanc Antoing A  v R.F.C. Luingnois A            
+
+» 45. Round
+  Sun Feb/22 2026
+    15.00  R.F.C. Houdinois A           v F.C. Etoiles d'Ere A          
+    15.00  R. Soignies Sports A         v R. Gosselies Sports A         
+    15.00  U.S.C. Jemappes A            v R.U.F.C. Ransartoise A        
+    15.00  S.C. de Nechin A             v R.E.S. Frasnoise A            
+
+» 46. Round
+  Sat Feb/28 2026
+    19.00  R.F.C. Luingnois A           v R. Soignies Sports A          
+    20.00  R.F.C.R. Symphorinois A      v S.C. de Nechin A              
+    20.00  R.E.S. Frasnoise A           v R.A.S. Pays Blanc Antoing A   
+    20.00  R. Gosselies Sports A        v R.F.C. Molenbaix A            
+
+» 47. Round
+  Sun Mar/01 2026
+    15.00  R.A.E.C. Mons B              v F.C. Etoiles d'Ere A          
+    15.00  R.U.F.C. Ransartoise A       v S.C. Montignies               
+    15.00  U.S.C. Jemappes A            v R.F.C. Houdinois A            
+    15.00  Peruwelz FC A                v F.C. Enghiennois A            
+
+» 48. Round
+  Sat Mar/07 2026
+    19.00  R.F.C. Molenbaix A           v R.F.C. Luingnois A            
+    19.30  F.C. Enghiennois A           v R. Gosselies Sports A         
+    20.00  S.C. Montignies              v U.S.C. Jemappes A             
+
+» 49. Round
+  Sun Mar/08 2026
+    15.00  R. Soignies Sports A         v R.E.S. Frasnoise A            
+    15.00  R.A.S. Pays Blanc Antoing A  v R.F.C.R. Symphorinois A       
+    15.00  F.C. Etoiles d'Ere A         v Peruwelz FC A                 
+    15.00  R.F.C. Houdinois A           v R.A.E.C. Mons B               
+    15.00  S.C. de Nechin A             v R.U.F.C. Ransartoise A        
+
+» 50. Round
+  Sat Mar/21 2026
+    19.00  R.F.C. Luingnois A           v F.C. Enghiennois A            
+    20.00  R. Gosselies Sports A        v F.C. Etoiles d'Ere A          
+    20.00  R.E.S. Frasnoise A           v R.F.C. Molenbaix A            
+    20.00  S.C. Montignies              v R.F.C. Houdinois A            
+
+» 51. Round
+  Sun Mar/22 2026
+    15.00  Peruwelz FC A                v R.A.E.C. Mons B               
+    15.00  U.S.C. Jemappes A            v S.C. de Nechin A              
+    15.00  R.U.F.C. Ransartoise A       v R.A.S. Pays Blanc Antoing A   
+    15.00  R.F.C.R. Symphorinois A      v R. Soignies Sports A          
+
+» 52. Round
+  Sat Mar/28 2026
+    20.00  R.F.C. Molenbaix A           v R.F.C.R. Symphorinois A       
+    20.00  F.C. Enghiennois A           v R.E.S. Frasnoise A            
+
+» 53. Round
+  Sun Mar/29 2026
+    15.00  R.F.C. Houdinois A           v Peruwelz FC A                 
+    15.00  S.C. de Nechin A             v S.C. Montignies               
+    15.00  F.C. Etoiles d'Ere A         v R.F.C. Luingnois A            
+    15.00  R.A.S. Pays Blanc Antoing A  v U.S.C. Jemappes A             
+    15.00  R. Soignies Sports A         v R.U.F.C. Ransartoise A        
+    15.00  R.A.E.C. Mons B              v R. Gosselies Sports A         
+
+» 54. Round
+  Sat Apr/11 2026
+    19.00  R.F.C. Luingnois A           v R.A.E.C. Mons B               
+    20.00  S.C. Montignies              v R.A.S. Pays Blanc Antoing A   
+    20.00  R. Gosselies Sports A        v Peruwelz FC A                 
+    20.00  R.E.S. Frasnoise A           v F.C. Etoiles d'Ere A          
+
+» 55. Round
+  Sun Apr/12 2026
+    15.00  R.U.F.C. Ransartoise A       v R.F.C. Molenbaix A            
+    15.00  U.S.C. Jemappes A            v R. Soignies Sports A          
+    15.00  S.C. de Nechin A             v R.F.C. Houdinois A            
+    15.00  R.F.C.R. Symphorinois A      v F.C. Enghiennois A            
+
+» 56. Round
+  Sun Apr/19 2026
+    15.00  F.C. Enghiennois A           v R.U.F.C. Ransartoise A        
+    15.00  R. Soignies Sports A         v S.C. Montignies               
+    15.00  R.A.S. Pays Blanc Antoing A  v S.C. de Nechin A              
+    15.00  R.A.E.C. Mons B              v R.E.S. Frasnoise A            
+    15.00  R.F.C. Molenbaix A           v U.S.C. Jemappes A             
+    15.00  F.C. Etoiles d'Ere A         v R.F.C.R. Symphorinois A       
+    15.00  Peruwelz FC A                v R.F.C. Luingnois A            
+    15.00  R. Gosselies Sports A        v R.F.C. Houdinois A            
+
+» 57. Round
+  Sun Apr/26 2026
+    15.00  R.E.S. Frasnoise A           v Peruwelz FC A                 
+    15.00  R.F.C. Houdinois A           v R.A.S. Pays Blanc Antoing A   
+    15.00  S.C. Montignies              v R.F.C. Molenbaix A            
+    15.00  R.F.C.R. Symphorinois A      v R.A.E.C. Mons B               
+    15.00  R.U.F.C. Ransartoise A       v F.C. Etoiles d'Ere A          
+    15.00  S.C. de Nechin A             v R. Soignies Sports A          
+    15.00  U.S.C. Jemappes A            v F.C. Enghiennois A            
+    15.00  R.F.C. Luingnois A           v R. Gosselies Sports A         

@@ -1,0 +1,267 @@
+= D1_ACFF
+
+# Date       Wed Aug/27 2025 - Sun Feb/15 2026 (173d)
+# Teams      12
+# Matches    132
+
+
+» 1. Round
+  Wed Aug/27 2025
+    19.30  R.Union St.-Gilloise B       v RFC Meux                      1-1
+    20.00  R.Excelsior Virton           v Union Namur                   3-2
+    20.00  R. Standard de Liège B       v Crossing Schaerbeek           0-2
+    20.00  SP du Pays de Charleroi B    v R.A.E.C. Mons                 1-2
+    20.00  U. Rochefortoise             v Habay-La-Neuve                1-0
+    20.00  RU.Tubize Braine-le-Comte    v Royal Stockay St-Georges S/M  2-2
+
+» 2. Round
+  Sat Aug/30 2025
+    20.00  R.A.E.C. Mons                v U. Rochefortoise              5-0
+    20.00  RFC Meux                     v SP du Pays de Charleroi B     1-3
+
+» 3. Round
+  Sun Aug/31 2025
+    15.00  Royal Stockay St-Georges S/M v R.Union St.-Gilloise B        1-0
+    15.00  Habay-La-Neuve               v R.Excelsior Virton            6-2
+    15.00  Crossing Schaerbeek          v RU.Tubize Braine-le-Comte     0-1
+    15.00  Union Namur                  v R. Standard de Liège B        1-2
+
+» 4. Round
+  Sat Sep/06 2025
+    19.30  R.Union St.-Gilloise B       v Habay-La-Neuve                1-4
+    20.00  RFC Meux                     v R.A.E.C. Mons                 0-2
+
+» 5. Round
+  Sun Sep/07 2025
+    15.00  SP du Pays de Charleroi B    v Union Namur                   4-1
+    15.00  R. Standard de Liège B       v Royal Stockay St-Georges S/M  1-1
+
+» 6. Round
+  Wed Sep/10 2025
+    20.00  RU.Tubize Braine-le-Comte    v U. Rochefortoise              1-0
+    20.00  R.Excelsior Virton           v Crossing Schaerbeek           5-2
+
+» 7. Round
+  Sat Sep/13 2025
+    20.00  U. Rochefortoise             v R.Union St.-Gilloise B        3-2
+    20.00  R.A.E.C. Mons                v R. Standard de Liège B        5-1
+
+» 8. Round
+  Sun Sep/14 2025
+    15.00  Crossing Schaerbeek          v RFC Meux                      2-1
+    15.00  Union Namur                  v RU.Tubize Braine-le-Comte     1-5
+    15.00  Habay-La-Neuve               v SP du Pays de Charleroi B     0-3
+    15.00  Royal Stockay St-Georges S/M v R.Excelsior Virton            2-2
+
+» 9. Round
+  Sat Sep/20 2025
+    19.30  R.Union St.-Gilloise B       v R.A.E.C. Mons                 1-2
+    20.00  RU.Tubize Braine-le-Comte    v RFC Meux                      4-1
+
+» 10. Round
+  Sun Sep/21 2025
+    15.00  U. Rochefortoise             v Union Namur                   2-1
+    15.00  Royal Stockay St-Georges S/M v Crossing Schaerbeek           4-2
+    15.00  Habay-La-Neuve               v R. Standard de Liège B        3-3
+    15.00  SP du Pays de Charleroi B    v R.Excelsior Virton            2-2
+
+» 11. Round
+  Sat Sep/27 2025
+    20.00  R.A.E.C. Mons                v Crossing Schaerbeek           2-1
+    20.00  RFC Meux                     v Habay-La-Neuve                5-2
+    20.00  R.Excelsior Virton           v U. Rochefortoise              2-2
+    20.00  SP du Pays de Charleroi B    v RU.Tubize Braine-le-Comte     2-3
+
+» 12. Round
+  Sun Sep/28 2025
+    15.00  Union Namur                  v Royal Stockay St-Georges S/M  0-1
+    15.00  R. Standard de Liège B       v R.Union St.-Gilloise B        4-2
+
+» 13. Round
+  Sat Oct/04 2025
+    20.00  R.Excelsior Virton           v R.Union St.-Gilloise B        1-2
+    20.00  U. Rochefortoise             v RFC Meux                      0-3
+    20.00  R.A.E.C. Mons                v Royal Stockay St-Georges S/M  2-0
+    20.00  RU.Tubize Braine-le-Comte    v R. Standard de Liège B        4-0
+
+» 14. Round
+  Sun Oct/05 2025
+    14.30  Union Namur                  v Habay-La-Neuve                1-1
+    15.00  Crossing Schaerbeek          v SP du Pays de Charleroi B     0-1
+
+» 15. Round
+  Sat Oct/11 2025
+    19.30  R.Union St.-Gilloise B       v Crossing Schaerbeek           0-1
+    20.00  RFC Meux                     v Union Namur                   1-0
+    20.00  R.A.E.C. Mons                v RU.Tubize Braine-le-Comte     1-1
+
+» 16. Round
+  Sun Oct/12 2025
+    15.00  Habay-La-Neuve               v Royal Stockay St-Georges S/M  2-1
+    15.00  R. Standard de Liège B       v R.Excelsior Virton            2-3
+    15.00  SP du Pays de Charleroi B    v U. Rochefortoise              2-1
+
+» 17. Round
+  Sat Oct/18 2025
+    19.30  R.Union St.-Gilloise B       v RU.Tubize Braine-le-Comte     0-3
+    20.00  R.A.E.C. Mons                v Habay-La-Neuve                2-0
+    20.00  R.Excelsior Virton           v RFC Meux                      4-1
+    20.00  U. Rochefortoise             v R. Standard de Liège B        2-2
+
+» 18. Round
+  Sun Oct/19 2025
+    15.00  Crossing Schaerbeek          v Union Namur                   3-3
+    15.00  Royal Stockay St-Georges S/M v SP du Pays de Charleroi B     1-0
+
+» 19. Round
+  Sat Oct/25 2025
+    20.00  RU.Tubize Braine-le-Comte    v R.Excelsior Virton            2-0
+    20.00  U. Rochefortoise             v Royal Stockay St-Georges S/M  1-2
+
+» 20. Round
+  Sun Oct/26 2025
+    14.30  Union Namur                  v R.A.E.C. Mons                 0-4
+    15.00  SP du Pays de Charleroi B    v R.Union St.-Gilloise B        0-2
+    15.00  Habay-La-Neuve               v Crossing Schaerbeek           1-0
+    15.00  R. Standard de Liège B       v RFC Meux                      1-2
+
+» 21. Round
+  Sat Nov/01 2025
+    19.00  R. Standard de Liège B       v SP du Pays de Charleroi B     0-1
+    19.30  R.Union St.-Gilloise B       v Union Namur                   2-4
+    20.00  RFC Meux                     v Royal Stockay St-Georges S/M  2-1
+    20.00  R.Excelsior Virton           v R.A.E.C. Mons                 3-1
+    20.00  RU.Tubize Braine-le-Comte    v Habay-La-Neuve                0-1
+
+» 22. Round
+  Sun Nov/02 2025
+    15.00  Crossing Schaerbeek          v U. Rochefortoise              0-5
+
+» 23. Round
+  Sat Nov/08 2025
+    20.00  R.A.E.C. Mons                v RFC Meux                      1-1
+
+» 24. Round
+  Sun Nov/09 2025
+    14.30  Habay-La-Neuve               v R.Union St.-Gilloise B        3-2
+    14.30  Royal Stockay St-Georges S/M v RU.Tubize Braine-le-Comte     0-2
+    14.30  Union Namur                  v SP du Pays de Charleroi B     3-0
+    15.00  U. Rochefortoise             v R.Excelsior Virton            0-4
+    15.00  Crossing Schaerbeek          v R. Standard de Liège B        1-1
+
+» 25. Round
+  Sat Nov/15 2025
+    19.30  R.Union St.-Gilloise B       v U. Rochefortoise              4-0
+    20.00  RU.Tubize Braine-le-Comte    v Union Namur                   4-1
+    20.00  RFC Meux                     v Crossing Schaerbeek           2-0
+    20.00  R.Excelsior Virton           v Royal Stockay St-Georges S/M  2-0
+
+» 26. Round
+  Sun Nov/16 2025
+    14.30  R. Standard de Liège B       v R.A.E.C. Mons                 0-2
+    15.00  SP du Pays de Charleroi B    v Habay-La-Neuve                2-3
+
+» 27. Round
+  Sat Nov/22 2025
+    19.30  R.Union St.-Gilloise B       v R. Standard de Liège B        2-1
+    20.00  U. Rochefortoise             v RU.Tubize Braine-le-Comte     1-5
+    20.00  R.A.E.C. Mons                v SP du Pays de Charleroi B     2-0
+
+» 28. Round
+  Sun Nov/23 2025
+    14.30  Habay-La-Neuve               v RFC Meux                      1-1
+    14.30  Royal Stockay St-Georges S/M v Union Namur                   0-4
+    15.00  Crossing Schaerbeek          v R.Excelsior Virton            1-3
+
+» 29. Round
+  Sat Nov/29 2025
+    20.00  RFC Meux                     v R.Excelsior Virton            1-1
+    20.00  R.A.E.C. Mons                v R.Union St.-Gilloise B        2-1
+
+» 30. Round
+  Sun Nov/30 2025
+    14.30  Habay-La-Neuve               v U. Rochefortoise              2-5
+    14.30  R. Standard de Liège B       v RU.Tubize Braine-le-Comte     1-2
+    14.30  Union Namur                  v Crossing Schaerbeek           2-1
+    15.00  SP du Pays de Charleroi B    v Royal Stockay St-Georges S/M  2-1
+
+» 31. Round
+  Sat Dec/06 2025
+    20.00  RU.Tubize Braine-le-Comte    v R.Union St.-Gilloise B        1-1
+    20.00  U. Rochefortoise             v SP du Pays de Charleroi B     1-1
+    20.00  R.Excelsior Virton           v R. Standard de Liège B        5-1
+
+» 32. Round
+  Sun Dec/07 2025
+    14.30  Royal Stockay St-Georges S/M v Habay-La-Neuve                0-3
+    14.30  Union Namur                  v RFC Meux                      1-2
+    15.00  Crossing Schaerbeek          v R.A.E.C. Mons                 2-2
+
+» 33. Round
+  Sat Dec/13 2025
+    19.00  R. Standard de Liège B       v Union Namur                   1-1
+    19.30  R.Union St.-Gilloise B       v SP du Pays de Charleroi B     4-1
+    20.00  R.A.E.C. Mons                v R.Excelsior Virton            0-1
+    20.00  RFC Meux                     v U. Rochefortoise              0-1
+
+» 34. Round
+  Sun Dec/14 2025
+    14.30  Habay-La-Neuve               v RU.Tubize Braine-le-Comte     2-1
+    15.00  Crossing Schaerbeek          v Royal Stockay St-Georges S/M  1-2
+
+» 35. Round
+  Sat Jan/10 2026
+    20.00  RU.Tubize Braine-le-Comte    v R.A.E.C. Mons                 
+    20.00  R.Excelsior Virton           v Habay-La-Neuve                
+    20.00  RFC Meux                     v R.Union St.-Gilloise B        
+
+» 36. Round
+  Sun Jan/11 2026
+    14.30  Union Namur                  v U. Rochefortoise              
+    14.30  Royal Stockay St-Georges S/M v R. Standard de Liège B        
+    15.00  SP du Pays de Charleroi B    v Crossing Schaerbeek           
+
+» 37. Round
+  Sat Jan/17 2026
+    19.30  R.Union St.-Gilloise B       v Royal Stockay St-Georges S/M  
+    20.00  R.A.E.C. Mons                v Union Namur                   
+    20.00  R.Excelsior Virton           v RU.Tubize Braine-le-Comte     
+
+» 38. Round
+  Sun Jan/18 2026
+    14.30  R. Standard de Liège B       v Habay-La-Neuve                
+    15.00  SP du Pays de Charleroi B    v RFC Meux                      
+    15.00  U. Rochefortoise             v Crossing Schaerbeek           
+
+» 39. Round
+  Sat Jan/24 2026
+    20.00  RU.Tubize Braine-le-Comte    v SP du Pays de Charleroi B     
+    20.00  RFC Meux                     v R. Standard de Liège B        
+
+» 40. Round
+  Sun Jan/25 2026
+    14.30  Royal Stockay St-Georges S/M v U. Rochefortoise              
+    14.30  Union Namur                  v R.Excelsior Virton            
+    14.30  Habay-La-Neuve               v R.A.E.C. Mons                 
+    15.00  Crossing Schaerbeek          v R.Union St.-Gilloise B        
+
+» 41. Round
+  Sat Feb/07 2026
+    19.30  R.Union St.-Gilloise B       v R.Excelsior Virton            
+    20.00  RU.Tubize Braine-le-Comte    v Crossing Schaerbeek           
+
+» 42. Round
+  Sun Feb/08 2026
+    14.30  Habay-La-Neuve               v Union Namur                   
+    15.00  SP du Pays de Charleroi B    v R. Standard de Liège B        
+    15.00  U. Rochefortoise             v R.A.E.C. Mons                 
+    15.00  Royal Stockay St-Georges S/M v RFC Meux                      
+
+» 43. Round
+  Sun Feb/15 2026
+    14.30  Union Namur                  v R.Union St.-Gilloise B        
+    15.00  Crossing Schaerbeek          v Habay-La-Neuve                
+    15.00  R. Standard de Liège B       v U. Rochefortoise              
+    15.00  RFC Meux                     v RU.Tubize Braine-le-Comte     
+    15.00  R.Excelsior Virton           v SP du Pays de Charleroi B     
+    15.00  Royal Stockay St-Georges S/M v R.A.E.C. Mons                 

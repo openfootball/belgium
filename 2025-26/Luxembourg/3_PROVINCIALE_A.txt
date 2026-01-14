@@ -1,0 +1,345 @@
+= 3_PROVINCIALE_A
+
+# Date       Fri Aug/22 2025 - Sun Apr/26 2026 (248d)
+# Teams      13
+# Matches    156
+
+
+» 1. Round
+  Fri Aug/22 2025
+    20.30  UN.St.André Ochamps B        v CS.Corbion                    1-0
+
+» 2. Round
+  Sat Aug/23 2025
+    20.00  RSC.Nassogne B               v R.Union Club Bras             0-2
+    20.00  R.Wallonia Libin B           v US.Carlsbourg-Merny           0-2
+    20.00  FC.Paliseulois               v ES.Wellinoise                 3-0
+
+» 3. Round
+  Sun Aug/24 2025
+    15.00  R.Haut-Fays Sport            v RFC.St-Hubert                 2-1
+    15.00  R.St.FC.Bouillon B           v ES.Saint-Pierre B             5-0
+
+» 4. Round
+  Fri Aug/29 2025
+    20.00  ES.Wellinoise                v UN.St.André Ochamps B         0-3
+
+» 5. Round
+  Sat Aug/30 2025
+    18.45  CS.Corbion                   v R.Wallonia Libin B            4-2
+    20.00  RFC.St-Hubert                v R.St.FC.Bouillon B            2-3
+
+» 6. Round
+  Sun Aug/31 2025
+    15.00  R.Union Club Bras            v FC.Paliseulois                2-5
+    15.00  RAC.Neuvillers B             v RSC.Nassogne B                5-0
+    15.00  US.Carlsbourg-Merny          v R.Haut-Fays Sport             0-1
+
+» 7. Round
+  Fri Sep/05 2025
+    20.30  ES.Saint-Pierre B            v RFC.St-Hubert                 2-6
+
+» 8. Round
+  Sat Sep/06 2025
+    20.00  R.Haut-Fays Sport            v CS.Corbion                    2-1
+    20.00  UN.St.André Ochamps B        v R.Union Club Bras             2-1
+    20.00  R.Wallonia Libin B           v ES.Wellinoise                 1-1
+    20.00  FC.Paliseulois               v RAC.Neuvillers B              4-0
+
+» 9. Round
+  Sun Sep/07 2025
+    15.00  R.St.FC.Bouillon B           v US.Carlsbourg-Merny           2-1
+
+» 10. Round
+  Sat Sep/13 2025
+    20.00  ES.Wellinoise                v R.Haut-Fays Sport             1-1
+    20.00  RSC.Nassogne B               v FC.Paliseulois                0-5
+
+» 11. Round
+  Sun Sep/14 2025
+    15.00  CS.Corbion                   v R.St.FC.Bouillon B            4-3
+    15.00  R.Union Club Bras            v R.Wallonia Libin B            1-2
+    15.00  RAC.Neuvillers B             v UN.St.André Ochamps B         1-5
+    15.00  US.Carlsbourg-Merny          v ES.Saint-Pierre B             5-0
+
+» 12. Round
+  Fri Sep/19 2025
+    20.30  UN.St.André Ochamps B        v RSC.Nassogne B                6-0
+
+» 13. Round
+  Sat Sep/20 2025
+    20.00  ES.Saint-Pierre B            v CS.Corbion                    0-6
+    20.00  R.Wallonia Libin B           v RAC.Neuvillers B              0-0
+    20.00  RFC.St-Hubert                v US.Carlsbourg-Merny           2-4
+
+» 14. Round
+  Sun Sep/21 2025
+    15.00  R.Haut-Fays Sport            v R.Union Club Bras             3-3
+    15.00  R.St.FC.Bouillon B           v ES.Wellinoise                 3-1
+
+» 15. Round
+  Fri Sep/26 2025
+    20.30  FC.Paliseulois               v UN.St.André Ochamps B         1-1
+
+» 16. Round
+  Sat Sep/27 2025
+    20.00  ES.Wellinoise                v ES.Saint-Pierre B             5-0
+    20.00  RSC.Nassogne B               v R.Wallonia Libin B            1-3
+
+» 17. Round
+  Sun Sep/28 2025
+    15.00  CS.Corbion                   v RFC.St-Hubert                 3-3
+    15.00  R.Union Club Bras            v R.St.FC.Bouillon B            2-1
+    15.00  RAC.Neuvillers B             v R.Haut-Fays Sport             1-3
+
+» 18. Round
+  Sat Oct/04 2025
+    19.00  ES.Saint-Pierre B            v R.Union Club Bras             2-3
+    20.00  RFC.St-Hubert                v ES.Wellinoise                 3-2
+    20.00  R.Wallonia Libin B           v FC.Paliseulois                2-3
+
+» 19. Round
+  Sun Oct/05 2025
+    15.00  R.Haut-Fays Sport            v RSC.Nassogne B                3-1
+    15.00  R.St.FC.Bouillon B           v RAC.Neuvillers B              3-1
+    15.00  US.Carlsbourg-Merny          v CS.Corbion                    1-1
+
+» 20. Round
+  Fri Oct/10 2025
+    20.00  UN.St.André Ochamps B        v R.Wallonia Libin B            3-1
+
+» 21. Round
+  Sat Oct/11 2025
+    20.00  RSC.Nassogne B               v R.St.FC.Bouillon B            0-5
+    20.00  FC.Paliseulois               v R.Haut-Fays Sport             3-1
+
+» 22. Round
+  Sun Oct/12 2025
+    15.00  RAC.Neuvillers B             v ES.Saint-Pierre B             
+    15.00  ES.Wellinoise                v US.Carlsbourg-Merny           0-2
+    15.00  R.Union Club Bras            v RFC.St-Hubert                 1-2
+
+» 23. Round
+  Sat Oct/18 2025
+    20.00  ES.Saint-Pierre B            v RSC.Nassogne B                2-2
+    20.00  RFC.St-Hubert                v RAC.Neuvillers B              2-2
+
+» 24. Round
+  Sun Oct/19 2025
+    15.00  US.Carlsbourg-Merny          v R.Union Club Bras             3-3
+    15.00  R.Haut-Fays Sport            v UN.St.André Ochamps B         2-3
+    15.00  CS.Corbion                   v ES.Wellinoise                 1-1
+    15.00  R.St.FC.Bouillon B           v FC.Paliseulois                2-0
+
+» 25. Round
+  Sat Oct/25 2025
+    20.00  R.Wallonia Libin B           v R.Haut-Fays Sport             3-3
+    20.00  FC.Paliseulois               v ES.Saint-Pierre B             10-0
+    20.00  RSC.Nassogne B               v RFC.St-Hubert                 0-3
+    20.00  UN.St.André Ochamps B        v R.St.FC.Bouillon B            2-0
+
+» 26. Round
+  Sun Oct/26 2025
+    15.00  RAC.Neuvillers B             v US.Carlsbourg-Merny           1-1
+    15.00  R.Union Club Bras            v CS.Corbion                    0-2
+
+» 27. Round
+  Fri Oct/31 2025
+    20.30  US.Carlsbourg-Merny          v RSC.Nassogne B                3-0
+
+» 28. Round
+  Sat Nov/01 2025
+    20.00  ES.Saint-Pierre B            v UN.St.André Ochamps B         1-9
+    20.00  ES.Wellinoise                v R.Union Club Bras             2-3
+    20.00  RFC.St-Hubert                v FC.Paliseulois                0-2
+
+» 29. Round
+  Sun Nov/02 2025
+    14.30  R.St.FC.Bouillon B           v R.Wallonia Libin B            2-4
+    14.30  CS.Corbion                   v RAC.Neuvillers B              3-0
+
+» 30. Round
+  Fri Nov/07 2025
+    20.30  R.Wallonia Libin B           v ES.Saint-Pierre B             2-0
+
+» 31. Round
+  Sat Nov/08 2025
+    20.00  FC.Paliseulois               v US.Carlsbourg-Merny           1-2
+    20.00  UN.St.André Ochamps B        v RFC.St-Hubert                 4-0
+    20.30  RSC.Nassogne B               v CS.Corbion                    0-6
+
+» 32. Round
+  Sun Nov/09 2025
+    14.30  RAC.Neuvillers B             v ES.Wellinoise                 0-1
+    15.00  R.Haut-Fays Sport            v R.St.FC.Bouillon B            2-0
+
+» 33. Round
+  Sat Nov/15 2025
+    20.00  RFC.St-Hubert                v R.Wallonia Libin B            
+    20.00  ES.Saint-Pierre B            v R.Haut-Fays Sport             0-5
+    20.00  ES.Wellinoise                v RSC.Nassogne B                8-0
+
+» 34. Round
+  Sun Nov/16 2025
+    14.30  CS.Corbion                   v FC.Paliseulois                1-2
+    14.30  US.Carlsbourg-Merny          v UN.St.André Ochamps B         2-1
+    14.30  R.Union Club Bras            v RAC.Neuvillers B              4-1
+
+» 35. Round
+  Sat Nov/22 2025
+    20.00  FC.Paliseulois               v R.Union Club Bras             
+    20.00  R.Wallonia Libin B           v CS.Corbion                    2-2
+    20.00  UN.St.André Ochamps B        v ES.Wellinoise                 
+
+» 36. Round
+  Sun Nov/23 2025
+    14.30  RSC.Nassogne B               v RAC.Neuvillers B              1-6
+    14.30  R.St.FC.Bouillon B           v RFC.St-Hubert                 5-0
+    14.30  R.Haut-Fays Sport            v US.Carlsbourg-Merny           
+
+» 37. Round
+  Fri Nov/28 2025
+    20.30  ES.Wellinoise                v FC.Paliseulois                1-3
+
+» 38. Round
+  Sat Nov/29 2025
+    20.00  ES.Saint-Pierre B            v R.St.FC.Bouillon B            1-2
+    20.00  RFC.St-Hubert                v R.Haut-Fays Sport             2-3
+
+» 39. Round
+  Sun Nov/30 2025
+    14.30  R.Union Club Bras            v RSC.Nassogne B                3-2
+    14.30  US.Carlsbourg-Merny          v R.Wallonia Libin B            1-2
+    14.30  CS.Corbion                   v UN.St.André Ochamps B         1-5
+
+» 40. Round
+  Sat Dec/06 2025
+    20.00  RFC.St-Hubert                v ES.Saint-Pierre B             5-0
+    20.00  ES.Wellinoise                v R.Wallonia Libin B            2-1
+
+» 41. Round
+  Sun Dec/07 2025
+    14.30  R.Union Club Bras            v UN.St.André Ochamps B         3-4
+    14.30  RAC.Neuvillers B             v FC.Paliseulois                
+    14.30  CS.Corbion                   v R.Haut-Fays Sport             
+    14.30  US.Carlsbourg-Merny          v R.St.FC.Bouillon B            
+
+» 42. Round
+  Fri Dec/12 2025
+    20.00  ES.Saint-Pierre B            v US.Carlsbourg-Merny           1-4
+    20.30  R.Wallonia Libin B           v R.Union Club Bras             2-3
+
+» 43. Round
+  Sat Dec/13 2025
+    20.00  FC.Paliseulois               v RSC.Nassogne B                6-0
+    20.00  UN.St.André Ochamps B        v RAC.Neuvillers B              6-0
+
+» 44. Round
+  Sun Dec/14 2025
+    14.30  R.St.FC.Bouillon B           v CS.Corbion                    3-0
+    14.30  R.Haut-Fays Sport            v ES.Wellinoise                 3-1
+
+» 45. Round
+  Sat Dec/20 2025
+    20.00  ES.Wellinoise                v R.St.FC.Bouillon B            6-1
+    20.00  RSC.Nassogne B               v UN.St.André Ochamps B         2-4
+
+» 46. Round
+  Sun Dec/21 2025
+    14.30  R.Union Club Bras            v R.Haut-Fays Sport             1-0
+    14.30  CS.Corbion                   v ES.Saint-Pierre B             7-1
+    14.30  US.Carlsbourg-Merny          v RFC.St-Hubert                 1-3
+    14.30  RAC.Neuvillers B             v R.Wallonia Libin B            1-2
+
+» 47. Round
+  Sat Feb/21 2026
+    20.00  UN.St.André Ochamps B        v FC.Paliseulois                
+    20.00  R.Wallonia Libin B           v RSC.Nassogne B                
+    20.00  RFC.St-Hubert                v CS.Corbion                    
+    20.00  ES.Saint-Pierre B            v ES.Wellinoise                 
+
+» 48. Round
+  Sun Feb/22 2026
+    15.00  R.St.FC.Bouillon B           v R.Union Club Bras             
+    15.00  R.Haut-Fays Sport            v RAC.Neuvillers B              
+
+» 49. Round
+  Sat Feb/28 2026
+    20.00  RSC.Nassogne B               v R.Haut-Fays Sport             
+    20.00  FC.Paliseulois               v R.Wallonia Libin B            
+    20.00  ES.Wellinoise                v RFC.St-Hubert                 
+
+» 50. Round
+  Sun Mar/01 2026
+    15.00  CS.Corbion                   v US.Carlsbourg-Merny           
+    15.00  R.Union Club Bras            v ES.Saint-Pierre B             
+    15.00  RAC.Neuvillers B             v R.St.FC.Bouillon B            
+
+» 51. Round
+  Sat Mar/07 2026
+    20.00  R.Wallonia Libin B           v UN.St.André Ochamps B         
+    20.00  US.Carlsbourg-Merny          v ES.Wellinoise                 
+    20.00  ES.Saint-Pierre B            v RAC.Neuvillers B              
+    20.00  RFC.St-Hubert                v R.Union Club Bras             
+
+» 52. Round
+  Sun Mar/08 2026
+    15.00  R.Haut-Fays Sport            v FC.Paliseulois                
+    15.00  R.St.FC.Bouillon B           v RSC.Nassogne B                
+
+» 53. Round
+  Sat Mar/21 2026
+    20.00  RSC.Nassogne B               v ES.Saint-Pierre B             
+    20.00  FC.Paliseulois               v R.St.FC.Bouillon B            
+    20.00  UN.St.André Ochamps B        v R.Haut-Fays Sport             
+    20.00  ES.Wellinoise                v CS.Corbion                    
+
+» 54. Round
+  Sun Mar/22 2026
+    15.00  RAC.Neuvillers B             v RFC.St-Hubert                 
+    15.00  R.Union Club Bras            v US.Carlsbourg-Merny           
+
+» 55. Round
+  Sat Mar/28 2026
+    20.00  RFC.St-Hubert                v RSC.Nassogne B                
+    20.00  ES.Saint-Pierre B            v FC.Paliseulois                
+
+» 56. Round
+  Sun Mar/29 2026
+    15.00  R.St.FC.Bouillon B           v UN.St.André Ochamps B         
+    15.00  R.Haut-Fays Sport            v R.Wallonia Libin B            
+    15.00  CS.Corbion                   v R.Union Club Bras             
+    15.00  US.Carlsbourg-Merny          v RAC.Neuvillers B              
+
+» 57. Round
+  Sat Apr/11 2026
+    20.00  UN.St.André Ochamps B        v ES.Saint-Pierre B             
+    20.00  FC.Paliseulois               v RFC.St-Hubert                 
+    20.00  R.Wallonia Libin B           v R.St.FC.Bouillon B            
+    20.00  RSC.Nassogne B               v US.Carlsbourg-Merny           
+
+» 58. Round
+  Sun Apr/12 2026
+    15.00  R.Union Club Bras            v ES.Wellinoise                 
+    15.00  RAC.Neuvillers B             v CS.Corbion                    
+
+» 59. Round
+  Sat Apr/18 2026
+    20.00  ES.Wellinoise                v RAC.Neuvillers B              
+
+» 60. Round
+  Sun Apr/19 2026
+    15.00  US.Carlsbourg-Merny          v FC.Paliseulois                
+    15.00  R.St.FC.Bouillon B           v R.Haut-Fays Sport             
+    15.00  ES.Saint-Pierre B            v R.Wallonia Libin B            
+    15.00  RFC.St-Hubert                v UN.St.André Ochamps B         
+    15.00  CS.Corbion                   v RSC.Nassogne B                
+
+» 61. Round
+  Sun Apr/26 2026
+    15.00  FC.Paliseulois               v CS.Corbion                    
+    15.00  UN.St.André Ochamps B        v US.Carlsbourg-Merny           
+    15.00  RAC.Neuvillers B             v R.Union Club Bras             
+    15.00  RSC.Nassogne B               v ES.Wellinoise                 
+    15.00  R.Wallonia Libin B           v RFC.St-Hubert                 
+    15.00  R.Haut-Fays Sport            v ES.Saint-Pierre B             
