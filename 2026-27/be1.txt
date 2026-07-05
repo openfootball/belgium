@@ -1,0 +1,448 @@
+= Jupiler Pro League 2026/27 (Belgium First Division A)
+
+# Bron:    Pro League officieel (proleague.be) + VoetbalPrimeur.be, gepubliceerd 18 juni 2026
+# Teams    18 (nieuw format: 1 reguliere competitie, 34 speeldagen, GEEN play-offs)
+# Nieuw    KV Kortrijk, Lommel SK, SK Beveren (promovendi)
+# Let op   Speeldag 1 t/m 7: data en aftrapuren OFFICIEEL BEVESTIGD.
+#          Speeldag 8 t/m 34: affiches liggen vast, exacte datum/uur volgen nog
+#          (updates gepland: 1 sep 2026, 8 dec 2026, 9 feb 2027). Vul die later aan.
+# Laatste speeldag: weekend van 21 mei 2027
+
+
+▪ 1. Round
+  Fri Aug 7 2026
+    20:45  Club Brugge             v KV Kortrijk
+  Sat Aug 8
+    16:00  Sporting Charleroi      v OH Leuven
+    18:15  Standard de Liège       v Cercle Brugge
+    20:45  KVC Westerlo            v Royale Union Saint-Gilloise
+    20:45  STVV                    v Lommel SK
+  Sun Aug 9
+    13:30  KAA Gent                v KV Mechelen
+    16:00  SV Zulte Waregem        v KRC Genk
+    18:30  RSC Anderlecht          v RAAL La Louvière
+    19:15  Royal Antwerp FC        v SK Beveren
+
+
+▪ 2. Round
+  Fri Aug 14
+    20:45  Cercle Brugge           v STVV
+  Sat Aug 15
+    16:00  Royale Union Saint-Gilloise v SV Zulte Waregem
+    18:15  KV Kortrijk             v Royal Antwerp FC
+    20:45  OH Leuven               v Club Brugge
+    20:45  KRC Genk                v KVC Westerlo
+  Sun Aug 16
+    13:30  SK Beveren              v RSC Anderlecht
+    16:00  RAAL La Louvière        v KAA Gent
+    18:30  KV Mechelen             v Standard de Liège
+    19:15  Lommel SK               v Sporting Charleroi
+
+
+▪ 3. Round
+  Fri Aug 21
+    20:45  Standard de Liège       v RAAL La Louvière
+  Sat Aug 22
+    16:00  SV Zulte Waregem        v SK Beveren
+    18:15  Sporting Charleroi      v KV Mechelen
+    20:45  KAA Gent                v OH Leuven
+    20:45  Royal Antwerp FC        v KRC Genk
+  Sun Aug 23
+    13:30  RSC Anderlecht          v KV Kortrijk
+    16:00  Lommel SK               v KVC Westerlo
+    18:30  Club Brugge             v Cercle Brugge
+  TBC (uitgesteld wegens Europese play-offs, nieuwe datum volgt)
+    --:--  STVV                    v Royale Union Saint-Gilloise
+
+
+▪ 4. Round
+  Fri Aug 28
+    20:45  KRC Genk                v SK Beveren
+  Sat Aug 29
+    16:00  RAAL La Louvière        v KV Mechelen
+    18:15  KV Kortrijk             v Sporting Charleroi
+    20:45  Cercle Brugge           v Lommel SK
+    20:45  OH Leuven               v Standard de Liège
+  Sun Aug 30
+    13:30  KAA Gent                v Club Brugge
+    16:00  Royal Antwerp FC        v STVV
+    18:30  Royale Union Saint-Gilloise v RSC Anderlecht
+    19:15  KVC Westerlo            v SV Zulte Waregem
+
+
+▪ 5. Round
+  Fri Sep 4
+    20:45  Lommel SK               v Club Brugge
+  Sat Sep 5
+    16:00  Sporting Charleroi      v Royale Union Saint-Gilloise
+    18:15  KV Mechelen             v KVC Westerlo
+    20:45  Standard de Liège       v Royal Antwerp FC
+    20:45  STVV                    v RAAL La Louvière
+  Sun Sep 6
+    13:30  Cercle Brugge           v KAA Gent
+    16:00  KV Kortrijk             v SV Zulte Waregem
+    18:30  RSC Anderlecht          v KRC Genk
+    19:15  SK Beveren              v OH Leuven
+
+
+▪ 6. Round
+  Fri Sep 11
+    20:45  KV Mechelen             v RSC Anderlecht
+  Sat Sep 12
+    16:00  SK Beveren              v STVV
+    18:15  KVC Westerlo            v Standard de Liège
+    20:45  Royale Union Saint-Gilloise v Lommel SK (*)
+    20:45  OH Leuven               v Cercle Brugge
+  Sun Sep 13
+    13:30  Club Brugge             v Royal Antwerp FC
+    16:00  KRC Genk                v KAA Gent
+    18:30  SV Zulte Waregem        v Sporting Charleroi
+    19:15  RAAL La Louvière        v KV Kortrijk
+
+  (*) kan nog verschuiven afhankelijk van Europees programma Union SG
+
+
+▪ 7. Round
+  Fri Sep 18
+    20:45  KAA Gent                v Standard de Liège
+  Sat Sep 19
+    16:00  OH Leuven               v RAAL La Louvière
+    18:15  Sporting Charleroi      v Cercle Brugge
+    20:45  Lommel SK               v KV Mechelen
+    20:45  RSC Anderlecht          v SV Zulte Waregem
+  Sun Sep 20
+    13:30  Royal Antwerp FC        v Royale Union Saint-Gilloise
+    16:00  STVV                    v KVC Westerlo
+    18:30  Club Brugge             v KRC Genk
+    19:15  KV Kortrijk             v SK Beveren
+
+
+# ==========================================================================
+# Speeldag 8 t/m 34: affiches LIGGEN AL VAST, maar exacte datum/uur volgen
+# pas na de officiële updates (1 sep 2026 / 8 dec 2026 / 9 feb 2027).
+# Vul de datum pas in zodra die officieel bevestigd is — anders klopt de
+# aftraptijd niet en kan de auto-lock/pronostiek verkeerd gaan.
+# ==========================================================================
+
+▪ 8. Round (datum TBC)
+  SV Zulte Waregem        v KAA Gent
+  KVC Westerlo            v Royal Antwerp FC
+  Royale Union Saint-Gilloise v OH Leuven
+  Standard de Liège       v Sporting Charleroi
+  KRC Genk                v KV Kortrijk
+  RAAL La Louvière        v Club Brugge
+  Cercle Brugge           v RSC Anderlecht
+  SK Beveren              v Lommel SK
+  KV Mechelen             v STVV
+
+
+▪ 9. Round (datum TBC)
+  Royale Union Saint-Gilloise v Cercle Brugge
+  KAA Gent                v RSC Anderlecht
+  KV Kortrijk             v KV Mechelen
+  KVC Westerlo            v SK Beveren
+  OH Leuven               v Lommel SK
+  KRC Genk                v Standard de Liège
+  Club Brugge             v STVV
+  RAAL La Louvière        v SV Zulte Waregem
+  Royal Antwerp FC        v Sporting Charleroi
+
+
+▪ 10. Round (datum TBC)
+  Cercle Brugge           v Royal Antwerp FC
+  STVV                    v OH Leuven
+  Sporting Charleroi      v RAAL La Louvière
+  SK Beveren              v Royale Union Saint-Gilloise
+  Standard de Liège       v KV Kortrijk
+  KV Mechelen             v KRC Genk
+  SV Zulte Waregem        v Club Brugge
+  RSC Anderlecht          v KVC Westerlo
+  Lommel SK               v KAA Gent
+
+
+▪ 11. Round (datum TBC)
+  OH Leuven               v KV Mechelen
+  Standard de Liège       v SK Beveren
+  Club Brugge             v RSC Anderlecht
+  STVV                    v SV Zulte Waregem
+  Royal Antwerp FC        v Lommel SK
+  RAAL La Louvière        v Cercle Brugge
+  KVC Westerlo            v Sporting Charleroi
+  KAA Gent                v KV Kortrijk
+  Royale Union Saint-Gilloise v KRC Genk
+
+
+▪ 12. Round (datum TBC)
+  KV Kortrijk             v Royale Union Saint-Gilloise
+  RSC Anderlecht          v OH Leuven
+  KRC Genk                v RAAL La Louvière
+  KV Mechelen             v Club Brugge
+  SV Zulte Waregem        v Royal Antwerp FC
+  Sporting Charleroi      v STVV
+  Cercle Brugge           v KVC Westerlo
+  Lommel SK               v Standard de Liège
+  SK Beveren              v KAA Gent
+
+
+▪ 13. Round (datum TBC)
+  Cercle Brugge           v KV Mechelen
+  KVC Westerlo            v RAAL La Louvière
+  Sporting Charleroi      v SK Beveren
+  Royale Union Saint-Gilloise v KAA Gent
+  STVV                    v KRC Genk
+  Royal Antwerp FC        v RSC Anderlecht
+  OH Leuven               v KV Kortrijk
+  Lommel SK               v SV Zulte Waregem
+  Standard de Liège       v Club Brugge
+
+
+▪ 14. Round (datum TBC)
+  KV Mechelen             v Royale Union Saint-Gilloise
+  SV Zulte Waregem        v Standard de Liège
+  RAAL La Louvière        v Royal Antwerp FC
+  KAA Gent                v STVV
+  Club Brugge             v KVC Westerlo
+  KV Kortrijk             v Lommel SK
+  KRC Genk                v OH Leuven
+  SK Beveren              v Cercle Brugge
+  RSC Anderlecht          v Sporting Charleroi
+
+
+▪ 15. Round (datum TBC)
+  Standard de Liège       v RSC Anderlecht
+  Lommel SK               v RAAL La Louvière
+  Cercle Brugge           v SV Zulte Waregem
+  Royal Antwerp FC        v OH Leuven
+  KVC Westerlo            v KAA Gent
+  Royale Union Saint-Gilloise v Club Brugge
+  STVV                    v KV Kortrijk
+  Sporting Charleroi      v KRC Genk
+  SK Beveren              v KV Mechelen
+
+
+▪ 16. Round (datum TBC)
+  RAAL La Louvière        v SK Beveren
+  OH Leuven               v KVC Westerlo
+  KV Kortrijk             v Cercle Brugge
+  KAA Gent                v Royal Antwerp FC
+  KRC Genk                v Lommel SK
+  Standard de Liège       v Royale Union Saint-Gilloise
+  Club Brugge             v Sporting Charleroi
+  RSC Anderlecht          v STVV
+  KV Mechelen             v SV Zulte Waregem
+
+
+▪ 17. Round (datum TBC)
+  STVV                    v Standard de Liège
+  Cercle Brugge           v KRC Genk
+  Sporting Charleroi      v KAA Gent
+  Royale Union Saint-Gilloise v RAAL La Louvière
+  SK Beveren              v Club Brugge
+  Lommel SK               v RSC Anderlecht
+  Royal Antwerp FC        v KV Mechelen
+  KVC Westerlo            v KV Kortrijk
+  SV Zulte Waregem        v OH Leuven
+
+
+▪ 18. Round (datum TBC)
+  Royale Union Saint-Gilloise v SK Beveren
+  Club Brugge             v RAAL La Louvière
+  KRC Genk                v SV Zulte Waregem
+  KV Mechelen             v Lommel SK
+  KAA Gent                v Cercle Brugge
+  KV Kortrijk             v RSC Anderlecht
+  Sporting Charleroi      v Royal Antwerp FC
+  OH Leuven               v STVV
+  Standard de Liège       v KVC Westerlo
+
+
+▪ 19. Round (datum TBC)
+  Cercle Brugge           v Standard de Liège
+  SV Zulte Waregem        v Royale Union Saint-Gilloise
+  STVV                    v KV Mechelen
+  RAAL La Louvière        v Sporting Charleroi
+  RSC Anderlecht          v KAA Gent
+  Lommel SK               v OH Leuven
+  SK Beveren              v KV Kortrijk
+  KVC Westerlo            v KRC Genk
+  Royal Antwerp FC        v Club Brugge
+
+
+▪ 20. Round (datum TBC)
+  KRC Genk                v Royal Antwerp FC
+  KV Kortrijk             v RAAL La Louvière
+  Royale Union Saint-Gilloise v STVV
+  KAA Gent                v SK Beveren
+  OH Leuven               v RSC Anderlecht
+  Sporting Charleroi      v KVC Westerlo
+  Club Brugge             v Standard de Liège
+  SV Zulte Waregem        v Lommel SK
+  KV Mechelen             v Cercle Brugge
+
+
+▪ 21. Round (datum TBC)
+  Standard de Liège       v SV Zulte Waregem
+  KVC Westerlo            v Club Brugge
+  STVV                    v KAA Gent
+  Lommel SK               v Royale Union Saint-Gilloise
+  RSC Anderlecht          v KV Mechelen
+  RAAL La Louvière        v OH Leuven
+  SK Beveren              v KRC Genk
+  Royal Antwerp FC        v KV Kortrijk
+  Cercle Brugge           v Sporting Charleroi
+
+
+▪ 22. Round (datum TBC)
+  KV Mechelen             v SK Beveren
+  Sporting Charleroi      v Standard de Liège
+  KV Kortrijk             v KRC Genk
+  KAA Gent                v RAAL La Louvière
+  Royale Union Saint-Gilloise v KVC Westerlo
+  STVV                    v Cercle Brugge
+  OH Leuven               v Royal Antwerp FC
+  Club Brugge             v Lommel SK
+  SV Zulte Waregem        v RSC Anderlecht
+
+
+▪ 23. Round (datum TBC)
+  Cercle Brugge           v OH Leuven
+  Lommel SK               v KV Kortrijk
+  RSC Anderlecht          v Club Brugge
+  RAAL La Louvière        v STVV
+  KVC Westerlo            v KV Mechelen
+  SK Beveren              v Sporting Charleroi
+  KRC Genk                v Royale Union Saint-Gilloise
+  Standard de Liège       v KAA Gent
+  Royal Antwerp FC        v SV Zulte Waregem
+
+
+▪ 24. Round (datum TBC)
+  RAAL La Louvière        v Lommel SK
+  KAA Gent                v Sporting Charleroi
+  SV Zulte Waregem        v Cercle Brugge
+  STVV                    v Royal Antwerp FC
+  KVC Westerlo            v RSC Anderlecht
+  KV Mechelen             v KV Kortrijk
+  Club Brugge             v SK Beveren
+  Royale Union Saint-Gilloise v Standard de Liège
+  OH Leuven               v KRC Genk
+
+
+▪ 25. Round (datum TBC)
+  KRC Genk                v STVV
+  Sporting Charleroi      v Club Brugge
+  KV Kortrijk             v OH Leuven
+  Standard de Liège       v KV Mechelen
+  Royal Antwerp FC        v RAAL La Louvière
+  Cercle Brugge           v Royale Union Saint-Gilloise
+  KAA Gent                v SV Zulte Waregem
+  RSC Anderlecht          v Lommel SK
+  SK Beveren              v KVC Westerlo
+
+
+▪ 26. Round (datum TBC)
+  Lommel SK               v Royal Antwerp FC
+  STVV                    v SK Beveren
+  OH Leuven               v Royale Union Saint-Gilloise
+  SV Zulte Waregem        v KV Kortrijk
+  KVC Westerlo            v Cercle Brugge
+  Club Brugge             v KAA Gent
+  RSC Anderlecht          v Standard de Liège
+  RAAL La Louvière        v KRC Genk
+  KV Mechelen             v Sporting Charleroi
+
+
+▪ 27. Round (datum TBC)
+  Sporting Charleroi      v Lommel SK
+  Standard de Liège       v STVV
+  KRC Genk                v RSC Anderlecht
+  KAA Gent                v KVC Westerlo
+  Cercle Brugge           v RAAL La Louvière
+  OH Leuven               v SV Zulte Waregem
+  KV Kortrijk             v Club Brugge
+  Royale Union Saint-Gilloise v KV Mechelen
+  SK Beveren              v Royal Antwerp FC
+
+
+▪ 28. Round (datum TBC)
+  KV Kortrijk             v Standard de Liège
+  RAAL La Louvière        v Royale Union Saint-Gilloise
+  Lommel SK               v KRC Genk
+  STVV                    v Sporting Charleroi
+  Club Brugge             v OH Leuven
+  KV Mechelen             v KAA Gent
+  SV Zulte Waregem        v KVC Westerlo
+  RSC Anderlecht          v SK Beveren
+  Royal Antwerp FC        v Cercle Brugge
+
+
+▪ 29. Round (datum TBC)
+  KV Mechelen             v RAAL La Louvière
+  Royale Union Saint-Gilloise v Royal Antwerp FC
+  KRC Genk                v Club Brugge
+  Cercle Brugge           v KV Kortrijk
+  Standard de Liège       v OH Leuven
+  KVC Westerlo            v STVV
+  KAA Gent                v Lommel SK
+  Sporting Charleroi      v RSC Anderlecht
+  SK Beveren              v SV Zulte Waregem
+
+
+▪ 30. Round (datum TBC)
+  Royal Antwerp FC        v KAA Gent
+  RSC Anderlecht          v Cercle Brugge
+  OH Leuven               v SK Beveren
+  Club Brugge             v Royale Union Saint-Gilloise
+  SV Zulte Waregem        v KV Mechelen
+  KRC Genk                v Sporting Charleroi
+  RAAL La Louvière        v Standard de Liège
+  KV Kortrijk             v KVC Westerlo
+  Lommel SK               v STVV
+
+
+▪ 31. Round (datum TBC)
+  Standard de Liège       v Lommel SK
+  KVC Westerlo            v OH Leuven
+  KV Mechelen             v Royal Antwerp FC
+  KAA Gent                v KRC Genk
+  Sporting Charleroi      v SV Zulte Waregem
+  STVV                    v RSC Anderlecht
+  SK Beveren              v RAAL La Louvière
+  Royale Union Saint-Gilloise v KV Kortrijk
+  Cercle Brugge           v Club Brugge
+
+
+▪ 32. Round (datum TBC)
+  RAAL La Louvière        v KVC Westerlo
+  SV Zulte Waregem        v STVV
+  Lommel SK               v SK Beveren
+  OH Leuven               v Sporting Charleroi
+  Royal Antwerp FC        v Standard de Liège
+  RSC Anderlecht          v Royale Union Saint-Gilloise
+  KV Kortrijk             v KAA Gent
+  Club Brugge             v KV Mechelen
+  KRC Genk                v Cercle Brugge
+
+
+▪ 33. Round (datum TBC)
+  STVV                    v Club Brugge
+  Sporting Charleroi      v KV Kortrijk
+  KV Mechelen             v OH Leuven
+  Cercle Brugge           v SK Beveren
+  Standard de Liège       v KRC Genk
+  KAA Gent                v Royale Union Saint-Gilloise
+  KVC Westerlo            v Lommel SK
+  SV Zulte Waregem        v RAAL La Louvière
+  RSC Anderlecht          v Royal Antwerp FC
+
+
+▪ 34. Round (datum TBC)
+  Club Brugge             v SV Zulte Waregem
+  Royale Union Saint-Gilloise v Sporting Charleroi
+  Royal Antwerp FC        v KVC Westerlo
+  OH Leuven               v KAA Gent
+  Lommel SK               v Cercle Brugge
+  RAAL La Louvière        v RSC Anderlecht
+  KRC Genk                v KV Mechelen
+  SK Beveren              v Standard de Liège
+  KV Kortrijk             v STVV
